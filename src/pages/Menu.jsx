@@ -2,29 +2,33 @@ import { useState, useEffect } from 'react';
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form';
 import { useNavigate } from 'react-router'
-import axios from 'axios'
-import { baseCategoryUrl, difficulties, types } from '../requests';
+import { getProvider, providerList } from '../api/providers';
 
-export default function Menu({ setCategory }) {
+export default function Menu({ setCategory, provider, onProviderChange }) {
   const navigate = useNavigate();
   const [categories, setCategories] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [formData, setFormData] = useState({
-    category: '9',
+    category: 'all',
     difficulty: 'all',
     type: 'all',
   });
+
+  const currentProvider = getProvider(provider);
 
   useEffect(() => {
     const controller = new AbortController();
 
     const retrieveCategories = async () => {
       try {
-        const response = await axios.get(baseCategoryUrl, {
-          signal: controller.signal
-        });
-        setCategories(response.data.trivia_categories);
+        setLoading(true);
+        const cats = await currentProvider.getCategories();
+        setCategories(cats);
+        setFormData(prev => ({
+          ...prev,
+          category: cats[0]?.id || 'all'
+        }));
       } catch (err) {
         if (err.name !== 'CanceledError') {
           setError('Failed to retrieve Categories');
@@ -37,7 +41,7 @@ export default function Menu({ setCategory }) {
     retrieveCategories();
 
     return () => controller.abort();
-  }, []);
+  }, [provider, currentProvider]);
 
   const selectCategory = (event) => {
     setFormData((prev) => ({
@@ -72,7 +76,22 @@ export default function Menu({ setCategory }) {
 
   return (
     <div className="container d-flex flex-column align-items-start justify-content-center w-100 py-5 text-white">
-      <Form onSubmit={startQuiz}>
+      <Form onSubmit={startQuiz} className="w-100" style={{ maxWidth: '500px' }}>
+        <Form.Group className="mb-3" controlId="formProvider">
+          <Form.Label>Select Trivia API Provider</Form.Label>
+          <Form.Select
+            value={provider}
+            onChange={(e) => onProviderChange(e.target.value)}
+          >
+            {providerList.map((p) =>
+              <option key={p.id} value={p.id}>{p.icon} {p.name}</option>
+            )}
+          </Form.Select>
+          <Form.Text className="text-muted">
+            {currentProvider.description}
+          </Form.Text>
+        </Form.Group>
+
         <Form.Group className="mb-3" controlId="formCategory">
           <Form.Label>Select a Trivia category</Form.Label>
           <Form.Select
@@ -94,7 +113,7 @@ export default function Menu({ setCategory }) {
             onChange={selectDifficulty}
             value={formData.difficulty}
           >
-            {difficulties.map((data) =>
+            {currentProvider.difficulties.map((data) =>
               <option key={data.value} value={data.value}>{data.label}</option>
             )}
           </Form.Select>
@@ -107,7 +126,7 @@ export default function Menu({ setCategory }) {
             onChange={selectType}
             value={formData.type}
           >
-            {types.map((data) =>
+            {currentProvider.types.map((data) =>
               <option key={data.value} value={data.value}>{data.label}</option>
             )}
          </Form.Select>

@@ -58,13 +58,29 @@ This is a **static Cloudflare Workers application**:
    - Handles answer selection and scoring
 
 ### API Integration
-All external API calls go to OpenTDB:
-- **Token Request**: `https://opentdb.com/api_token.php?command=request`
-- **Categories**: `https://opentdb.com/api_category.php`
-- **Questions**: `https://opentdb.com/api.php?amount=10&category={id}&difficulty={level}&type={type}&token={token}`
-- **Category Counts**: `https://opentdb.com/api_count.php?category={id}`
+The app supports **three trivia API providers** with automatic adapter normalization:
 
-Helper functions in `src/requests.js` handle URL construction and response formatting.
+1. **Open Trivia Database (OpenTDB)**
+   - 4,000+ community-contributed questions
+   - Requires session token to prevent duplicates
+   - Supports category, difficulty, and type filtering
+
+2. **The Trivia API**
+   - High-quality questions with region filtering
+   - No token required
+   - 10 predefined categories
+
+3. **jService (Jeopardy!)**
+   - 221,510+ questions from the TV show
+   - No token required
+   - Unique Jeopardy! answer format (no multiple choice)
+
+API provider system in `src/api/providers.js` handles:
+- Provider configuration and metadata
+- Category fetching for each API
+- Question fetching with normalized parameters
+- Response normalization to common format
+- Provider-specific difficulties and types
 
 ### State Management
 Simple prop drilling pattern:
@@ -80,8 +96,10 @@ Simple prop drilling pattern:
 
 ## Key Files
 - `wrangler.jsonc` - Cloudflare Workers configuration (no custom worker code needed)
-- `src/App.jsx` - Root component with token management and routing
-- `src/requests.js` - OpenTDB API helpers and utilities
-- `src/pages/Menu.jsx` - Category/difficulty/type selection form
+- `src/App.jsx` - Root component with token management, provider selection, and routing
+- `src/api/providers.js` - Multi-provider system with adapters for OpenTDB, Trivia API, and jService
+- `src/requests.js` - Utility functions (HTML decoding, etc.)
+- `src/pages/Menu.jsx` - Provider selection and quiz configuration form
 - `src/pages/Quiz.jsx` - Question display and pagination
+- `src/components/Question.jsx` - Handles multiple question formats (multiple choice, true/false, Jeopardy)
 - `vite.config.js` - Vite configuration with Cloudflare plugin

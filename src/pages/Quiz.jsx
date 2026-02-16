@@ -2,12 +2,11 @@ import { useState, useEffect, useCallback, useMemo } from 'react'
 import { useParams, useNavigate } from "react-router";
 import Button from 'react-bootstrap/Button'
 import Question from '../components/Question';
-import { createTriviaApiUrl, difficulties, types } from '../requests';
-import axios from 'axios'
+import { getProvider } from '../api/providers';
 
 const NUMBER_OF_QUESTIONS = 10;
 
-export default function Quiz({ token, category }) {
+export default function Quiz({ token, category, provider }) {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -16,14 +15,20 @@ export default function Quiz({ token, category }) {
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams();
+  const currentProvider = getProvider(provider);
 
   const retrieveQuestions = useCallback(async (signal) => {
-    const url = createTriviaApiUrl(NUMBER_OF_QUESTIONS, categoryID, difficulty, type, token);
-
     try {
       setIsFetching(true);
-      const response = await axios.get(url, { signal });
-      setQuestions(response.data);
+      const data = await currentProvider.getQuestions({
+        amount: NUMBER_OF_QUESTIONS,
+        categoryId: categoryID,
+        difficulty,
+        type,
+        token,
+        signal
+      });
+      setQuestions(data);
       setError(null);
     } catch (err) {
       if (err.name !== 'CanceledError') {
@@ -33,7 +38,7 @@ export default function Quiz({ token, category }) {
       setLoading(false);
       setIsFetching(false);
     }
-  }, [categoryID, difficulty, type, token]);
+  }, [categoryID, difficulty, type, token, currentProvider]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -54,13 +59,13 @@ export default function Quiz({ token, category }) {
   }
 
   const difficultyLabel = useMemo(() =>
-    difficulties.find(diff => diff.value === difficulty)?.label || difficulty,
-    [difficulty]
+    currentProvider.difficulties.find(diff => diff.value === difficulty)?.label || difficulty,
+    [difficulty, currentProvider]
   );
 
   const typeLabel = useMemo(() =>
-    types.find(t => t.value === type)?.label || type,
-    [type]
+    currentProvider.types.find(t => t.value === type)?.label || type,
+    [type, currentProvider]
   );
 
   if (loading) return <div className="container text-center mt-5">Loading Questions ...</div>;
