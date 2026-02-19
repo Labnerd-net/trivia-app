@@ -28,7 +28,7 @@ This is a **static Cloudflare Workers application**:
 - Static frontend assets (HTML, CSS, JS) are served directly from Cloudflare's edge
 - No custom Worker code - Cloudflare automatically handles static asset serving
 - The `wrangler.jsonc` config enables SPA routing for client-side navigation
-- All API calls go directly from the browser to OpenTDB (no backend proxy)
+- All API calls go directly from the browser to the trivia provider APIs (no backend proxy)
 
 ### Frontend Stack
 - **Framework**: React 19 with React Router for client-side routing
@@ -58,7 +58,7 @@ This is a **static Cloudflare Workers application**:
    - Handles answer selection and scoring
 
 ### API Integration
-The app supports **three trivia API providers** with automatic adapter normalization:
+The app supports **two trivia API providers** with automatic adapter normalization:
 
 1. **Open Trivia Database (OpenTDB)**
    - 4,000+ community-contributed questions
@@ -68,12 +68,8 @@ The app supports **three trivia API providers** with automatic adapter normaliza
 2. **The Trivia API**
    - High-quality questions with region filtering
    - No token required
-   - 10 predefined categories
-
-3. **jService (Jeopardy!)**
-   - 221,510+ questions from the TV show
-   - No token required
-   - Unique Jeopardy! answer format (no multiple choice)
+   - 10 predefined static categories (no API fetch needed)
+   - Only supports multiple choice (no true/false type)
 
 API provider system in `src/api/providers.js` handles:
 - Provider configuration and metadata
@@ -98,7 +94,7 @@ Simple prop drilling pattern:
 - `wrangler.jsonc` - Cloudflare Workers configuration (no custom worker code needed)
 - `src/App.jsx` - Root component with token management, provider selection, and routing
 - `src/api/providers.js` - Multi-provider system with adapters for OpenTDB, Trivia API, and jService
-- `src/requests.js` - Utility functions (HTML decoding, etc.)
+- `src/utils/index.js` - Utility functions (`decodeHtml` for rendering HTML-encoded question text)
 - `src/pages/Menu.jsx` - Provider selection and quiz configuration form
 - `src/pages/Quiz.jsx` - Question display and pagination
 - `src/components/Question.jsx` - Handles multiple question formats (multiple choice, true/false, Jeopardy)
