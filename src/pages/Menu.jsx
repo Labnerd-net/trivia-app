@@ -64,12 +64,12 @@ export default function Menu({ setCategory, provider, onProviderChange }) {
   if (error) return <div className="tq-status error">{error}</div>;
 
   return (
-    <div className="container py-5">
+    <div className="container tq-page">
       <div className="tq-menu-eyebrow">Configure Your Quiz</div>
       <div className="tq-menu-title">Knowledge<br />Challenge</div>
 
       <form onSubmit={startQuiz} className="tq-form-panel">
-        <div className="mb-4">
+        <div style={{ marginBottom: '1.5rem' }}>
           <label className="tq-field-label">Data Source</label>
           <div className="tq-provider-tabs">
             {providerList.map((p) => (
@@ -133,7 +133,7 @@ export default function Menu({ setCategory, provider, onProviderChange }) {
           </div>
         </div>
 
-        <div className="mt-4">
+        <div style={{ marginTop: '1.5rem' }}>
           <button type="submit" className="tq-btn tq-btn-primary">
             Start Quiz
           </button>

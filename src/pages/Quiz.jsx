@@ -71,7 +71,7 @@ export default function Quiz({ token, category, provider }) {
   if (error) return <div className="tq-status error">{error}</div>;
 
   return (
-    <div className="container py-5">
+    <div className="container tq-page">
       <div className="tq-stats-bar">
         <div className="tq-stat-chip">
           <span className="tq-chip-label">Category</span>

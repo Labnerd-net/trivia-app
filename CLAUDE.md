@@ -4,98 +4,56 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Trivia quiz application built with React and deployed to Cloudflare Workers. The app fetches trivia questions from the OpenTDB (Open Trivia Database) API and presents them to users with customizable categories, difficulties, and question types.
+Trivia quiz application built with React, deployed as a Docker container (nginx) via Dokploy. Fetches questions from two external trivia APIs. No backend — all API calls go directly from the browser.
 
 ## Development Commands
 
-### Local Development
-- `npm run dev` - Start Vite dev server on port 3000
-- `wrangler dev` - Run Cloudflare Workers local development environment
+- `npm run dev` - Vite dev server on port 3000
+- `npm run build` - Production bundle to `dist/`
+- `npm run preview` - Build then serve production preview on port 3000
+- `npm run lint` - ESLint
 
-### Building and Deployment
-- `npm run build` - Build production bundle with Vite
-- `npm run preview` - Preview production build locally (port 3000)
-- `npm run deploy` - Build and deploy to Cloudflare Workers
-- `wrangler deploy` - Deploy to Cloudflare without building
+## Deployment
 
-### Code Quality
-- `npm run lint` - Run ESLint
+Production is containerized. The GitHub Actions workflow (`.github/workflows/docker-publish.yml`) builds and pushes to `ghcr.io` on push to `master`. The Dockerfile does a two-stage build: Node 20 builds the Vite bundle, nginx serves the static `dist/` with SPA routing via `nginx.conf`.
 
 ## Architecture
 
-### Deployment Model
-This is a **static Cloudflare Workers application**:
-- Static frontend assets (HTML, CSS, JS) are served directly from Cloudflare's edge
-- No custom Worker code - Cloudflare automatically handles static asset serving
-- The `wrangler.jsonc` config enables SPA routing for client-side navigation
-- All API calls go directly from the browser to the trivia provider APIs (no backend proxy)
-
-### Frontend Stack
-- **Framework**: React 19 with React Router for client-side routing
-- **Build Tool**: Vite with `@cloudflare/vite-plugin` for Workers integration
-- **UI Library**: React Bootstrap for components and styling
-- **HTTP Client**: Axios for API requests
-
 ### Application Flow
-1. **App Initialization** (`App.jsx`):
-   - On mount, requests a session token from OpenTDB API
-   - Token prevents duplicate questions during the session
-   - Manages global state for token and selected category
 
-2. **Menu Page** (`src/pages/Menu.jsx`):
-   - Fetches available trivia categories from OpenTDB
-   - User selects category, difficulty, and question type
-   - Navigates to `/quiz/:categoryID/:difficulty/:type/`
+1. **`App.jsx`** — On mount, fetches a session token from OpenTDB (token prevents duplicate questions). Manages `selectedProvider`, `token`, and `category` state. Provider change re-triggers token fetch.
+2. **`Menu.jsx`** — Fetches categories from the selected provider, renders the quiz config form (provider tabs, category, difficulty, type). On submit, navigates to `/quiz/:categoryID/:difficulty/:type/`.
+3. **`Quiz.jsx`** — Reads route params, calls `provider.getQuestions()`, renders `Question` components. "Next Questions" re-fetches without navigation (stateful pagination via `page` counter).
+4. **`Question.jsx`** — Renders a single question with shuffled answers. Handles answer selection and scoring.
 
-3. **Quiz Page** (`src/pages/Quiz.jsx`):
-   - Constructs OpenTDB API URL using route parameters and token
-   - Fetches 10 questions per page
-   - Renders questions using `Question` component
-   - Supports pagination (fetch next 10 questions)
+### API Provider System (`src/api/providers.js`)
 
-4. **Question Component** (`src/components/Question.jsx`):
-   - Displays individual question with shuffled answers
-   - Handles answer selection and scoring
+Two providers, each a plain object with the same interface:
 
-### API Integration
-The app supports **two trivia API providers** with automatic adapter normalization:
+| Field/Method | Purpose |
+|---|---|
+| `id`, `name`, `description` | Metadata used in UI |
+| `requiresToken` | Whether `App.jsx` should fetch a token |
+| `getToken()` | Returns token string or `null` |
+| `getCategories()` | Returns `[{ id, name }]` |
+| `getQuestions({ amount, categoryId, difficulty, type, token, signal })` | Returns `{ results: [...] }` normalized |
+| `difficulties`, `types` | `[{ value, label }]` arrays used to populate form selects |
 
-1. **Open Trivia Database (OpenTDB)**
-   - 4,000+ community-contributed questions
-   - Requires session token to prevent duplicates
-   - Supports category, difficulty, and type filtering
+All `getQuestions` responses are normalized to: `{ question, correctAnswer, incorrectAnswers[], category, difficulty, type }`.
 
-2. **The Trivia API**
-   - High-quality questions with region filtering
-   - No token required
-   - 10 predefined static categories (no API fetch needed)
-   - Only supports multiple choice (no true/false type)
+**OpenTDB**: dynamic categories fetched from API, supports `boolean` (true/false) type, requires session token.
+**The Trivia API**: 10 hardcoded categories, multiple choice only, no token.
 
-API provider system in `src/api/providers.js` handles:
-- Provider configuration and metadata
-- Category fetching for each API
-- Question fetching with normalized parameters
-- Response normalization to common format
-- Provider-specific difficulties and types
+To add a new provider, implement the interface above and register it in `providers` and `providerList`.
 
 ### State Management
-Simple prop drilling pattern:
-- `token` state lives in `App.jsx`, passed to `Quiz` component
-- `category` state managed via `setCategory` callback passed to `Menu` component
-- Local component state for forms, loading, and errors
 
-### Cloudflare Workers Configuration
-- **No custom Worker code**: Pure static asset serving
-- **Assets**: Static files served with SPA fallback (`not_found_handling: "single-page-application"`)
-- **Custom Domain**: Configured for `trivia-app.labnerd.net`
-- **Observability**: Enabled for monitoring
+Prop drilling only. `token` and `selectedProvider` live in `App.jsx`. `category` object is set in `Menu` via a `setCategory` callback and read in `Quiz`. No context or external state library.
 
-## Key Files
-- `wrangler.jsonc` - Cloudflare Workers configuration (no custom worker code needed)
-- `src/App.jsx` - Root component with token management, provider selection, and routing
-- `src/api/providers.js` - Multi-provider system with adapters for OpenTDB, Trivia API, and jService
-- `src/utils/index.js` - Utility functions (`decodeHtml` for rendering HTML-encoded question text)
-- `src/pages/Menu.jsx` - Provider selection and quiz configuration form
-- `src/pages/Quiz.jsx` - Question display and pagination
-- `src/components/Question.jsx` - Handles multiple question formats (multiple choice, true/false, Jeopardy)
-- `vite.config.js` - Vite configuration with Cloudflare plugin
+### Styling
+
+Custom CSS with a `tq-` prefix (e.g., `tq-btn`, `tq-select`, `tq-status`, `tq-stats-bar`). React Bootstrap is a dependency but the UI primarily uses the custom `tq-*` classes from the dark quiz-show theme redesign. Bootstrap utility classes are available if needed.
+
+### HTML Decoding
+
+OpenTDB returns HTML-encoded strings. `src/utils/index.js` exports `decodeHtml()` — use it when rendering question or answer text from OpenTDB.
