@@ -65,9 +65,6 @@ export default function Menu({ setCategory, provider, onProviderChange }) {
 
   return (
     <div className="container tq-page">
-      <div className="tq-menu-eyebrow">Configure Your Quiz</div>
-      <div className="tq-menu-title">Knowledge<br />Challenge</div>
-
       <form onSubmit={startQuiz} className="tq-form-panel">
         <div style={{ marginBottom: '1.5rem' }}>
           <label className="tq-field-label">Data Source</label>
