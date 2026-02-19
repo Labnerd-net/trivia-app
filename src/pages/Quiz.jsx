@@ -29,10 +29,12 @@ export default function Quiz({ token, category, provider }) {
       });
       setQuestions(data);
       setError(null);
+      return true;
     } catch (err) {
       if (err.name !== 'CanceledError') {
         setError('Failed to retrieve Questions');
       }
+      return false;
     } finally {
       setLoading(false);
       setIsFetching(false);
@@ -45,11 +47,13 @@ export default function Quiz({ token, category, provider }) {
     return () => controller.abort();
   }, [retrieveQuestions]);
 
-  const nextQuestions = () => {
+  const nextQuestions = async () => {
     if (!isFetching) {
-      retrieveQuestions();
-      window.scrollTo(0, 0);
-      setPage((prev) => prev + 1);
+      const success = await retrieveQuestions();
+      if (success) {
+        window.scrollTo(0, 0);
+        setPage((prev) => prev + 1);
+      }
     }
   }
 
@@ -75,7 +79,7 @@ export default function Quiz({ token, category, provider }) {
       <div className="tq-stats-bar">
         <div className="tq-stat-chip">
           <span className="tq-chip-label">Category</span>
-          <span className="tq-chip-value">{category.name}</span>
+          <span className="tq-chip-value">{category?.name ?? '—'}</span>
         </div>
         <div className="tq-stat-chip">
           <span className="tq-chip-label">Difficulty</span>

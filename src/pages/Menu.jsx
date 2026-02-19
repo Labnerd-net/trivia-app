@@ -21,11 +21,13 @@ export default function Menu({ setCategory, provider, onProviderChange }) {
     const retrieveCategories = async () => {
       try {
         setLoading(true);
-        const cats = await currentProvider.getCategories();
+        const cats = await currentProvider.getCategories({ signal: controller.signal });
         setCategories(cats);
         setFormData(prev => ({
           ...prev,
-          category: cats[0]?.id || 'all'
+          category: cats[0]?.id || 'all',
+          difficulty: currentProvider.difficulties[0].value,
+          type: currentProvider.types[0].value,
         }));
       } catch (err) {
         if (err.name !== 'CanceledError') {
