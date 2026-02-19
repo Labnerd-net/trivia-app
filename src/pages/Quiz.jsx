@@ -1,6 +1,5 @@
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import { useParams, useNavigate } from "react-router";
-import Button from 'react-bootstrap/Button'
 import Question from '../components/Question';
 import { getProvider } from '../api/providers';
 
@@ -68,44 +67,51 @@ export default function Quiz({ token, category, provider }) {
     [type, currentProvider]
   );
 
-  if (loading) return <div className="container text-center mt-5">Loading Questions ...</div>;
-  if (error) return <div className="container text-center mt-5 text-danger">{error}</div>;
+  if (loading) return <div className="tq-status">Loading questions...</div>;
+  if (error) return <div className="tq-status error">{error}</div>;
 
   return (
-    <div className="text-white">
-      <div className="container my-5">
-        <div className="d-flex flex-column justify-content-start align-items-start">
-          <div className="d-flex flex-row justify-content-between align-items-center w-100 my-2">
-            <div className="bg-info p-2 rounded-1">
-              Category: {category.name}
-            </div>
-            <div className="bg-info p-2 rounded-1">
-              Difficulty: {difficultyLabel}
-            </div>
-            <div className="bg-info p-2 rounded-1">
-              Question Type: {typeLabel}
-            </div>
-            <div className="bg-info p-2 rounded-1">
-              <span className="my-2">Page {page + 1}</span>
-            </div>
-          </div>
+    <div className="container py-5">
+      <div className="tq-stats-bar">
+        <div className="tq-stat-chip">
+          <span className="tq-chip-label">Category</span>
+          <span className="tq-chip-value">{category.name}</span>
         </div>
-        <div>
-          {questions.results && questions.results.map((data) => (
-            <Question key={`${data.category}-${data.question}-${data.difficulty}`} question={data} />
-          ))}
+        <div className="tq-stat-chip">
+          <span className="tq-chip-label">Difficulty</span>
+          <span className="tq-chip-value">{difficultyLabel}</span>
         </div>
-        <Button
-          variant="primary"
+        <div className="tq-stat-chip">
+          <span className="tq-chip-label">Type</span>
+          <span className="tq-chip-value">{typeLabel}</span>
+        </div>
+        <div className="tq-stat-chip">
+          <span className="tq-chip-label">Page</span>
+          <span className="tq-chip-value">{page + 1}</span>
+        </div>
+      </div>
+
+      <div>
+        {questions.results && questions.results.map((data, idx) => (
+          <Question
+            key={`${data.category}-${data.question}-${data.difficulty}`}
+            question={data}
+            number={idx + 1}
+          />
+        ))}
+      </div>
+
+      <div className="tq-page-actions">
+        <button
+          className="tq-btn tq-btn-primary"
           onClick={nextQuestions}
           disabled={isFetching}
-          className="me-2"
         >
           {isFetching ? 'Loading...' : 'Next Questions'}
-        </Button>
-        <Button variant="secondary" onClick={returnToMenu}>
+        </button>
+        <button className="tq-btn tq-btn-ghost" onClick={returnToMenu}>
           Menu
-        </Button>
+        </button>
       </div>
     </div>
   )

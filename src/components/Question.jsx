@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
-import Button from 'react-bootstrap/Button'
 import { decodeHtml } from '../utils';
+
+const LETTERS = ['A', 'B', 'C', 'D'];
 
 function shuffleAnswers(question) {
   let answers = []
@@ -23,7 +24,7 @@ function shuffleAnswers(question) {
   return answers;
 }
 
-export default function Question({ question }) {
+export default function Question({ question, number }) {
   const [showAnswers, setShowAnswers] = useState(false);
   const [shuffledAnswers, setShuffledAnswers] = useState([]);
 
@@ -33,30 +34,32 @@ export default function Question({ question }) {
     setShowAnswers(false);
   }, [question]);
 
-  const toggleShowAnswer = () => {
-    setShowAnswers(!showAnswers)
-  };
-
   return (
-    <div className="mb-4">
-      <div className="fs-4 fw-bold lead">
+    <div className="tq-question-wrap">
+      {number && (
+        <div className="tq-question-num">Question {number}</div>
+      )}
+      <div className="tq-question-text">
         {decodeHtml(question.question)}
       </div>
-      <Button variant="primary" onClick={toggleShowAnswer} className="my-2">
-        {showAnswers ? 'Hide Answer' : 'Show Answer'}
-      </Button>
-      <ul className="list-group my-3">
-        {shuffledAnswers.map((opt) => (
-          <li
+      <button
+        className={`tq-reveal-btn ${showAnswers ? 'active' : ''}`}
+        onClick={() => setShowAnswers(!showAnswers)}
+      >
+        {showAnswers ? 'Hide Answer' : 'Reveal Answer'}
+      </button>
+      <div className="tq-answers">
+        {shuffledAnswers.map((opt, idx) => (
+          <div
             key={opt}
-            className={`list-group-item list-group-item-action my-1 rounded-pill
-            ${opt === question.correctAnswer && showAnswers ? 'bg-success border border-success text-white' : 'bg-secondary'}`}
+            className={`tq-answer ${showAnswers ? (opt === question.correctAnswer ? 'correct' : 'revealed-wrong') : ''}`}
             aria-label={opt === question.correctAnswer ? 'Correct answer' : 'Answer option'}
           >
-            {decodeHtml(opt)}
-          </li>
+            <div className="tq-answer-letter">{LETTERS[idx] ?? idx + 1}</div>
+            <div className="tq-answer-text">{decodeHtml(opt)}</div>
+          </div>
         ))}
-      </ul>
+      </div>
     </div>
   )
 }

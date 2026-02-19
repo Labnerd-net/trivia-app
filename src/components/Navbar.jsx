@@ -1,10 +1,8 @@
 const Navbar = () => {
   return (
-    <nav className="navbar bg-none">
+    <nav className="tq-navbar">
       <div className="container">
-        <a className="navbar-brand text-light fw-bolder fs-3" href="/">
-          TRIVIA APP
-        </a>
+        <a className="tq-brand" href="/">TRIVIA</a>
       </div>
     </nav>
   )

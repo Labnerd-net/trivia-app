@@ -4,7 +4,6 @@ import Quiz from './pages/Quiz'
 import { Routes, Route } from "react-router";
 import { useState, useEffect } from 'react';
 import { getProvider } from './api/providers';
-import Button from 'react-bootstrap/Button';
 
 export default function App() {
   const [token, setToken] = useState(null);
@@ -72,18 +71,18 @@ export default function App() {
     retrieveToken();
   };
 
-  if (loading) return <div className="container text-center mt-5">Loading...</div>;
+  if (loading) return <div className="tq-status">Loading...</div>;
   if (error) return (
-    <div className="container text-center mt-5">
+    <div className="tq-status error">
       <div>{error}</div>
-      <Button variant="primary" onClick={retryTokenFetch} className="mt-3">
+      <button className="tq-btn tq-btn-ghost" onClick={retryTokenFetch}>
         Retry
-      </Button>
+      </button>
     </div>
   );
 
   return (
-    <div className="bg-dark text-white" style={{ minHeight: '100vh' }}>
+    <div style={{ minHeight: '100vh' }}>
       <Navbar />
       <Routes>
         <Route path="/" element={
