@@ -20,8 +20,8 @@ const openTDBProvider = {
     return response.data.token;
   },
 
-  async getCategories() {
-    const response = await axios.get('https://opentdb.com/api_category.php');
+  async getCategories({ signal } = {}) {
+    const response = await axios.get('https://opentdb.com/api_category.php', { signal });
     return response.data.trivia_categories.map(cat => ({
       id: cat.id.toString(),
       name: cat.name

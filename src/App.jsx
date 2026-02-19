@@ -9,8 +9,9 @@ export default function App() {
   const [token, setToken] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [category, setCategory] = useState([])
+  const [category, setCategory] = useState(null);
   const [selectedProvider, setSelectedProvider] = useState('opentdb');
+  const [retryCount, setRetryCount] = useState(0);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -37,7 +38,7 @@ export default function App() {
     retrieveToken();
 
     return () => controller.abort();
-  }, [selectedProvider]);
+  }, [selectedProvider, retryCount]);
 
   const selectedCategory = (category) => {
     setCategory(category);
@@ -52,23 +53,7 @@ export default function App() {
   const retryTokenFetch = () => {
     setLoading(true);
     setError(null);
-    const retrieveToken = async () => {
-      try {
-        const provider = getProvider(selectedProvider);
-
-        if (provider.requiresToken) {
-          const tokenData = await provider.getToken();
-          setToken(tokenData);
-        } else {
-          setToken(null);
-        }
-      } catch {
-        setError('Failed to retrieve Token');
-      } finally {
-        setLoading(false);
-      }
-    };
-    retrieveToken();
+    setRetryCount(c => c + 1);
   };
 
   if (loading) return <div className="tq-status">Loading...</div>;
