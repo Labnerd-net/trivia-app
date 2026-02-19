@@ -1,12 +1,35 @@
-# React + Vite
+# Trivia App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A trivia quiz application built with React. Supports multiple question sources, configurable difficulty and category, and paginated quiz sessions.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Two trivia API providers: [Open Trivia Database](https://opentdb.com) and [The Trivia API](https://the-trivia-api.com)
+- Filter by category, difficulty, and question type
+- Paginated sessions — fetch the next 10 questions without leaving the quiz
 
-## Expanding the ESLint configuration
+## Development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev       # dev server on port 3000
+npm run build     # production build to dist/
+npm run preview   # build + serve preview on port 3000
+npm run lint      # ESLint
+```
+
+## Docker
+
+```bash
+docker build -t trivia-app .
+docker run -p 8080:80 trivia-app
+```
+
+The image is deployed via [Dokploy](https://dokploy.com).
+
+## Stack
+
+- React 19, React Router 7
+- Vite 7
+- Axios
+- nginx (production serving)

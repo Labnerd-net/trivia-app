@@ -1,7 +1,0 @@
-services:
-  trivia-app:
-    image: ghcr.io/bjladner/trivia-app-cf:master
-    container_name: trivia-app
-    restart: unless-stopped
-    ports:
-      - 8080:80

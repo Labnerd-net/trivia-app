@@ -57,6 +57,20 @@ body {
   text-align: left;
 }
 
+/* ─── LAYOUT ─────────────────────────────────────────────────── */
+
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.tq-page {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
 /* ─── NAVBAR ─────────────────────────────────────────────────── */
 
 .tq-navbar {
