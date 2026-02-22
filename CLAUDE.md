@@ -57,3 +57,7 @@ Custom CSS with a `tq-` prefix (e.g., `tq-btn`, `tq-select`, `tq-status`, `tq-st
 ### HTML Decoding
 
 OpenTDB returns HTML-encoded strings. `src/utils/index.js` exports `decodeHtml()` — use it when rendering question or answer text from OpenTDB.
+
+## Checking Documentation
+
+- **important:** when implementing any lib/framework-specific features, ALWAYS check the appropriate lib/framework documentation useing the Context7 MCP server before writing any code.
