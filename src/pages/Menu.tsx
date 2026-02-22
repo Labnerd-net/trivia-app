@@ -21,6 +21,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
   const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [retryCount, setRetryCount] = useState(0);
   const [formData, setFormData] = useState<MenuFormData>({
     category: 'all',
     difficulty: 'all',
@@ -55,7 +56,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
     retrieveCategories();
 
     return () => controller.abort();
-  }, [provider, currentProvider]);
+  }, [provider, currentProvider, retryCount]);
 
   const selectCategory = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setFormData((prev) => ({ ...prev, category: event.target.value }))
@@ -77,7 +78,14 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
   }
 
   if (loading) return <div className="tq-status">Loading categories...</div>;
-  if (error) return <div className="tq-status error">{error}</div>;
+  if (error) return (
+    <div className="tq-status error">
+      <div>{error}</div>
+      <button className="tq-btn tq-btn-ghost" onClick={() => setRetryCount(c => c + 1)}>
+        Retry
+      </button>
+    </div>
+  );
 
   return (
     <div className="container tq-page">

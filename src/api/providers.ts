@@ -39,6 +39,13 @@ const openTDBProvider: Provider = {
 
     const response = await axios.get(url, { signal });
 
+    const code = response.data.response_code;
+    if (code === 1) throw new Error('No results found for the selected options. Try a different category or difficulty.');
+    if (code === 2) throw new Error('Invalid query parameters.');
+    if (code === 3) throw new Error('Session token not found. Please refresh the page.');
+    if (code === 4) throw new Error('Session token exhausted — you\'ve seen all questions for this combination. Try different settings or refresh.');
+    if (code === 5) throw new Error('Too many requests. Please wait a moment and try again.');
+
     return {
       results: response.data.results.map((q: {
         question: string;
