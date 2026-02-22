@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import { useParams, useNavigate } from "react-router";
+import axios from 'axios';
 import Question from '../components/Question';
 import { getProvider } from '../api/providers';
 import type { Category, QuestionsResult } from '../types';
@@ -18,6 +19,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
   const [error, setError] = useState<string | null>(null);
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
+  const [retryCount, setRetryCount] = useState(0);
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams<{ categoryID: string; difficulty: string; type: string }>();
@@ -38,7 +40,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
       setError(null);
       return true;
     } catch (err) {
-      if ((err as { name?: string }).name !== 'CanceledError') {
+      if (!axios.isCancel(err)) {
         setError('Failed to retrieve Questions');
       }
       return false;
@@ -46,7 +48,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
       setLoading(false);
       setIsFetching(false);
     }
-  }, [categoryID, difficulty, type, token, currentProvider]);
+  }, [categoryID, difficulty, type, token, currentProvider, retryCount]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -79,7 +81,14 @@ export default function Quiz({ token, category, provider }: QuizProps) {
   );
 
   if (loading) return <div className="tq-status">Loading questions...</div>;
-  if (error) return <div className="tq-status error">{error}</div>;
+  if (error) return (
+    <div className="tq-status error">
+      <div>{error}</div>
+      <button className="tq-btn tq-btn-ghost" onClick={() => setRetryCount(c => c + 1)}>
+        Retry
+      </button>
+    </div>
+  );
 
   return (
     <div className="container tq-page">
