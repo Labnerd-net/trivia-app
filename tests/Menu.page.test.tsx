@@ -75,10 +75,23 @@ describe('Menu page', () => {
     expect(screen.getByRole('combobox', { name: 'Question Type' })).toBeDefined()
   })
 
-  it('shows error message when fetch rejects', async () => {
+  it('shows error message and Retry button when fetch rejects', async () => {
     mockGetCategories.mockRejectedValue(new Error('network error'))
     renderMenu()
     await screen.findByText('Failed to retrieve Categories')
+    expect(screen.getByRole('button', { name: 'Retry' })).toBeDefined()
+  })
+
+  it('clicking Retry triggers a second call to getCategories', async () => {
+    mockGetCategories.mockRejectedValue(new Error('network error'))
+    renderMenu()
+    await screen.findByText('Failed to retrieve Categories')
+
+    fireEvent.click(screen.getByRole('button', { name: 'Retry' }))
+
+    await waitFor(() => {
+      expect(mockGetCategories).toHaveBeenCalledTimes(2)
+    })
   })
 
   it('navigates to the correct quiz URL on form submit', async () => {
