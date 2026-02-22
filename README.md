@@ -12,10 +12,12 @@ A trivia quiz application built with React. Supports multiple question sources, 
 
 ```bash
 npm install
-npm run dev       # dev server on port 3000
-npm run build     # production build to dist/
-npm run preview   # build + serve preview on port 3000
-npm run lint      # ESLint
+npm run dev        # dev server on port 3000
+npm run build      # production build to dist/
+npm run preview    # build + serve preview on port 3000
+npm run lint       # ESLint
+npm run typecheck  # TypeScript type check
+npm run test       # Vitest
 ```
 
 ## Docker
@@ -30,6 +32,7 @@ The image is deployed via [Dokploy](https://dokploy.com).
 ## Stack
 
 - React 19, React Router 7
-- Vite 7
+- TypeScript 5 (strict mode)
+- Vite 7, Vitest
 - Axios
 - nginx (production serving)
