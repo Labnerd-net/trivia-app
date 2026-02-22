@@ -1,13 +1,26 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router'
 import { getProvider, providerList } from '../api/providers';
+import type { Category } from '../types';
 
-export default function Menu({ setCategory, provider, onProviderChange }) {
+interface MenuProps {
+  setCategory: (cat: Category) => void;
+  provider: string;
+  onProviderChange: (id: string) => void;
+}
+
+interface FormData {
+  category: string;
+  difficulty: string;
+  type: string;
+}
+
+export default function Menu({ setCategory, provider, onProviderChange }: MenuProps) {
   const navigate = useNavigate();
-  const [categories, setCategories] = useState([]);
+  const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-  const [formData, setFormData] = useState({
+  const [error, setError] = useState<string | null>(null);
+  const [formData, setFormData] = useState<FormData>({
     category: 'all',
     difficulty: 'all',
     type: 'all',
@@ -30,7 +43,7 @@ export default function Menu({ setCategory, provider, onProviderChange }) {
           type: currentProvider.types[0].value,
         }));
       } catch (err) {
-        if (err.name !== 'CanceledError') {
+        if ((err as { name?: string }).name !== 'CanceledError') {
           setError('Failed to retrieve Categories');
         }
       } finally {
@@ -43,22 +56,22 @@ export default function Menu({ setCategory, provider, onProviderChange }) {
     return () => controller.abort();
   }, [provider, currentProvider]);
 
-  const selectCategory = (event) => {
+  const selectCategory = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setFormData((prev) => ({ ...prev, category: event.target.value }))
   }
 
-  const selectDifficulty = (event) => {
+  const selectDifficulty = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setFormData((prev) => ({ ...prev, difficulty: event.target.value }))
   }
 
-  const selectType = (event) => {
+  const selectType = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setFormData((prev) => ({ ...prev, type: event.target.value }))
   }
 
-  const startQuiz = (event) => {
+  const startQuiz = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault()
     const chosenCategory = categories.find((cat) => cat.id === formData.category);
-    setCategory(chosenCategory);
+    if (chosenCategory) setCategory(chosenCategory);
     navigate(`/quiz/${formData.category}/${formData.difficulty}/${formData.type}/`)
   }
 
