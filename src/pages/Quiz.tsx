@@ -22,7 +22,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
   const [retryCount, setRetryCount] = useState(0);
   const navigate = useNavigate()
 
-  const { categoryID, difficulty, type } = useParams<{ categoryID: string; difficulty: string; type: string }>();
+  const { categoryID, difficulty, type } = useParams();
   const currentProvider = getProvider(provider);
 
   const retrieveQuestions = useCallback(async (signal?: AbortSignal) => {
