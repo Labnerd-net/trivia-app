@@ -1,32 +1,17 @@
 import { useState, useEffect } from 'react'
-import { decodeHtml } from '../utils';
+import { decodeHtml, shuffleAnswers } from '../utils';
+import type { NormalizedQuestion } from '../types';
 
 const LETTERS = ['A', 'B', 'C', 'D'];
 
-function shuffleAnswers(question) {
-  let answers = []
-
-  if (question.type === 'multiple') {
-    answers = [
-      question.correctAnswer,
-      ...question.incorrectAnswers,
-    ];
-
-    // Fisher-Yates shuffle
-    for (let i = answers.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [answers[i], answers[j]] = [answers[j], answers[i]];
-    }
-  } else {
-    answers = ['True', 'False'];
-  }
-
-  return answers;
+interface QuestionProps {
+  question: NormalizedQuestion;
+  number?: number;
 }
 
-export default function Question({ question, number }) {
+export default function Question({ question, number }: QuestionProps) {
   const [showAnswers, setShowAnswers] = useState(false);
-  const [shuffledAnswers, setShuffledAnswers] = useState([]);
+  const [shuffledAnswers, setShuffledAnswers] = useState<string[]>([]);
 
   useEffect(() => {
     const answers = shuffleAnswers(question);
