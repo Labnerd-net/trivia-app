@@ -1,8 +1,10 @@
+import { Link } from 'react-router'
+
 const Navbar = () => {
   return (
     <nav className="tq-navbar">
       <div className="container">
-        <a className="tq-brand" href="/">TRIVIA CHALLENGE</a>
+        <Link className="tq-brand" to="/">TRIVIA CHALLENGE</Link>
       </div>
     </nav>
   )

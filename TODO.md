@@ -1,7 +1,9 @@
 # TODO
 
-- [x] **Menu error state missing retry button** — `Menu.tsx:80` shows only the error text with no retry action. `App.tsx` and `Quiz.tsx` both have Retry buttons; Menu should be consistent.
+- [x] **Navbar uses `<a href>` instead of `<Link>`** — `Navbar.tsx:5` triggers a full page reload on click, losing all React state (token, selected category). Replace with React Router's `<Link to="/">`.
 
-- [x] **OpenTDB response codes not handled** — The OpenTDB API returns a `response_code` in every response (0=success, 1=no results, 4=token exhausted, etc.). `providers.ts:40` ignores it. A token-exhausted session silently returns an empty list.
+- [ ] **OpenTDB response codes have no unit tests** — The code 1–5 error throwing added to `providers.ts` is untested. A regression there would be silent.
 
-- [x] **`App.tsx` has no test coverage** — Token fetch, provider switching, and the retry flow in `App.tsx` are untested.
+- [ ] **Menu retry button has no test** — `Menu.page.test.tsx` predates the retry button; it only asserts the error message appears, not that retry triggers a re-fetch.
+
+- [ ] **`shuffleAnswers` has no direct unit tests** — Exercised indirectly through `Question.component.test.tsx` but the boolean path and shuffle behavior are not covered in `utils.test.ts`.
