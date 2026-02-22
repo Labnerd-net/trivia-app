@@ -2,21 +2,28 @@ import { useState, useEffect, useCallback, useMemo } from 'react'
 import { useParams, useNavigate } from "react-router";
 import Question from '../components/Question';
 import { getProvider } from '../api/providers';
+import type { Category, QuestionsResult } from '../types';
 
 const NUMBER_OF_QUESTIONS = 10;
 
-export default function Quiz({ token, category, provider }) {
-  const [questions, setQuestions] = useState([]);
+interface QuizProps {
+  token: string | null;
+  category: Category | null;
+  provider: string;
+}
+
+export default function Quiz({ token, category, provider }: QuizProps) {
+  const [questions, setQuestions] = useState<QuestionsResult | null>(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [error, setError] = useState<string | null>(null);
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
   const navigate = useNavigate()
 
-  const { categoryID, difficulty, type } = useParams();
+  const { categoryID, difficulty, type } = useParams<{ categoryID: string; difficulty: string; type: string }>();
   const currentProvider = getProvider(provider);
 
-  const retrieveQuestions = useCallback(async (signal) => {
+  const retrieveQuestions = useCallback(async (signal?: AbortSignal) => {
     try {
       setIsFetching(true);
       const data = await currentProvider.getQuestions({
@@ -31,7 +38,7 @@ export default function Quiz({ token, category, provider }) {
       setError(null);
       return true;
     } catch (err) {
-      if (err.name !== 'CanceledError') {
+      if ((err as { name?: string }).name !== 'CanceledError') {
         setError('Failed to retrieve Questions');
       }
       return false;
@@ -96,7 +103,7 @@ export default function Quiz({ token, category, provider }) {
       </div>
 
       <div>
-        {questions.results && questions.results.map((data, idx) => (
+        {questions?.results.map((data, idx) => (
           <Question
             key={`${data.category}-${data.question}-${data.difficulty}`}
             question={data}

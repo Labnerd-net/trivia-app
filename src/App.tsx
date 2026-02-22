@@ -4,14 +4,15 @@ import Quiz from './pages/Quiz'
 import { Routes, Route } from "react-router";
 import { useState, useEffect } from 'react';
 import { getProvider } from './api/providers';
+import type { Category } from './types';
 
 export default function App() {
-  const [token, setToken] = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-  const [category, setCategory] = useState(null);
-  const [selectedProvider, setSelectedProvider] = useState('opentdb');
-  const [retryCount, setRetryCount] = useState(0);
+  const [token, setToken] = useState<string | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
+  const [category, setCategory] = useState<Category | null>(null);
+  const [selectedProvider, setSelectedProvider] = useState<string>('opentdb');
+  const [retryCount, setRetryCount] = useState<number>(0);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -27,7 +28,7 @@ export default function App() {
           setToken(null);
         }
       } catch (err) {
-        if (err.name !== 'CanceledError') {
+        if ((err as { name?: string }).name !== 'CanceledError') {
           setError('Failed to retrieve Token');
         }
       } finally {
@@ -40,11 +41,11 @@ export default function App() {
     return () => controller.abort();
   }, [selectedProvider, retryCount]);
 
-  const selectedCategory = (category) => {
-    setCategory(category);
+  const selectedCategory = (cat: Category) => {
+    setCategory(cat);
   };
 
-  const handleProviderChange = (providerId) => {
+  const handleProviderChange = (providerId: string) => {
     setSelectedProvider(providerId);
     setLoading(true);
     setError(null);
