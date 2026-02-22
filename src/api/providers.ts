@@ -1,4 +1,5 @@
 import axios from 'axios';
+import type { Provider, ProviderListItem, GetQuestionsOptions } from '../types';
 
 /**
  * Trivia API Provider Configurations
@@ -9,7 +10,7 @@ import axios from 'axios';
 // ============================================================================
 // OPENTDB PROVIDER
 // ============================================================================
-const openTDBProvider = {
+const openTDBProvider: Provider = {
   id: 'opentdb',
   name: 'Open Trivia Database',
   description: 'Large community database with 4,000+ questions',
@@ -22,13 +23,13 @@ const openTDBProvider = {
 
   async getCategories({ signal } = {}) {
     const response = await axios.get('https://opentdb.com/api_category.php', { signal });
-    return response.data.trivia_categories.map(cat => ({
+    return response.data.trivia_categories.map((cat: { id: number; name: string }) => ({
       id: cat.id.toString(),
       name: cat.name
     }));
   },
 
-  async getQuestions({ amount = 10, categoryId, difficulty, type, token, signal }) {
+  async getQuestions({ amount = 10, categoryId, difficulty, type, token, signal }: GetQuestionsOptions) {
     let url = `https://opentdb.com/api.php?amount=${amount}`;
 
     if (categoryId && categoryId !== 'all') url += `&category=${categoryId}`;
@@ -39,7 +40,14 @@ const openTDBProvider = {
     const response = await axios.get(url, { signal });
 
     return {
-      results: response.data.results.map(q => ({
+      results: response.data.results.map((q: {
+        question: string;
+        correct_answer: string;
+        incorrect_answers: string[];
+        category: string;
+        difficulty: string;
+        type: string;
+      }) => ({
         question: q.question,
         correctAnswer: q.correct_answer,
         incorrectAnswers: q.incorrect_answers,
@@ -67,7 +75,7 @@ const openTDBProvider = {
 // ============================================================================
 // THE TRIVIA API PROVIDER
 // ============================================================================
-const triviaAPIProvider = {
+const triviaAPIProvider: Provider = {
   id: 'triviaapi',
   name: 'The Trivia API',
   description: 'High-quality questions with region filtering',
@@ -93,7 +101,7 @@ const triviaAPIProvider = {
     ];
   },
 
-  async getQuestions({ amount = 10, categoryId, difficulty, signal }) {
+  async getQuestions({ amount = 10, categoryId, difficulty, signal }: GetQuestionsOptions) {
     let url = `https://the-trivia-api.com/v2/questions?limit=${amount}`;
 
     if (categoryId && categoryId !== 'all') {
@@ -106,13 +114,19 @@ const triviaAPIProvider = {
     const response = await axios.get(url, { signal });
 
     return {
-      results: response.data.map(q => ({
+      results: response.data.map((q: {
+        question: { text: string };
+        correctAnswer: string;
+        incorrectAnswers: string[];
+        category: string;
+        difficulty: string;
+      }) => ({
         question: q.question.text,
         correctAnswer: q.correctAnswer,
         incorrectAnswers: q.incorrectAnswers,
         category: q.category,
         difficulty: q.difficulty,
-        type: 'multiple'
+        type: 'multiple' as const
       }))
     };
   },
@@ -132,16 +146,16 @@ const triviaAPIProvider = {
 // ============================================================================
 // PROVIDER REGISTRY
 // ============================================================================
-export const providers = {
+export const providers: Record<string, Provider> = {
   opentdb: openTDBProvider,
   triviaapi: triviaAPIProvider,
 };
 
-export const providerList = [
+export const providerList: ProviderListItem[] = [
   { id: 'opentdb', name: 'Open Trivia Database', icon: '📚' },
   { id: 'triviaapi', name: 'The Trivia API', icon: '🎯' },
 ];
 
-export function getProvider(id) {
-  return providers[id] || providers.opentdb;
+export function getProvider(id: string): Provider {
+  return providers[id] ?? providers.opentdb;
 }
