@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router'
+import axios from 'axios';
 import { getProvider, providerList } from '../api/providers';
 import type { Category } from '../types';
 
@@ -9,7 +10,7 @@ interface MenuProps {
   onProviderChange: (id: string) => void;
 }
 
-interface FormData {
+interface MenuFormData {
   category: string;
   difficulty: string;
   type: string;
@@ -20,7 +21,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
   const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [formData, setFormData] = useState<FormData>({
+  const [formData, setFormData] = useState<MenuFormData>({
     category: 'all',
     difficulty: 'all',
     type: 'all',
@@ -43,7 +44,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
           type: currentProvider.types[0].value,
         }));
       } catch (err) {
-        if ((err as { name?: string }).name !== 'CanceledError') {
+        if (!axios.isCancel(err)) {
           setError('Failed to retrieve Categories');
         }
       } finally {

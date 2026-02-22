@@ -16,8 +16,8 @@ const openTDBProvider: Provider = {
   description: 'Large community database with 4,000+ questions',
   requiresToken: true,
 
-  async getToken() {
-    const response = await axios.get('https://opentdb.com/api_token.php?command=request');
+  async getToken(signal?: AbortSignal) {
+    const response = await axios.get('https://opentdb.com/api_token.php?command=request', { signal });
     return response.data.token;
   },
 
@@ -81,7 +81,7 @@ const triviaAPIProvider: Provider = {
   description: 'High-quality questions with region filtering',
   requiresToken: false,
 
-  async getToken() {
+  async getToken(_signal?: AbortSignal) {
     return null; // No token needed
   },
 

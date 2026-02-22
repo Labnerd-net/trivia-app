@@ -39,7 +39,7 @@ export interface Provider {
   requiresToken: boolean;
   difficulties: SelectOption[];
   types: SelectOption[];
-  getToken(): Promise<string | null>;
+  getToken(signal?: AbortSignal): Promise<string | null>;
   getCategories(options?: { signal?: AbortSignal }): Promise<Category[]>;
   getQuestions(options: GetQuestionsOptions): Promise<QuestionsResult>;
 }

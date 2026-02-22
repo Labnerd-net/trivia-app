@@ -3,6 +3,7 @@ import Menu from './pages/Menu'
 import Quiz from './pages/Quiz'
 import { Routes, Route } from "react-router";
 import { useState, useEffect } from 'react';
+import axios from 'axios';
 import { getProvider } from './api/providers';
 import type { Category } from './types';
 
@@ -22,13 +23,13 @@ export default function App() {
         const provider = getProvider(selectedProvider);
 
         if (provider.requiresToken) {
-          const tokenData = await provider.getToken();
+          const tokenData = await provider.getToken(controller.signal);
           setToken(tokenData);
         } else {
           setToken(null);
         }
       } catch (err) {
-        if ((err as { name?: string }).name !== 'CanceledError') {
+        if (!axios.isCancel(err)) {
           setError('Failed to retrieve Token');
         }
       } finally {
