@@ -33,6 +33,6 @@ The image is deployed via [Dokploy](https://dokploy.com).
 
 - React 19, React Router 7
 - TypeScript 5 (strict mode)
-- Vite 7, Vitest
+- Vite 7, Vitest, Testing Library
 - Axios
 - nginx (production serving)
