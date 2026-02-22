@@ -1,4 +1,5 @@
 import Navbar from './components/Navbar'
+import ErrorBoundary from './components/ErrorBoundary'
 import Menu from './pages/Menu'
 import Quiz from './pages/Quiz'
 import { Routes, Route } from "react-router";
@@ -71,22 +72,24 @@ export default function App() {
   return (
     <div style={{ minHeight: '100vh' }}>
       <Navbar />
-      <Routes>
-        <Route path="/" element={
-          <Menu
-            setCategory={selectedCategory}
-            provider={selectedProvider}
-            onProviderChange={handleProviderChange}
-          />
-        } />
-        <Route path="/quiz/:categoryID/:difficulty/:type/" element={
-          <Quiz
-            token={token}
-            category={category}
-            provider={selectedProvider}
-          />
-        } />
-      </Routes>
+      <ErrorBoundary>
+        <Routes>
+          <Route path="/" element={
+            <Menu
+              setCategory={selectedCategory}
+              provider={selectedProvider}
+              onProviderChange={handleProviderChange}
+            />
+          } />
+          <Route path="/quiz/:categoryID/:difficulty/:type/" element={
+            <Quiz
+              token={token}
+              category={category}
+              provider={selectedProvider}
+            />
+          } />
+        </Routes>
+      </ErrorBoundary>
     </div>
   )
 }
