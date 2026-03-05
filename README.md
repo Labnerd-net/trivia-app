@@ -8,6 +8,24 @@ A trivia quiz application built with React. Supports multiple question sources, 
 - Filter by category, difficulty, and question type
 - Paginated sessions — fetch the next 10 questions without leaving the quiz
 
+## Self-hosting
+
+A pre-built Docker image is published to the GitHub Container Registry on every push to `main`.
+
+```bash
+docker pull ghcr.io/labnerd-net/trivia-app:latest
+docker run -p 8080:80 ghcr.io/labnerd-net/trivia-app:latest
+```
+
+Then open `http://localhost:8080`.
+
+Or build from source:
+
+```bash
+docker build -t trivia-app .
+docker run -p 8080:80 trivia-app
+```
+
 ## Development
 
 ```bash
@@ -19,15 +37,6 @@ npm run lint       # ESLint
 npm run typecheck  # TypeScript type check
 npm run test       # Vitest
 ```
-
-## Docker
-
-```bash
-docker build -t trivia-app .
-docker run -p 8080:80 trivia-app
-```
-
-The image is deployed via [Dokploy](https://dokploy.com).
 
 ## Stack
 
