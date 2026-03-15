@@ -8,10 +8,10 @@
 ## Security
 
 ### High
-- **[src/utils/index.ts:7-9]**: `decodeHtml` sets `innerHTML` on a `<textarea>` to decode HTML entities. While a `<textarea>` does not execute scripts, the function's design is a latent XSS risk if its output is ever passed to `dangerouslySetInnerHTML` or non-text DOM position. Current usage in `Question.tsx` is safe (text rendering only). **Fix**: Replace with a lookup-table entity decoder (`&amp;`, `&lt;`, `&gt;`, `&quot;`, `&#039;`) that never touches the DOM — also makes it testable in non-browser environments.
+_None identified._
 
 ### Medium
-- **[nginx.conf]**: No security headers configured. Missing `X-Content-Type-Options`, `X-Frame-Options`, `Referrer-Policy`, and `Content-Security-Policy`. **Fix**: Add an `add_header` block inside the `server {}` stanza with at minimum `X-Content-Type-Options nosniff`, `X-Frame-Options SAMEORIGIN`, and `Referrer-Policy strict-origin-when-cross-origin`.
+_None identified._
 
 ### Low
 _None identified._
@@ -91,9 +91,9 @@ _None identified._
 
 | Category | High | Medium | Low | Total |
 |----------|------|--------|-----|-------|
-| Security | 1 | 1 | 0 | 2 |
+| Security | 0 | 0 | 0 | 0 |
 | Bugs | 2 | 1 | 1 | 4 |
 | Performance | 0 | 2 | 1 | 3 |
 | Improvements & Refactors | 0 | 3 | 6 | 9 |
 | Feature Ideas | 3 | 5 | 3 | 11 |
-| **Total** | **6** | **12** | **11** | **29** |
+| **Total** | **5** | **11** | **11** | **27** |
