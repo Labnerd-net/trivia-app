@@ -15,18 +15,18 @@ Trivia quiz application built with React, deployed as a Docker container (nginx)
 
 ## Deployment
 
-Production is containerized. The GitHub Actions workflow (`.github/workflows/docker-publish.yml`) builds and pushes to `ghcr.io` on push to `master`. The Dockerfile does a two-stage build: Node 20 builds the Vite bundle, nginx serves the static `dist/` with SPA routing via `nginx.conf`.
+Production is containerized. The GitHub Actions workflow (`.github/workflows/docker-publish.yml`) builds and pushes to `ghcr.io` on push to `main`. The Dockerfile does a two-stage build: Node 20 builds the Vite bundle, nginx serves the static `dist/` with SPA routing via `nginx.conf`.
 
 ## Architecture
 
 ### Application Flow
 
-1. **`App.jsx`** — On mount, fetches a session token from OpenTDB (token prevents duplicate questions). Manages `selectedProvider`, `token`, and `category` state. Provider change re-triggers token fetch.
-2. **`Menu.jsx`** — Fetches categories from the selected provider, renders the quiz config form (provider tabs, category, difficulty, type). On submit, navigates to `/quiz/:categoryID/:difficulty/:type/`.
-3. **`Quiz.jsx`** — Reads route params, calls `provider.getQuestions()`, renders `Question` components. "Next Questions" re-fetches without navigation (stateful pagination via `page` counter).
-4. **`Question.jsx`** — Renders a single question with shuffled answers. Handles answer selection and scoring.
+1. **`App.tsx`** — On mount, fetches a session token from OpenTDB (token prevents duplicate questions). Manages `selectedProvider`, `token`, and `category` state. Provider change re-triggers token fetch.
+2. **`Menu.tsx`** — Fetches categories from the selected provider, renders the quiz config form (provider tabs, category, difficulty, type). On submit, navigates to `/quiz/:categoryID/:difficulty/:type/`.
+3. **`Quiz.tsx`** — Reads route params, calls `provider.getQuestions()`, renders `Question` components. "Next Questions" re-fetches without navigation (stateful pagination via `page` counter).
+4. **`Question.tsx`** — Renders a single question with shuffled answers. Handles answer selection and scoring.
 
-### API Provider System (`src/api/providers.js`)
+### API Provider System (`src/api/providers.ts`)
 
 Two providers, each a plain object with the same interface:
 
@@ -44,7 +44,7 @@ All `getQuestions` responses are normalized to: `{ question, correctAnswer, inco
 **OpenTDB**: dynamic categories fetched from API, supports `boolean` (true/false) type, requires session token.
 **The Trivia API**: 10 hardcoded categories, multiple choice only, no token.
 
-To add a new provider, implement the interface above and register it in `providers` and `providerList`.
+Shared types are defined in `src/types/index.ts`. To add a new provider, implement the interface above and register it in `providers` and `providerList`.
 
 ### State Management
 
@@ -56,7 +56,7 @@ Custom CSS with a `tq-` prefix (e.g., `tq-btn`, `tq-select`, `tq-status`, `tq-st
 
 ### HTML Decoding
 
-OpenTDB returns HTML-encoded strings. `src/utils/index.js` exports `decodeHtml()` — use it when rendering question or answer text from OpenTDB.
+OpenTDB returns HTML-encoded strings. `src/utils/index.ts` exports `decodeHtml()` — use it when rendering question or answer text from OpenTDB.
 
 ## Checking Documentation
 
