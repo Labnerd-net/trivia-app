@@ -15,8 +15,24 @@ describe('decodeHtml', () => {
     expect(decodeHtml('Say &quot;hello&quot;')).toBe('Say "hello"');
   });
 
+  it('decodes &#039; to apostrophe', () => {
+    expect(decodeHtml('it&#039;s')).toBe("it's");
+  });
+
+  it('decodes numeric decimal entities', () => {
+    expect(decodeHtml('it&#8217;s')).toBe('it\u2019s');
+  });
+
+  it('decodes numeric hex entities', () => {
+    expect(decodeHtml('it&#x2019;s')).toBe('it\u2019s');
+  });
+
   it('leaves plain strings unchanged', () => {
     expect(decodeHtml('Hello World')).toBe('Hello World');
+  });
+
+  it('handles empty string', () => {
+    expect(decodeHtml('')).toBe('');
   });
 });
 
