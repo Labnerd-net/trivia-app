@@ -21,14 +21,13 @@ _None identified._
 ## Bugs
 
 ### High
-- **[src/pages/Quiz.tsx:51]**: `retryCount` is in the `useCallback` dependency array for `retrieveQuestions`, which causes the `useEffect` to re-run on retry because the callback reference changes. This creates two concurrent fetches on retry — currently masked by AbortController cleanup, but fragile and non-obvious. **Fix**: Remove `retryCount` from `useCallback` deps; put it directly in the `useEffect` dependency array instead.
-- **[src/pages/Quiz.tsx:59-67]**: `nextQuestions` (pagination) calls `retrieveQuestions()` without an `AbortSignal`. If the user navigates away mid-fetch on "Next Questions", the request is never cancelled — a resource leak. The initial load uses an AbortController correctly but pagination does not. **Fix**: Use a `useRef` for a pagination AbortController, abort on each `nextQuestions` call, pass the signal to `retrieveQuestions`.
+_None identified._
 
 ### Medium
-- **[src/pages/Menu.tsx:59]**: `useEffect` dependency array includes both `provider` (the prop) and `currentProvider` (the object derived from it). `currentProvider` should not be in the dep array — if `getProvider` ever returned a new reference per call, this would cause an infinite re-render loop. **Fix**: Remove `currentProvider` from the dependency array; `provider` is the correct trigger.
+_None identified._
 
 ### Low
-- **[src/pages/Quiz.tsx:117]**: `key` prop on `Question` components is `${data.category}-${data.question}-${data.difficulty}`. If two questions in a batch share all three fields, React will warn about duplicate keys. **Fix**: Use `` key={`${page}-${idx}`} `` — `page` is already in scope and makes keys unique across batches.
+_None identified._
 
 ---
 
@@ -92,8 +91,8 @@ _None identified._
 | Category | High | Medium | Low | Total |
 |----------|------|--------|-----|-------|
 | Security | 0 | 0 | 0 | 0 |
-| Bugs | 2 | 1 | 1 | 4 |
+| Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 2 | 1 | 3 |
 | Improvements & Refactors | 0 | 3 | 6 | 9 |
 | Feature Ideas | 3 | 5 | 3 | 11 |
-| **Total** | **5** | **11** | **11** | **27** |
+| **Total** | **3** | **10** | **10** | **23** |
