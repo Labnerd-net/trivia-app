@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router'
-import axios from 'axios';
 import { getProvider, providerList } from '../api/providers';
+import { useFetch } from '../hooks/useFetch';
 import type { Category } from '../types';
 
 interface MenuProps {
@@ -18,10 +18,6 @@ interface MenuFormData {
 
 export default function Menu({ setCategory, provider, onProviderChange }: MenuProps) {
   const navigate = useNavigate();
-  const [categories, setCategories] = useState<Category[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  const [retryCount, setRetryCount] = useState(0);
   const [formData, setFormData] = useState<MenuFormData>({
     category: 'all',
     difficulty: 'all',
@@ -30,34 +26,25 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
 
   const currentProvider = getProvider(provider);
 
+  const fetchCategories = useCallback(
+    (signal: AbortSignal) => getProvider(provider).getCategories({ signal }),
+    [provider]
+  );
+
+  const { data, loading, error, retry } = useFetch<Category[]>(fetchCategories, 'Failed to retrieve Categories');
+  const categories = data ?? [];
+
   useEffect(() => {
-    const controller = new AbortController();
-    const prov = getProvider(provider);
-
-    const retrieveCategories = async () => {
-      try {
-        setLoading(true);
-        const cats = await prov.getCategories({ signal: controller.signal });
-        setCategories(cats);
-        setFormData(prev => ({
-          ...prev,
-          category: cats[0]?.id || 'all',
-          difficulty: prov.difficulties[0].value,
-          type: prov.types[0].value,
-        }));
-      } catch (err) {
-        if (!axios.isCancel(err)) {
-          setError('Failed to retrieve Categories');
-        }
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    retrieveCategories();
-
-    return () => controller.abort();
-  }, [provider, retryCount]);
+    if (data && data.length > 0) {
+      const prov = getProvider(provider);
+      setFormData(prev => ({
+        ...prev,
+        category: data[0].id,
+        difficulty: prov.difficulties[0].value,
+        type: prov.types[0].value,
+      }));
+    }
+  }, [data, provider]);
 
   const selectCategory = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setFormData((prev) => ({ ...prev, category: event.target.value }))
@@ -82,7 +69,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
   if (error) return (
     <div className="tq-status error">
       <div>{error}</div>
-      <button className="tq-btn tq-btn-ghost" onClick={() => setRetryCount(c => c + 1)}>
+      <button className="tq-btn tq-btn-ghost" onClick={retry}>
         Retry
       </button>
     </div>
