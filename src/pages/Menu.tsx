@@ -32,17 +32,18 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
 
   useEffect(() => {
     const controller = new AbortController();
+    const prov = getProvider(provider);
 
     const retrieveCategories = async () => {
       try {
         setLoading(true);
-        const cats = await currentProvider.getCategories({ signal: controller.signal });
+        const cats = await prov.getCategories({ signal: controller.signal });
         setCategories(cats);
         setFormData(prev => ({
           ...prev,
           category: cats[0]?.id || 'all',
-          difficulty: currentProvider.difficulties[0].value,
-          type: currentProvider.types[0].value,
+          difficulty: prov.difficulties[0].value,
+          type: prov.types[0].value,
         }));
       } catch (err) {
         if (!axios.isCancel(err)) {
@@ -56,7 +57,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
     retrieveCategories();
 
     return () => controller.abort();
-  }, [provider, currentProvider, retryCount]);
+  }, [provider, retryCount]);
 
   const selectCategory = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setFormData((prev) => ({ ...prev, category: event.target.value }))

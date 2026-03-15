@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useMemo } from 'react'
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react'
 import { useParams, useNavigate } from "react-router";
 import axios from 'axios';
 import Question from '../components/Question';
@@ -20,6 +20,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
   const [retryCount, setRetryCount] = useState(0);
+  const paginationControllerRef = useRef<AbortController | null>(null);
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams();
@@ -48,17 +49,20 @@ export default function Quiz({ token, category, provider }: QuizProps) {
       setLoading(false);
       setIsFetching(false);
     }
-  }, [categoryID, difficulty, type, token, currentProvider, retryCount]);
+  }, [categoryID, difficulty, type, token, currentProvider]);
 
   useEffect(() => {
     const controller = new AbortController();
     retrieveQuestions(controller.signal);
     return () => controller.abort();
-  }, [retrieveQuestions]);
+  }, [retrieveQuestions, retryCount]);
 
   const nextQuestions = async () => {
     if (!isFetching) {
-      const success = await retrieveQuestions();
+      paginationControllerRef.current?.abort();
+      const controller = new AbortController();
+      paginationControllerRef.current = controller;
+      const success = await retrieveQuestions(controller.signal);
       if (success) {
         window.scrollTo(0, 0);
         setPage((prev) => prev + 1);
@@ -114,7 +118,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
       <div>
         {questions?.results.map((data, idx) => (
           <Question
-            key={`${data.category}-${data.question}-${data.difficulty}`}
+            key={`${page}-${idx}`}
             question={data}
             number={idx + 1}
           />
