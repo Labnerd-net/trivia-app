@@ -3,6 +3,7 @@ import { useParams, useNavigate } from "react-router";
 import axios from 'axios';
 import Question from '../components/Question';
 import { getProvider } from '../api/providers';
+import { useFetch } from '../hooks/useFetch';
 import type { Category, QuestionsResult } from '../types';
 
 const NUMBER_OF_QUESTIONS = 10;
@@ -15,57 +16,56 @@ interface QuizProps {
 
 export default function Quiz({ token, category, provider }: QuizProps) {
   const [questions, setQuestions] = useState<QuestionsResult | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
-  const [retryCount, setRetryCount] = useState(0);
   const paginationControllerRef = useRef<AbortController | null>(null);
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams();
   const currentProvider = getProvider(provider);
 
-  const retrieveQuestions = useCallback(async (signal?: AbortSignal) => {
-    try {
-      setIsFetching(true);
-      const data = await currentProvider.getQuestions({
-        amount: NUMBER_OF_QUESTIONS,
-        categoryId: categoryID,
-        difficulty,
-        type,
-        token,
-        signal
-      });
-      setQuestions(data);
-      setError(null);
-      return true;
-    } catch (err) {
-      if (!axios.isCancel(err)) {
-        setError('Failed to retrieve Questions');
-      }
-      return false;
-    } finally {
-      setLoading(false);
-      setIsFetching(false);
-    }
-  }, [categoryID, difficulty, type, token, currentProvider]);
+  const fetchQuestions = useCallback(
+    (signal: AbortSignal) => getProvider(provider).getQuestions({
+      amount: NUMBER_OF_QUESTIONS,
+      categoryId: categoryID,
+      difficulty,
+      type,
+      token,
+      signal,
+    }),
+    [provider, categoryID, difficulty, type, token]
+  );
+
+  const { data: fetchedQuestions, loading, error, retry } = useFetch<QuestionsResult>(fetchQuestions, 'Failed to retrieve Questions');
 
   useEffect(() => {
-    const controller = new AbortController();
-    retrieveQuestions(controller.signal);
-    return () => controller.abort();
-  }, [retrieveQuestions, retryCount]);
+    if (fetchedQuestions) setQuestions(fetchedQuestions);
+  }, [fetchedQuestions]);
 
   const nextQuestions = async () => {
     if (!isFetching) {
       paginationControllerRef.current?.abort();
       const controller = new AbortController();
       paginationControllerRef.current = controller;
-      const success = await retrieveQuestions(controller.signal);
-      if (success) {
+      try {
+        setIsFetching(true);
+        const data = await currentProvider.getQuestions({
+          amount: NUMBER_OF_QUESTIONS,
+          categoryId: categoryID,
+          difficulty,
+          type,
+          token,
+          signal: controller.signal,
+        });
+        setQuestions(data);
         window.scrollTo(0, 0);
         setPage((prev) => prev + 1);
+      } catch (err) {
+        if (!axios.isCancel(err)) {
+          // pagination errors are silent — user can click again
+        }
+      } finally {
+        setIsFetching(false);
       }
     }
   }
@@ -81,7 +81,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
   if (error) return (
     <div className="tq-status error">
       <div>{error}</div>
-      <button className="tq-btn tq-btn-ghost" onClick={() => setRetryCount(c => c + 1)}>
+      <button className="tq-btn tq-btn-ghost" onClick={retry}>
         Retry
       </button>
     </div>

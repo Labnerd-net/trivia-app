@@ -1,9 +1,11 @@
 import { describe, it, expect, vi, beforeEach } from 'vitest';
-import axios from 'axios';
+import axiosInstance from '../src/api/axiosInstance';
 import { getProvider } from '../src/api/providers';
 
-vi.mock('axios');
-const mockGet = vi.mocked(axios.get);
+vi.mock('../src/api/axiosInstance', () => ({
+  default: { get: vi.fn() },
+}));
+const mockGet = vi.mocked(axiosInstance.get);
 
 describe('OpenTDB getQuestions response codes', () => {
   const provider = getProvider('opentdb');
