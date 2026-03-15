@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useMemo, useRef } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import { useParams, useNavigate } from "react-router";
 import axios from 'axios';
 import Question from '../components/Question';
@@ -74,15 +74,8 @@ export default function Quiz({ token, category, provider }: QuizProps) {
     navigate('/');
   }
 
-  const difficultyLabel = useMemo(() =>
-    currentProvider.difficulties.find(diff => diff.value === difficulty)?.label || difficulty,
-    [difficulty, currentProvider]
-  );
-
-  const typeLabel = useMemo(() =>
-    currentProvider.types.find(t => t.value === type)?.label || type,
-    [type, currentProvider]
-  );
+  const difficultyLabel = currentProvider.difficulties.find(diff => diff.value === difficulty)?.label || difficulty;
+  const typeLabel = currentProvider.types.find(t => t.value === type)?.label || type;
 
   if (loading) return <div className="tq-status">Loading questions...</div>;
   if (error) return (

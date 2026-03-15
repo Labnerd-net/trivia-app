@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axiosInstance from './axiosInstance';
 import type { Provider, ProviderListItem, GetQuestionsOptions } from '../types';
 
 /**
@@ -17,12 +17,12 @@ const openTDBProvider: Provider = {
   requiresToken: true,
 
   async getToken(signal?: AbortSignal) {
-    const response = await axios.get('https://opentdb.com/api_token.php?command=request', { signal });
+    const response = await axiosInstance.get('https://opentdb.com/api_token.php?command=request', { signal });
     return response.data.token;
   },
 
   async getCategories({ signal } = {}) {
-    const response = await axios.get('https://opentdb.com/api_category.php', { signal });
+    const response = await axiosInstance.get('https://opentdb.com/api_category.php', { signal });
     return response.data.trivia_categories.map((cat: { id: number; name: string }) => ({
       id: cat.id.toString(),
       name: cat.name
@@ -37,7 +37,7 @@ const openTDBProvider: Provider = {
     if (type && type !== 'all') url += `&type=${type}`;
     if (token) url += `&token=${token}`;
 
-    const response = await axios.get(url, { signal });
+    const response = await axiosInstance.get(url, { signal });
 
     const code = response.data.response_code;
     if (code === 1) throw new Error('No results found for the selected options. Try a different category or difficulty.');
@@ -118,7 +118,7 @@ const triviaAPIProvider: Provider = {
       url += `&difficulties=${difficulty}`;
     }
 
-    const response = await axios.get(url, { signal });
+    const response = await axiosInstance.get(url, { signal });
 
     return {
       results: response.data.map((q: {
