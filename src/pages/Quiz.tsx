@@ -2,19 +2,17 @@ import { useState, useEffect, useCallback, useRef } from 'react'
 import { useParams, useNavigate } from "react-router";
 import axios from 'axios';
 import Question from '../components/Question';
-import { getProvider } from '../api/providers';
 import { useFetch } from '../hooks/useFetch';
+import { useProvider } from '../context/ProviderContext';
 import type { Category, QuestionsResult } from '../types';
 
 const NUMBER_OF_QUESTIONS = 10;
 
 interface QuizProps {
-  token: string | null;
   category: Category | null;
-  provider: string;
 }
 
-export default function Quiz({ token, category, provider }: QuizProps) {
+export default function Quiz({ category }: QuizProps) {
   const [questions, setQuestions] = useState<QuestionsResult | null>(null);
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
@@ -22,10 +20,10 @@ export default function Quiz({ token, category, provider }: QuizProps) {
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams();
-  const currentProvider = getProvider(provider);
+  const { provider, token } = useProvider();
 
   const fetchQuestions = useCallback(
-    (signal: AbortSignal) => getProvider(provider).getQuestions({
+    (signal: AbortSignal) => provider.getQuestions({
       amount: NUMBER_OF_QUESTIONS,
       categoryId: categoryID,
       difficulty,
@@ -49,7 +47,7 @@ export default function Quiz({ token, category, provider }: QuizProps) {
       paginationControllerRef.current = controller;
       try {
         setIsFetching(true);
-        const data = await currentProvider.getQuestions({
+        const data = await provider.getQuestions({
           amount: NUMBER_OF_QUESTIONS,
           categoryId: categoryID,
           difficulty,
@@ -74,8 +72,8 @@ export default function Quiz({ token, category, provider }: QuizProps) {
     navigate('/');
   }
 
-  const difficultyLabel = currentProvider.difficulties.find(diff => diff.value === difficulty)?.label || difficulty;
-  const typeLabel = currentProvider.types.find(t => t.value === type)?.label || type;
+  const difficultyLabel = provider.difficulties.find(diff => diff.value === difficulty)?.label || difficulty;
+  const typeLabel = provider.types.find(t => t.value === type)?.label || type;
 
   if (loading) return <div className="tq-status">Loading questions...</div>;
   if (error) return (

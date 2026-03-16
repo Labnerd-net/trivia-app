@@ -4,7 +4,6 @@ import Quiz from '../src/pages/Quiz'
 
 const mockNavigate = vi.hoisted(() => vi.fn())
 const mockGetQuestions = vi.hoisted(() => vi.fn())
-const mockGetProvider = vi.hoisted(() => vi.fn())
 
 vi.mock('react-router', async (importOriginal) => {
   const actual = await importOriginal<typeof import('react-router')>()
@@ -15,7 +14,7 @@ vi.mock('react-router', async (importOriginal) => {
 })
 
 vi.mock('../src/api/providers', () => ({
-  getProvider: mockGetProvider,
+  getProvider: vi.fn(),
   providerList: [],
 }))
 
@@ -45,9 +44,12 @@ const mockProvider = {
   getToken: vi.fn(),
 }
 
+vi.mock('../src/context/ProviderContext', () => ({
+  useProvider: () => ({ provider: mockProvider, token: null, setSelectedProvider: vi.fn() }),
+}))
+
 beforeEach(() => {
   vi.clearAllMocks()
-  mockGetProvider.mockReturnValue(mockProvider)
 })
 
 const renderQuiz = () => {
@@ -56,7 +58,7 @@ const renderQuiz = () => {
       <Routes>
         <Route
           path="/quiz/:categoryID/:difficulty/:type/"
-          element={<Quiz token={null} category={null} provider="opentdb" />}
+          element={<Quiz category={null} />}
         />
       </Routes>
     </MemoryRouter>

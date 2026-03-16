@@ -1,13 +1,12 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router'
-import { getProvider, providerList } from '../api/providers';
+import { providerList } from '../api/providers';
 import { useFetch } from '../hooks/useFetch';
+import { useProvider } from '../context/ProviderContext';
 import type { Category } from '../types';
 
 interface MenuProps {
   setCategory: (cat: Category) => void;
-  provider: string;
-  onProviderChange: (id: string) => void;
 }
 
 interface MenuFormData {
@@ -16,18 +15,17 @@ interface MenuFormData {
   type: string;
 }
 
-export default function Menu({ setCategory, provider, onProviderChange }: MenuProps) {
+export default function Menu({ setCategory }: MenuProps) {
   const navigate = useNavigate();
+  const { provider, setSelectedProvider } = useProvider();
   const [formData, setFormData] = useState<MenuFormData>({
     category: 'all',
     difficulty: 'all',
     type: 'all',
   });
 
-  const currentProvider = getProvider(provider);
-
   const fetchCategories = useCallback(
-    (signal: AbortSignal) => getProvider(provider).getCategories({ signal }),
+    (signal: AbortSignal) => provider.getCategories({ signal }),
     [provider]
   );
 
@@ -36,12 +34,11 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
 
   useEffect(() => {
     if (data && data.length > 0) {
-      const prov = getProvider(provider);
       setFormData(prev => ({
         ...prev,
         category: data[0].id,
-        difficulty: prov.difficulties[0].value,
-        type: prov.types[0].value,
+        difficulty: provider.difficulties[0].value,
+        type: provider.types[0].value,
       }));
     }
   }, [data, provider]);
@@ -85,14 +82,14 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
               <button
                 key={p.id}
                 type="button"
-                className={`tq-provider-tab ${provider === p.id ? 'active' : ''}`}
-                onClick={() => onProviderChange(p.id)}
+                className={`tq-provider-tab ${provider.id === p.id ? 'active' : ''}`}
+                onClick={() => setSelectedProvider(p.id)}
               >
                 {p.name}
               </button>
             ))}
           </div>
-          <div className="tq-provider-desc">{currentProvider.description}</div>
+          <div className="tq-provider-desc">{provider.description}</div>
         </div>
 
         <hr className="tq-divider" />
@@ -121,7 +118,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
               onChange={selectDifficulty}
               value={formData.difficulty}
             >
-              {currentProvider.difficulties.map((data) =>
+              {provider.difficulties.map((data) =>
                 <option key={data.value} value={data.value}>{data.label}</option>
               )}
             </select>
@@ -135,7 +132,7 @@ export default function Menu({ setCategory, provider, onProviderChange }: MenuPr
               onChange={selectType}
               value={formData.type}
             >
-              {currentProvider.types.map((data) =>
+              {provider.types.map((data) =>
                 <option key={data.value} value={data.value}>{data.label}</option>
               )}
             </select>
