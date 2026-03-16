@@ -159,8 +159,8 @@ export const providers: Record<string, Provider> = {
 };
 
 export const providerList: ProviderListItem[] = [
-  { id: 'opentdb', name: 'Open Trivia Database', icon: '📚' },
-  { id: 'triviaapi', name: 'The Trivia API', icon: '🎯' },
+  { id: 'opentdb', name: 'Open Trivia Database' },
+  { id: 'triviaapi', name: 'The Trivia API' },
 ];
 
 export function getProvider(id: string): Provider {
