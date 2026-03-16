@@ -43,17 +43,9 @@ export default function Menu({ setCategory }: MenuProps) {
     }
   }, [data, provider]);
 
-  const selectCategory = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setFormData((prev) => ({ ...prev, category: event.target.value }))
-  }
-
-  const selectDifficulty = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setFormData((prev) => ({ ...prev, difficulty: event.target.value }))
-  }
-
-  const selectType = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    setFormData((prev) => ({ ...prev, type: event.target.value }))
-  }
+  const handleChange = (key: keyof MenuFormData) => (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setFormData(prev => ({ ...prev, [key]: e.target.value }));
+  };
 
   const startQuiz = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault()
@@ -101,7 +93,7 @@ export default function Menu({ setCategory }: MenuProps) {
               id="formCategory"
               className="tq-select"
               name="category"
-              onChange={selectCategory}
+              onChange={handleChange('category')}
               value={formData.category}
             >
               {categories.map((data) =>
@@ -115,7 +107,7 @@ export default function Menu({ setCategory }: MenuProps) {
               id="formDifficulty"
               className="tq-select"
               name="difficulty"
-              onChange={selectDifficulty}
+              onChange={handleChange('difficulty')}
               value={formData.difficulty}
             >
               {provider.difficulties.map((data) =>
@@ -129,7 +121,7 @@ export default function Menu({ setCategory }: MenuProps) {
               id="formType"
               className="tq-select"
               name="type"
-              onChange={selectType}
+              onChange={handleChange('type')}
               value={formData.type}
             >
               {provider.types.map((data) =>

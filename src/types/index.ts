@@ -44,7 +44,3 @@ export interface Provider {
   getQuestions(options: GetQuestionsOptions): Promise<QuestionsResult>;
 }
 
-export interface ProviderListItem {
-  id: string;
-  name: string;
-}

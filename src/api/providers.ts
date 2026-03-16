@@ -1,5 +1,5 @@
 import axiosInstance from './axiosInstance';
-import type { Provider, ProviderListItem, GetQuestionsOptions } from '../types';
+import type { Provider, GetQuestionsOptions } from '../types';
 
 /**
  * Trivia API Provider Configurations
@@ -158,10 +158,7 @@ export const providers: Record<string, Provider> = {
   triviaapi: triviaAPIProvider,
 };
 
-export const providerList: ProviderListItem[] = [
-  { id: 'opentdb', name: 'Open Trivia Database' },
-  { id: 'triviaapi', name: 'The Trivia API' },
-];
+export const providerList = Object.values(providers);
 
 export function getProvider(id: string): Provider {
   return providers[id] ?? providers.opentdb;
