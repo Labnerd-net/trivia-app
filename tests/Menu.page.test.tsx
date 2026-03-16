@@ -4,7 +4,7 @@ import Menu from '../src/pages/Menu'
 
 const mockNavigate = vi.hoisted(() => vi.fn())
 const mockGetCategories = vi.hoisted(() => vi.fn())
-const mockGetProvider = vi.hoisted(() => vi.fn())
+const mockSetSelectedProvider = vi.hoisted(() => vi.fn())
 
 vi.mock('react-router', async (importOriginal) => {
   const actual = await importOriginal<typeof import('react-router')>()
@@ -15,14 +15,9 @@ vi.mock('react-router', async (importOriginal) => {
 })
 
 vi.mock('../src/api/providers', () => ({
-  getProvider: mockGetProvider,
+  getProvider: vi.fn(),
   providerList: [{ id: 'opentdb', name: 'Open Trivia Database', icon: '📚' }],
 }))
-
-const MOCK_CATEGORIES = [
-  { id: '9', name: 'General Knowledge' },
-  { id: '10', name: 'Books' },
-]
 
 const mockProvider = {
   id: 'opentdb',
@@ -36,20 +31,27 @@ const mockProvider = {
   getToken: vi.fn(),
 }
 
+vi.mock('../src/context/ProviderContext', () => ({
+  useProvider: () => ({ provider: mockProvider, token: null, setSelectedProvider: mockSetSelectedProvider }),
+}))
+
+const MOCK_CATEGORIES = [
+  { id: '9', name: 'General Knowledge' },
+  { id: '10', name: 'Books' },
+]
+
 beforeEach(() => {
   vi.clearAllMocks()
-  mockGetProvider.mockReturnValue(mockProvider)
 })
 
 const renderMenu = () => {
   const setCategory = vi.fn()
-  const onProviderChange = vi.fn()
   render(
     <MemoryRouter>
-      <Menu setCategory={setCategory} provider="opentdb" onProviderChange={onProviderChange} />
+      <Menu setCategory={setCategory} />
     </MemoryRouter>
   )
-  return { setCategory, onProviderChange }
+  return { setCategory }
 }
 
 describe('Menu page', () => {

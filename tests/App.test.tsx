@@ -14,12 +14,7 @@ vi.mock('../src/api/providers', () => ({
 }))
 
 vi.mock('../src/pages/Menu', () => ({
-  default: ({ onProviderChange }: { onProviderChange: (id: string) => void }) => (
-    <div>
-      <span>Menu page</span>
-      <button onClick={() => onProviderChange('triviaapi')}>Switch Provider</button>
-    </div>
-  ),
+  default: () => <div>Menu page</div>,
 }))
 
 vi.mock('../src/pages/Quiz', () => ({
@@ -96,20 +91,6 @@ describe('App', () => {
     await screen.findByText('Failed to retrieve Token')
 
     fireEvent.click(screen.getByRole('button', { name: 'Retry' }))
-
-    await waitFor(() => {
-      expect(mockGetToken).toHaveBeenCalledTimes(2)
-    })
-  })
-
-  it('switching provider triggers a new token fetch', async () => {
-    mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockResolvedValue('token-1')
-    renderApp()
-    await screen.findByText('Menu page')
-
-    mockGetToken.mockResolvedValue('token-2')
-    fireEvent.click(screen.getByRole('button', { name: 'Switch Provider' }))
 
     await waitFor(() => {
       expect(mockGetToken).toHaveBeenCalledTimes(2)
