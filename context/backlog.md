@@ -53,9 +53,7 @@ _None identified._
 _None identified._
 
 ### Low
-- **#6** **[src/pages/Menu.tsx:61-71]**: Three single-line change handlers (`selectCategory`, `selectDifficulty`, `selectType`) all do the same thing with a different key. **Fix**: Replace with one generic `handleChange(key)` factory or use inline `onChange` handlers.
-- **#8** **[src/api/providers.ts:161-164]**: `providerList` duplicates `id` and `name` already present in the `providers` object. **Fix**: Derive `providerList` from `Object.values(providers)` for a single source of truth.
-- **#21** **[src/App.css:1-6]**: `App.css` has a `#root` block (`max-width: 1280px`, `padding: 2rem`, `text-align: center`) that conflicts with and silently overrides the `#root` block in `index.css` (`max-width: 100%`, `text-align: left`). The `App.css` version wins due to load order, making the `index.css` intent a no-op. **Fix**: Remove the `#root` block from `App.css` and consolidate into `index.css`.
+_None identified._
 
 ---
 
@@ -87,6 +85,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 0 | 3 | 3 |
+| Improvements & Refactors | 0 | 0 | 0 | 0 |
 | Feature Ideas | 3 | 5 | 3 | 11 |
-| **Total** | **3** | **5** | **6** | **14** |
+| **Total** | **3** | **5** | **3** | **11** |
