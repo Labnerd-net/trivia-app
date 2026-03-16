@@ -21,7 +21,7 @@ Production is containerized. The GitHub Actions workflow (`.github/workflows/doc
 
 ### Application Flow
 
-1. **`App.tsx`** — On mount, fetches a session token from OpenTDB (token prevents duplicate questions). Manages `selectedProvider`, `token`, and `category` state. Provider change re-triggers token fetch.
+1. **`App.tsx`** — Wraps the tree with `ProviderProvider` and manages `category` state. Token fetching and provider selection are handled inside `ProviderProvider` (`src/context/ProviderContext.tsx`).
 2. **`Menu.tsx`** — Fetches categories from the selected provider, renders the quiz config form (provider tabs, category, difficulty, type). On submit, navigates to `/quiz/:categoryID/:difficulty/:type/`.
 3. **`Quiz.tsx`** — Reads route params, calls `provider.getQuestions()`, renders `Question` components. "Next Questions" re-fetches without navigation (stateful pagination via `page` counter).
 4. **`Question.tsx`** — Renders a single question with shuffled answers. Handles answer selection and scoring.
@@ -33,7 +33,7 @@ Two providers, each a plain object with the same interface:
 | Field/Method | Purpose |
 |---|---|
 | `id`, `name`, `description` | Metadata used in UI |
-| `requiresToken` | Whether `App.jsx` should fetch a token |
+| `requiresToken` | Whether `ProviderProvider` should fetch a token |
 | `getToken()` | Returns token string or `null` |
 | `getCategories()` | Returns `[{ id, name }]` |
 | `getQuestions({ amount, categoryId, difficulty, type, token, signal })` | Returns `{ results: [...] }` normalized |
@@ -48,7 +48,11 @@ Shared types are defined in `src/types/index.ts`. To add a new provider, impleme
 
 ### State Management
 
-Prop drilling only. `token` and `selectedProvider` live in `App.jsx`. `category` object is set in `Menu` via a `setCategory` callback and read in `Quiz`. No context or external state library.
+`token`, `selectedProvider`, and the resolved provider object live in `ProviderContext` (`src/context/ProviderContext.tsx`). Consumers call `useProvider()` to access `{ provider, token, setSelectedProvider }`. `App.tsx` wraps the tree with `ProviderProvider`, which also owns loading/error UI for the token fetch. `category` is still prop-drilled: set in `Menu` via a `setCategory` callback passed from `App.tsx` and read in `Quiz` as a prop.
+
+### Data Fetching
+
+`src/hooks/useFetch.ts` exports `useFetch<T>(fetchFn, errorMessage)` returning `{ data, loading, error, retry }`. Used by `Menu.tsx` and `Quiz.tsx` for initial data loading. The hook manages AbortController cleanup and retry internally. Pass a `useCallback`-memoized `fetchFn` with primitive deps to control when re-fetches fire. Pagination in `Quiz.tsx` fetches directly (not via the hook) so it can update the same `questions` state independently.
 
 ### Styling
 
