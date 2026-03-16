@@ -53,12 +53,8 @@ _None identified._
 _None identified._
 
 ### Low
-- **#4** **[src/App.tsx:73]**: Root `<div>` uses inline `style={{ minHeight: '100vh' }}` — the only inline style in the project. **Fix**: Move to a CSS class or apply to `#root` in `index.css`.
-- **#5** **[src/App.tsx:46-48]**: `selectedCategory` function just calls `setCategory`. The name reads like a noun, not an action. **Fix**: Rename to `handleCategorySelect` or pass `setCategory` directly as the prop.
 - **#6** **[src/pages/Menu.tsx:61-71]**: Three single-line change handlers (`selectCategory`, `selectDifficulty`, `selectType`) all do the same thing with a different key. **Fix**: Replace with one generic `handleChange(key)` factory or use inline `onChange` handlers.
-- **#7** **[src/api/providers.ts:161-164]**: `providerList` entries have an `icon` field (emoji strings) in the `ProviderListItem` type that is never rendered in the UI. **Fix**: Remove the `icon` field from the type and data, or render it in Menu's provider tab buttons.
 - **#8** **[src/api/providers.ts:161-164]**: `providerList` duplicates `id` and `name` already present in the `providers` object. **Fix**: Derive `providerList` from `Object.values(providers)` for a single source of truth.
-- **#9** **[src/App.css]**: Contains unused default Vite template styles (`.logo`, `.read-the-docs`, animations — lines 8-42). These are dead code. **Fix**: Remove them.
 - **#21** **[src/App.css:1-6]**: `App.css` has a `#root` block (`max-width: 1280px`, `padding: 2rem`, `text-align: center`) that conflicts with and silently overrides the `#root` block in `index.css` (`max-width: 100%`, `text-align: left`). The `App.css` version wins due to load order, making the `index.css` intent a no-op. **Fix**: Remove the `#root` block from `App.css` and consolidate into `index.css`.
 
 ---
@@ -91,6 +87,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 0 | 7 | 7 |
+| Improvements & Refactors | 0 | 0 | 3 | 3 |
 | Feature Ideas | 3 | 5 | 3 | 11 |
-| **Total** | **3** | **5** | **10** | **18** |
+| **Total** | **3** | **5** | **6** | **14** |
