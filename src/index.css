@@ -55,6 +55,10 @@ body {
   text-align: left;
 }
 
+.tq-root {
+  min-height: 100vh;
+}
+
 /* ─── LAYOUT ─────────────────────────────────────────────────── */
 
 .container {

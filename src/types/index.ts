@@ -47,5 +47,4 @@ export interface Provider {
 export interface ProviderListItem {
   id: string;
   name: string;
-  icon: string;
 }
