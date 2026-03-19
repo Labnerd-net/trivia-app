@@ -52,9 +52,9 @@ beforeEach(() => {
   vi.clearAllMocks()
 })
 
-const renderQuiz = () => {
+const renderQuiz = (path = '/quiz/9/easy/multiple/') => {
   render(
-    <MemoryRouter initialEntries={['/quiz/9/easy/multiple/']}>
+    <MemoryRouter initialEntries={[path]}>
       <Routes>
         <Route
           path="/quiz/:categoryID/:difficulty/:type/"
@@ -97,6 +97,33 @@ describe('Quiz page', () => {
 
     await waitFor(() => {
       expect(mockGetQuestions).toHaveBeenCalledTimes(2)
+    })
+  })
+
+  describe('param validation', () => {
+    it('rejects injected categoryId and never calls getQuestions', async () => {
+      renderQuiz('/quiz/9%26token%3Dinjected/easy/multiple/')
+      await screen.findByText('Invalid quiz parameters.')
+      expect(mockGetQuestions).not.toHaveBeenCalled()
+    })
+
+    it('rejects an unknown difficulty value and never calls getQuestions', async () => {
+      renderQuiz('/quiz/9/legendary/multiple/')
+      await screen.findByText('Invalid quiz parameters.')
+      expect(mockGetQuestions).not.toHaveBeenCalled()
+    })
+
+    it('rejects an unknown type value and never calls getQuestions', async () => {
+      renderQuiz('/quiz/9/easy/essay/')
+      await screen.findByText('Invalid quiz parameters.')
+      expect(mockGetQuestions).not.toHaveBeenCalled()
+    })
+
+    it('accepts "all" for categoryId, difficulty, and type', async () => {
+      mockGetQuestions.mockResolvedValue(MOCK_QUESTIONS)
+      renderQuiz('/quiz/all/all/multiple/')
+      await screen.findByText('Test question 1')
+      expect(mockGetQuestions).toHaveBeenCalled()
     })
   })
 
