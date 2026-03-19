@@ -25,7 +25,7 @@ export default class ErrorBoundary extends Component<Props, State> {
       return (
         <div className="tq-status error">
           <div>Something went wrong.</div>
-          <div style={{ fontSize: '0.85rem', opacity: 0.7, marginTop: '0.5rem' }}>
+          <div className="tq-error-detail">
             {this.state.error.message.length > 120
             ? this.state.error.message.slice(0, 120) + '…'
             : this.state.error.message}
