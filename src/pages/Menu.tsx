@@ -68,7 +68,7 @@ export default function Menu({ setCategory }: MenuProps) {
   return (
     <div className="container tq-page">
       <form onSubmit={startQuiz} className="tq-form-panel">
-        <div style={{ marginBottom: '1.5rem' }}>
+        <div className="tq-form-section">
           <label className="tq-field-label">Data Source</label>
           <div className="tq-provider-tabs">
             {providerList.map((p) => (

@@ -123,6 +123,12 @@ body {
   color: #c06050;
 }
 
+.tq-error-detail {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-top: 0.5rem;
+}
+
 /* ─── BUTTONS ────────────────────────────────────────────────── */
 
 .tq-btn {
@@ -239,6 +245,10 @@ body {
   border-radius: var(--radius-md);
   padding: 2rem 2.25rem;
   max-width: 540px;
+}
+
+.tq-form-section {
+  margin-bottom: 1.5rem;
 }
 
 .tq-provider-tabs {
