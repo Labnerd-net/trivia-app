@@ -10,7 +10,7 @@ import type { Provider, GetQuestionsOptions } from '../types';
 // ============================================================================
 // OPENTDB PROVIDER
 // ============================================================================
-const openTDBProvider: Provider = {
+const openTDBProvider = {
   id: 'opentdb',
   name: 'Open Trivia Database',
   description: 'Large community database with 4,000+ questions',
@@ -77,12 +77,12 @@ const openTDBProvider: Provider = {
     { value: "multiple", label: "Multiple Choice" },
     { value: "boolean", label: "True/False" },
   ],
-};
+} satisfies Provider;
 
 // ============================================================================
 // THE TRIVIA API PROVIDER
 // ============================================================================
-const triviaAPIProvider: Provider = {
+const triviaAPIProvider = {
   id: 'triviaapi',
   name: 'The Trivia API',
   description: 'High-quality questions with region filtering',
@@ -148,7 +148,7 @@ const triviaAPIProvider: Provider = {
   types: [
     { value: "multiple", label: "Multiple Choice" },
   ],
-};
+} satisfies Provider;
 
 // ============================================================================
 // PROVIDER REGISTRY

@@ -10,10 +10,6 @@ import type { Category } from './types';
 export default function App() {
   const [category, setCategory] = useState<Category | null>(null);
 
-  const handleCategorySelect = (cat: Category) => {
-    setCategory(cat);
-  };
-
   return (
     <ProviderProvider>
       <div className="tq-root">
@@ -21,7 +17,7 @@ export default function App() {
         <ErrorBoundary>
           <Routes>
             <Route path="/" element={
-              <Menu setCategory={handleCategorySelect} />
+              <Menu setCategory={setCategory} />
             } />
             <Route path="/quiz/:categoryID/:difficulty/:type/" element={
               <Quiz category={category} />

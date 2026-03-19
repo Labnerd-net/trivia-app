@@ -1,9 +1,10 @@
-import { useState, useEffect, useCallback, useRef } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { useParams, useNavigate } from "react-router";
 import axios from 'axios';
 import Question from '../components/Question';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
+import { ERROR_FETCH_QUESTIONS } from '../constants/errorMessages';
 import type { Category, QuestionsResult } from '../types';
 
 const NUMBER_OF_QUESTIONS = 10;
@@ -16,7 +17,6 @@ export default function Quiz({ category }: QuizProps) {
   const [questions, setQuestions] = useState<QuestionsResult | null>(null);
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
-  const paginationControllerRef = useRef<AbortController | null>(null);
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams();
@@ -42,7 +42,7 @@ export default function Quiz({ category }: QuizProps) {
     [provider, categoryID, difficulty, type, token, paramsValid]
   );
 
-  const { data: fetchedQuestions, loading, error, retry } = useFetch<QuestionsResult>(fetchQuestions, 'Failed to retrieve Questions');
+  const { data: fetchedQuestions, loading, error, retry } = useFetch<QuestionsResult>(fetchQuestions, ERROR_FETCH_QUESTIONS);
 
   useEffect(() => {
     if (fetchedQuestions) setQuestions(fetchedQuestions);
@@ -50,9 +50,6 @@ export default function Quiz({ category }: QuizProps) {
 
   const nextQuestions = async () => {
     if (!isFetching) {
-      paginationControllerRef.current?.abort();
-      const controller = new AbortController();
-      paginationControllerRef.current = controller;
       try {
         setIsFetching(true);
         const data = await provider.getQuestions({
@@ -61,7 +58,6 @@ export default function Quiz({ category }: QuizProps) {
           difficulty,
           type,
           token,
-          signal: controller.signal,
         });
         setQuestions(data);
         window.scrollTo(0, 0);
