@@ -8,7 +8,7 @@
 ## Security
 
 ### High
-- **#1 [src/api/providers.ts:33-38]**: Route params `categoryID`, `difficulty`, and `type` are interpolated directly into API URLs without validation. A crafted URL (e.g., `categoryID = "9&token=injected"`) can manipulate the outbound request. Fix: validate `categoryId` as numeric (OpenTDB) or known slug (The Trivia API); validate `difficulty` and `type` against `provider.difficulties`/`provider.types` allowlists before building the URL.
+_None identified._
 
 ### Medium
 _None identified._
@@ -33,6 +33,13 @@ _None identified._
 
 ## Performance
 
+### High
+_None identified._
+
+### Medium
+_None identified._
+
+### Low
 _None identified._
 
 ---
@@ -41,16 +48,11 @@ _None identified._
 
 ### Medium
 - **#10 [src/pages/Menu.tsx:70, src/components/ErrorBoundary.tsx:28-30]**: Inline `style` props are used in two places while the rest of the codebase uses `tq-*` CSS classes exclusively. Fix: extract into named `tq-*` classes in `index.css`.
-- **#11 [src/pages/Quiz.tsx:19]**: `paginationControllerRef` aborts and immediately replaces the controller, but the `isFetching` guard on line 44 already prevents concurrent requests — there is never a concurrent request to cancel. Fix: remove the ref and rely on the `isFetching` guard, or add a comment explaining the intent.
 - **#12 [src/context/ProviderContext.tsx:31-55, src/api/providers.ts:18-22]**: Token lifecycle is split — providers expose `getToken()` and `requiresToken`, but the context also owns the token fetch and state. Fix: move token fetching entirely into `ProviderContext`; providers should declare capability but not fetch.
 - **#13 [src/App.tsx, src/pages/Menu.tsx, src/pages/Quiz.tsx]**: `category` is prop-drilled through App → Menu (callback) → Quiz (prop). Fix: move `category` into `ProviderContext` or a dedicated context, mirroring the existing pattern for `provider`/`token`.
 
 ### Low
-- **#14 [src/App.tsx:13-15]**: `handleCategorySelect` is a one-liner wrapper around `setCategory` with no transformation. Fix: remove it and pass `setCategory` directly as the prop.
 - **#16 [src/components/Question.tsx:41]**: `aria-label` on answer elements uses static strings (`'Answer option'`, `'Correct answer'`) without including the answer text. Screen readers will read meaningless labels. Fix: use `aria-label={decodeHtml(opt)}` or remove the label and let the visible text serve as the accessible name.
-- **#17 [src/pages/Menu.tsx:99, 113, 127]**: Map iterator variables are named `data`, shadowing the outer `data` from `useFetch`. No runtime bug, but confusing during edits. Fix: rename to `cat` or `opt` as appropriate.
-- **#18 [src/hooks/useFetch.ts, src/pages/Menu.tsx:32, src/pages/Quiz.tsx:37]**: Error message strings are hardcoded at each `useFetch` call site. Fix: move to a constants file or derive from operation type.
-- **#19 [src/api/providers.ts:13, 85]**: Provider objects don't use `satisfies Provider` (TypeScript 4.9+), so missing required methods fail at runtime rather than compile time. Fix: add `satisfies Provider` to each provider object declaration.
 
 ---
 
@@ -77,9 +79,9 @@ _None identified._
 
 | Category | High | Medium | Low | Total |
 |----------|------|--------|-----|-------|
-| Security | 1 | 0 | 0 | 1 |
+| Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 4 | 5 | 9 |
+| Improvements & Refactors | 0 | 2 | 1 | 3 |
 | Feature Ideas | 1 | 4 | 4 | 9 |
-| **Total** | **2** | **8** | **9** | **19** |
+| **Total** | **1** | **6** | **5** | **12** |
