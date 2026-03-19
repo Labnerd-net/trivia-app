@@ -111,6 +111,46 @@ describe('ProviderProvider', () => {
     })
   })
 
+  it('does not update state after unmount during in-flight fetch', async () => {
+    const consoleSpy = vi.spyOn(console, 'error').mockImplementation(() => {})
+    mockGetProvider.mockReturnValue(makeProvider())
+    mockGetToken.mockReturnValue(new Promise(() => {}))
+
+    const { unmount } = render(
+      <ProviderProvider>
+        <div>child content</div>
+      </ProviderProvider>
+    )
+
+    unmount()
+    await act(async () => {})
+
+    expect(consoleSpy).not.toHaveBeenCalledWith(
+      expect.stringContaining('unmounted component')
+    )
+    consoleSpy.mockRestore()
+  })
+
+  it('retry increments retryCount and triggers a new token fetch', async () => {
+    mockGetProvider.mockReturnValue(makeProvider())
+    mockGetToken
+      .mockRejectedValueOnce(new Error('network error'))
+      .mockResolvedValue('recovered-token')
+
+    render(
+      <ProviderProvider>
+        <div>child content</div>
+      </ProviderProvider>
+    )
+
+    await screen.findByText('Failed to retrieve Token')
+    fireEvent.click(screen.getByRole('button', { name: 'Retry' }))
+
+    await waitFor(() => {
+      expect(mockGetToken).toHaveBeenCalledTimes(2)
+    })
+  })
+
   it('shows error UI on failure then renders children after retry succeeds', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
     mockGetToken

@@ -1,6 +1,6 @@
 # Project Backlog
 
-> Generated: 2026-03-14
+> Generated: 2026-03-16
 > Focus: Full audit
 
 ---
@@ -8,7 +8,7 @@
 ## Security
 
 ### High
-_None identified._
+- **#1 [src/api/providers.ts:33-38]**: Route params `categoryID`, `difficulty`, and `type` are interpolated directly into API URLs without validation. A crafted URL (e.g., `categoryID = "9&token=injected"`) can manipulate the outbound request. Fix: validate `categoryId` as numeric (OpenTDB) or known slug (The Trivia API); validate `difficulty` and `type` against `provider.difficulties`/`provider.types` allowlists before building the URL.
 
 ### Medium
 _None identified._
@@ -21,7 +21,7 @@ _None identified._
 ## Bugs
 
 ### High
-_None identified._
+- **#3 [src/context/ProviderContext.tsx:47-49]**: The `finally` block in `retrieveToken` calls `setLoading(false)` unconditionally after component unmount. The `useFetch` hook correctly guards with a `cancelled` flag; this effect does not. Fix: mirror the `cancelled` pattern from `useFetch.ts` — declare `let cancelled = false`, set it in cleanup, and gate all state setters with `if (!cancelled)`.
 
 ### Medium
 _None identified._
@@ -33,48 +33,44 @@ _None identified._
 
 ## Performance
 
-### High
-_None identified._
-
-### Medium
-_None identified._
-
-### Low
 _None identified._
 
 ---
 
 ## Improvements & Refactors
 
-### High
-_None identified._
-
 ### Medium
-_None identified._
+- **#10 [src/pages/Menu.tsx:70, src/components/ErrorBoundary.tsx:28-30]**: Inline `style` props are used in two places while the rest of the codebase uses `tq-*` CSS classes exclusively. Fix: extract into named `tq-*` classes in `index.css`.
+- **#11 [src/pages/Quiz.tsx:19]**: `paginationControllerRef` aborts and immediately replaces the controller, but the `isFetching` guard on line 44 already prevents concurrent requests — there is never a concurrent request to cancel. Fix: remove the ref and rely on the `isFetching` guard, or add a comment explaining the intent.
+- **#12 [src/context/ProviderContext.tsx:31-55, src/api/providers.ts:18-22]**: Token lifecycle is split — providers expose `getToken()` and `requiresToken`, but the context also owns the token fetch and state. Fix: move token fetching entirely into `ProviderContext`; providers should declare capability but not fetch.
+- **#13 [src/App.tsx, src/pages/Menu.tsx, src/pages/Quiz.tsx]**: `category` is prop-drilled through App → Menu (callback) → Quiz (prop). Fix: move `category` into `ProviderContext` or a dedicated context, mirroring the existing pattern for `provider`/`token`.
 
 ### Low
-_None identified._
+- **#14 [src/App.tsx:13-15]**: `handleCategorySelect` is a one-liner wrapper around `setCategory` with no transformation. Fix: remove it and pass `setCategory` directly as the prop.
+- **#15 [src/context/ProviderContext.tsx:63-67]**: `handleRetry` is recreated on every render (not wrapped in `useCallback`), inconsistent with the memoized `setSelectedProvider`. Fix: inline it as an arrow in the `onClick` prop.
+- **#16 [src/components/Question.tsx:41]**: `aria-label` on answer elements uses static strings (`'Answer option'`, `'Correct answer'`) without including the answer text. Screen readers will read meaningless labels. Fix: use `aria-label={decodeHtml(opt)}` or remove the label and let the visible text serve as the accessible name.
+- **#17 [src/pages/Menu.tsx:99, 113, 127]**: Map iterator variables are named `data`, shadowing the outer `data` from `useFetch`. No runtime bug, but confusing during edits. Fix: rename to `cat` or `opt` as appropriate.
+- **#18 [src/hooks/useFetch.ts, src/pages/Menu.tsx:32, src/pages/Quiz.tsx:37]**: Error message strings are hardcoded at each `useFetch` call site. Fix: move to a constants file or derive from operation type.
+- **#19 [src/api/providers.ts:13, 85]**: Provider objects don't use `satisfies Provider` (TypeScript 4.9+), so missing required methods fail at runtime rather than compile time. Fix: add `satisfies Provider` to each provider object declaration.
 
 ---
 
 ## Feature Ideas
 
 ### High
-- **#10** **Score tracking & results summary**: Quiz already tracks pagination (`page` state) and Question already shows correct/incorrect visual feedback. Natural extension: add `userAnswers: Map<string, boolean>` to Quiz state, capture selections before reveal, show a results view on quiz completion with score and category breakdown. Store per-session scores in localStorage (aligns with no-backend architecture).
-- **#11** **AI answer explanation**: After a question is revealed, offer a "Why?" button that calls the Claude API to explain why the correct answer is right in 2–3 sentences. Fills a real gap — the existing APIs return raw Q&A with zero context. Requires a lightweight backend proxy to avoid exposing API keys in the browser. Could be implemented as a minimal serverless function (e.g., Cloudflare Worker).
-- **#12** **AI hint system**: Before revealing the answer, offer a "Hint" button that asks the Claude API for a nudge without spoiling the answer (e.g., "Think about the time period..." or "It's related to physics"). Complements the existing answer flow without requiring UI restructuring. Same backend proxy requirement as answer explanations.
+- **#20 Score tracking**: `Question.tsx` has no answer selection or scoring. Add per-quiz score tracking — capture selected answers in `Quiz.tsx` state, display real-time score in the existing stats bar (lines 90-107), and show a final score summary before "Next Questions". Most fundamental missing feature for a quiz app.
 
 ### Medium
-- **#13** **AI question provider (user-defined categories)**: Add a third provider backed by the Claude API that accepts a free-text category input and generates questions matching the existing normalized format (`question`, `correctAnswer`, `incorrectAnswers[]`, etc.). Fits the existing provider interface cleanly — no UI restructuring needed beyond a text input in Menu. Cost is negligible (~$0.001/batch). **Caveat**: LLMs can hallucinate incorrect "correct" answers; mitigate by restricting to lower-stakes categories (pop culture, entertainment) or using Sonnet over Haiku for factual topics. Add a "report bad question" flag for user feedback. Requires the same backend proxy as the other AI features.
-- **#14** **Token exhaustion recovery**: `providers.ts` throws "Session token exhausted" but offers no recovery path — user must manually refresh. **Improvement**: App.tsx could catch this specific error and auto-refetch a new token, restarting the quiz seamlessly.
-- **#15** **Difficulty progression mode**: Menu already has difficulty selection. Add a "Progressive" mode where difficulty auto-escalates after a correct-answer streak. `retrieveQuestions` already accepts a `difficulty` param, so this is mainly state logic + UX feedback.
-- **#16** **Category-specific stats dashboard**: Quiz already renders a stats bar. Extend with localStorage-backed per-session/historical accuracy by category and difficulty, displayed as a modal or dropdown from the stats bar.
-- **#17** **Keyboard navigation**: App is purely click-driven. Add keyboard shortcuts — number keys 1–4 for answers, Enter to reveal/next. `nextQuestions()` is already the pagination mechanism. Low-risk `useEffect` + keydown listeners on Question/Quiz.
+- **#22 Timed quiz mode**: Add an optional timer via a new field in `Menu.tsx`'s form. Manage countdown in `Quiz.tsx` with a `useEffect`. Auto-advance or mark incorrect on expiry.
+- **#23 Difficulty progression mode**: Menu already has difficulty selection. Add a "Progressive" mode where difficulty auto-escalates after a correct-answer streak. `retrieveQuestions` already accepts a `difficulty` param, so this is mainly state logic + UX.
+- **#24 Quiz history / statistics dashboard**: Store session results (category, score, timestamp) in localStorage. Display a summary page: total quizzes, average score, most-played category.
+- **#25 Keyboard navigation**: App is purely click-driven. Add keyboard shortcuts — number keys 1–4 for answers, Enter to reveal/next. Low-risk `useEffect` + keydown listeners on Question/Quiz.
 
 ### Low
-- **#18** **Bookmark/favorite questions**: Add a bookmark button next to "Reveal Answer" in Question. Store bookmarks in localStorage keyed by question hash. Display a side panel in Quiz showing bookmarked questions.
-- **#19** **Theme toggle (dark/light)**: CSS variables are already scoped (`--bg`, `--gold`, `--text`, etc. in `index.css`). Create a `.light-theme` class with inverted values, toggle via `document.documentElement.classList` from a Navbar button.
-- **#20** **Test coverage gaps**: No tests for `App.tsx` (token fetching, provider switching), `Navbar.tsx`, or `ErrorBoundary.tsx`. No integration test for the Menu → Quiz navigation flow with actual route params.
+- **#26 Bookmarking questions**: Add a bookmark button in `Question.tsx`, persist to localStorage, and add a "Bookmarks" view accessible from `Navbar.tsx`.
+- **#27 Category search/filter**: Replace the plain `<select>` in `Menu.tsx` with a searchable/filterable input for providers with many categories (OpenTDB has 24).
+- **#28 Dark/light mode toggle**: App is dark-only. Add a toggle in `Navbar.tsx` backed by CSS custom properties and a localStorage preference.
+- **#29 Test coverage gaps**: No tests for `App.tsx` (token fetching, provider switching), `Navbar.tsx`, or `ErrorBoundary.tsx`. No integration test for the Menu → Quiz navigation flow.
 
 ---
 
@@ -82,9 +78,9 @@ _None identified._
 
 | Category | High | Medium | Low | Total |
 |----------|------|--------|-----|-------|
-| Security | 0 | 0 | 0 | 0 |
-| Bugs | 0 | 0 | 0 | 0 |
+| Security | 1 | 0 | 0 | 1 |
+| Bugs | 1 | 0 | 0 | 1 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 0 | 0 | 0 |
-| Feature Ideas | 3 | 5 | 3 | 11 |
-| **Total** | **3** | **5** | **3** | **11** |
+| Improvements & Refactors | 0 | 4 | 6 | 10 |
+| Feature Ideas | 1 | 4 | 4 | 9 |
+| **Total** | **3** | **8** | **10** | **21** |
