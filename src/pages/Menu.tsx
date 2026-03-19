@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router'
 import { providerList } from '../api/providers';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
+import { ERROR_FETCH_CATEGORIES } from '../constants/errorMessages';
 import type { Category } from '../types';
 
 interface MenuProps {
@@ -29,7 +30,7 @@ export default function Menu({ setCategory }: MenuProps) {
     [provider]
   );
 
-  const { data, loading, error, retry } = useFetch<Category[]>(fetchCategories, 'Failed to retrieve Categories');
+  const { data, loading, error, retry } = useFetch<Category[]>(fetchCategories, ERROR_FETCH_CATEGORIES);
   const categories = data ?? [];
 
   useEffect(() => {
@@ -96,8 +97,8 @@ export default function Menu({ setCategory }: MenuProps) {
               onChange={handleChange('category')}
               value={formData.category}
             >
-              {categories.map((data) =>
-                <option key={data.id} value={data.id}>{data.name}</option>
+              {categories.map((cat) =>
+                <option key={cat.id} value={cat.id}>{cat.name}</option>
               )}
             </select>
           </div>
@@ -110,8 +111,8 @@ export default function Menu({ setCategory }: MenuProps) {
               onChange={handleChange('difficulty')}
               value={formData.difficulty}
             >
-              {provider.difficulties.map((data) =>
-                <option key={data.value} value={data.value}>{data.label}</option>
+              {provider.difficulties.map((opt) =>
+                <option key={opt.value} value={opt.value}>{opt.label}</option>
               )}
             </select>
           </div>
@@ -124,8 +125,8 @@ export default function Menu({ setCategory }: MenuProps) {
               onChange={handleChange('type')}
               value={formData.type}
             >
-              {provider.types.map((data) =>
-                <option key={data.value} value={data.value}>{data.label}</option>
+              {provider.types.map((opt) =>
+                <option key={opt.value} value={opt.value}>{opt.label}</option>
               )}
             </select>
           </div>
