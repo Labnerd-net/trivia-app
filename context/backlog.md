@@ -21,7 +21,7 @@ _None identified._
 ## Bugs
 
 ### High
-- **#3 [src/context/ProviderContext.tsx:47-49]**: The `finally` block in `retrieveToken` calls `setLoading(false)` unconditionally after component unmount. The `useFetch` hook correctly guards with a `cancelled` flag; this effect does not. Fix: mirror the `cancelled` pattern from `useFetch.ts` — declare `let cancelled = false`, set it in cleanup, and gate all state setters with `if (!cancelled)`.
+_None identified._
 
 ### Medium
 _None identified._
@@ -47,7 +47,6 @@ _None identified._
 
 ### Low
 - **#14 [src/App.tsx:13-15]**: `handleCategorySelect` is a one-liner wrapper around `setCategory` with no transformation. Fix: remove it and pass `setCategory` directly as the prop.
-- **#15 [src/context/ProviderContext.tsx:63-67]**: `handleRetry` is recreated on every render (not wrapped in `useCallback`), inconsistent with the memoized `setSelectedProvider`. Fix: inline it as an arrow in the `onClick` prop.
 - **#16 [src/components/Question.tsx:41]**: `aria-label` on answer elements uses static strings (`'Answer option'`, `'Correct answer'`) without including the answer text. Screen readers will read meaningless labels. Fix: use `aria-label={decodeHtml(opt)}` or remove the label and let the visible text serve as the accessible name.
 - **#17 [src/pages/Menu.tsx:99, 113, 127]**: Map iterator variables are named `data`, shadowing the outer `data` from `useFetch`. No runtime bug, but confusing during edits. Fix: rename to `cat` or `opt` as appropriate.
 - **#18 [src/hooks/useFetch.ts, src/pages/Menu.tsx:32, src/pages/Quiz.tsx:37]**: Error message strings are hardcoded at each `useFetch` call site. Fix: move to a constants file or derive from operation type.
@@ -79,8 +78,8 @@ _None identified._
 | Category | High | Medium | Low | Total |
 |----------|------|--------|-----|-------|
 | Security | 1 | 0 | 0 | 1 |
-| Bugs | 1 | 0 | 0 | 1 |
+| Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 4 | 6 | 10 |
+| Improvements & Refactors | 0 | 4 | 5 | 9 |
 | Feature Ideas | 1 | 4 | 4 | 9 |
-| **Total** | **3** | **8** | **10** | **21** |
+| **Total** | **2** | **8** | **9** | **19** |

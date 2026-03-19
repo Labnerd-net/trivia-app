@@ -22,16 +22,24 @@ export default function Quiz({ category }: QuizProps) {
   const { categoryID, difficulty, type } = useParams();
   const { provider, token } = useProvider();
 
+  const paramsValid =
+    /^[a-z0-9_]*$/i.test(categoryID ?? '') &&
+    (!difficulty || provider.difficulties.some(d => d.value === difficulty)) &&
+    (!type || provider.types.some(t => t.value === type));
+
   const fetchQuestions = useCallback(
-    (signal: AbortSignal) => provider.getQuestions({
-      amount: NUMBER_OF_QUESTIONS,
-      categoryId: categoryID,
-      difficulty,
-      type,
-      token,
-      signal,
-    }),
-    [provider, categoryID, difficulty, type, token]
+    (signal: AbortSignal) => {
+      if (!paramsValid) return Promise.reject(new Error('Invalid quiz parameters.'));
+      return provider.getQuestions({
+        amount: NUMBER_OF_QUESTIONS,
+        categoryId: categoryID,
+        difficulty,
+        type,
+        token,
+        signal,
+      });
+    },
+    [provider, categoryID, difficulty, type, token, paramsValid]
   );
 
   const { data: fetchedQuestions, loading, error, retry } = useFetch<QuestionsResult>(fetchQuestions, 'Failed to retrieve Questions');
@@ -75,6 +83,7 @@ export default function Quiz({ category }: QuizProps) {
   const difficultyLabel = provider.difficulties.find(diff => diff.value === difficulty)?.label || difficulty;
   const typeLabel = provider.types.find(t => t.value === type)?.label || type;
 
+  if (!paramsValid) return <div className="tq-status error">Invalid quiz parameters.</div>;
   if (loading) return <div className="tq-status">Loading questions...</div>;
   if (error) return (
     <div className="tq-status error">
