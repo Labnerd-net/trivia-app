@@ -42,6 +42,14 @@ describe('Question component', () => {
     })
   })
 
+  it('each answer element has aria-label containing its decoded text before reveal', () => {
+    const q = makeQuestion()
+    render(<Question question={q} />)
+    ;[q.correctAnswer, ...q.incorrectAnswers].forEach(answer => {
+      expect(screen.getByLabelText(answer)).toBeDefined()
+    })
+  })
+
   it('button initially reads "Reveal Answer"', () => {
     render(<Question question={makeQuestion()} />)
     expect(screen.getByRole('button', { name: 'Reveal Answer' })).toBeDefined()
@@ -55,10 +63,10 @@ describe('Question component', () => {
 
     expect(screen.getByRole('button', { name: 'Hide Answer' })).toBeDefined()
 
-    const correctEl = screen.getByLabelText('Correct answer')
+    const correctEl = screen.getByLabelText('Correct: Paris')
     expect(correctEl.classList.contains('correct')).toBe(true)
 
-    const wrongEls = screen.getAllByLabelText('Answer option')
+    const wrongEls = ['London', 'Berlin', 'Madrid'].map(a => screen.getByLabelText(a))
     wrongEls.forEach(el => {
       expect(el.classList.contains('revealed-wrong')).toBe(true)
     })
@@ -73,10 +81,10 @@ describe('Question component', () => {
 
     expect(screen.getByRole('button', { name: 'Reveal Answer' })).toBeDefined()
 
-    const correctEl = screen.getByLabelText('Correct answer')
+    const correctEl = screen.getByLabelText('Paris')
     expect(correctEl.classList.contains('correct')).toBe(false)
 
-    const wrongEls = screen.getAllByLabelText('Answer option')
+    const wrongEls = ['London', 'Berlin', 'Madrid'].map(a => screen.getByLabelText(a))
     wrongEls.forEach(el => {
       expect(el.classList.contains('revealed-wrong')).toBe(false)
     })

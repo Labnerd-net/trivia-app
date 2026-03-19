@@ -38,7 +38,7 @@ export default function Question({ question, number }: QuestionProps) {
           <div
             key={opt}
             className={`tq-answer ${showAnswers ? (opt === question.correctAnswer ? 'correct' : 'revealed-wrong') : ''}`}
-            aria-label={opt === question.correctAnswer ? 'Correct answer' : 'Answer option'}
+            aria-label={showAnswers && opt === question.correctAnswer ? `Correct: ${decodeHtml(opt)}` : decodeHtml(opt)}
           >
             <div className="tq-answer-letter">{LETTERS[idx] ?? idx + 1}</div>
             <div className="tq-answer-text">{decodeHtml(opt)}</div>
