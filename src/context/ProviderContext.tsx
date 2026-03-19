@@ -30,28 +30,32 @@ export function ProviderProvider({ children }: ProviderProviderProps) {
 
   useEffect(() => {
     const controller = new AbortController();
+    let cancelled = false;
 
     const retrieveToken = async () => {
       try {
         const p = getProvider(selectedProvider);
         if (p.requiresToken) {
           const tokenData = await p.getToken(controller.signal);
-          setToken(tokenData);
+          if (!cancelled) setToken(tokenData);
         } else {
-          setToken(null);
+          if (!cancelled) setToken(null);
         }
       } catch (err) {
-        if (!axios.isCancel(err)) {
+        if (!cancelled && !axios.isCancel(err)) {
           setError('Failed to retrieve Token');
         }
       } finally {
-        setLoading(false);
+        if (!cancelled) setLoading(false);
       }
     };
 
     retrieveToken();
 
-    return () => controller.abort();
+    return () => {
+      cancelled = true;
+      controller.abort();
+    };
   }, [selectedProvider, retryCount]);
 
   const setSelectedProvider = useCallback((id: string) => {
@@ -59,12 +63,6 @@ export function ProviderProvider({ children }: ProviderProviderProps) {
     setLoading(true);
     setError(null);
   }, []);
-
-  const handleRetry = () => {
-    setLoading(true);
-    setError(null);
-    setRetryCount(c => c + 1);
-  };
 
   const provider = useMemo(() => getProvider(selectedProvider), [selectedProvider]);
 
@@ -77,7 +75,7 @@ export function ProviderProvider({ children }: ProviderProviderProps) {
   if (error) return (
     <div className="tq-status error">
       <div>{error}</div>
-      <button className="tq-btn tq-btn-ghost" onClick={handleRetry}>
+      <button className="tq-btn tq-btn-ghost" onClick={() => { setLoading(true); setError(null); setRetryCount(c => c + 1); }}>
         Retry
       </button>
     </div>
