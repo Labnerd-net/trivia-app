@@ -47,12 +47,11 @@ _None identified._
 ## Improvements & Refactors
 
 ### Medium
-- **#10 [src/pages/Menu.tsx:70, src/components/ErrorBoundary.tsx:28-30]**: Inline `style` props are used in two places while the rest of the codebase uses `tq-*` CSS classes exclusively. Fix: extract into named `tq-*` classes in `index.css`.
 - **#12 [src/context/ProviderContext.tsx:31-55, src/api/providers.ts:18-22]**: Token lifecycle is split — providers expose `getToken()` and `requiresToken`, but the context also owns the token fetch and state. Fix: move token fetching entirely into `ProviderContext`; providers should declare capability but not fetch.
 - **#13 [src/App.tsx, src/pages/Menu.tsx, src/pages/Quiz.tsx]**: `category` is prop-drilled through App → Menu (callback) → Quiz (prop). Fix: move `category` into `ProviderContext` or a dedicated context, mirroring the existing pattern for `provider`/`token`.
 
 ### Low
-- **#16 [src/components/Question.tsx:41]**: `aria-label` on answer elements uses static strings (`'Answer option'`, `'Correct answer'`) without including the answer text. Screen readers will read meaningless labels. Fix: use `aria-label={decodeHtml(opt)}` or remove the label and let the visible text serve as the accessible name.
+_None identified._
 
 ---
 
@@ -82,6 +81,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 2 | 1 | 3 |
+| Improvements & Refactors | 0 | 1 | 0 | 1 |
 | Feature Ideas | 1 | 4 | 4 | 9 |
-| **Total** | **1** | **6** | **5** | **12** |
+| **Total** | **1** | **5** | **4** | **10** |
