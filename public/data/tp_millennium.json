@@ -1,0 +1,514 @@
+{
+  "questions": [
+    {
+      "category": "PP",
+      "question": "What virus infected one in four adults in Botswana and Zimbabwe by 1998?",
+      "answer": "HIV"
+    },
+    {
+      "category": "AE",
+      "question": "What did Garrison Keillor say was 'the little town that time forgot, that the decades cannot improve'?",
+      "answer": "Lake Wobegon"
+    },
+    {
+      "category": "HIS",
+      "question": "Whose operatic music did Nazis goose-step to at the Nuremburg rallies, in the 1930s?",
+      "answer": "Richard Wagner's"
+    },
+    {
+      "category": "SN",
+      "question": "What drug did Freud claim could be used to wean addicts off morphine?",
+      "answer": "Cocaine"
+    },
+    {
+      "category": "SL",
+      "question": "What former heavyweight champ lasted only three days in U.S. Marine boot camp, in 1997?",
+      "answer": "Riddick Bowe"
+    },
+    {
+      "category": "WC",
+      "question": "Who noted: 'If you can count your millions you are not a billionaire'?",
+      "answer": "J. Paul Getty"
+    },
+    {
+      "category": "PP",
+      "question": "What did the U.S. Board on Geographic Names strip from Harpers Ferry and Marthas Vineyard?",
+      "answer": "Apostrophes"
+    },
+    {
+      "category": "AE",
+      "question": "What show's characters wrecked over 300 cars during its TV run?",
+      "answer": "The Dukes of Hazzard's"
+    },
+    {
+      "category": "HIS",
+      "question": "What U.S. president gave the order to have Al Capone imprisoned at any cost?",
+      "answer": "Herbert Hoover"
+    },
+    {
+      "category": "SN",
+      "question": "What country's space program became the third to send a probe to another planet, in 1998?",
+      "answer": "Japan"
+    },
+    {
+      "category": "SL",
+      "question": "What racket sport was patented in 19th-century Britain as 'Sphairistike' or 'sticky'?",
+      "answer": "Tennis"
+    },
+    {
+      "category": "WC",
+      "question": "What word did Dan Quayle devote an entire chapter to, in his book of memoirs?",
+      "answer": "Potato"
+    },
+    {
+      "category": "PP",
+      "question": "What west coast city did some jazz musicians dub 'Mississippi with palm trees'?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "AE",
+      "question": "What kid's show's interracial cast needed riot police protection during a 1969 trip to Mississippi?",
+      "answer": "Sesame Street's"
+    },
+    {
+      "category": "HIS",
+      "question": "What substance did Bob Dole unwisely say may not be addictive, in 1996?",
+      "answer": "Tobacco"
+    },
+    {
+      "category": "SN",
+      "question": "What body parts are oversized in a man suffering from gynecomastia?",
+      "answer": "Breasts"
+    },
+    {
+      "category": "SL",
+      "question": "What was Craig MacTavish the last NHL player to play without?",
+      "answer": "A helmet"
+    },
+    {
+      "category": "WC",
+      "question": "What Whitney Houston hit did Helen Stephens blast her neighbors with around the clock for six solid weeks, earning her a week in jail?",
+      "answer": "I Will Always Love You"
+    },
+    {
+      "category": "PP",
+      "question": "What's the highest point in China?",
+      "answer": "Mount Everest"
+    },
+    {
+      "category": "AE",
+      "question": "What did Barney and Betty Rubble find on their front stoop the morning after they wished upon a star?",
+      "answer": "Bamm-Bamm Rubble"
+    },
+    {
+      "category": "HIS",
+      "question": "What type of dancing was banned in the U.S. in 1933?",
+      "answer": "Marathon dancing"
+    },
+    {
+      "category": "SN",
+      "question": "What vice president raised eyebrows by proposing to broadcast a live shot of Earth round the clock?",
+      "answer": "Al Gore"
+    },
+    {
+      "category": "SL",
+      "question": "What became the game industry's first 64-bit console, in 1996?",
+      "answer": "Nintendo 64"
+    },
+    {
+      "category": "WC",
+      "question": "What rock 'n' roll singer is memorialized by an eight-foot bronze statue in Lubbock, Texas?",
+      "answer": "Buddy Holly"
+    },
+    {
+      "category": "PP",
+      "question": "What country officially limits women to one child?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "question": "Who had nine best-selling French albums before waxing her first in English in 1990?",
+      "answer": "Celine Dion"
+    },
+    {
+      "category": "HIS",
+      "question": "What future U.S. president claimed no thinking man in North America desired independence, in 1774?",
+      "answer": "George Washington"
+    },
+    {
+      "category": "SN",
+      "question": "What did physicist Lord Rutherford discover inside the nucleus of the atom?",
+      "answer": "Protons"
+    },
+    {
+      "category": "SL",
+      "question": "What's hyped in league ads as 'the coolest game on Earth'?",
+      "answer": "Hockey"
+    },
+    {
+      "category": "WC",
+      "question": "Who told Rev. Al Sharpton to style his hair like James Brown's, before a 1981 trip to the White House?",
+      "answer": "James Brown"
+    },
+    {
+      "category": "PP",
+      "question": "What British landmark is the world's largest inhabited castle?",
+      "answer": "Windsor Castle"
+    },
+    {
+      "category": "AE",
+      "question": "What TV series won the most Outstanding Drama Emmys in the 1980s?",
+      "answer": "Hill Street Blues"
+    },
+    {
+      "category": "HIS",
+      "question": "What archipelago lost an estimated one million of its citizens in the war against Japan from 1941 to 1945?",
+      "answer": "The Philippines"
+    },
+    {
+      "category": "SN",
+      "question": "What brand became the first sugar-free sugar substitute, in 1957?",
+      "answer": "Sweet 'N Low"
+    },
+    {
+      "category": "SL",
+      "question": "What NBA star attempted a record 28,307 field goals in regular season games?",
+      "answer": "Kareem Abdul-Jabbar"
+    },
+    {
+      "category": "WC",
+      "question": "What 77-year-old did Bob Dylan sing Knockin' on Heaven's Door to, at a mass in Bologna, Italy?",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "category": "PP",
+      "question": "What's the northernmost Baltic republic?",
+      "answer": "Estonia"
+    },
+    {
+      "category": "AE",
+      "question": "What pop quartet does the band Bjorn Again parody, featuring Frida Longstokin, Agnetha Falstart, Benny Anderwear and Bjorn Volvo-us?",
+      "answer": "ABBA"
+    },
+    {
+      "category": "HIS",
+      "question": "What was the longest war in U.S. history?",
+      "answer": "The Vietnam War"
+    },
+    {
+      "category": "SN",
+      "question": "What nation's astronaut founded a gourmet space meals company after serving fellow Discovery crew members his crab mousse recipe?",
+      "answer": "France's"
+    },
+    {
+      "category": "SL",
+      "question": "What boxer is the pride of El Paso?",
+      "answer": "Oscar De La Hoya"
+    },
+    {
+      "category": "WC",
+      "question": "What do officials in Queensland, Australia advise tourists not to sit on the back of or place any part of their bodies in the mouth of?",
+      "answer": "Crocodiles"
+    },
+    {
+      "category": "PP",
+      "question": "What U.S. state decided to make its official vegetables the chili and frijole?",
+      "answer": "New Mexico"
+    },
+    {
+      "category": "AE",
+      "question": "What literary trilogy kept Dante Alighieri busy from 1310 to 1314?",
+      "answer": "Divine Comedy"
+    },
+    {
+      "category": "HIS",
+      "question": "What Tuscumbia, Alabama native was pictured on $50 'I Bonds' the Treasury Department offered in 1998?",
+      "answer": "Helen Keller"
+    },
+    {
+      "category": "SN",
+      "question": "What barnyard animal is twice as populous as humans?",
+      "answer": "The chicken"
+    },
+    {
+      "category": "SL",
+      "question": "What year did Cal Ripken Jr. begin his record consecutive-game streak?",
+      "answer": "1982"
+    },
+    {
+      "category": "WC",
+      "question": "What Mattel doll in a wheelchair is unable to fit through the front door of the Barbie Dream House?",
+      "answer": "Share a Smile Becky"
+    },
+    {
+      "category": "PP",
+      "question": "What U.S. state's high altitude nearly doubles the effects of auto emissions?",
+      "answer": "Colorado's"
+    },
+    {
+      "category": "AE",
+      "question": "What annoying song title did teen trio Hanson put in people's minds in 1997?",
+      "answer": "Mmmbop"
+    },
+    {
+      "category": "HIS",
+      "question": "What soul songstress sang at Martin Luther King's funeral and Bill Clinton's inaugural?",
+      "answer": "Aretha Franklin"
+    },
+    {
+      "category": "SN",
+      "question": "What type of seeds can cause drug tests to trigger false positives for opium?",
+      "answer": "Poppy seeds"
+    },
+    {
+      "category": "SL",
+      "question": "What brand of Dijon mustard sold in the U.S. is actually made in Oxnard, California?",
+      "answer": "Grey Poupon"
+    },
+    {
+      "category": "WC",
+      "question": "What Asian nation's residents mousse their hair with a product called 'Brown Gross Foam'?",
+      "answer": "Japan's"
+    },
+    {
+      "category": "PP",
+      "question": "What's the only U.S. state to share a border with one of Canada's Maritime provinces?",
+      "answer": "Maine"
+    },
+    {
+      "category": "AE",
+      "question": "What stage musical did Donny Osmond and seven of his nephews all appear in, in the 1990s?",
+      "answer": "Joseph and the Amazing Technicolor Dreamcoat"
+    },
+    {
+      "category": "HIS",
+      "question": "What country did Fidel Castro go to, to plot the revolution after his release from prison?",
+      "answer": "Mexico"
+    },
+    {
+      "category": "SN",
+      "question": "What's the small flap in the back of your throat called?",
+      "answer": "The uvula"
+    },
+    {
+      "category": "SL",
+      "question": "What two-letter street slang for \"Hello, there\" will give Scrabble players a legal five points?",
+      "answer": "Yo"
+    },
+    {
+      "category": "WC",
+      "question": "What did Leonard Nimoy name his 1995 book sequel to I Am Not Spock?",
+      "answer": "I Am Spock"
+    },
+    {
+      "category": "PP",
+      "question": "What nation's citizens were 45 times as likely to have TVs than hot water, in 1998?",
+      "answer": "China's"
+    },
+    {
+      "category": "AE",
+      "question": "Who thanked his parents for not practicing birth control upon picking up a 1979 Best Actor Oscar?",
+      "answer": "Dustin Hoffman"
+    },
+    {
+      "category": "HIS",
+      "question": "What island nation is torn in civil wars between the Tamil and Sinhalese people?",
+      "answer": "Sri Lanka"
+    },
+    {
+      "category": "SN",
+      "question": "What's dichloro-diphenyl-trichloro-ethane better known as?",
+      "answer": "DDT"
+    },
+    {
+      "category": "SL",
+      "question": "How long is the course used for events staged by the World Organization of Racing Maggots?",
+      "answer": "One foot"
+    },
+    {
+      "category": "WC",
+      "question": "What Scream star has a first name that is a Dutch word for \"snow\"?",
+      "answer": "Neve Campbell"
+    },
+    {
+      "category": "PP",
+      "question": "What's the most prominent U.S. government outfit headquartered in Langley, Virginia?",
+      "answer": "The CIA"
+    },
+    {
+      "category": "AE",
+      "question": "Who married a Korean woman in the final episode of M*A*S*H?",
+      "answer": "Max Klinger"
+    },
+    {
+      "category": "HIS",
+      "question": "What outfit did Elizabeth Dole head after resigning as George Bush's labor secretary in 1990?",
+      "answer": "The American Red Cross"
+    },
+    {
+      "category": "SN",
+      "question": "What colorless gas is essential in the production of fertilizers and light bulbs?",
+      "answer": "Nitrogen"
+    },
+    {
+      "category": "SL",
+      "question": "What 1975 finger fad did inventor Joshua Reynolds describe as \"portable biofeedback aids\"?",
+      "answer": "Mood rings"
+    },
+    {
+      "category": "WC",
+      "question": "Who did Elizabeth Taylor describe as \"the least weird man\" she'd ever known?",
+      "answer": "Michael Jackson"
+    },
+    {
+      "category": "PP",
+      "question": "What nation tries to lure tourists with the ad, \"We've been fascinating travelers since 8,000 B.C.\"?",
+      "answer": "Turkey"
+    },
+    {
+      "category": "AE",
+      "question": "What did Miramax change the title Scary Movie to, in 1996?",
+      "answer": "Scream"
+    },
+    {
+      "category": "HIS",
+      "question": "What retired pathologist calls himself an \"obitiatrist\"?",
+      "answer": "Dr. Jack Kevorkian"
+    },
+    {
+      "category": "SN",
+      "question": "How many feet tall are most cattle at the shoulder?",
+      "answer": "Five"
+    },
+    {
+      "category": "SL",
+      "question": "What had George Robson just won in 1946 when he quipped, \"All I had to do is keep turning left\"?",
+      "answer": "The Indianapolis 500"
+    },
+    {
+      "category": "WC",
+      "question": "What actor did NASA Captain Jim Lovell dub \"a closet astronaut\"?",
+      "answer": "Tom Hanks"
+    },
+    {
+      "category": "PP",
+      "question": "What state has had mining camps called Humbug City, Sucker Flat and Jackassville?",
+      "answer": "California"
+    },
+    {
+      "category": "AE",
+      "question": "What musical did author Jonathan Larson spend seven years working on, only to die hours before its pre-Broadway opening?",
+      "answer": "Rent"
+    },
+    {
+      "category": "HIS",
+      "question": "What company did Bill and Hillary Clinton form with James McDougal in the seventies?",
+      "answer": "Whitewater Development Company, Inc."
+    },
+    {
+      "category": "SN",
+      "question": "What's the cheapest method of disposing of municipal solid waste?",
+      "answer": "Landfill"
+    },
+    {
+      "category": "SL",
+      "question": "What year was the first summer Olympiad televised live?",
+      "answer": "1960"
+    },
+    {
+      "category": "WC",
+      "question": "What magazine's complete output from 1888 to 1997, including 155,520 images and 175,000 pages of text, was published in a 30-CD-ROM set?",
+      "answer": "National Geographic's"
+    },
+    {
+      "category": "PP",
+      "question": "What university, with 13 million volumes, has the largest college reference library in the U.S.?",
+      "answer": "Harvard"
+    },
+    {
+      "category": "AE",
+      "question": "What ballet do Parisians call Lac des Cygnes?",
+      "answer": "Swan Lake"
+    },
+    {
+      "category": "HIS",
+      "question": "What secretary of the interior called the U.S. a country of \"liberals and Americans\"?",
+      "answer": "James Watt"
+    },
+    {
+      "category": "SN",
+      "question": "What two-word term does a weatherman use for the temperature at which water vapor begins to condense?",
+      "answer": "Dew point"
+    },
+    {
+      "category": "SL",
+      "question": "What Florida-based pro sports team is named after the rarest American mammal?",
+      "answer": "The Florida Panthers"
+    },
+    {
+      "category": "WC",
+      "question": "What was the first online bookstore, offering 2.5 million titles by 1997?",
+      "answer": "Amazon.com"
+    },
+    {
+      "category": "PP",
+      "question": "What Chinese city leads the world in illegally imported ivory?",
+      "answer": "Hong Kong"
+    },
+    {
+      "category": "AE",
+      "question": "Who rode his Taster's Choice fame to a leading role on Buffy the Vampire Slayer?",
+      "answer": "Anthony Stewart Head"
+    },
+    {
+      "category": "HIS",
+      "question": "What was transported by wagon to Allentown for safekeeping when the British reached the outskirts of Philadelphia in 1777?",
+      "answer": "The Liberty Bell"
+    },
+    {
+      "category": "SN",
+      "question": "What mollusk is the geoduck a large edible variety of?",
+      "answer": "The clam"
+    },
+    {
+      "category": "SL",
+      "question": "What NFL team once had Bob Hope, Henry Mancini, Maureen Reagan and Danny Thomas on its advisory board?",
+      "answer": "The Los Angeles Rams"
+    },
+    {
+      "category": "WC",
+      "question": "What does \"BTW\" mean in e-mail speak?",
+      "answer": "By the way"
+    },
+    {
+      "category": "PP",
+      "question": "What was the fitting name of the Ku Klux Klan museum and apparel store John Howard opened in Laurens, South Carolina?",
+      "answer": "The Redneck Shop"
+    },
+    {
+      "category": "AE",
+      "question": "What British Royal did David Letterman ask, \"What is York\" and \"Do you like wrestling\"?",
+      "answer": "Sarah Ferguson"
+    },
+    {
+      "category": "HIS",
+      "question": "What Mafia don died of a heart attack while watching a New York Yankees game in 1976?",
+      "answer": "Carlo Gambino"
+    },
+    {
+      "category": "SN",
+      "question": "What animals eat an average of ten baby hippos a year at Nepal's Royal Chitwan Park?",
+      "answer": "Tigers"
+    },
+    {
+      "category": "SL",
+      "question": "How many playoff games do you have to win to cop the Stanley Cup?",
+      "answer": "Sixteen"
+    },
+    {
+      "category": "WC",
+      "question": "What did the famous chef Le Grand Valtel do after Louis XIV asked for a doggie bag?",
+      "answer": "Commit suicide"
+    }
+  ]
+}

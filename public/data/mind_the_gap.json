@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "category": "Millennial",
+      "question": "What actress from the TV show Roseanne went on to play the mother of Sheldon Cooper in the Big Bang Theory?",
+      "answer": "Lori Metcalf"
+    },
+    {
+      "category": "Millennial",
+      "question": "What country artist played Daisy Duke in The Dukes of Hazard movie remake, and famously asked if tuna was \"chicken or fish\" on her reality show?",
+      "answer": "Jessica Simpson"
+    },
+    {
+      "category": "Millennial",
+      "question": "Finish these lyrics by TLC: \"A scrub is a guy that and is also known as a buster.\"",
+      "answer": "\"Thinks he's fly\""
+    },
+    {
+      "category": "Millennial",
+      "question": "In 1997, IBM's Deep Blue defeated this world chess champion.",
+      "answer": "Garry Kasparov"
+    },
+    {
+      "category": "Millennial",
+      "question": "What did it mean if someone called you a GOAT?",
+      "answer": "Greatest of All Time"
+    },
+    {
+      "category": "Millennial",
+      "question": "In the animated version of Aladdin, what did Aladdin steal that prompted the guards to begin chasing him?",
+      "answer": "A loaf of bread"
+    },
+    {
+      "category": "Millennial",
+      "question": "Just like its name, these vending machines offered movie rentals.",
+      "answer": "Redbox"
+    },
+    {
+      "category": "Millennial",
+      "question": "This \"Songbird Supreme\" has a five-octave vocal range and had a string of number one hits for 11 straight years from 1989 to 2000.",
+      "answer": "Mariah Carey"
+    },
+    {
+      "category": "Millennial",
+      "question": "Name the two Presidential candidates in the controversial 2000 election.",
+      "answer": "George Bush and Al Gore"
+    },
+    {
+      "category": "Millennial",
+      "question": "What snack brand's slogan was \"Once you pop, you can't stop\" referencing the sound their packaging made when opened?",
+      "answer": "Pringles"
+    },
+    {
+      "category": "Boomer",
+      "question": "Name Pa Cartwright's three sons on the TV show Bonanza.",
+      "answer": "Adam, Hoss, and Little Joe"
+    },
+    {
+      "category": "Boomer",
+      "question": "Who invented the first frozen TV dinners in 1954?",
+      "answer": "Swanson"
+    },
+    {
+      "category": "Boomer",
+      "question": "Jim Morrison, Ray Manzarek, Robby Krieger and John Densmore made up what band?",
+      "answer": "The Doors"
+    },
+    {
+      "category": "Boomer",
+      "question": "Name two of the three rock and roll musicians killed in a 1959 plane crash in Clear Lake, Iowa.",
+      "answer": "Buddy Holly, Ritchie Valens, \"The Big Bopper\" J.P. Richardson"
+    },
+    {
+      "category": "Boomer",
+      "question": "In 1971, what character said, \"You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?\"",
+      "answer": "Dirty Harry"
+    },
+    {
+      "category": "Millennial",
+      "question": "Which Tanner daughter famously exclaimed, \"How rude\" in every episode?",
+      "answer": "Stephanie Tanner"
+    },
+    {
+      "category": "Millennial",
+      "question": "What service, launched in 1997, allowed subscribers to have DVDs mailed directly to their home?",
+      "answer": "Netflix"
+    },
+    {
+      "category": "Millennial",
+      "question": "What was Marshall Bruce Mathers III's stage name?",
+      "answer": "Eminem"
+    },
+    {
+      "category": "Millennial",
+      "question": "What five-year-old boy became a catalyst on immigration policy with a standoff between the US and Cuba in 2000.",
+      "answer": "Elian Gonzalez"
+    },
+    {
+      "category": "Millennial",
+      "question": "What did WMD stand for?",
+      "answer": "Weapons of mass destruction"
+    },
+    {
+      "category": "Gen X",
+      "question": "Whose time travel adventures had them meeting historical figures like \"So-crates\"?",
+      "answer": "Bill and Ted"
+    },
+    {
+      "category": "Gen X",
+      "question": "What toilet paper were grocery shoppers discouraged from squeezing?",
+      "answer": "Charmin"
+    },
+    {
+      "category": "Gen X",
+      "question": "What bearded group was known for \"Sharp Dressed Man\" and \"Legs\"?",
+      "answer": "ZZ Top"
+    },
+    {
+      "category": "Gen X",
+      "question": "Who was murdered by Mark David Chapman in 1980?",
+      "answer": "John Lennon"
+    },
+    {
+      "category": "Gen X",
+      "question": "Used to describe a married couple, what did the acronym DINK mean?",
+      "answer": "Double (or dual) Income, No Kids"
+    },
+    {
+      "category": "Gen X",
+      "question": "Name the 80's ensemble police drama, led by Captain Frank Furillo, that received eight Emmy Awards in its initial season.",
+      "answer": "Hill Street Blues"
+    },
+    {
+      "category": "Gen X",
+      "question": "What singer became a spokesperson for the Psychic Friends Network astrology hotline?",
+      "answer": "Dionne Warwick"
+    },
+    {
+      "category": "Gen X",
+      "question": "Name the movie that made a hit song of an electronic instrumental piece by Harold Faltermeyer.",
+      "answer": "Beverly Hills Cop"
+    },
+    {
+      "category": "Gen X",
+      "question": "Organized by Quincy Jones, what was the 1985 superstar charity recording for famine relief efforts in Ethiopia?",
+      "answer": "\"We Are the World\""
+    },
+    {
+      "category": "Gen X",
+      "question": "In the 70s, what did it mean if someone asked, \"What's your 20?\"",
+      "answer": "What's your location or where are you?"
+    },
+    {
+      "category": "Gen Z",
+      "question": "In what Disney show did an older sister give her baby sister advice through recordings?",
+      "answer": "Good Luck Charlie"
+    },
+    {
+      "category": "Gen Z",
+      "question": "What e-cigarette was popular with teenagers because of its small size that looked like a USB?",
+      "answer": "The Juul"
+    },
+    {
+      "category": "Gen Z",
+      "question": "What 2019 song by Luis Fonsi (ft. Daddy Yankee), reached the milestones of 2 billion and 2.5 billion views the fastest in YouTube's history?",
+      "answer": "\"Despacito\""
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name the hippo born at the Cincinnati Zoo in 2017 who became world famous through social media feeds chronicling her progress.",
+      "answer": "Fiona"
+    },
+    {
+      "category": "Gen Z",
+      "question": "What TV show used the phrase, \"The Tribe has spoken\"?",
+      "answer": "Survivor"
+    },
+    {
+      "category": "Gen Z",
+      "question": "The Honey Boo Boo show was a major circus and viewers jumped on the crazy train to watch. What was her mom's name on the show?",
+      "answer": "Mama June"
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name the hero of the book series by Rick Riordan that follows a boy demigod, who is the son of Poseidon and a mortal woman.",
+      "answer": "Percy Jackson"
+    },
+    {
+      "category": "Gen Z",
+      "question": "Finish the lyrics: \"Welcome to the final show, __________.\"",
+      "answer": "\"hope you're wearing your best clothes.\""
+    },
+    {
+      "category": "Gen Z",
+      "question": "Name the person convicted of murdering her ex-boyfriend in 2008, leaving incriminating evidence on a digital camera in his apartment?",
+      "answer": "Jodi Arias"
+    },
+    {
+      "category": "Gen Z",
+      "question": "What was meant by the phrase, \"Turned down for what\"?",
+      "answer": "Excitement for upcoming events"
+    },
+    {
+      "category": "Boomer",
+      "question": "This 1950s children's show had a Peanut Gallery and a clown named Clarabell.",
+      "answer": "Howdy Doody"
+    },
+    {
+      "category": "Boomer",
+      "question": "What popular building toy was invented by Frank Lloyd Wright's son to inspire kids to be creative?",
+      "answer": "Lincoln Logs"
+    },
+    {
+      "category": "Boomer",
+      "question": "What did Simon and Garfunkel ask you to buy if you were going to Scarborough Fair?",
+      "answer": "\"Parsley, sage, rosemary, and thyme\""
+    },
+    {
+      "category": "Boomer",
+      "question": "Name the man who was the first African-American to receive the Nobel Peace Prize, primarily for his work as a peace negotiator in the Middle East following the creation of Israel.",
+      "answer": "Ralph Bunche"
+    },
+    {
+      "category": "Boomer",
+      "question": "What tagline was associated with the Smothers Brothers?",
+      "answer": "\"Mom always liked you best.\""
+    },
+    {
+      "category": "Boomer",
+      "question": "What game show invented by Merv Griffin and his wife in 1964 gave contestants the answer and the contestants had to provide the question?",
+      "answer": "Jeopardy!"
+    },
+    {
+      "category": "Boomer",
+      "question": "This author's revolutionary book Baby and Child Care was a top seller for decades.",
+      "answer": "Dr. Benjamin Spock"
+    },
+    {
+      "category": "Boomer",
+      "question": "Name three of the five original members of the Jackson 5.",
+      "answer": "Jackie, Tito, Jermaine, Marlon, Michael"
+    },
+    {
+      "category": "Boomer",
+      "question": "What famous female athlete, considered the greatest of the first half of the 20th century, was an Olympic gold medalist and professional golfer?",
+      "answer": "Babe Didrikson (Zaharias)"
+    },
+    {
+      "category": "Boomer",
+      "question": "What was a \"patsy\"?",
+      "answer": "Scapegoat; someone left to face consequences; a gullible person"
+    },
+    {
+      "category": "Boomer",
+      "question": "What famous on-screen couple starred in Send Me No Flowers, Lover Come Back, and Pillow Talk?",
+      "answer": "Doris Day and Rock Hudson"
+    },
+    {
+      "category": "Boomer",
+      "question": "Name the author of the science fiction anti-war novel Slaughterhouse-Five, published in 1969.",
+      "answer": "Kurt Vonnegut"
+    },
+    {
+      "category": "Boomer",
+      "question": "Based on a Dickens' novel, this 1960s musical was a smash hit on stage and screen, with songs \"Food, Glorious Food,\" \"Consider Yourself,\" and \"As Long as He Needs Me.\"",
+      "answer": "Oliver!"
+    },
+    {
+      "category": "Boomer",
+      "question": "What item did Nikita Khrushchev supposedly pound when agitated at the United Nations in 1960?",
+      "answer": "His shoe"
+    },
+    {
+      "category": "Boomer",
+      "question": "In what 1972 movie was the iconic phrase, \"I'm gonna make him an offer he can't refuse\"?",
+      "answer": "The Godfather"
+    },
+    {
+      "category": "Gen X",
+      "question": "In what club were Claire, Andrew, John, Brian and Allison?",
+      "answer": "The Breakfast Club"
+    },
+    {
+      "category": "Gen X",
+      "question": "What airline was known for its use of Gershwin's \"Rhapsody in Blue\"?",
+      "answer": "United"
+    },
+    {
+      "category": "Gen X",
+      "question": "Name the iconic Irish band and their most famous album in 1987, named for a National Park in California.",
+      "answer": "U2 – Joshua Tree (National Park)"
+    },
+    {
+      "category": "Gen X",
+      "question": "Where did The Experimental Prototype Community of Tomorrow open in 1982?",
+      "answer": "EPCOT opened at Disney World"
+    },
+    {
+      "category": "Gen X",
+      "question": "If someone said \"no duh,\" what were they implying?",
+      "answer": "They already knew something, or it was common knowledge"
+    }
+  ]
+}
