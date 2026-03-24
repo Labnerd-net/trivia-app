@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/* global process */
 /**
  * Merges card JSON files from context/input/<provider>/ into public/data/<provider>.json
  *
