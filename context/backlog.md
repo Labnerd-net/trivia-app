@@ -47,7 +47,6 @@ _None identified._
 ## Improvements & Refactors
 
 ### Medium
-- **#12 [src/context/ProviderContext.tsx:31-55, src/api/providers.ts:18-22]**: Token lifecycle is split — providers expose `getToken()` and `requiresToken`, but the context also owns the token fetch and state. Fix: move token fetching entirely into `ProviderContext`; providers should declare capability but not fetch.
 - **#13 [src/App.tsx, src/pages/Menu.tsx, src/pages/Quiz.tsx]**: `category` is prop-drilled through App → Menu (callback) → Quiz (prop). Fix: move `category` into `ProviderContext` or a dedicated context, mirroring the existing pattern for `provider`/`token`.
 
 ### Low

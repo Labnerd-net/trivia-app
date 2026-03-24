@@ -156,6 +156,59 @@ describe('ProviderProvider', () => {
     })
   })
 
+  it('category is null by default', async () => {
+    mockGetProvider.mockReturnValue(makeProvider())
+    mockAxiosGet.mockResolvedValue({ data: { token: 'test-token' } })
+
+    const { result } = renderHook(() => useProvider(), {
+      wrapper: ({ children }) => <ProviderProvider>{children}</ProviderProvider>,
+    })
+
+    await waitFor(() => {
+      expect(result.current.category).toBeNull()
+    })
+  })
+
+  it('setCategory updates the category value', async () => {
+    mockGetProvider.mockReturnValue(makeProvider())
+    mockAxiosGet.mockResolvedValue({ data: { token: 'test-token' } })
+
+    const { result } = renderHook(() => useProvider(), {
+      wrapper: ({ children }) => <ProviderProvider>{children}</ProviderProvider>,
+    })
+
+    await waitFor(() => expect(result.current.category).toBeNull())
+
+    act(() => {
+      result.current.setCategory({ id: '9', name: 'General Knowledge' })
+    })
+
+    expect(result.current.category).toEqual({ id: '9', name: 'General Knowledge' })
+  })
+
+  it('switching provider resets category to null', async () => {
+    mockGetProvider
+      .mockReturnValueOnce(makeProvider({ id: 'opentdb' }))
+      .mockReturnValue(makeProvider({ id: 'triviaapi', requiresToken: false }))
+    mockAxiosGet.mockResolvedValue({ data: { token: 'test-token' } })
+
+    const { result } = renderHook(() => useProvider(), {
+      wrapper: ({ children }) => <ProviderProvider>{children}</ProviderProvider>,
+    })
+
+    await waitFor(() => expect(result.current.category).toBeNull())
+
+    act(() => {
+      result.current.setCategory({ id: '9', name: 'General Knowledge' })
+    })
+    expect(result.current.category).toEqual({ id: '9', name: 'General Knowledge' })
+
+    act(() => {
+      result.current.setSelectedProvider('triviaapi')
+    })
+    expect(result.current.category).toBeNull()
+  })
+
   it('shows error UI on failure then renders children after retry succeeds', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
     mockAxiosGet

@@ -4,11 +4,6 @@ import { providerList } from '../api/providers';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
 import { ERROR_FETCH_CATEGORIES } from '../constants/errorMessages';
-import type { Category } from '../types';
-
-interface MenuProps {
-  setCategory: (cat: Category) => void;
-}
 
 interface MenuFormData {
   category: string;
@@ -16,9 +11,9 @@ interface MenuFormData {
   type: string;
 }
 
-export default function Menu({ setCategory }: MenuProps) {
+export default function Menu() {
   const navigate = useNavigate();
-  const { provider, setSelectedProvider } = useProvider();
+  const { provider, setSelectedProvider, setCategory } = useProvider();
   const [formData, setFormData] = useState<MenuFormData>({
     category: 'all',
     difficulty: 'all',

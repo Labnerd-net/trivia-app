@@ -44,7 +44,7 @@ const mockProvider = {
 }
 
 vi.mock('../src/context/ProviderContext', () => ({
-  useProvider: () => ({ provider: mockProvider, token: null, setSelectedProvider: vi.fn() }),
+  useProvider: () => ({ provider: mockProvider, token: null, category: null, setCategory: vi.fn(), setSelectedProvider: vi.fn() }),
 }))
 
 beforeEach(() => {
@@ -57,7 +57,7 @@ const renderQuiz = (path = '/quiz/9/easy/multiple/') => {
       <Routes>
         <Route
           path="/quiz/:categoryID/:difficulty/:type/"
-          element={<Quiz category={null} />}
+          element={<Quiz />}
         />
       </Routes>
     </MemoryRouter>

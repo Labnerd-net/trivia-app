@@ -2,11 +2,13 @@ import { createContext, useCallback, useContext, useEffect, useMemo, useState } 
 import axios from 'axios';
 import axiosInstance from '../api/axiosInstance';
 import { getProvider } from '../api/providers';
-import type { Provider } from '../types';
+import type { Category, Provider } from '../types';
 
 interface ProviderContextValue {
   provider: Provider;
   token: string | null;
+  category: Category | null;
+  setCategory: (cat: Category | null) => void;
   setSelectedProvider: (id: string) => void;
 }
 
@@ -25,6 +27,7 @@ interface ProviderProviderProps {
 export function ProviderProvider({ children }: ProviderProviderProps) {
   const [selectedProvider, setSelectedProviderState] = useState<string>('opentdb');
   const [token, setToken] = useState<string | null>(null);
+  const [category, setCategory] = useState<Category | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
   const [retryCount, setRetryCount] = useState<number>(0);
@@ -64,13 +67,14 @@ export function ProviderProvider({ children }: ProviderProviderProps) {
     setSelectedProviderState(id);
     setLoading(true);
     setError(null);
+    setCategory(null);
   }, []);
 
   const provider = useMemo(() => getProvider(selectedProvider), [selectedProvider]);
 
   const contextValue = useMemo(
-    () => ({ provider, token, setSelectedProvider }),
-    [provider, token, setSelectedProvider]
+    () => ({ provider, token, category, setCategory, setSelectedProvider }),
+    [provider, token, category, setCategory, setSelectedProvider]
   );
 
   if (loading) return <div className="tq-status">Loading...</div>;
