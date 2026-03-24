@@ -97,34 +97,38 @@ export default function Menu() {
               )}
             </select>
           </div>
-          <div>
-            <label className="tq-field-label" htmlFor="formDifficulty">Difficulty</label>
-            <select
-              id="formDifficulty"
-              className="tq-select"
-              name="difficulty"
-              onChange={handleChange('difficulty')}
-              value={formData.difficulty}
-            >
-              {provider.difficulties.map((opt) =>
-                <option key={opt.value} value={opt.value}>{opt.label}</option>
-              )}
-            </select>
-          </div>
-          <div>
-            <label className="tq-field-label" htmlFor="formType">Question Type</label>
-            <select
-              id="formType"
-              className="tq-select"
-              name="type"
-              onChange={handleChange('type')}
-              value={formData.type}
-            >
-              {provider.types.map((opt) =>
-                <option key={opt.value} value={opt.value}>{opt.label}</option>
-              )}
-            </select>
-          </div>
+          {provider.difficulties.length > 1 && (
+            <div>
+              <label className="tq-field-label" htmlFor="formDifficulty">Difficulty</label>
+              <select
+                id="formDifficulty"
+                className="tq-select"
+                name="difficulty"
+                onChange={handleChange('difficulty')}
+                value={formData.difficulty}
+              >
+                {provider.difficulties.map((opt) =>
+                  <option key={opt.value} value={opt.value}>{opt.label}</option>
+                )}
+              </select>
+            </div>
+          )}
+          {provider.types.length > 1 && (
+            <div>
+              <label className="tq-field-label" htmlFor="formType">Question Type</label>
+              <select
+                id="formType"
+                className="tq-select"
+                name="type"
+                onChange={handleChange('type')}
+                value={formData.type}
+              >
+                {provider.types.map((opt) =>
+                  <option key={opt.value} value={opt.value}>{opt.label}</option>
+                )}
+              </select>
+            </div>
+          )}
         </div>
 
         <div style={{ marginTop: '1.5rem' }}>

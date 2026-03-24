@@ -470,3 +470,18 @@ body {
 .tq-answer.revealed-wrong {
   opacity: 0.28;
 }
+
+.tq-open-answer {
+  margin-top: 1rem;
+  min-height: 3rem;
+}
+
+.tq-open-answer-text {
+  background: var(--correct-bg);
+  border: 1px solid var(--correct-border);
+  border-radius: 8px;
+  color: var(--correct-text);
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 0.85rem 1.2rem;
+}

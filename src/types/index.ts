@@ -3,7 +3,7 @@ export interface Category {
   name: string;
 }
 
-export type QuestionType = 'multiple' | 'boolean';
+export type QuestionType = 'multiple' | 'boolean' | 'open';
 
 export interface NormalizedQuestion {
   question: string;

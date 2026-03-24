@@ -93,10 +93,12 @@ export default function Quiz() {
           <span className="tq-chip-label">Category</span>
           <span className="tq-chip-value">{category?.name ?? '—'}</span>
         </div>
-        <div className="tq-stat-chip">
-          <span className="tq-chip-label">Difficulty</span>
-          <span className="tq-chip-value">{difficultyLabel}</span>
-        </div>
+        {provider.difficulties.length > 1 && (
+          <div className="tq-stat-chip">
+            <span className="tq-chip-label">Difficulty</span>
+            <span className="tq-chip-value">{difficultyLabel}</span>
+          </div>
+        )}
         <div className="tq-stat-chip">
           <span className="tq-chip-label">Type</span>
           <span className="tq-chip-value">{typeLabel}</span>
