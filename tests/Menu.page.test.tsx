@@ -106,4 +106,17 @@ describe('Menu page', () => {
       expect(mockNavigate).toHaveBeenCalledWith('/quiz/9/all/all/')
     })
   })
+
+  it('navigates with the selected category id when a non-default category is chosen', async () => {
+    mockGetCategories.mockResolvedValue(MOCK_CATEGORIES)
+    renderMenu()
+    await screen.findByText('General Knowledge')
+
+    fireEvent.change(screen.getByRole('combobox', { name: 'Category' }), { target: { value: '10' } })
+    fireEvent.click(screen.getByRole('button', { name: 'Start Quiz' }))
+
+    await waitFor(() => {
+      expect(mockNavigate).toHaveBeenCalledWith('/quiz/10/all/all/')
+    })
+  })
 })

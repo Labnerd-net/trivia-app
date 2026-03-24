@@ -46,8 +46,11 @@ _None identified._
 
 ## Improvements & Refactors
 
+### High
+_None identified._
+
 ### Medium
-- **#13 [src/App.tsx, src/pages/Menu.tsx, src/pages/Quiz.tsx]**: `category` is prop-drilled through App → Menu (callback) → Quiz (prop). Fix: move `category` into `ProviderContext` or a dedicated context, mirroring the existing pattern for `provider`/`token`.
+_None identified._
 
 ### Low
 _None identified._
@@ -80,6 +83,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 1 | 0 | 1 |
+| Improvements & Refactors | 0 | 0 | 0 | 0 |
 | Feature Ideas | 1 | 4 | 4 | 9 |
-| **Total** | **1** | **5** | **4** | **10** |
+| **Total** | **1** | **4** | **4** | **9** |

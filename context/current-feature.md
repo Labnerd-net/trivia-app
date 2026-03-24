@@ -27,3 +27,4 @@ Plan File:
 - 2026-03-18: Fix backlog #10 — extracted two inline style props into tq-form-section and tq-error-detail CSS classes in index.css; Menu.tsx and ErrorBoundary.tsx now use tq-* classes exclusively
 - 2026-03-23: Refactor backlog #12 — consolidated token lifecycle into ProviderContext; removed getToken() from Provider interface and both provider objects; providers now declare tokenUrl for ProviderContext to fetch directly via axiosInstance; added runtime guard for missing tokenUrl
 - 2026-03-23: Refactor backlog #13 — moved category state from App.tsx into ProviderContext; eliminated prop-drilling of setCategory to Menu and category to Quiz; provider switch now resets category to null; added 3 new tests (73 total)
+- 2026-03-23: Test coverage backlog #29 — added Navbar.component.test.tsx (2 tests); extended Menu.page.test.tsx with category-selection integration test; 76 tests total passing
