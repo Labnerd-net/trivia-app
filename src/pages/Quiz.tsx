@@ -5,22 +5,18 @@ import Question from '../components/Question';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
 import { ERROR_FETCH_QUESTIONS } from '../constants/errorMessages';
-import type { Category, QuestionsResult } from '../types';
+import type { QuestionsResult } from '../types';
 
 const NUMBER_OF_QUESTIONS = 10;
 
-interface QuizProps {
-  category: Category | null;
-}
-
-export default function Quiz({ category }: QuizProps) {
+export default function Quiz() {
   const [questions, setQuestions] = useState<QuestionsResult | null>(null);
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams();
-  const { provider, token } = useProvider();
+  const { provider, token, category } = useProvider();
 
   const paramsValid =
     /^[a-z0-9_]*$/i.test(categoryID ?? '') &&

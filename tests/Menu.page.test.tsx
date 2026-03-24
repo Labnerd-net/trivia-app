@@ -30,8 +30,10 @@ const mockProvider = {
   getQuestions: vi.fn(),
 }
 
+const mockSetCategory = vi.hoisted(() => vi.fn())
+
 vi.mock('../src/context/ProviderContext', () => ({
-  useProvider: () => ({ provider: mockProvider, token: null, setSelectedProvider: mockSetSelectedProvider }),
+  useProvider: () => ({ provider: mockProvider, token: null, setSelectedProvider: mockSetSelectedProvider, setCategory: mockSetCategory, category: null }),
 }))
 
 const MOCK_CATEGORIES = [
@@ -44,13 +46,11 @@ beforeEach(() => {
 })
 
 const renderMenu = () => {
-  const setCategory = vi.fn()
   render(
     <MemoryRouter>
-      <Menu setCategory={setCategory} />
+      <Menu />
     </MemoryRouter>
   )
-  return { setCategory }
 }
 
 describe('Menu page', () => {
