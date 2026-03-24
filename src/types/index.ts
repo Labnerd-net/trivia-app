@@ -36,6 +36,7 @@ export interface Provider {
   id: string;
   name: string;
   description: string;
+  group: string;
   requiresToken: boolean;
   tokenUrl?: string;
   difficulties: SelectOption[];
