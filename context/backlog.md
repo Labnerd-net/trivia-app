@@ -72,8 +72,6 @@ _None identified._
 - **#26 Bookmarking questions**: Add a bookmark button in `Question.tsx`, persist to localStorage, and add a "Bookmarks" view accessible from `Navbar.tsx`.
 - **#27 Category search/filter**: Replace the plain `<select>` in `Menu.tsx` with a searchable/filterable input for providers with many categories (OpenTDB has 24).
 - **#28 Dark/light mode toggle**: App is dark-only. Add a toggle in `Navbar.tsx` backed by CSS custom properties and a localStorage preference.
-- **#29 Test coverage gaps**: No tests for `App.tsx` (token fetching, provider switching), `Navbar.tsx`, or `ErrorBoundary.tsx`. No integration test for the Menu → Quiz navigation flow.
-
 ---
 
 ## Summary
@@ -84,5 +82,5 @@ _None identified._
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
 | Improvements & Refactors | 0 | 0 | 0 | 0 |
-| Feature Ideas | 1 | 4 | 4 | 9 |
-| **Total** | **1** | **4** | **4** | **9** |
+| Feature Ideas | 1 | 4 | 3 | 8 |
+| **Total** | **1** | **4** | **3** | **8** |
