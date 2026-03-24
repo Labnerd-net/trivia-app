@@ -64,19 +64,21 @@ export default function Menu() {
     <div className="container tq-page">
       <form onSubmit={startQuiz} className="tq-form-panel">
         <div className="tq-form-section">
-          <label className="tq-field-label">Data Source</label>
-          <div className="tq-provider-tabs">
-            {providerList.map((p) => (
-              <button
-                key={p.id}
-                type="button"
-                className={`tq-provider-tab ${provider.id === p.id ? 'active' : ''}`}
-                onClick={() => setSelectedProvider(p.id)}
-              >
-                {p.name}
-              </button>
+          <label className="tq-field-label" htmlFor="formProvider">Data Source</label>
+          <select
+            id="formProvider"
+            className="tq-select"
+            value={provider.id}
+            onChange={(e) => setSelectedProvider(e.target.value)}
+          >
+            {Array.from(new Set(providerList.map((p) => p.group))).map((group) => (
+              <optgroup key={group} label={group}>
+                {providerList.filter((p) => p.group === group).map((p) => (
+                  <option key={p.id} value={p.id}>{p.name}</option>
+                ))}
+              </optgroup>
             ))}
-          </div>
+          </select>
           <div className="tq-provider-desc">{provider.description}</div>
         </div>
 

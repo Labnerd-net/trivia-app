@@ -251,42 +251,6 @@ body {
   margin-bottom: 1.5rem;
 }
 
-.tq-provider-tabs {
-  display: flex;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  overflow: hidden;
-}
-
-.tq-provider-tab {
-  flex: 1;
-  padding: 0.55rem 1rem;
-  background: var(--surface);
-  border: none;
-  color: var(--text-dim);
-  font-family: 'Barlow Condensed', sans-serif;
-  font-size: 0.82rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  cursor: pointer;
-  transition: all 0.15s;
-  text-align: center;
-}
-
-.tq-provider-tab:not(:last-child) {
-  border-right: 1px solid var(--border);
-}
-
-.tq-provider-tab:hover:not(.active) {
-  background: var(--card);
-  color: var(--text);
-}
-
-.tq-provider-tab.active {
-  background: var(--card);
-  color: var(--gold-light);
-  border-bottom: 2px solid var(--gold);
-}
 
 .tq-provider-desc {
   font-size: 0.85rem;

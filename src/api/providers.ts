@@ -14,6 +14,7 @@ const openTDBProvider = {
   id: 'opentdb',
   name: 'Open Trivia Database',
   description: 'Large community database with 4,000+ questions',
+  group: 'Online',
   requiresToken: true,
   tokenUrl: 'https://opentdb.com/api_token.php?command=request',
 
@@ -82,6 +83,7 @@ const triviaAPIProvider = {
   id: 'triviaapi',
   name: 'The Trivia API',
   description: 'High-quality questions with region filtering',
+  group: 'Online',
   requiresToken: false,
 
   async getCategories() {
@@ -143,17 +145,10 @@ const triviaAPIProvider = {
 } satisfies Provider;
 
 // ============================================================================
-// ALL OF US PROVIDER (local card data)
+// LOCAL CARD PROVIDERS (bundled JSON data)
 // ============================================================================
 type CardQuestion = { category: string; question: string; answer: string };
-let allOfUsCache: CardQuestion[] | null = null;
-
-async function loadAllOfUs(signal?: AbortSignal): Promise<CardQuestion[]> {
-  if (allOfUsCache) return allOfUsCache;
-  const response = await axiosInstance.get<{ questions: CardQuestion[] }>('/data/all_of_us.json', { signal });
-  allOfUsCache = response.data.questions;
-  return allOfUsCache;
-}
+type CategoryDef = { id: string; name: string; dataValue?: string };
 
 function shuffleArray<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -164,52 +159,93 @@ function shuffleArray<T>(arr: T[]): T[] {
   return a;
 }
 
-const allOfUsProvider = {
-  id: 'allofus',
-  name: 'All Of Us',
-  description: 'Generational trivia questions from physical card sets',
-  requiresToken: false,
+function makeLocalProvider(
+  id: string,
+  name: string,
+  description: string,
+  group: string,
+  dataFile: string,
+  categories: CategoryDef[],
+) {
+  let cache: CardQuestion[] | null = null;
+  const categoryNameById = Object.fromEntries(categories.map(c => [c.id, c.dataValue ?? c.name]));
 
-  async getCategories() {
-    return [
-      { id: 'boomers', name: 'Boomers' },
-      { id: 'gen_x', name: 'Gen X' },
-      { id: 'millennials', name: 'Millennials' },
-      { id: 'gen_z', name: 'Gen Z' },
-    ];
-  },
+  return {
+    id,
+    name,
+    description,
+    group,
+    requiresToken: false,
 
-  async getQuestions({ amount = 10, categoryId, signal }: GetQuestionsOptions) {
-    const categoryNameById: Record<string, string> = {
-      boomers: 'Boomers',
-      gen_x: 'Gen X',
-      millennials: 'Millennials',
-      gen_z: 'Gen Z',
-    };
-    const all = await loadAllOfUs(signal);
-    const categoryName = categoryId ? categoryNameById[categoryId] : null;
-    const pool = categoryName ? all.filter(q => q.category === categoryName) : all;
-    const selected = shuffleArray(pool).slice(0, amount);
-    return {
-      results: selected.map(q => ({
-        question: q.question,
-        correctAnswer: q.answer,
-        incorrectAnswers: [],
-        category: q.category,
-        difficulty: 'all',
-        type: 'open' as const,
-      }))
-    };
-  },
+    async getCategories() { return categories; },
 
-  difficulties: [
-    { value: 'all', label: 'Any difficulty' },
+    async getQuestions({ amount = 10, categoryId, signal }: GetQuestionsOptions) {
+      if (!cache) {
+        const response = await axiosInstance.get<{ questions: CardQuestion[] }>(dataFile, { signal });
+        cache = response.data.questions;
+      }
+      const categoryName = categoryId ? categoryNameById[categoryId] : null;
+      const pool = categoryName ? cache.filter(q => q.category === categoryName) : cache;
+      return {
+        results: shuffleArray(pool).slice(0, amount).map(q => ({
+          question: q.question,
+          correctAnswer: q.answer,
+          incorrectAnswers: [],
+          category: q.category,
+          difficulty: 'all',
+          type: 'open' as const,
+        }))
+      };
+    },
+
+    difficulties: [{ value: 'all', label: 'Any difficulty' }],
+    types: [{ value: 'open', label: 'Open Answer' }],
+  } satisfies Provider;
+}
+
+const allOfUsProvider = makeLocalProvider(
+  'allofus',
+  'All Of Us',
+  'Generational trivia questions from physical card sets',
+  'Card Games',
+  '/data/all_of_us.json',
+  [
+    { id: 'boomers', name: 'Boomers' },
+    { id: 'gen_x', name: 'Gen X' },
+    { id: 'millennials', name: 'Millennials' },
+    { id: 'gen_z', name: 'Gen Z' },
   ],
+);
 
-  types: [
-    { value: 'open', label: 'Open Answer' },
+const mindTheGapProvider = makeLocalProvider(
+  'mindthegap',
+  'Mind the Gap',
+  'Cross-generational trivia card game',
+  'Card Games',
+  '/data/mind_the_gap.json',
+  [
+    { id: 'boomer', name: 'Boomer' },
+    { id: 'gen_x', name: 'Gen X' },
+    { id: 'millennial', name: 'Millennial' },
+    { id: 'gen_z', name: 'Gen Z' },
   ],
-} satisfies Provider;
+);
+
+const tpMillenniumProvider = makeLocalProvider(
+  'tpmillennium',
+  'Trivial Pursuit — Millennium',
+  'Classic Trivial Pursuit questions from the Millennium Edition',
+  'Card Games',
+  '/data/tp_millennium.json',
+  [
+    { id: 'PP', name: 'People & Places', dataValue: 'PP' },
+    { id: 'AE', name: 'Arts & Entertainment', dataValue: 'AE' },
+    { id: 'HIS', name: 'History', dataValue: 'HIS' },
+    { id: 'SN', name: 'Science & Nature', dataValue: 'SN' },
+    { id: 'SL', name: 'Sports & Leisure', dataValue: 'SL' },
+    { id: 'WC', name: 'Wild Card', dataValue: 'WC' },
+  ],
+);
 
 // ============================================================================
 // PROVIDER REGISTRY
@@ -218,6 +254,8 @@ export const providers: Record<string, Provider> = {
   opentdb: openTDBProvider,
   triviaapi: triviaAPIProvider,
   allofus: allOfUsProvider,
+  mindthegap: mindTheGapProvider,
+  tpmillennium: tpMillenniumProvider,
 };
 
 export const providerList = Object.values(providers);
