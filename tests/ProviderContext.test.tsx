@@ -1,7 +1,12 @@
 import { render, screen, fireEvent, waitFor, renderHook, act } from '@testing-library/react'
+import axiosInstance from '../src/api/axiosInstance'
 import { ProviderProvider, useProvider } from '../src/context/ProviderContext'
 
-const mockGetToken = vi.hoisted(() => vi.fn())
+vi.mock('../src/api/axiosInstance', () => ({
+  default: { get: vi.fn() },
+}))
+const mockAxiosGet = vi.mocked(axiosInstance.get)
+
 const mockGetProvider = vi.hoisted(() => vi.fn())
 
 vi.mock('../src/api/providers', () => ({
@@ -14,11 +19,11 @@ const makeProvider = (overrides = {}) => ({
   name: 'Open Trivia Database',
   description: 'Test',
   requiresToken: true,
+  tokenUrl: 'https://opentdb.com/api_token.php?command=request',
   difficulties: [],
   types: [],
   getCategories: vi.fn(),
   getQuestions: vi.fn(),
-  getToken: mockGetToken,
   ...overrides,
 })
 
@@ -37,7 +42,7 @@ describe('useProvider', () => {
 describe('ProviderProvider', () => {
   it('renders children after token fetch resolves', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockResolvedValue('test-token')
+    mockAxiosGet.mockResolvedValue({ data: { token: 'test-token' } })
 
     render(
       <ProviderProvider>
@@ -50,7 +55,7 @@ describe('ProviderProvider', () => {
 
   it('shows loading state while token is fetching', () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockReturnValue(new Promise(() => {}))
+    mockAxiosGet.mockReturnValue(new Promise(() => {}))
 
     render(
       <ProviderProvider>
@@ -64,7 +69,7 @@ describe('ProviderProvider', () => {
 
   it('exposes the resolved provider object with the correct id', async () => {
     mockGetProvider.mockReturnValue(makeProvider({ id: 'opentdb' }))
-    mockGetToken.mockResolvedValue('test-token')
+    mockAxiosGet.mockResolvedValue({ data: { token: 'test-token' } })
 
     const { result } = renderHook(() => useProvider(), {
       wrapper: ({ children }) => (
@@ -81,7 +86,7 @@ describe('ProviderProvider', () => {
     mockGetProvider
       .mockReturnValueOnce(makeProvider({ id: 'opentdb' }))
       .mockReturnValue(makeProvider({ id: 'triviaapi' }))
-    mockGetToken.mockResolvedValue('token-1')
+    mockAxiosGet.mockResolvedValue({ data: { token: 'token-1' } })
 
     const SwitchButton = () => {
       const { setSelectedProvider } = useProvider()
@@ -100,21 +105,21 @@ describe('ProviderProvider', () => {
 
     await screen.findByRole('button', { name: 'Switch Provider' })
 
-    mockGetToken.mockResolvedValue('token-2')
+    mockAxiosGet.mockResolvedValue({ data: { token: 'token-2' } })
     await act(async () => {
       fireEvent.click(screen.getByRole('button', { name: 'Switch Provider' }))
     })
 
     await waitFor(() => {
       expect(mockGetProvider).toHaveBeenCalledWith('triviaapi')
-      expect(mockGetToken).toHaveBeenCalledTimes(2)
+      expect(mockAxiosGet).toHaveBeenCalledTimes(2)
     })
   })
 
   it('does not update state after unmount during in-flight fetch', async () => {
     const consoleSpy = vi.spyOn(console, 'error').mockImplementation(() => {})
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockReturnValue(new Promise(() => {}))
+    mockAxiosGet.mockReturnValue(new Promise(() => {}))
 
     const { unmount } = render(
       <ProviderProvider>
@@ -133,9 +138,9 @@ describe('ProviderProvider', () => {
 
   it('retry increments retryCount and triggers a new token fetch', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken
+    mockAxiosGet
       .mockRejectedValueOnce(new Error('network error'))
-      .mockResolvedValue('recovered-token')
+      .mockResolvedValue({ data: { token: 'recovered-token' } })
 
     render(
       <ProviderProvider>
@@ -147,15 +152,15 @@ describe('ProviderProvider', () => {
     fireEvent.click(screen.getByRole('button', { name: 'Retry' }))
 
     await waitFor(() => {
-      expect(mockGetToken).toHaveBeenCalledTimes(2)
+      expect(mockAxiosGet).toHaveBeenCalledTimes(2)
     })
   })
 
   it('shows error UI on failure then renders children after retry succeeds', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken
+    mockAxiosGet
       .mockRejectedValueOnce(new Error('network error'))
-      .mockResolvedValue('recovered-token')
+      .mockResolvedValue({ data: { token: 'recovered-token' } })
 
     render(
       <ProviderProvider>

@@ -15,11 +15,7 @@ const openTDBProvider = {
   name: 'Open Trivia Database',
   description: 'Large community database with 4,000+ questions',
   requiresToken: true,
-
-  async getToken(signal?: AbortSignal) {
-    const response = await axiosInstance.get('https://opentdb.com/api_token.php?command=request', { signal });
-    return response.data.token;
-  },
+  tokenUrl: 'https://opentdb.com/api_token.php?command=request',
 
   async getCategories({ signal } = {}) {
     const response = await axiosInstance.get('https://opentdb.com/api_category.php', { signal });
@@ -87,10 +83,6 @@ const triviaAPIProvider = {
   name: 'The Trivia API',
   description: 'High-quality questions with region filtering',
   requiresToken: false,
-
-  async getToken(_signal?: AbortSignal) {
-    return null; // No token needed
-  },
 
   async getCategories() {
     // The Trivia API uses predefined categories

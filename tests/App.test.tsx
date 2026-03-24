@@ -1,8 +1,13 @@
 import { render, screen, fireEvent, waitFor } from '@testing-library/react'
 import { MemoryRouter } from 'react-router'
 import App from '../src/App'
+import axiosInstance from '../src/api/axiosInstance'
 
-const mockGetToken = vi.hoisted(() => vi.fn())
+vi.mock('../src/api/axiosInstance', () => ({
+  default: { get: vi.fn() },
+}))
+const mockAxiosGet = vi.mocked(axiosInstance.get)
+
 const mockGetProvider = vi.hoisted(() => vi.fn())
 
 vi.mock('../src/api/providers', () => ({
@@ -34,11 +39,11 @@ const makeProvider = (overrides = {}) => ({
   name: 'Open Trivia Database',
   description: 'Test',
   requiresToken: true,
+  tokenUrl: 'https://opentdb.com/api_token.php?command=request',
   difficulties: [],
   types: [],
   getCategories: vi.fn(),
   getQuestions: vi.fn(),
-  getToken: mockGetToken,
   ...overrides,
 })
 
@@ -57,28 +62,28 @@ const renderApp = () => {
 describe('App', () => {
   it('shows "Loading..." immediately on render', () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockReturnValue(new Promise(() => {}))
+    mockAxiosGet.mockReturnValue(new Promise(() => {}))
     renderApp()
     expect(screen.getByText('Loading...')).toBeDefined()
   })
 
   it('renders Menu after token fetch resolves for a provider that requires a token', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockResolvedValue('test-token')
+    mockAxiosGet.mockResolvedValue({ data: { token: 'test-token' } })
     renderApp()
     await screen.findByText('Menu page')
   })
 
-  it('renders Menu without calling getToken for a provider that does not require one', async () => {
+  it('renders Menu without calling axiosInstance for a provider that does not require one', async () => {
     mockGetProvider.mockReturnValue(makeProvider({ requiresToken: false }))
     renderApp()
     await screen.findByText('Menu page')
-    expect(mockGetToken).not.toHaveBeenCalled()
+    expect(mockAxiosGet).not.toHaveBeenCalled()
   })
 
   it('shows error message and Retry button when token fetch fails', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockRejectedValue(new Error('network error'))
+    mockAxiosGet.mockRejectedValue(new Error('network error'))
     renderApp()
     await screen.findByText('Failed to retrieve Token')
     expect(screen.getByRole('button', { name: 'Retry' })).toBeDefined()
@@ -86,14 +91,14 @@ describe('App', () => {
 
   it('clicking Retry triggers a second token fetch', async () => {
     mockGetProvider.mockReturnValue(makeProvider())
-    mockGetToken.mockRejectedValue(new Error('network error'))
+    mockAxiosGet.mockRejectedValue(new Error('network error'))
     renderApp()
     await screen.findByText('Failed to retrieve Token')
 
     fireEvent.click(screen.getByRole('button', { name: 'Retry' }))
 
     await waitFor(() => {
-      expect(mockGetToken).toHaveBeenCalledTimes(2)
+      expect(mockAxiosGet).toHaveBeenCalledTimes(2)
     })
   })
 })
