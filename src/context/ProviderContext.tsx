@@ -1,5 +1,6 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
 import axios from 'axios';
+import axiosInstance from '../api/axiosInstance';
 import { getProvider } from '../api/providers';
 import type { Provider } from '../types';
 
@@ -36,8 +37,9 @@ export function ProviderProvider({ children }: ProviderProviderProps) {
       try {
         const p = getProvider(selectedProvider);
         if (p.requiresToken) {
-          const tokenData = await p.getToken(controller.signal);
-          if (!cancelled) setToken(tokenData);
+          if (!p.tokenUrl) throw new Error(`Provider "${p.id}" requires a token but has no tokenUrl`);
+          const response = await axiosInstance.get(p.tokenUrl, { signal: controller.signal });
+          if (!cancelled) setToken(response.data.token);
         } else {
           if (!cancelled) setToken(null);
         }

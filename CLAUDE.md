@@ -34,7 +34,7 @@ Two providers, each a plain object with the same interface:
 |---|---|
 | `id`, `name`, `description` | Metadata used in UI |
 | `requiresToken` | Whether `ProviderProvider` should fetch a token |
-| `getToken()` | Returns token string or `null` |
+| `tokenUrl` | Token endpoint URL; required when `requiresToken` is `true`, fetched by `ProviderContext` |
 | `getCategories()` | Returns `[{ id, name }]` |
 | `getQuestions({ amount, categoryId, difficulty, type, token, signal })` | Returns `{ results: [...] }` normalized |
 | `difficulties`, `types` | `[{ value, label }]` arrays used to populate form selects |

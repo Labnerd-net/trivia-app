@@ -28,7 +28,6 @@ const mockProvider = {
   types: [{ value: 'all', label: 'Any type' }],
   getCategories: mockGetCategories,
   getQuestions: vi.fn(),
-  getToken: vi.fn(),
 }
 
 vi.mock('../src/context/ProviderContext', () => ({

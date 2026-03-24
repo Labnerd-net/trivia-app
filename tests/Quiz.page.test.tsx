@@ -41,7 +41,6 @@ const mockProvider = {
   types: [{ value: 'multiple', label: 'Multiple Choice' }],
   getCategories: vi.fn(),
   getQuestions: mockGetQuestions,
-  getToken: vi.fn(),
 }
 
 vi.mock('../src/context/ProviderContext', () => ({
