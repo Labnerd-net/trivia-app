@@ -143,11 +143,81 @@ const triviaAPIProvider = {
 } satisfies Provider;
 
 // ============================================================================
+// ALL OF US PROVIDER (local card data)
+// ============================================================================
+type CardQuestion = { category: string; question: string; answer: string };
+let allOfUsCache: CardQuestion[] | null = null;
+
+async function loadAllOfUs(signal?: AbortSignal): Promise<CardQuestion[]> {
+  if (allOfUsCache) return allOfUsCache;
+  const response = await axiosInstance.get<{ questions: CardQuestion[] }>('/data/all_of_us.json', { signal });
+  allOfUsCache = response.data.questions;
+  return allOfUsCache;
+}
+
+function shuffleArray<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+const allOfUsProvider = {
+  id: 'allofus',
+  name: 'All Of Us',
+  description: 'Generational trivia questions from physical card sets',
+  requiresToken: false,
+
+  async getCategories() {
+    return [
+      { id: 'boomers', name: 'Boomers' },
+      { id: 'gen_x', name: 'Gen X' },
+      { id: 'millennials', name: 'Millennials' },
+      { id: 'gen_z', name: 'Gen Z' },
+    ];
+  },
+
+  async getQuestions({ amount = 10, categoryId, signal }: GetQuestionsOptions) {
+    const categoryNameById: Record<string, string> = {
+      boomers: 'Boomers',
+      gen_x: 'Gen X',
+      millennials: 'Millennials',
+      gen_z: 'Gen Z',
+    };
+    const all = await loadAllOfUs(signal);
+    const categoryName = categoryId ? categoryNameById[categoryId] : null;
+    const pool = categoryName ? all.filter(q => q.category === categoryName) : all;
+    const selected = shuffleArray(pool).slice(0, amount);
+    return {
+      results: selected.map(q => ({
+        question: q.question,
+        correctAnswer: q.answer,
+        incorrectAnswers: [],
+        category: q.category,
+        difficulty: 'all',
+        type: 'open' as const,
+      }))
+    };
+  },
+
+  difficulties: [
+    { value: 'all', label: 'Any difficulty' },
+  ],
+
+  types: [
+    { value: 'open', label: 'Open Answer' },
+  ],
+} satisfies Provider;
+
+// ============================================================================
 // PROVIDER REGISTRY
 // ============================================================================
 export const providers: Record<string, Provider> = {
   opentdb: openTDBProvider,
   triviaapi: triviaAPIProvider,
+  allofus: allOfUsProvider,
 };
 
 export const providerList = Object.values(providers);

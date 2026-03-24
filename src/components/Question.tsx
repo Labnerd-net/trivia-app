@@ -33,18 +33,24 @@ export default function Question({ question, number }: QuestionProps) {
       >
         {showAnswers ? 'Hide Answer' : 'Reveal Answer'}
       </button>
-      <div className="tq-answers">
-        {shuffledAnswers.map((opt, idx) => (
-          <div
-            key={opt}
-            className={`tq-answer ${showAnswers ? (opt === question.correctAnswer ? 'correct' : 'revealed-wrong') : ''}`}
-            aria-label={showAnswers && opt === question.correctAnswer ? `Correct: ${decodeHtml(opt)}` : decodeHtml(opt)}
-          >
-            <div className="tq-answer-letter">{LETTERS[idx] ?? idx + 1}</div>
-            <div className="tq-answer-text">{decodeHtml(opt)}</div>
-          </div>
-        ))}
-      </div>
+      {question.type === 'open' ? (
+        <div className={`tq-open-answer ${showAnswers ? 'revealed' : ''}`}>
+          {showAnswers && <div className="tq-open-answer-text">{decodeHtml(question.correctAnswer)}</div>}
+        </div>
+      ) : (
+        <div className="tq-answers">
+          {shuffledAnswers.map((opt, idx) => (
+            <div
+              key={opt}
+              className={`tq-answer ${showAnswers ? (opt === question.correctAnswer ? 'correct' : 'revealed-wrong') : ''}`}
+              aria-label={showAnswers && opt === question.correctAnswer ? `Correct: ${decodeHtml(opt)}` : decodeHtml(opt)}
+            >
+              <div className="tq-answer-letter">{LETTERS[idx] ?? idx + 1}</div>
+              <div className="tq-answer-text">{decodeHtml(opt)}</div>
+            </div>
+          ))}
+        </div>
+      )}
     </div>
   )
 }
