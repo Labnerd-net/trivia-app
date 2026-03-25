@@ -1,0 +1,9 @@
+# Question Data
+
+| File | Provider | Questions | Notes |
+|---|---|---|---|
+| `opentdb_snapshot.json` | Open Trivia DB (Offline) | 3,798 | Re-run `node scripts/download-trivia.mjs --provider opentdb` to refresh |
+| `triviaapi_snapshot.json` | The Trivia API (Offline) | 1,482 | Re-run `node scripts/download-trivia.mjs --provider triviaapi` to refresh |
+| `all_of_us.json` | All Of Us | 1,540 | Re-run `node scripts/import-cards.js all_of_us` to refresh |
+| `mind_the_gap.json` | Mind the Gap | 860 | Re-run `node scripts/import-cards.js mind_the_gap` to refresh |
+| `tp_millennium.json` | Trivial Pursuit — Millennium | 102 | Re-run `node scripts/import-cards.js tp_millennium` to refresh |

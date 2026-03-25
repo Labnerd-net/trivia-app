@@ -13,7 +13,7 @@ import type { Provider, GetQuestionsOptions, NormalizedQuestion } from '../types
 const openTDBProvider = {
   id: 'opentdb',
   name: 'Open Trivia Database',
-  description: 'Large community database with 4,000+ questions',
+  description: 'Large community database with 4,000+ questions — live',
   group: 'Online',
   requiresToken: true,
   tokenUrl: 'https://opentdb.com/api_token.php?command=request',
@@ -82,7 +82,7 @@ const openTDBProvider = {
 const triviaAPIProvider = {
   id: 'triviaapi',
   name: 'The Trivia API',
-  description: 'High-quality questions with region filtering',
+  description: 'High-quality questions with region filtering — live',
   group: 'Online',
   requiresToken: false,
 
@@ -206,7 +206,7 @@ function makeLocalProvider(
 const allOfUsProvider = makeLocalProvider(
   'allofus',
   'All Of Us',
-  'Generational trivia questions from physical card sets',
+  'Generational trivia questions from physical card sets (1,540 questions)',
   'Card Games',
   '/data/all_of_us.json',
   [
@@ -220,7 +220,7 @@ const allOfUsProvider = makeLocalProvider(
 const mindTheGapProvider = makeLocalProvider(
   'mindthegap',
   'Mind the Gap',
-  'Cross-generational trivia card game',
+  'Cross-generational trivia card game (860 questions)',
   'Card Games',
   '/data/mind_the_gap.json',
   [
@@ -234,7 +234,7 @@ const mindTheGapProvider = makeLocalProvider(
 const tpMillenniumProvider = makeLocalProvider(
   'tpmillennium',
   'Trivial Pursuit — Millennium',
-  'Classic Trivial Pursuit questions from the Millennium Edition',
+  'Classic Trivial Pursuit questions from the Millennium Edition (102 questions)',
   'Card Games',
   '/data/tp_millennium.json',
   [
@@ -310,14 +310,14 @@ function makeSnapshotProvider(
 const opentdbOfflineProvider = makeSnapshotProvider(
   'opentdb-offline',
   'Open Trivia DB (Offline)',
-  'Snapshot of OpenTDB — run scripts/download-trivia.mjs to populate',
+  'Offline snapshot of OpenTDB (3,798 questions)',
   '/data/opentdb_snapshot.json',
 );
 
 const triviaAPIOfflineProvider = makeSnapshotProvider(
   'triviaapi-offline',
   'The Trivia API (Offline)',
-  'Snapshot of The Trivia API — run scripts/download-trivia.mjs to populate',
+  'Offline snapshot of The Trivia API (1,482 questions)',
   '/data/triviaapi_snapshot.json',
 );
 
