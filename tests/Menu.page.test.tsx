@@ -24,8 +24,14 @@ const mockProvider = {
   name: 'Open Trivia Database',
   description: 'Test description',
   requiresToken: true,
-  difficulties: [{ value: 'all', label: 'Any difficulty' }],
-  types: [{ value: 'all', label: 'Any type' }],
+  difficulties: [
+    { value: 'all', label: 'Any difficulty' },
+    { value: 'easy', label: 'Easy' },
+  ],
+  types: [
+    { value: 'all', label: 'Any type' },
+    { value: 'multiple', label: 'Multiple Choice' },
+  ],
   getCategories: mockGetCategories,
   getQuestions: vi.fn(),
 }
