@@ -83,19 +83,28 @@ async function downloadOpenTDB() {
   const categories = catData.trivia_categories;
   console.log(`  ${categories.length} categories found`);
 
-  const difficulties = ['easy', 'medium', 'hard'];
-  const types = ['multiple', 'boolean'];
+  // Include 'any' combos to catch questions that don't appear in strict filters
+  const difficulties = ['easy', 'medium', 'hard', ''];
+  const types = ['multiple', 'boolean', ''];
   const all = [];
   let reqCount = 0;
 
   for (const cat of categories) {
+    // Reset token before each category so it starts fresh
+    await sleep(1200);
+    try {
+      await fetchJSON(`https://opentdb.com/api_token.php?command=reset&token=${token}`);
+    } catch (_) { /* non-fatal */ }
+
     for (const diff of difficulties) {
       for (const type of types) {
-        const url = `https://opentdb.com/api.php?amount=50&category=${cat.id}&difficulty=${diff}&type=${type}&token=${token}`;
-        await sleep(1200); // stay well under rate limit
+        let url = `https://opentdb.com/api.php?amount=50&category=${cat.id}&token=${token}`;
+        if (diff) url += `&difficulty=${diff}`;
+        if (type) url += `&type=${type}`;
+        await sleep(1200);
         try {
           const data = await fetchJSON(url);
-          // response_code 4 = token exhausted for this combo (no more unseen Qs)
+          // response_code 4 = token exhausted (no more unseen Qs for this combo)
           // response_code 1 = no results
           if (data.response_code === 0 && Array.isArray(data.results)) {
             const mapped = data.results.map(q => ({
@@ -107,18 +116,15 @@ async function downloadOpenTDB() {
               type: q.type,
             }));
             all.push(...mapped);
-            process.stdout.write(`  [${++reqCount}] ${cat.name} / ${diff} / ${type}: ${mapped.length} Qs (total ${all.length})\r`);
+            const label = `${diff || 'any'} / ${type || 'any'}`;
+            process.stdout.write(`  [${++reqCount}] ${cat.name} / ${label}: ${mapped.length} Qs (total ${all.length})\r`);
           }
         } catch (err) {
-          console.warn(`\n  Skipped ${cat.name}/${diff}/${type}: ${err.message}`);
+          const label = `${diff || 'any'}/${type || 'any'}`;
+          console.warn(`\n  Skipped ${cat.name}/${label}: ${err.message}`);
         }
       }
     }
-    // Reset token after exhausting each category so it doesn't lock up on repeat combos
-    await sleep(1200);
-    try {
-      await fetchJSON(`https://opentdb.com/api_token.php?command=reset&token=${token}`);
-    } catch (_) { /* non-fatal */ }
   }
 
   process.stdout.write('\n');
