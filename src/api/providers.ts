@@ -234,7 +234,7 @@ const mindTheGapProvider = makeLocalProvider(
 const tpMillenniumProvider = makeLocalProvider(
   'tpmillennium',
   'Trivial Pursuit — Millennium',
-  'Classic Trivial Pursuit questions from the Millennium Edition (486 questions)',
+  'Classic Trivial Pursuit questions from the Millennium Edition (1,062 questions)',
   'Card Games',
   '/data/tp_millennium.json',
   [
@@ -310,7 +310,7 @@ function makeSnapshotProvider(
 const opentdbOfflineProvider = makeSnapshotProvider(
   'opentdb-offline',
   'Open Trivia DB (Offline)',
-  'Offline snapshot of OpenTDB (3,798 questions)',
+  'Offline snapshot of OpenTDB (4,546 questions)',
   '/data/opentdb_snapshot.json',
 );
 
