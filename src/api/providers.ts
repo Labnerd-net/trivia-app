@@ -1,5 +1,5 @@
 import axiosInstance from './axiosInstance';
-import type { Provider, GetQuestionsOptions } from '../types';
+import type { Provider, GetQuestionsOptions, NormalizedQuestion } from '../types';
 
 /**
  * Trivia API Provider Configurations
@@ -248,6 +248,80 @@ const tpMillenniumProvider = makeLocalProvider(
 );
 
 // ============================================================================
+// OFFLINE SNAPSHOT PROVIDERS (downloaded via scripts/download-trivia.mjs)
+// ============================================================================
+type SnapshotFile = { questions: NormalizedQuestion[] };
+
+function makeSnapshotProvider(
+  id: string,
+  name: string,
+  description: string,
+  dataFile: string,
+) {
+  let cache: NormalizedQuestion[] | null = null;
+
+  async function load(signal?: AbortSignal) {
+    if (cache) return cache;
+    const response = await axiosInstance.get<SnapshotFile>(dataFile, { signal });
+    cache = response.data.questions;
+    return cache;
+  }
+
+  return {
+    id,
+    name,
+    description,
+    group: 'Offline',
+    requiresToken: false,
+
+    async getCategories({ signal } = {}) {
+      const questions = await load(signal);
+      const unique = [...new Set(questions.map(q => q.category))].sort();
+      return [
+        { id: 'all', name: 'Any Category' },
+        ...unique.map(c => ({ id: c, name: c })),
+      ];
+    },
+
+    async getQuestions({ amount = 10, categoryId, difficulty, type, signal }: GetQuestionsOptions) {
+      const questions = await load(signal);
+      let pool = questions;
+      if (categoryId && categoryId !== 'all') pool = pool.filter(q => q.category === categoryId);
+      if (difficulty && difficulty !== 'all') pool = pool.filter(q => q.difficulty === difficulty);
+      if (type && type !== 'all') pool = pool.filter(q => q.type === type);
+      return { results: shuffleArray(pool).slice(0, amount) };
+    },
+
+    difficulties: [
+      { value: 'all', label: 'Any difficulty' },
+      { value: 'easy', label: 'Easy' },
+      { value: 'medium', label: 'Medium' },
+      { value: 'hard', label: 'Hard' },
+    ],
+
+    types: [
+      { value: 'all', label: 'Any type' },
+      { value: 'multiple', label: 'Multiple Choice' },
+      { value: 'boolean', label: 'True/False' },
+    ],
+  } satisfies Provider;
+}
+
+const opentdbOfflineProvider = makeSnapshotProvider(
+  'opentdb-offline',
+  'Open Trivia DB (Offline)',
+  'Snapshot of OpenTDB — run scripts/download-trivia.mjs to populate',
+  '/data/opentdb_snapshot.json',
+);
+
+const triviaAPIOfflineProvider = makeSnapshotProvider(
+  'triviaapi-offline',
+  'The Trivia API (Offline)',
+  'Snapshot of The Trivia API — run scripts/download-trivia.mjs to populate',
+  '/data/triviaapi_snapshot.json',
+);
+
+// ============================================================================
 // PROVIDER REGISTRY
 // ============================================================================
 export const providers: Record<string, Provider> = {
@@ -256,6 +330,8 @@ export const providers: Record<string, Provider> = {
   allofus: allOfUsProvider,
   mindthegap: mindTheGapProvider,
   tpmillennium: tpMillenniumProvider,
+  'opentdb-offline': opentdbOfflineProvider,
+  'triviaapi-offline': triviaAPIOfflineProvider,
 };
 
 export const providerList = Object.values(providers);

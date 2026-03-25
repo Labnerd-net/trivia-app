@@ -2,13 +2,13 @@
 
 ## Current Feature Spec File
 
-Title:
-Spec file:
-Branch:
+Title: Offline trivia snapshots
+Spec file: context/specs/offline-trivia-snapshots.md
+Branch: claude/feature/offline-trivia-snapshots
 
 ## Current Feature Plan File
 
-Plan File:
+Plan File: context/features/offline-trivia-snapshots.md
 
 ## History
 
