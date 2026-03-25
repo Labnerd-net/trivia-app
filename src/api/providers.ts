@@ -220,7 +220,7 @@ const allOfUsProvider = makeLocalProvider(
 const mindTheGapProvider = makeLocalProvider(
   'mindthegap',
   'Mind the Gap',
-  'Cross-generational trivia card game (860 questions)',
+  'Cross-generational trivia card game (1,600 questions)',
   'Card Games',
   '/data/mind_the_gap.json',
   [
@@ -234,7 +234,7 @@ const mindTheGapProvider = makeLocalProvider(
 const tpMillenniumProvider = makeLocalProvider(
   'tpmillennium',
   'Trivial Pursuit — Millennium',
-  'Classic Trivial Pursuit questions from the Millennium Edition (102 questions)',
+  'Classic Trivial Pursuit questions from the Millennium Edition (486 questions)',
   'Card Games',
   '/data/tp_millennium.json',
   [
