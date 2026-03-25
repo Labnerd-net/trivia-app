@@ -42,7 +42,7 @@ async function fetchJSON(url, retries = 3) {
     } catch (err) {
       if (attempt === retries) throw err;
       console.warn(`  Retry ${attempt}/${retries - 1} for ${url}: ${err.message}`);
-      await sleep(2000 * attempt);
+      await sleep(5000 * attempt);
     }
   }
 }
@@ -73,56 +73,59 @@ function saveSnapshot(filename, provider, questions) {
 async function downloadOpenTDB() {
   console.log('\nDownloading OpenTDB...');
 
-  // Fetch session token so we avoid duplicates within a category run
-  const tokenData = await fetchJSON('https://opentdb.com/api_token.php?command=request');
-  const token = tokenData.token;
-  console.log('  Got session token');
-
   // Fetch all categories
   const catData = await fetchJSON('https://opentdb.com/api_category.php');
   const categories = catData.trivia_categories;
   console.log(`  ${categories.length} categories found`);
 
-  // Include 'any' combos to catch questions that don't appear in strict filters
-  const difficulties = ['easy', 'medium', 'hard', ''];
-  const types = ['multiple', 'boolean', ''];
+  // Filtering by difficulty+type simultaneously triggers code 4 for many categories
+  // even when questions exist. Use no filters and a fresh token per category instead,
+  // paginating until the token is exhausted (all questions returned).
   const all = [];
   let reqCount = 0;
 
   for (const cat of categories) {
-    // Reset token before each category so it starts fresh
-    await sleep(1200);
+    // Fresh token for each category — gives a clean slate to paginate through all questions
+    await sleep(2500);
+    let token;
     try {
-      await fetchJSON(`https://opentdb.com/api_token.php?command=reset&token=${token}`);
-    } catch (_) { /* non-fatal */ }
+      const tokenData = await fetchJSON('https://opentdb.com/api_token.php?command=request');
+      token = tokenData.token;
+    } catch (err) {
+      console.warn(`\n  Skipped token request for ${cat.name}: ${err.message}`);
+      continue;
+    }
 
-    for (const diff of difficulties) {
-      for (const type of types) {
-        let url = `https://opentdb.com/api.php?amount=50&category=${cat.id}&token=${token}`;
-        if (diff) url += `&difficulty=${diff}`;
-        if (type) url += `&type=${type}`;
-        await sleep(1200);
-        try {
-          const data = await fetchJSON(url);
-          // response_code 4 = token exhausted (no more unseen Qs for this combo)
-          // response_code 1 = no results
-          if (data.response_code === 0 && Array.isArray(data.results)) {
-            const mapped = data.results.map(q => ({
-              question: decodeHtml(q.question),
-              correctAnswer: decodeHtml(q.correct_answer),
-              incorrectAnswers: q.incorrect_answers.map(decodeHtml),
-              category: q.category,
-              difficulty: q.difficulty,
-              type: q.type,
-            }));
-            all.push(...mapped);
-            const label = `${diff || 'any'} / ${type || 'any'}`;
-            process.stdout.write(`  [${++reqCount}] ${cat.name} / ${label}: ${mapped.length} Qs (total ${all.length})\r`);
-          }
-        } catch (err) {
-          const label = `${diff || 'any'}/${type || 'any'}`;
-          console.warn(`\n  Skipped ${cat.name}/${label}: ${err.message}`);
+    // Paginate until exhausted (code 4), no results (code 1),
+    // or app-level rate limit (code 5 — back off and retry).
+    while (true) {
+      await sleep(2500);
+      try {
+        const url = `https://opentdb.com/api.php?amount=50&category=${cat.id}&token=${token}`;
+        const data = await fetchJSON(url);
+        if (data.response_code === 5) {
+          await sleep(10000);
+          continue;
         }
+        if (data.response_code === 4 || data.response_code === 1) break;
+        if (data.response_code === 0 && Array.isArray(data.results) && data.results.length > 0) {
+          const mapped = data.results.map(q => ({
+            question: decodeHtml(q.question),
+            correctAnswer: decodeHtml(q.correct_answer),
+            incorrectAnswers: q.incorrect_answers.map(decodeHtml),
+            category: q.category,
+            difficulty: q.difficulty,
+            type: q.type,
+          }));
+          all.push(...mapped);
+          process.stdout.write(`  [${++reqCount}] ${cat.name}: +${mapped.length} (total ${all.length})\r`);
+          if (data.results.length < 50) break; // fewer than requested = exhausted
+        } else {
+          break;
+        }
+      } catch (err) {
+        console.warn(`\n  Skipped ${cat.name}: ${err.message}`);
+        break;
       }
     }
   }
