@@ -24,7 +24,7 @@ if (!provider) {
 }
 
 const root = resolve(import.meta.dirname, '..');
-const inputDir = join(root, 'input', provider);
+const inputDir = join(root, 'scans', 'processed_scans', provider);
 const outputDir = join(root, 'public', 'data');
 const outputFile = join(outputDir, `${provider}.json`);
 
