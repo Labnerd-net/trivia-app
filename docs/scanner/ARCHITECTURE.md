@@ -1,6 +1,35 @@
-# Architecture & Data Design
+# Trivia Card Scanner — Architecture & Reference
 
-## Card Sets (input/)
+A Python CLI that processes flatbed scans of physical trivia cards and outputs structured JSON using the Claude Vision API.
+
+## Stack
+
+- Python 3
+- Anthropic Python SDK (`anthropic`)
+- Pillow + numpy for image processing
+- Input: `scans/input_scans/<card_set>/` — JPG scans
+- Output: `scans/processed_scans/<card_set>/` — one JSON file per card
+
+## Commands
+
+```bash
+# Install dependencies
+pip install -r scripts/requirements.txt
+
+# Run all card sets
+python3 scripts/scanner.py
+
+# Run a specific card set
+python3 scripts/scanner.py tp_millennium
+
+# Run multiple specific sets
+python3 scripts/scanner.py all_of_us mind_the_gap
+
+# Crop batch scans into individual card images first
+python3 scripts/crop_batch.py mind_the_gap
+```
+
+## Card Sets
 
 | Folder | Layout | Files |
 |--------|--------|-------|
@@ -27,9 +56,18 @@
 - Each card has a unique number printed on it — used as `card_id` for reliable matching
 - Colors: WC=orange, SL=green, SN=brown, HIS=yellow, AE=pink, PP=blue
 
-## Scanner Output (JSON)
+## Input File Naming
 
-One JSON file per card written to `output/<card_set>/`.
+| Pattern | Description |
+|---------|-------------|
+| `card_NNN.jpg` | Single-sided card (questions + answers on one image) |
+| `card_NNN_front.jpg` + `card_NNN_back.jpg` | Front/back pair for one card |
+| `batch_NNN.jpg` | Multiple single-sided cards in one scan |
+| `batch_NNN_front.jpg` + `batch_NNN_back.jpg` | Multiple cards, front and back scans |
+
+## Output Schema
+
+One JSON file per card written to `scans/processed_scans/<card_set>/`.
 
 ```json
 {
@@ -46,6 +84,10 @@ One JSON file per card written to `output/<card_set>/`.
 }
 ```
 
+- `card_id` for batch items: `{batch_id}_{position}` for positional sets, `{batch_id}_{printed_number}` for tp_millennium
+- `color` is null for sets without color coding
+- `category` is null for sets without category labels
+
 ### card_id format
 
 | Source | card_id format |
@@ -54,26 +96,25 @@ One JSON file per card written to `output/<card_set>/`.
 | Batch `batch_NNN.jpg`, positional sets | `NNN_<position>` |
 | Batch `batch_NNN.jpg`, tp_millennium | `NNN_<printed card number>` |
 
-### Deduplication
+## Deduplication
 
 Questions are MD5-hashed on write and checked against all existing output files. Re-scanning the same card produces a SKIPPED warning rather than a duplicate file.
 
-### Image compression
+## Image Compression
 
 - Single card scans: resized to 800px max before API call
 - Batch scans: resized to 1200px max (needed to keep multiple cards readable)
 
 ## Integration with trivia-app
 
-The scanner feeds into `../trivia-app`. Output stays in this repo until a future import step.
+Output is imported into `public/data/` via `scripts/import-cards.js`. See the **Card Scanning Pipeline** section in the root `CLAUDE.md`.
 
-### Changes needed in trivia-app
+### Planned trivia-app changes
 
 1. **Add `'open'` to `QuestionType`** (`src/types/index.ts`)
    - Physical cards are free-answer, not multiple choice
 
 2. **Add `LocalCardsProvider`** (`src/api/providers.ts`)
-   - Reads scanned JSON from `output/` in this repo (or a copied path)
    - `getCategories()` — returns unique categories across all card sets
    - `getQuestions()` — filters by card set and returns `NormalizedQuestion[]`
    - `incorrectAnswers` will be `[]`, `type` will be `'open'`
@@ -85,8 +126,10 @@ The scanner feeds into `../trivia-app`. Output stays in this repo until a future
 ## Workflow
 
 ```
-input/<card_set>/card_NNN.jpg            ──┐
-input/<card_set>/card_NNN_front/back.jpg ──┤  scanner.py  ──►  output/<card_set>/card_NNN.json
-input/<card_set>/batch_NNN.jpg           ──┤
-input/<card_set>/batch_NNN_front/back.jpg──┘
+scans/input_scans/<card_set>/card_NNN.jpg            ──┐
+scans/input_scans/<card_set>/card_NNN_front/back.jpg ──┤  scanner.py  ──►  scans/processed_scans/<card_set>/card_NNN.json
+scans/input_scans/<card_set>/batch_NNN.jpg           ──┤
+scans/input_scans/<card_set>/batch_NNN_front/back.jpg──┘
+
+scans/processed_scans/<card_set>/card_NNN.json  ──►  import-cards.js  ──►  public/data/<card_set>.json
 ```
