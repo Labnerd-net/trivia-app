@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "002",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In what club were Claire, Andrew, John, Brian and Allison?",
+      "answer": "The Breakfast Club"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What airline was known for its use of Gershwin's \"Rhapsody in Blue\"?",
+      "answer": "United"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the iconic Irish band and their most famous album in 1987, named for a National Park in California.",
+      "answer": "U2 – Joshua Tree (National Park)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Where did The Experimental Prototype Community of Tomorrow open in 1982?",
+      "answer": "EPCOT opened at Disney World"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "If someone said \"no duh,\" what were they implying?",
+      "answer": "They already knew something, or it was common knowledge"
+    }
+  ]
+}

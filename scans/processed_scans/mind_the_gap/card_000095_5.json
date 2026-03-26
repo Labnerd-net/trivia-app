@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Who was Spongebob's next door neighbor?",
+      "answer": "Squidward Tentacles"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This man is one of the highest paid comedians with shows such as \"Seriously Funny,\" \"Laugh at My Pain,\" and \"I'm a Grown Little Man.\"",
+      "answer": "Kevin Hart"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of the Korean pop song by PSY released in 2012?",
+      "answer": "\"Gangnam Style\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Which presidential hopeful was accused by her critics of deleting thousands of emails thought to contain sensitive information?",
+      "answer": "Hillary Clinton"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was meant by the phrase \"You're canceled\"?",
+      "answer": "You don't matter"
+    }
+  ]
+}

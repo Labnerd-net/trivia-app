@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "On this app, users lip-synch to favorite songs to create short clips.",
+      "answer": "TikTok"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Asian American stand-up comedian, actress, and writer is known for her Netflix specials like 'Baby Cobra' and 'Hard Knock Wife.'",
+      "answer": "Ali Wong"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This singer, actress, and activist famously released the pop version of Disney's 'Let It Go.'",
+      "answer": "Demi Lovato"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "'Avengers: Infinity War' features which actor playing the Hulk?",
+      "answer": "Mark Ruffalo"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This fast-food chain is known for calling itself 'Home of the Original Chicken Sandwich.'",
+      "answer": "Chick-fil-A"
+    }
+  ]
+}

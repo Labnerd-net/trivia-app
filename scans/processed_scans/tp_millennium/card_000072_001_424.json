@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_424",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the northernmost Baltic republic?",
+      "answer": "Estonia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What pop quartet does the band Bjorn Again parody, featuring Frida Longstokin, Agnetha Falstart, Benny Anderwear and Bjorn Volvo-us?",
+      "answer": "ABBA"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the longest war in U.S. history?",
+      "answer": "The Vietnam War"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What nation's astronaut founded a gourmet space meals company after serving fellow Discovery crew members his crab mousse recipe?",
+      "answer": "France's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What boxer is the pride of El Paso?",
+      "answer": "Oscar De La Hoya"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What do officials in Queensland, Australia advise tourists not to sit on the back of or place any part of their bodies in the mouth of?",
+      "answer": "Crocodiles"
+    }
+  ]
+}

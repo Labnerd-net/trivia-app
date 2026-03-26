@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_01",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1978's Foul Play, a police detective helps a librarian who is accidentally involved in an assassination attempt on the Pope. Who were the two stars?",
+      "answer": "Chevy Chase and Goldie Hawn"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What unisex surfer shorts became popular again in the 80s with wild prints and a huge coolness factor?",
+      "answer": "Jams"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who are Jordan, Joey, Jon, Danny, and Donnie?",
+      "answer": "The New Kids on the Block"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What artificial organ called the Jarvik 7 was first implanted into a patient in 1982?",
+      "answer": "Artificial heart"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "The Teenage Mutant Ninja Turtles helped ressurect this type of slang.",
+      "answer": "Surfer"
+    }
+  ]
+}

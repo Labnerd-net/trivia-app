@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000105_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1981 movie launched an adventure series about Indiana Jones, the intrepid archaeologist who fought Nazis and saved precious artifacts?",
+      "answer": "Raiders of the Lost Ark"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What iconic spokesperson was known for crashing through any barriers when called by little kids to provide them a sugary drink?",
+      "answer": "Mr. Kool-Aid or Kool-Aid Man"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What group's \"Rappers Delight\" was the first hip-hop song to enter the Top 40?",
+      "answer": "Sugarhill Gang"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Where did Israeli commandos make a daring and successful raid to free hostages taken by Palestinian terrorists being held in Uganda?",
+      "answer": "Entebbe"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was being advertised with the phrase, \"Hey good lookin'. We'll be back to pick you up later!\"",
+      "answer": "Mr. Microphone"
+    }
+  ]
+}

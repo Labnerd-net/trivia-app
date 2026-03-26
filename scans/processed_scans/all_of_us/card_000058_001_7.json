@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000058_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A 'Star Wars' revival had lots of kids swinging these light-up toys around.",
+      "answer": "Light sabers"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This artist is known for his hits 'Suge' and 'Bop' and is featured on Post Malone's hit 'Enemies'.",
+      "answer": "DaBaby"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Bob Belcher is the star of what animated TV show?",
+      "answer": "Bob's Burgers"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Becoming increasingly popular in the late 2010s, this kind of competitive gaming could fill a stadium.",
+      "answer": "Esports"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This American electronic musician and DJ wears a custom white helmet for public appearances and is best known for the songs 'Silence', 'Wolves', and 'Friends'.",
+      "answer": "Marshmello"
+    }
+  ]
+}

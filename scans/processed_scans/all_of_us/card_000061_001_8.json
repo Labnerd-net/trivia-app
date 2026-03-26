@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Frequently making 'sexiest woman of all time' lists, this actress stars in films such as 'Bedazzled,' 'Bandolero!' and 'One Million Years B.C.'",
+      "answer": "Raquel Welch"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What famous TV personality was known for his exciting catchphrase 'And away we go'?",
+      "answer": "Jackie Gleason"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Woody Allen directed this 1966 film, which seeks information about the best egg salad recipe.",
+      "answer": "What's Up, Tiger Lily?"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In what state did the Watts riots occur?",
+      "answer": "California"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Brought to the US in 1961, this board game is a fight for your opponent's flag.",
+      "answer": "Stratego"
+    }
+  ]
+}

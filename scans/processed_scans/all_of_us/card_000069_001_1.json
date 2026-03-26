@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In the film \"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,\" which actor plays more than one role?",
+      "answer": "Peter Sellers"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What metal construction toy was popular in the 1960s?",
+      "answer": "Erector sets"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which singer performed the title song for 1964's James Bond film \"Goldfinger\"?",
+      "answer": "Shirley Bassey"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Going on to serve only one term, he was elected president in 1976.",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who stars as Catwoman in the third and final season of \"Batman\" in 1967?",
+      "answer": "Eartha Kitt"
+    }
+  ]
+}

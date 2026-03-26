@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000110_407",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Portuguese island will become the only China-run land where casino gambling is allowed, after 1999?",
+      "answer": "Macao"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What animated characters are known as Smolf in Stockholm?",
+      "answer": "The Smurfs"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. network beamed the first hours of the Persian Gulf War live?",
+      "answer": "CNN"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What substance produced by the body is counteracted by antihistamine drugs?",
+      "answer": "Histamine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's the only Grand Slam tennis tournament where the men's winner hoists a gold trophy?",
+      "answer": "Wimbledon"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What paper coined the showbiz terms 'lay an egg,' 'turkey' and 'flop'?",
+      "answer": "Variety"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actress plays Janet in 'The Rocky Horror Picture Show'?",
+      "answer": "Susan Sarandon"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1988, this new format for listening to music outsold vinyl for the first time.",
+      "answer": "CDs or compact discs"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who sang 'Hungry Like the Wolf'?",
+      "answer": "Duran Duran"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Alan Thicke portrays a psychiatrist and family man in what television sitcom?",
+      "answer": "Growing Pains"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What US president is an avid saxophone player?",
+      "answer": "Bill Clinton"
+    }
+  ]
+}

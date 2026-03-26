@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Singer-songwriter Rivers Cuomo is best known for his work with this alternative rock group.",
+      "answer": "Weezer"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 1990s teen idol is famously known for his role as Randy Taylor in \"Home Improvement.\"",
+      "answer": "Jonathan Taylor Thomas"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A group of people organized online who meet in a specific place at a specific time to do something meaningless is called a what?",
+      "answer": "Flash mob"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2005 storm severely affected coastal areas in Louisiana, Mississippi, and Alabama.",
+      "answer": "Hurricane Katrina"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Who plays Detective John Kimble in \"Kindergarten Cop\"?",
+      "answer": "Arnold Schwarzenegger"
+    }
+  ]
+}

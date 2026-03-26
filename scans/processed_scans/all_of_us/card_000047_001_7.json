@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "They had a hit in 1994 with the single \"I Swear.\"",
+      "answer": "All-4-One"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This '90s Nickelodeon show revolves around characters at a summer camp with a dorky counselor called Ug.",
+      "answer": "Salute Your Shorts"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This rapper released his single \"Juicy\" in 1995.",
+      "answer": "The Notorious B.I.G."
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Fashion icon Gabrielle Chanel was better known by what nickname?",
+      "answer": "Coco"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which president appointed Sonia Sotomayor to the US Supreme Court?",
+      "answer": "President Obama"
+    }
+  ]
+}

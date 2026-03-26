@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000075_09",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the actress and actor who starred in Sleepless in Seattle and You've Got Mail.",
+      "answer": "Meg Ryan and Tom Hanks"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What color did emos wear?",
+      "answer": "Black"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What power couple were the King and Queen of Millennial music?",
+      "answer": "Jay-Z and Beyonce"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This popular pope died on April 2, 2005.",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the acronym for someone who has anxiety that something exciting may be currently happening elsewhere?",
+      "answer": "FOMO"
+    }
+  ]
+}

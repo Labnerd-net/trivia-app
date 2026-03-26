@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000105_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "On what popular 80's family sitcom would you find Alex, Mallory, Jennifer, and later, Andrew Keaton?",
+      "answer": "Family Ties"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What term, originally about an area in California, was applied to any young female who was ditzy, shallow, materialistic, and had a limited vocabulary?",
+      "answer": "Valley girl"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Remember when malls were a thing? What singer performed \"The Beautiful You: Celebrating the Good Life Shopping Mall Tour '87\"?",
+      "answer": "Tiffany"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Why were Brits not crazy about eating hamburgers in the 80s?",
+      "answer": "Mad cow disease"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the famous 1978 Alka-Seltzer jingle that included the sounds the product made?",
+      "answer": "\"Plop, plop, fizz, fizz, Oh what a relief it is.\""
+    }
+  ]
+}

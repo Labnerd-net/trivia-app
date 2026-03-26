@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This Netflix Original was sometimes referred to by its acronym OITNB.",
+      "answer": "Orange is the New Black"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This toy was promoted to help those with trouble focusing, or who needed to relieve nervous energy, anxiety, or psychological stress.",
+      "answer": "Fidget Spinner"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "His songs \"Talk Dirty\" and \"Whatcha Say\" helped earn him 1.3 billion YouTube views and sell over 45 million records.",
+      "answer": "Jason Derulo"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Beyonce made history as the first African-American woman to headline this music festival in 2018.",
+      "answer": "Coachella"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Featuring Jennifer Garner or Samuel L. Jackson, what was the ad campaign slogan for Capital One?",
+      "answer": "\"What's in your wallet?\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000096_3",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did the letters in WALL-E's name represent?",
+      "answer": "Waste Allocation Load Lifter: Earth"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Google launched this mobile operating system in 2008 with releases typically named after sweets.",
+      "answer": "Android"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Maroon 5 song featured Cardi B?",
+      "answer": "\"Girls Like You\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Between the 2011-12 and 2018-2019 NBA seasons, this team combined for 3 championships, due in part to The Splash Brothers. Name them.",
+      "answer": "Stephen Curry and Klay Thompson"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the term for pretending on the internet to be someone or something you are not, to gain friends, attention, partners, pity, sympathy or money",
+      "answer": "\"Catfish\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"The Sound of Silence\" was a hit by which artists?",
+      "answer": "Simon & Garfunkel"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In this 1958 movie, Steve McQueen battles a terrifying alien monster.",
+      "answer": "The Blob"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "An icon of the \"swinging '60s,\" English model Lesley Lawson is better known by what nickname?",
+      "answer": "Twiggy"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "On what show did the title character's diet consist of 20 pounds of hay and a gallon of sweet tea?",
+      "answer": "Mister Ed"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "These skirts are adorned with imagery, often a kind of dog.",
+      "answer": "Poodle skirts"
+    }
+  ]
+}

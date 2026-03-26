@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "This TV show is about 2 California detectives.",
+      "answer": "Starsky & Hutch"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Robert Stack hosted what television series focusing on cold cases and paranormal phenomena?",
+      "answer": "Unsolved Mysteries"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "This 5-member family band went on animated adventures in the early '70s.",
+      "answer": "The Jackson 5"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "This 'Saturday Night Live' cast member played Beldar.",
+      "answer": "Dan Aykroyd"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "This cartoon follows students at Riverdale High.",
+      "answer": "The Archie Show"
+    }
+  ]
+}

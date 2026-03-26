@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "The main character Al Bundy was in what TV show?",
+      "answer": "Married...with Children"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was riding in the white Bronco being chased by the LAPD?",
+      "answer": "OJ Simpson"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Saul Hudson, better known by his stage name Slash, is the top-hat wearing guitarist of this band.",
+      "answer": "Guns N' Roses"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1984, who was the first U.S. woman ever to win the Individual All-Around Olympic gold medal for gymnastics?",
+      "answer": "Mary Lou Retton"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did it mean if you needed some 'cheddar'?",
+      "answer": "Money"
+    }
+  ]
+}

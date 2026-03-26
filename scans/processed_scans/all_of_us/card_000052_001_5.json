@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Ari Gold is Vincent Chase's abrasive yet lovable agent in what HBO series about show business?",
+      "answer": "Entourage"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Her album \"Let Go\" got her dubbed the \"Pop Punk Queen.\"",
+      "answer": "Avril Lavigne"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This popular Nintendo launch title used the \"Zapper.\"",
+      "answer": "Duck Hunt"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "He became a sports star playing shortstop for the New York Yankees, starting in 1995.",
+      "answer": "Derek Jeter"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Antoine Dodson had a viral hit with this 2010 internet sensation.",
+      "answer": "Bed Intruder Song"
+    }
+  ]
+}

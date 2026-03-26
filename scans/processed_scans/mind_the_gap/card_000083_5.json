@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000083_5",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "According to Marilyn Monroe and Jane Russell in Gentlemen Prefer Blondes, what are a girl's best friend?",
+      "answer": "Diamonds"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What comic book fowl was a pal of Andy Panda?",
+      "answer": "Charlie Chicken"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "One of the pioneers of rock and roll music, this singer excited audiences with his powerful performances, such as his hit 'Johnny B. Goode.'",
+      "answer": "Chuck Berry"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What U.S.-created programmable computer was unveiled to the world in 1946?",
+      "answer": "ENIAC"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was meant by the term 'bum rap'?",
+      "answer": "False accusation; falsely accused"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_05",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "The hit movie Tootsie was nominated for numerous awards, with Jessica Lange receiving the Best Actress Oscar. Who was the male lead?",
+      "answer": "Dustin Hoffman"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was invented by a Hungarian architect in 1974 to explain 3-D geometry but became a popular toy in the 80s?",
+      "answer": "Rubik's cube"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What infectious song by Katrina and the Waves had a video of her dancing through London?",
+      "answer": "\"Walkin' on Sunshine\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who won the 1976 Olympic gold medal for the decathlon, and was popularly crowned \"the world's greatest athlete\"?",
+      "answer": "Bruce Jenner"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What cereal's slogan was \"Kid tested; Mother approved.\"?",
+      "answer": "Kix"
+    }
+  ]
+}

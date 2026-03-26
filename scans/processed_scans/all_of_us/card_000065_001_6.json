@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "She started her career as the lead singer of the Supremes.",
+      "answer": "Diana Ross"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What is Bob Newhart's profession on \"The Bob Newhart Show\"?",
+      "answer": "Psychologist"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This 1956 movie tells the story of a journey around the globe.",
+      "answer": "Around the World in 80 Days"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What term coined in 1970 describes extremely short shorts?",
+      "answer": "Hot pants"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who sang the classic song \"What a Wonderful World\"?",
+      "answer": "Louis Armstrong"
+    }
+  ]
+}

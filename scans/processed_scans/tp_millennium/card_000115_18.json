@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000115_18",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the largest alluvial flood plain in the U.S.?",
+      "answer": "The Mississippi delta"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Beck hit from Mellow Gold became a slacker and Gen-X anthem?",
+      "answer": "Loser"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who left his five-day tenure as West Point's superintendent to lead the Confederate Army?",
+      "answer": "General Beauregard"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What fraction of the Sahara Desert is covered by sand?",
+      "answer": "One-fifth"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What team did Giants manager John McGraw refuse to play in the 1904 World Series, because he felt they were unworthy foes?",
+      "answer": "The Boston Red Sox"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who did Marla Maples once ask: \"Do you love your husband? Because I do\"?",
+      "answer": "Ivana Trump"
+    }
+  ]
+}

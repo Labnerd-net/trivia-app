@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular TV series showcased the talents of Jim Henson, Frank Oz, and company from 1976-1981?",
+      "answer": "The Muppet Show"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What best-selling author and Miami Herald humorist received a Pulitzer for his syndicated column, and was famous for his Christmas gift guide?",
+      "answer": "Dave Barry"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Bob Seger song was associated with the movie Risky Business?",
+      "answer": "'Old Time Rock and Roll'"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1974, MITS introduced a mail-order build-it-yourself computer kit. What was it named?",
+      "answer": "Altair"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "When receiving the Best Actress Oscar for Places in the Heart, who famously said 'I can't deny that you like me, right now, you like me!'?",
+      "answer": "Sally Field"
+    }
+  ]
+}

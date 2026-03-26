@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000122_347",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the most populous state in the U.S. for the last time in 1800?",
+      "answer": "Virginia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What comedy is Shakespeare's shortest play, at 1,778 lines?",
+      "answer": "Comedy of Errors"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Soviet-occupied nation was the target of the CIA's last covert action of the Cold War?",
+      "answer": "Afghanistan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many zeroes follow \"1\" in a googol?",
+      "answer": "One hundred"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What golfer was worth $175 million in the mid-1990s, despite never making more than $50,000 in any single PGA Tour event?",
+      "answer": "Arnold Palmer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose sister Donatella launched the Versus sportswear collection in 1998?",
+      "answer": "Gianni Versace's"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Casey Siemaszko stars in this 1987 film as a high school student who's set to fight a much larger transfer student.",
+      "answer": "Three O'Clock High"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What 1980s prime-time soap chronicles the feud between the Gioberti and Channing families in the California wine industry?",
+      "answer": "Falcon Crest"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Operation Deepscan was a 1987 mission to find what mythical creature?",
+      "answer": "Loch Ness Monster, or Nessie"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which hair metal band released 'Every Rose Has Its Thorn'?",
+      "answer": "Poison"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Launched by Milton Bradley in 1967, this war-themed strategy game sees players guessing the location of their opponent's fleet.",
+      "answer": "Battleship"
+    }
+  ]
+}

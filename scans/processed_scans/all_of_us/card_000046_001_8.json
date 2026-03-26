@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000046_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Perhaps the siren song of the grunge genre, \"Smells Like Teen Spirit\" was recorded by what band?",
+      "answer": "Nirvana"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Premiering in 1998, this Nickelodeon® cartoon featured a 2-headed pet.",
+      "answer": "CatDog"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In November 2000, Bill Clinton became the first sitting US president to visit this country.",
+      "answer": "Vietnam"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This cartoon is about an alien and robot GIR who try to take over earth.",
+      "answer": "Invader Zim"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor voices Woody in the \"Toy Story\" film series?",
+      "answer": "Tom Hanks"
+    }
+  ]
+}

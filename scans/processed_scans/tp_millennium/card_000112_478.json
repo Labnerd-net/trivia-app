@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000112_478",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country ceased to exist after December 31, 1991?",
+      "answer": "The Soviet Union"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV show saw its audience increase by 50 percent when Heather Locklear came aboard?",
+      "answer": "Melrose Place"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "How many categories of Nobel Prizes were there after one for Economics was added in 1969?",
+      "answer": "Six"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does 'IMHO' mean to e-mailers?",
+      "answer": "In my humble opinion"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What tennis star was dubbed 'the Barcelona Backboard' for her ability to return anything?",
+      "answer": "Arantxa Sánchez Vicario"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was the first TV network to approve ads for condoms, in 1991?",
+      "answer": "Fox"
+    }
+  ]
+}

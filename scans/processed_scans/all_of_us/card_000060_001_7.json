@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This fitness program is built upon a mix of aerobic exercise, calisthenics, and Olympic weight lifting.",
+      "answer": "CrossFit®"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Auntie Anne's® is best known for selling this type of snack.",
+      "answer": "Pretzels"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In addition to dating Kylie Jenner, this hip-hop star is notable for hits like \"The London\" and \"Highest in the Room.\"",
+      "answer": "Travis Scott"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The 2016 film \"Fantastic Beasts and Where to Find Them\"™ is a spin-off and prequel to this popular film series.",
+      "answer": "\"Harry Potter\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "When used at the beginning of a question, what does \"DAE\" mean?",
+      "answer": "\"Does anyone/anybody else\""
+    }
+  ]
+}

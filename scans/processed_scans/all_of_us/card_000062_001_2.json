@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This rocker starred in a televised 1968 comeback special.",
+      "answer": "Elvis Presley"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "On \"Fantasy Island,\" what phrase does Tattoo repeat in the title sequence?",
+      "answer": "De plane!"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In \"2001: A Space Odyssey,\" what is the name of the computer?",
+      "answer": "HAL"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This pioneering comedian rose to fame in the 1960s for his open, free-style, and critical form of comedy and was convicted in a 1964 obscenity trial.",
+      "answer": "Lenny Bruce"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "It's the scandal that led to Nixon's downfall.",
+      "answer": "Watergate"
+    }
+  ]
+}

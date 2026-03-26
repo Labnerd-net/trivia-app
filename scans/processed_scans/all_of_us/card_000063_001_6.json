@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"Maude\" and \"The Jeffersons\" are spin-offs of what TV sitcom?",
+      "answer": "\"All in the Family\""
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This British group released the single \"Honky Tonk Women.\"",
+      "answer": "The Rolling Stones"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which iconic Soviet leader died in 1953?",
+      "answer": "Joseph Stalin"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "These small cylindrical hats were very popular in the early '60s.",
+      "answer": "Pillbox hats"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This playwright secured his reputation as one of the greats with \"A Streetcar Named Desire.\"",
+      "answer": "Tennessee Williams"
+    }
+  ]
+}

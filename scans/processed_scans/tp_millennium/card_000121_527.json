@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000121_527",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What bay could you take a dip in during a vacation in Chittagong, Bangladesh?",
+      "answer": "The Bay of Bengal"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie has Woody Allen exclaim: 'I can't believe I'm dating a girl who does homework'?",
+      "answer": "Manhattan"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What world leader presented Louis Farrakhan with a $1 billion gift, in 1996?",
+      "answer": "Muammar Qaddafi"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the only hour during which a clock's hour and minute hands are never precisely aligned?",
+      "answer": "Eleven o'clock"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What pint-sized cartoon character does relief pitcher Mitch Williams boast a tattoo of?",
+      "answer": "Speedy Gonzales"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What year in the 21st century marks the maturation of bonds known as 'Bo Dereks'?",
+      "answer": "2010"
+    }
+  ]
+}

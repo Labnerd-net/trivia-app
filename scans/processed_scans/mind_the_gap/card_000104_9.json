@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_9",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What movie, starring Billy Crystal as a white-collar guy on a dude ranch, earned a Best Supporting Actor Oscar for Jack Palance?",
+      "answer": "City Slickers"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Prince of Parody became an MTV star with \"Eat It\" and \"Like a Surgeon\"?",
+      "answer": "Weird Al Yankovic"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Which Whitney Houston music video featured her with a large bow in her hair in a room featuring fun-house mirrors?",
+      "answer": "\"How Will I Know\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What gaming system was first released in 1989, with games such as Tetris and Super Mario Land?",
+      "answer": "Nintendo Game Boy"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What fast food restaurant had the slogan, \"Where's the beef?\"",
+      "answer": "Wendy's"
+    }
+  ]
+}

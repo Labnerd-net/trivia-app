@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000094_10",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of the girl who was supposedly dead in the TV show Pretty Little Liars?",
+      "answer": "Alison DiLaurentis"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Who was the first individual YouTuber to reach 100 million subscribers?",
+      "answer": "Pewdiepie"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2012, what was the name of Taylor Swift's fourth studio album, featuring \"Holy Ground\" and \"We are Never, Ever Getting Back Together\"?",
+      "answer": "Red"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Why was Beijing-bound Malaysia Airlines Flight 370 infamous?",
+      "answer": "It disappeared in the Indian Ocean"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"I just sawed this boat in half!\" was a phrase used on a TV commercial. What will be used to repair that boat?",
+      "answer": "Flex Tape"
+    }
+  ]
+}

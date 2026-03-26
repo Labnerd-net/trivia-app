@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_247",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country has the most seats in the European Parliament?",
+      "answer": "Germany"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What rocker chose a Clinton inaugural bash to come out of the closet?",
+      "answer": "Melissa Etheridge"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What symbol was comprised of 50,000 stitched-together squares of fabric by 1996?",
+      "answer": "The AIDS quilt"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What creature's name was derived from French words meaning \"spiny pig\"?",
+      "answer": "The porcupine's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Giant's bone-crushing 1985 tackle ended Joe Theismann's career?",
+      "answer": "Lawrence Taylor's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What talk show host led a parade of 50,000 motorcycle riders to celebrate the 95th anniversary of Harley-Davidson?",
+      "answer": "Jay Leno"
+    }
+  ]
+}

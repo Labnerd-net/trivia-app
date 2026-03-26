@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000121_41",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Las Vegas casino has an autographed Bob Dylan guitar above the window where you cash your chips?",
+      "answer": "The Hard Rock Casino"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie sees Robert De Niro get hit some 500 times?",
+      "answer": "Raging Bull"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who became leader of the opposition after the 1990 Nicaraguan elections?",
+      "answer": "Daniel Ortega"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 16th-century student of mathematician Ostilio Ricci went on to have quite a career?",
+      "answer": "Galileo"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What major golf tournament has its final round played on Father's Day?",
+      "answer": "The U.S. Open"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many U.S. 'Meals Ready to Eat' did troops in Bosnia have to give up in trade for a single French one?",
+      "answer": "Three"
+    }
+  ]
+}

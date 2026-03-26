@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_246",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation's secret military police are called the Kimpai?",
+      "answer": "Japan's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What aging comic was the only person not asked to pass through metal detectors at the 1991 Oscars?",
+      "answer": "Bob Hope"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 1848 treatise begins: \"A spectre is haunting Europe\"?",
+      "answer": "The Communist Manifesto"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What All-India Institute of Medicine alumnus penned the mega-selling Ageless Body, Timeless Mind?",
+      "answer": "Deepak Chopra"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was the first wild-card team to win the World Series?",
+      "answer": "The Florida Marlins"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What occupation has the appropriate anagram \"moon starer\"?",
+      "answer": "Astronomer"
+    }
+  ]
+}

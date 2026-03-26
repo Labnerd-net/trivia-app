@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This soap opera involves the company Ewing Oil.",
+      "answer": "Dallas"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Keep your Wayfarers around your neck with this popular fashion accessory.",
+      "answer": "Croakies"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Starring Tom Hanks and Shelley Long, this 1986 film tells the story of a couple who attempt to renovate their house.",
+      "answer": "The Money Pit"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What performer tore up a picture of the pope on live TV in 1992?",
+      "answer": "Sinéad O'Connor"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is John McEnroe known for?",
+      "answer": "Tennis"
+    }
+  ]
+}

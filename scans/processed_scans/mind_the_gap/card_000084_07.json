@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_06",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 60's show featured Adam West and Burt Ward fighting villains, and using \"biff\" and \"pow\" graphics to indicate fighting?",
+      "answer": "Batman"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This toy was made to encourage constructive instincts, and some specialized kits came with electric motors.",
+      "answer": "Erector Set"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "\"If you're fond of sand dunes and salty air/Quaint little villages here and there/You're sure to fall in love with __________\".",
+      "answer": "\"Old Cape Cod\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous poet, known for \"The Road not Taken\" and \"Stopping by Woods on a Snowy Evening\" recited his \"The Gift Outright\" at John F. Kennedy's inauguration?",
+      "answer": "Robert Frost"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "The phrase \"ancient Chinese secret\" was used in this company's ad campaign to sell powdered water softener for laundry.",
+      "answer": "Calgon"
+    }
+  ]
+}

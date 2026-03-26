@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The 2-time Emmy Award-winning actress Shirley Booth played the title character of what '60s series?",
+      "answer": "Hazel"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Blurring the lines between doo-wop and rock and roll, this vocal group had a string of hits, including \"Yakety Yak,\" \"Searchin',\" and \"Young Blood.\"",
+      "answer": "The Coasters"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Rock Hudson, Patrick McGoohan, Ernest Borgnine, and Jim Brown star in which 1968 spy film?",
+      "answer": "Ice Station Zebra"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which president ordered construction of the hydrogen bomb in 1950?",
+      "answer": "Truman"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed \"Blazing Saddles\"?",
+      "answer": "Mel Brooks"
+    }
+  ]
+}

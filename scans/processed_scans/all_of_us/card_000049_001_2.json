@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_2",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Get the Party Started\" became an international hit for what colorful American singer?",
+      "answer": "Pink"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This critically acclaimed series was originally a short on MTV® featuring 2 bumbling idiot teenagers.",
+      "answer": "Beavis and Butt-Head"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Channel Tunnel was completed in 1994 and connected which 2 countries?",
+      "answer": "France and England"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Culminating in 1998, what baseball star played a record-setting 2,632 consecutive games?",
+      "answer": "Cal Ripken Jr."
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This animated film tells the tale of Quasimodo, an isolated character who hides away in a bell tower.",
+      "answer": "The Hunchback of Notre Dame"
+    }
+  ]
+}

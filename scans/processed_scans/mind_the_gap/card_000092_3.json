@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000092_3",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What TV show featured the iconic main character Michael Scott?",
+      "answer": "The Office"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of popular soft, plush dolls with terrycloth mouths that sang and made noises when squeezed?",
+      "answer": "Sing-A-Ma-Jigs"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Which single by Lil Nas X (ft Billy Ray Cyrus) broke Billboard records in 2019?",
+      "answer": "\"Old Town Road\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2011 what terrorist was killed in Pakistan as a result of an American top-secret raid on his compound?",
+      "answer": "Osama bin Laden"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the phrase \"Ok Boomer\" used to imply?",
+      "answer": "That the Baby Boomer said something stupid."
+    }
+  ]
+}

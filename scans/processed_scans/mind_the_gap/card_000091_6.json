@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000091_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "As of 2019, what was the highest grossing film of all time?",
+      "answer": "Avengers: Endgame"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What mobile payment app allowed friends to quickly split bills, such as movies, dinner, rent, tickets, etc?",
+      "answer": "Venmo"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Austin Post was more commonly known by what name?",
+      "answer": "Post Malone"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In what South American city were the 2016 Summer Olympics held?",
+      "answer": "Rio de Janeiro, Brazil"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did it mean to \"photobomb\" someone?",
+      "answer": "To jump into a photo without people knowing."
+    }
+  ]
+}

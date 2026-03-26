@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000056_001_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Finn the human and Jake the dog are characters from what cartoon?",
+      "answer": "Adventure Time"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This rapper released her album 'Queen' in 2018.",
+      "answer": "Nicki Minaj"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In this wrestling-inspired series of Nintendo games, characters from different franchises battle each other until only 1 player is left on the stage.",
+      "answer": "Super Smash Bros."
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Who plays Batman in the 2017 film 'Justice League'?",
+      "answer": "Ben Affleck"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The 'granny hair' trend started in the 2010s and had people doing what?",
+      "answer": "Dyeing their hair gray"
+    }
+  ]
+}

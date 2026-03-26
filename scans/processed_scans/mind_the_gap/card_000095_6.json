@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Lin-Manuel Miranda co-wrote many of the songs for this instant Disney classic in 2016.",
+      "answer": "Moana"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What line of e-readers was launched by Amazon in 2007?",
+      "answer": "Kindle"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the singer to debut a top 10 lead single from each of her first three albums: Yours Truly, My Everything, and Dangerous Woman.",
+      "answer": "Ariana Grande"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What NFL player was blackballed from playing as a result of kneeling during the national anthem in protest of racial inequality?",
+      "answer": "Colin Kaepernick"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This was the Gen Z word that meant you totally dominated a performance. (Legends like Beyonce did it all day.)",
+      "answer": "\"Slay\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This rapper released the song \"Panda\" in 2015.",
+      "answer": "Desiigner"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "\"The Clone Wars\"™ is a 3D CGI series that takes place in what sci-fi universe?",
+      "answer": "Star Wars™"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What is the name of this popular vehicular soccer game, first released in 2015?",
+      "answer": "\"Rocket League®\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In \"Toy Story,\" which actor voices the role of Woody?",
+      "answer": "Tom Hanks"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This animated series, debuting in 2016, chronicles the life of Lincoln and his 10 sisters.",
+      "answer": "\"The Loud House\"™"
+    }
+  ]
+}

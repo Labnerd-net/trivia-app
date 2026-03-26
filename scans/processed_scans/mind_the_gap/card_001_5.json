@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In what Disney show did an older sister give her baby sister advice through recordings?",
+      "answer": "Good Luck Charlie"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What e-cigarette was popular with teenagers because of its small size that looked like a USB?",
+      "answer": "The Juul"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What 2019 song by Luis Fonsi (ft. Daddy Yankee), reached the milestones of 2 billion and 2.5 billion views the fastest in YouTube's history?",
+      "answer": "\"Despacito\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the hippo born at the Cincinnati Zoo in 2017 who became world famous through social media feeds chronicling her progress.",
+      "answer": "Fiona"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What TV show used the phrase, \"The Tribe has spoken\"?",
+      "answer": "Survivor"
+    }
+  ]
+}

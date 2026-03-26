@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_9",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the comedy duo, one a debonair singer and the other a slapstick comedian, who made sixteen films together.",
+      "answer": "Dean Martin and Jerry Lewis"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What artist was most known for his quintessential depictions of American life on the covers of The Saturday Evening Post?",
+      "answer": "Norman Rockwell"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What rock band had hits with \"Bad Moon Rising\" and \"Proud Mary.\"",
+      "answer": "Credence Clearwater Revival (CCR)"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What two teams met in the first Super Bowl in 1967?",
+      "answer": "Kansas City Chiefs; Green Bay Packers"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What product's slogan was, \"Does she or doesn't she? Only her hairdresser knows for sure.\"",
+      "answer": "Clairol"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who plays the character Barf in the Mel Brooks film 'Spaceballs'?",
+      "answer": "John Candy"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who sang the 1986 hit 'Greatest Love of All'?",
+      "answer": "Whitney Houston"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1989, Ayatollah Khomeini, the supreme leader of Iran, called for the assassination of which British Indian author?",
+      "answer": "Salman Rushdie"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This crafty toy is made of thin plastic that shrinks down when heated.",
+      "answer": "Shrinky Dinks"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Beginning in 1981, this longtime broadcast follows a newscast format focused on coverage of the latest movies, music, and television.",
+      "answer": "Entertainment Tonight"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In the movie Big Hero 6, what did Baymax need to hear before he could leave you alone?",
+      "answer": "\"I am satisfied with my care.\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What cooperative survival video game quickly added a battle royale format where 100 players fought to be the last one standing?",
+      "answer": "Fortnite"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "When this music icon died in 2016, cities across the US mourned his death by lighting up buildings and bridges with purple lights.",
+      "answer": "Prince"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "During his 2018 confirmation process, what Supreme Court Justice nominee was accused of assault in high school?",
+      "answer": "Justice Brett Kavanaugh"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In the sentence \"I'm finna ace this test!\", what did \"finna\" mean?",
+      "answer": "I'm going to do it"
+    }
+  ]
+}

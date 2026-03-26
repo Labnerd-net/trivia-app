@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "John Cleese, Graham Chapman, and Eric Idle are all stars of what surreal comedy sketch series?",
+      "answer": "Monty Python's Flying Circus"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This Cincinnati Reds player reached 3,000 hits in 1978.",
+      "answer": "Pete Rose"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What is the name of the band whose songs include \"Baba O'Riley\" and \"Won't Get Fooled Again\"?",
+      "answer": "The Who"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A coveted present for a certain chipmunk, what popular toy was invented in the 1950s?",
+      "answer": "Hula-Hoop"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"Breakfast at Tiffany's\" won 2 Academy Awards: Original Score and Best Original Song. What song was it?",
+      "answer": "Moon River"
+    }
+  ]
+}

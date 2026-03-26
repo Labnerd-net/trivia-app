@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000113_51",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country is second to the U.S. in the number of pro athletes it has produced?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who walked into the Friars Club every day for 50 years and stated, 'I want a table near a waiter'?",
+      "answer": "Henny Youngman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What war saw U.S. planes drop a record seven million tons of bombs?",
+      "answer": "The Vietnam War"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was heralded in a 1944 Life ad: 'From Ordinary Mold! The Greatest Healing Agent of This War'?",
+      "answer": "Penicillin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What popular NHL team's emblem depicts a goalie mask with a bill?",
+      "answer": "The Mighty Ducks of Anaheim's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose full name was Chernobyl, according to some high schoolers in a 1990s survey?",
+      "answer": "Cher's"
+    }
+  ]
+}

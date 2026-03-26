@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000096_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What TV sitcom featured four friends who were all scientists working at the same university?",
+      "answer": "The Big Bang Theory"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Turkish culinary artist took 2017 by storm?",
+      "answer": "Salt Bae"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2019 what popular musician sang \"You Need to Calm Down\"?",
+      "answer": "Taylor Swift"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of the space shuttle that went on the final mission of the shuttle program?",
+      "answer": "Atlantis"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "When someone was desperate for attention, they were ______.",
+      "answer": "\"Thirsty\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "With many number 1 singles in the late '70s, she was sometimes called the 'Queen of Disco.'",
+      "answer": "Donna Summer"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Legendary athlete Earvin Johnson Jr. is better known by what nickname?",
+      "answer": "Magic Johnson"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 'Flintstones' spin-off ran from '71 to '76.",
+      "answer": "The Pebbles and Bamm-Bamm Show"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In this arcade game, you hop on brightly colored cubes.",
+      "answer": "Q*bert"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's a horror film in which teens are killed in their dreams.",
+      "answer": "A Nightmare on Elm Street"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "002",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What influential country music star died in a plane crash at the age of 30 in 1963?",
+      "answer": "Patsy Cline"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What musical sitcom stars Shirley Jones and David Cassidy?",
+      "answer": "The Partridge Family"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What sci-fi series starring Lee Majors is based on a novel called \"Cyborg\"?",
+      "answer": "The Six Million Dollar Man"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What 1970s fashion trend was characterized by simple and often dirty clothes?",
+      "answer": "Punk"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After it was used on John Glenn's Mercury flight, this drink really took off.",
+      "answer": "Tang"
+    }
+  ]
+}

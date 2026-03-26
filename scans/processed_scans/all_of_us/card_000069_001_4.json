@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which actor stars in 1968's \"The Thomas Crown Affair\"?",
+      "answer": "Steve McQueen"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which glamorous girl group sang the hits \"Baby Love,\" \"Where Did Our Love Go,\" and \"Come See about Me\"?",
+      "answer": "The Supremes"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What musical award show started in 1958?",
+      "answer": "Grammy Awards"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "His second album was called \"Sweet Baby James.\"",
+      "answer": "James Taylor"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This classic Ford was introduced as a convertible in 1955.",
+      "answer": "Thunderbird"
+    }
+  ]
+}

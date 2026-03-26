@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"The Mighty Ducks\" features a team playing which sport?",
+      "answer": "Hockey"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The 3 main members of what hip-hop group have the stage names Mike D, Ad-Rock, and MCA?",
+      "answer": "Beastie Boys"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "It's a popular '90s line of flavored lip gloss.",
+      "answer": "Lip Smacker®"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Football star Emmitt Smith is known for playing which position?",
+      "answer": "Running back"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "It's a cartoon about a kid who becomes a superhero after getting sucked into his computer.",
+      "answer": "Freakazoid!"
+    }
+  ]
+}

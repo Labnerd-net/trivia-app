@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In what TV show did Barney Stinson famously say, \"Le-gen-da-ry\"?",
+      "answer": "How I Met Your Mother"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This man was CEO of Tesla, the CEO and lead designer at SpaceX, and co-founder of PayPal.",
+      "answer": "Elon Musk"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Broadway show, premiering in 2015 and written by Lin-Manuel Miranda, is said to be about \"America then, as told by America now.\"",
+      "answer": "Hamilton"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2008, this city hosted the summer Olympics with spectacular ceremonies, but the country's poor human rights record caused controversy.",
+      "answer": "Beijing"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Popularized by a short video on Instagram and Vine, what question was shouted at someone wearing unkempt or off-brand footwear?",
+      "answer": "\"What are those?!\""
+    }
+  ]
+}

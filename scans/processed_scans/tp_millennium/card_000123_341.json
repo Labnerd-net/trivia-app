@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000123_341",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What small Texas town was named after an Alexander Graham Bell invention?",
+      "answer": "Telephone"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who won the Best Screenplay Oscar in 1997 for a movie he also starred in and directed?",
+      "answer": "Billy Bob Thornton"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did it become legal for Kentucky ministers to carry in churches, in July, 1998?",
+      "answer": "Guns"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does a chromophobic crayon maker fear?",
+      "answer": "Colors"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was fan Jeffrey Lange caught throwing in a late-season NFL game in 1995, leading to a lifetime ban from Giants Stadium?",
+      "answer": "A snowball"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 230-year-old knowledge outfit canned its entire sales force in 1996?",
+      "answer": "Encyclopaedia Britannica"
+    }
+  ]
+}

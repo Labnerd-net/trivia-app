@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000041_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In what classic video game does an orb-eating character avoid ghosts while navigating a maze?",
+      "answer": "Pac-Man"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Survivor's hit \"Eye of the Tiger\" appeared in which film?",
+      "answer": "Rocky III"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Nicknamed \"Mr. October,\" Hall of Famer Reggie Jackson is known for what sport?",
+      "answer": "Baseball"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1980 musical comedy stars John Belushi and Dan Aykroyd as 2 brothers.",
+      "answer": "The Blues Brothers"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "To the excitement of teens across the US, this music awards show debuted in 1984 and featured performances from stars including Madonna, David Bowie, and ZZ Top.",
+      "answer": "MTV Music Video Awards"
+    }
+  ]
+}

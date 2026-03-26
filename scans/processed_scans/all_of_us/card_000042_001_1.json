@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What is Arnold's signature question posed to Willis on 'Diff'rent Strokes'?",
+      "answer": "Whatchu talkin' 'bout?"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "The 1986 film 'Sid and Nancy' chronicles the life of a musician from what rock band?",
+      "answer": "The Sex Pistols"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "This widely recognized Roman Catholic nun and missionary known for her charity work passed away in 1997 at 87 years old.",
+      "answer": "Mother Teresa"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What computer operating system franchise was launched in 1985?",
+      "answer": "Microsoft Windows"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Morrissey is the vocalist for what Manchester band?",
+      "answer": "The Smiths"
+    }
+  ]
+}

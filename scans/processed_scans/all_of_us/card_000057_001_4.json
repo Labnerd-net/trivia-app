@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which mobile phone game has players endlessly running through an Aztec temple to avoid obstacles?",
+      "answer": "Temple Run"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This English singer had a major international hit with 'One Kiss.'",
+      "answer": "Dua Lipa"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In a 2018 PR disaster, pancake house IHOP tried to rebrand itself as IHOb to feature this menu item instead.",
+      "answer": "Burgers"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The double platinum single 'Going Bad' was a 2019 hit for this rapper.",
+      "answer": "Meek Mill"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actor and filmmaker produced, wrote, directed, and starred in the 2018 film 'A Star Is Born.'",
+      "answer": "Bradley Cooper"
+    }
+  ]
+}

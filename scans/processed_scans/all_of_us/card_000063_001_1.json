@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This band released the song \"In-A-Gadda-Da-Vida.\"",
+      "answer": "Iron Butterfly"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "For a brief time in the early '70s, the US Supreme Court put a moratorium on this judicial practice.",
+      "answer": "Capital punishment or the death penalty"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"My Girl,\" \"The Way You Do the Things You Do,\" and \"Ain't Too Proud to Beg\" were just a few of the hits from this classic vocal group.",
+      "answer": "The Temptations"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This actress plays the role of Eve in \"North by Northwest.\"",
+      "answer": "Eva Marie Saint"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "John and Yoko released this protest song in 1971.",
+      "answer": "\"Power to the People\""
+    }
+  ]
+}

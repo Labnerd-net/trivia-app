@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_03",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What TV game show, originally hosted by Peter Marshall, was known for its comedic celebrities, especially Rose Marie?",
+      "answer": "Hollywood Squares"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "While working on a device to keep sensitive ship equipment steady at sea, Richard James accidentally invented this stairstep toy?",
+      "answer": "Slinky"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "To what magical place did \"your kisses\" take the Four Coins?",
+      "answer": "\"Shangri-La\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who created the oral polio vaccine in 1956?",
+      "answer": "Albert Sabin"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What slang term expressed something that was beyond reason, exceedingly high, and beyond comprehension?",
+      "answer": "\"Out-of-sight\""
+    }
+  ]
+}

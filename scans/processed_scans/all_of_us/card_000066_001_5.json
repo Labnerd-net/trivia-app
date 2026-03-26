@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Some call this Zeppelin song the best rock song of all time.",
+      "answer": "Stairway to Heaven"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This federal agency was established in 1973 to deal with narcotics.",
+      "answer": "Drug Enforcement Agency"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What office staple was invented by mistake in 1968?",
+      "answer": "Post-it® Notes"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Jean Knight had a hit with this 1971 R&B hit.",
+      "answer": "Mr. Big Stuff"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The infamous Rat Pack originated in the '50s as a circle of friends of what legendary actor?",
+      "answer": "Humphrey Bogart"
+    }
+  ]
+}

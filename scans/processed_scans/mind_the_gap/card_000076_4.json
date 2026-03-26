@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000076_4",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What iconic Disney movie series starred Zac Efron and Vanessa Hudgens?",
+      "answer": "High School Musical"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What famous meme had a cat playing a musical instrument?",
+      "answer": "Keyboard Cat"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Rivers Cuomo was the lead vocalist for this band, with six self-titled albums simply identified by the color.",
+      "answer": "Weezer"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What unprecedented command was given on 9/11 that was in effect until September 14th?",
+      "answer": "All aircraft grounded and US airspace shut down."
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In 1997, what company launched their 'Think Different' ad campaign?",
+      "answer": "Apple"
+    }
+  ]
+}

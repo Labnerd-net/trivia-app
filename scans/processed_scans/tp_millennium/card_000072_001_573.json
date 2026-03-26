@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_573",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state decided to make its official vegetables the chili and frijole?",
+      "answer": "New Mexico"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What literary trilogy kept Dante Alighieri busy from 1310 to 1314?",
+      "answer": "Divine Comedy"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Tuscumbia, Alabama native was pictured on $50 'I Bonds' the Treasury Department offered in 1998?",
+      "answer": "Helen Keller"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What barnyard animal is twice as populous as humans?",
+      "answer": "The chicken"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What year did Cal Ripken Jr. begin his record consecutive-game streak?",
+      "answer": "1982"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Mattel doll in a wheelchair is unable to fit through the front door of the Barbie Dream House?",
+      "answer": "Share a Smile Becky"
+    }
+  ]
+}

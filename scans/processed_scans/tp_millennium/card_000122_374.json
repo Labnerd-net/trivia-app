@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000122_374",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What is illegal to tipple from teacups in Topeka?",
+      "answer": "Alcohol"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who do some residents of Monroeville, Alabama believe wrote To Kill a Mockingbird for Harper Lee?",
+      "answer": "Truman Capote"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Spanish explorer was beheaded and fed to the vultures for treason?",
+      "answer": "Vasco Nunez de Balboa"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What body part are Americans under 18 likeliest to have altered by plastic surgery?",
+      "answer": "The nose"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the only European golfer to win the U.S. Open between 1948 and 1998?",
+      "answer": "Tony Jacklin"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What war saw the U.S. Army develop a \"Smell-O-Meter\" to detect body odor of the enemy?",
+      "answer": "The Vietnam War"
+    }
+  ]
+}

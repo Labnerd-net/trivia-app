@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_572",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the fitting name of the Ku Klux Klan museum and apparel store John Howard opened in Laurens, South Carolina?",
+      "answer": "The Redneck Shop"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What British Royal did David Letterman ask, \"What is York\" and \"Do you like wrestling\"?",
+      "answer": "Sarah Ferguson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Mafia don died of a heart attack while watching a New York Yankees game in 1976?",
+      "answer": "Carlo Gambino"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What animals eat an average of ten baby hippos a year at Nepal's Royal Chitwan Park?",
+      "answer": "Tigers"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many playoff games do you have to win to cop the Stanley Cup?",
+      "answer": "Sixteen"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did the famous chef Le Grand Valtel do after Louis XIV asked for a doggie bag?",
+      "answer": "Commit suicide"
+    }
+  ]
+}

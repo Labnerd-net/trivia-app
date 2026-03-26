@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Pink Floyd released this groundbreaking album in 1973.",
+      "answer": "The Dark Side of the Moon"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Elena Verdugo plays a loving nurse and office manager in what television medical drama?",
+      "answer": "Marcus Welby, M.D."
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What legendary entertainer was buried with $1,008 so he'd always have enough money to play cards?",
+      "answer": "George Burns"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What star sang \"Happy Birthday\" to President Kennedy?",
+      "answer": "Marilyn Monroe"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This singer-songwriter made a big splash in the '70s with songs including \"You Can Leave Your Hat On\" and \"Short People.\"",
+      "answer": "Randy Newman"
+    }
+  ]
+}

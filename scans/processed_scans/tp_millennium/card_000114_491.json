@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000114_491",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many out of every five Amish held nonfarming jobs in the 1990s?",
+      "answer": "Two"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was credited with inventing Cubism, along with Picasso?",
+      "answer": "Georges Braque"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Norwegian died while trying to rescue fellow explorer Umberto Nobile in the Arctic?",
+      "answer": "Roald Amundsen"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Redmond, Washington, company is known to insiders as \"Big Green\"?",
+      "answer": "Microsoft"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Which Chicago Bull did Luc Longley summon back to the team with: \"We've got your ruby slippers here...and bring Toto with you\"?",
+      "answer": "Dennis Rodman"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1998 toy boasted a breast reduction?",
+      "answer": "Barbie"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000092_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the Disney movie with a video game villain who wants to be the hero.",
+      "answer": "Wreck-it Ralph"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "These quad-copters allowed users to record video from high angles using a dedicated controller or smartphone.",
+      "answer": "Drones"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What is the name of the motion-based dancing game, where every round includes a collection of songs with their own dance choreographies?",
+      "answer": "Just Dance"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What double-amputee Olympian was convicted of killing his girlfriend in 2013?",
+      "answer": "Oscar Pistorius"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did it mean if someone said, \"Let's get 'turnt up'!\"?",
+      "answer": "Let's party and have fun!"
+    }
+  ]
+}

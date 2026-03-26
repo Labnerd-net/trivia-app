@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000094_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This British historical drama followed the lives of the Crawley family and their servants in the family's Edwardian country house.",
+      "answer": "Downton Abbey"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What line of toys was introduced by Spin Master in 2016 that hatched from its own egg?",
+      "answer": "Hatchimal"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What legendary singer and daughter died three years apart under similar circumstances?",
+      "answer": "Whitney Houston and Bobbi Kristina Brown"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What former National Security Administration contractor leaked tens of thousands of confidential and classified documents?",
+      "answer": "Edward Snowden"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was JOMO?",
+      "answer": "Joy Of Missing Out; free of real or virtual activities"
+    }
+  ]
+}

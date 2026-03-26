@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000117_164",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the best known German word for \"empire\"?",
+      "answer": "Reich"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1978 hit noted: \"They have everything for young men to enjoy / You can hang out with all of the boys\"?",
+      "answer": "Y.M.C.A."
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was nicknamed \"Flat Tax\" during the 1996 U.S. presidential primaries?",
+      "answer": "Steve \"Flat Tax\" Forbes"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What living thing can jump 130 times its own height?",
+      "answer": "A flea"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Manhattan facility hypes itself as \"The World's Most Famous Arena\"?",
+      "answer": "Madison Square Garden"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Kellogg's cereal featured the 1996 Miss Universe on its box until buyers complained of her 11-pound weight gain?",
+      "answer": "Special K"
+    }
+  ]
+}

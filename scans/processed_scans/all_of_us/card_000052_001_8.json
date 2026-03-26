@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_8",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What's Amazon's AI assistant called?",
+      "answer": "Alexa"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The 5th generation of cellular network technology is commonly known as what?",
+      "answer": "5G"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What streaming service introduced in 2019 is home to the Marvel franchise?",
+      "answer": "Disney+"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "His song \"The Monster\" features Rihanna.",
+      "answer": "Eminem"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which hero did Michael B. Jordan portray in the 2015 Marvel film \"Fantastic Four\"?",
+      "answer": "The Human Torch"
+    }
+  ]
+}

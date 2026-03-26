@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_7",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What actor won two Tony awards and the Academy Award for best actor in his career-defining role in The King and I?",
+      "answer": "Yul Brynner"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What is the name for the replaceable typewriter element, which was a thin strip of fabric or polymer, such as Mylar, covered in pigment?",
+      "answer": "a \"ribbon\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the name of Bill Haley's group?",
+      "answer": "The Comets"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who was the first American in space, a month after Soviet Union's Yuri Gagarin became the first person in space?",
+      "answer": "Alan Shepard"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "If you were thought to be conspiring with someone, you might be said to be _______.",
+      "answer": "\"In cahoots\""
+    }
+  ]
+}

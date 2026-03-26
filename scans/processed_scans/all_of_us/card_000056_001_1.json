@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000056_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "A new take on 'grow up,' this term became popular all over social media when users posted before and after photos to show off their stylish new selves.",
+      "answer": "Glow up"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This iconic Marvel character has been portrayed by many actors in film, including Tobey Maguire, Andrew Garfield, and Tom Holland.",
+      "answer": "Spider-Man"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which rapper released a #1 album in 2017 titled 'DAMN'?",
+      "answer": "Kendrick Lamar"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Actress Lisa Bonet married this star in 2017, known for his role as Aquaman in several DC Comics films.",
+      "answer": "Jason Momoa"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Pop icon Beyoncé gave what colorful name to her daughter?",
+      "answer": "Blue Ivy"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_10",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What show featured a grandpa that turned himself into a living pickle warrior?",
+      "answer": "Rick and Morty"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What wearable technology incorporated fitness tracking and health-oriented capabilities with iOS integration?",
+      "answer": "Apple Watch"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What 2015 song made \"a dragon wanna retire\"?",
+      "answer": "\"Uptown Funk\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This website offered news and listed such things as \"27 things you didn't know you needed from Amazon.com.\"",
+      "answer": "Buzzfeed"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "When a person said, \"let's roll out,\" what did they mean?",
+      "answer": "Let's leave"
+    }
+  ]
+}

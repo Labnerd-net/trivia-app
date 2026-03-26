@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What is the name of Candace Bushnell's 1997 book that spawned an HBO series of the same title?",
+      "answer": "Sex and the City"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "They released the single \"Only Wanna Be with You\" in 1995.",
+      "answer": "Hootie & the Blowfish"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "It's not just for dating: users in this app's hive find it useful for networking and making BFFs.",
+      "answer": "Bumble"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This hip-hop duo released the album \"Don't Sweat the Technique\" in 1992.",
+      "answer": "Eric B. & Rakim"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actor's notable work includes starring roles in \"Deuce Bigalow: Male Gigolo,\" \"The Hot Chick,\" and \"The Benchwarmers.\"",
+      "answer": "Rob Schneider"
+    }
+  ]
+}

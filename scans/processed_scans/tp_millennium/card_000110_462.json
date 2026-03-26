@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000110_462",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's a Munich resident suffering from if he has a Katzenjammer?",
+      "answer": "A hangover"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What songstress was named after a Paint Your Wagon song about the wind?",
+      "answer": "Mariah Carey"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. outfit was rapped for having missed preparations for India's nuclear tests in 1998?",
+      "answer": "The CIA"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What useless human organ is also called 'vermiform' because of its wormlike shape?",
+      "answer": "The appendix"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What holiday did all 30 Major League baseball teams play on in 1998, prompting a boycott by John Cardinal O'Connor?",
+      "answer": "Good Friday"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was the dominant U.S. Spanish-language TV network during the 1990s?",
+      "answer": "Univision"
+    }
+  ]
+}

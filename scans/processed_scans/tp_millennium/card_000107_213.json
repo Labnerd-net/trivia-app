@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_213",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What surname for over 100 million people can be traced back 2,500 years to the founder of Taoism?",
+      "answer": "Lee"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who first shaved his head to play Pontius Pilate in The Greatest Story Ever Told?",
+      "answer": "Telly Savalas"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Milan maven designed uniforms for the Italian Air Force in 1980?",
+      "answer": "Giorgio Armani"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What amphibians do you raise if you run a ranarium?",
+      "answer": "Frogs"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did Portland pass up in the 1984 NBA draft because former GM Stu Inman \"needed a center\"?",
+      "answer": "Michael Jordan"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What movie has sold the most tickets?",
+      "answer": "Gone with the Wind"
+    }
+  ]
+}

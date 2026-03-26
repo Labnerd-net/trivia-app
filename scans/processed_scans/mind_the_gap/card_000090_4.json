@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Gen X knew his \"Sweet Emotion,\" Millennials knew his \"Cryin,\" but Gen Z knew him as a judge on American Idol in 2011 and 2012.",
+      "answer": "Steven Tyler"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What form of entertainment was popularized by providing radio-style shows on demand?",
+      "answer": "Podcasts"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"Closer,\" \"Roses,\" and \"Don't Let Me Down\" are three of the hit songs sung by this group.",
+      "answer": "The Chainsmokers"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "How did Steve Harvey mess up the Miss Universe pageant in 2015?",
+      "answer": "He announced the wrong winner. Yikes!"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did it mean when someone called a person or situation \"sus\"?",
+      "answer": "Suspicious"
+    }
+  ]
+}

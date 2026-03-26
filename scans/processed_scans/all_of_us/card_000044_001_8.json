@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000044_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What fantastical HBO series has an unofficial tagline of 'winter is coming'?",
+      "answer": "Game of Thrones"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This country music star and actor released 2004's 'Live Like You Were Dying.'",
+      "answer": "Tim McGraw"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actress stars opposite Leonardo DiCaprio in 'Titanic'?",
+      "answer": "Kate Winslet"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This singer and actor is the brother of Backstreet Boys member Nick.",
+      "answer": "Aaron Carter"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This basketball player was drafted by the Orlando Magic in 1992 and later became a pop culture phenomenon.",
+      "answer": "Shaquille O'Neal"
+    }
+  ]
+}

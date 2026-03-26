@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_10",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "At the 2017 Oscars, the award for Best Picture was mistakenly awarded to La La Land. What movie actually won?",
+      "answer": "Moonlight"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What temperamental fast food cashier, played by Anjelah Johnson, first made an appearance on Mad TV?",
+      "answer": "Bon Qui Qui"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "His \"mama don't like you and she likes everyone.\"",
+      "answer": "Justin Bieber"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What marathon was the site of a bombing in 2013?",
+      "answer": "Boston Marathon"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was Del Taco trying to promote when their sign \"Fre Sha Voca Do\" was captured by a Viner?",
+      "answer": "Fresh avocados"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What TV show starred Dixie Carter, Delta Burke, Annie Potts, Jean Smart, and Meshach Taylor?",
+      "answer": "Designing Women"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the 1980's solution for chilly tibias?",
+      "answer": "Leg warmers"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What genre of alt-rock was defined by wearing plaid and led by groups like Nirvana and Pearl Jam?",
+      "answer": "Grunge"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the first commercial CD to be released in 1982? It was a rerelease of a 1978 Billy Joel album.",
+      "answer": "52nd Street"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "How would a Gen X kid finish this phrase: \"Float like a butterfly and sting like a bee, _________.\"",
+      "answer": "\"I am the greatest, Muhammad Ali\""
+    }
+  ]
+}

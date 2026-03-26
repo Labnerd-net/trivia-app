@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000109_120",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What did North Tarrytown, New York change its name to, in honor of a Washington Irving story?",
+      "answer": "Sleepy Hollow"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the immortal four-word line from Jerry Maguire?",
+      "answer": "Show me the money!"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What president didn't have 'a creative bone in his body,' according to David Brinkley?",
+      "answer": "Bill Clinton"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many of every 10 women wear shoes too small for their feet, according to a 1980s UCLA study?",
+      "answer": "Nine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who autographed Olympic Skater Barbie dolls at FAO Schwarz, in June of 1998?",
+      "answer": "Tara Lipinski"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What computer operating system did 2001's Arthur C. Clarke jest would have been the first thing HAL removed from his hard drive?",
+      "answer": "Windows 95"
+    }
+  ]
+}

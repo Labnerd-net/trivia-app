@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This spud-themed toy was redesigned in 1975, doubling its size.",
+      "answer": "Mr. Potato Head"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This actor plays a dockworker in 1954's 'On the Waterfront.'",
+      "answer": "Marlon Brando"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A fan once shouted, 'Judas!' at this performer for taking the stage with an electric guitar.",
+      "answer": "Bob Dylan"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Bill Gates and Paul Allen established what personal computer manufacturing company?",
+      "answer": "Microsoft"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "With hits such as 'Chain of Fools' and 'Respect,' which singer has become known as the 'Queen of Soul'?",
+      "answer": "Aretha Franklin"
+    }
+  ]
+}

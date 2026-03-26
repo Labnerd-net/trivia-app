@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000088_02",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What TV show featured Chuck Connors as a widower raising his son in the Old West?",
+      "answer": "The Rifleman"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Released in 1972, what was the first video game to have commercial success?",
+      "answer": "PONG"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "\"When the moon hits your eye\" was the opening line to what famous Dean Martin tune?",
+      "answer": "\"That's Amore\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What American pianist won the first Tchaikovsky Competition in Moscow in 1958, making him an international celebrity?",
+      "answer": "Van Cliburn"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In the 1940's what was a \"fag\"?",
+      "answer": "Cigarette"
+    }
+  ]
+}

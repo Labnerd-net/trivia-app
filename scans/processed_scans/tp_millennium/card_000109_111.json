@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000109_111",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What museum was first opened to the public during the French Revolution?",
+      "answer": "The Louvre"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What popular A&E series sports the slogan: 'The people you thought you knew'?",
+      "answer": "Biography"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the only country not invited to join 34 other nations at the 1998 Americas Summit?",
+      "answer": "Cuba"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What synthetic substance was named after the Greek word meaning 'able to be shaped'?",
+      "answer": "Plastic"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What golfer was pictured on a Senior Tour billboard that read 'Señor Tour'?",
+      "answer": "Chi Chi Rodriguez"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. president did G. Gordon Liddy call 'the most pleasant pirate who ever cut a throat'?",
+      "answer": "Bill Clinton"
+    }
+  ]
+}

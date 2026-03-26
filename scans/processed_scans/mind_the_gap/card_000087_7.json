@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000087_7",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous actor and choreographer once danced with Jerry the Mouse in a movie?",
+      "answer": "Gene Kelly"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who wrote the Pulitzer Prize winning novel To Kill a Mockingbird, now considered a modern classic?",
+      "answer": "Harper Lee"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What musical group, known for singing the instrumental parts, had a hits with 'Paper Doll,' 'You Always Hurt the One You Love,' and 'Glow Worm'?",
+      "answer": "The Mills Brothers"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What civil war in Asia began in 1950 with a communist invasion, and eventually included U.N. troops?",
+      "answer": "Korean War"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What did 'in a jiffy' mean?",
+      "answer": "In a hurry, or to do something immediately"
+    }
+  ]
+}

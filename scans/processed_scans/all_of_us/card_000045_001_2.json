@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_2",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This MTV show lets you vote on what they'll play.",
+      "answer": "TRL or Total Request Live"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "From 1997 to 2001, which team did Mark McGwire play for?",
+      "answer": "St. Louis Cardinals"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which singer featured on Santana's 1999 hit single \"Smooth\"?",
+      "answer": "Rob Thomas"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Sony product let you listen to CDs anywhere.",
+      "answer": "Discman"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This sports comedy film tells of a young athlete who gains the ability to pitch a baseball at incredible speeds.",
+      "answer": "Rookie of the Year"
+    }
+  ]
+}

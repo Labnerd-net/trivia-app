@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1982, President Reagan began this campaign, which aimed to reduce the illegal drug trade.",
+      "answer": "War on drugs"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's a snack that's flat and comes on cellophane.",
+      "answer": "Fruit Roll-Ups"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which singer released the 5-time platinum album \"Full Moon Fever\" in 1989?",
+      "answer": "Tom Petty"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What animated superhero and friends defend the realm of Eternia from the vile Skeletor?",
+      "answer": "He-Man"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This actor won much praise for his lead role in \"The Buddy Holly Story.\"",
+      "answer": "Gary Busey"
+    }
+  ]
+}

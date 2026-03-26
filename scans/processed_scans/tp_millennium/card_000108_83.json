@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000108_83",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the leading gold-producing U.S. state?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie has Whoopi Goldberg's character hand a $4 million check to \"a buncha nuns\"?",
+      "answer": "Ghost"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What newspaper magnate preferred to say he was \"rusticated\" from Harvard in 1886, rather than \"expelled\"?",
+      "answer": "William Randolph Hearst"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What drug is most often prescribed to bring seratonin levels closer to normal?",
+      "answer": "Prozac"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who became the first major leaguer ever to hit 25 homers before June 1, on May 25, 1998?",
+      "answer": "Mark McGwire"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What director did Jonathan Norman earn a 25-year prison sentence for stalking?",
+      "answer": "Steven Spielberg"
+    }
+  ]
+}

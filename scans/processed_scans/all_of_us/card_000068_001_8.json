@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The television series \"Route 66\" follows 2 young men traversing the US in what iconic vehicle?",
+      "answer": "Corvette"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Although untrue, a popular urban legend spread that this singer died by choking on a ham sandwich.",
+      "answer": "\"Mama\" Cass Elliot"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This game came with a spinner and a board the size of a rug.",
+      "answer": "Twister"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who said the famous quote, \"That's one small step for [a] man, one giant leap for mankind\"?",
+      "answer": "Neil Armstrong"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This horse won the Triple Crown in 1973.",
+      "answer": "Secretariat"
+    }
+  ]
+}

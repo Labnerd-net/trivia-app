@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_3",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 60's TV show included the characters Herman, Lily, Grandpa, Eddie, and Marilyn?",
+      "answer": "The Munsters"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 1957 Ayn Rand novel and manifesto espoused libertarian ideology?",
+      "answer": "Atlas Shrugged"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What happy hobo song was covered many times by the likes of Burl Ives in 1949, Dorsey Burnette in 1960, and featured in O Brother, Where Art Thou? in 2000?",
+      "answer": "\"Big Rock Candy Mountain\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 1948 invention by Italian bike racer Campagnolo allowed a person to change gears easily while riding?",
+      "answer": "10-speed bicycle"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What did it mean when someone said something is the \"word from the bird\"?",
+      "answer": "It is the truth"
+    }
+  ]
+}

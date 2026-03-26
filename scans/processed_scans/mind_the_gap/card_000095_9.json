@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_9",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Which stand-up comedian and SNL writer talked endlessly about his dog Petunia and Jewish wife?",
+      "answer": "John Mulaney"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was a creeper in Minecraft?",
+      "answer": "A green explosive monster"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "The group \"Migos\" was comprised of three rappers. Name one of them.",
+      "answer": "Takeoff, Offset, Quavo"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2014, this 63-year old comedian committed suicide after battling depression and the early stages of Parkinson's disease.",
+      "answer": "Robin Williams"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What TV segments included Shaquille O'Neal making fun of basketball players failing?",
+      "answer": "\"Shaqtin' a Fool\""
+    }
+  ]
+}

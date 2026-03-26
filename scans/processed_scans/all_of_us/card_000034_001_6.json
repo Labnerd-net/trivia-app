@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who sang 'Don't Worry, Be Happy'?",
+      "answer": "Bobby McFerrin"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "'Good Morning, Vietnam' stars this actor as a popular DJ for the Armed Forces Radio Service.",
+      "answer": "Robin Williams"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The birth of Elizabeth Jordan Carr in December 1981 was notable for what reason?",
+      "answer": "First US birth from in vitro fertilization, also called a test-tube baby"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1980s police drama pioneered the use of handheld cameras in its production.",
+      "answer": "Hill Street Blues"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This actress released many '80s workout videos.",
+      "answer": "Jane Fonda"
+    }
+  ]
+}

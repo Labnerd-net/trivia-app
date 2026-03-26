@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Before the LP and 45 took off, many records were of this variety.",
+      "answer": "78s"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What is the name of the picky eater in Life cereal ads?",
+      "answer": "Mikey"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which author wrote 'The Catcher in the Rye'?",
+      "answer": "J. D. Salinger"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What state was the 1969 Woodstock festival held in?",
+      "answer": "New York"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Gary Cooper and Grace Kelly star in this iconic 1952 western.",
+      "answer": "High Noon"
+    }
+  ]
+}

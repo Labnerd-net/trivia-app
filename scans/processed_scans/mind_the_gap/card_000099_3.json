@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the young actress who starred in 1970s Disney films such as Freaky Friday and Candleshoe.",
+      "answer": "Jodie Foster"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1991, who was Mario attempting to rescue in \"Super Mario World\"?",
+      "answer": "Princess Toadstool"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the only male artist to receive Grammys for three different categories—jazz, pop, and R&B, with hits \"We're in this Love Together\" and \"Roof Garden.\"",
+      "answer": "Al Jarreau"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 80's political scandal funneled weapons to Nicaraguan rebels, funded through secret weapons sales to the Middle East to secure American captives?",
+      "answer": "Iran-Contra scandal"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did it mean if something was \"off the hook\"?",
+      "answer": "Really cool, amazing, unbelievably great"
+    }
+  ]
+}

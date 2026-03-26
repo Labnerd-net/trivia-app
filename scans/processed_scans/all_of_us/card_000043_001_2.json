@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In 1994's 'The Lion King,' what's the name of Simba's father?",
+      "answer": "Mufasa"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Singer Karen O leads this New York-based indie-rock trio.",
+      "answer": "Yeah Yeah Yeahs"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This kid-friendly cereal brand has a rabbit for a mascot.",
+      "answer": "Trix"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This wildlife show was hosted by Steve Irwin.",
+      "answer": "The Crocodile Hunter"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In 2002, the Mars Odyssey found large deposits of what on the planet Mars?",
+      "answer": "Ice"
+    }
+  ]
+}

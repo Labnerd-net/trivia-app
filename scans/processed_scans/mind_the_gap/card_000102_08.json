@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_08",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who did actors Henry Thomas, Drew Barrymore, and C. Thomas Howell host and hide in a 1982 Steven Spielberg movie?",
+      "answer": "E.T. (The Extra-Terrestrial)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What candy's sales shot through the roof after the release of the movie E.T.?",
+      "answer": "Reese's Pieces"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "This duo wanted to see \"Sara Smile,\" who probably was a \"Rich Girl,\" but now \"She's Gone.\"",
+      "answer": "Hall & Oates"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1975, what two programmers launched Microsoft.",
+      "answer": "Bill Gates and Paul Allen"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish President Reagan's phrase: \"Mr. Gorbachev, _________.\"",
+      "answer": "\"Tear down this wall.\""
+    }
+  ]
+}

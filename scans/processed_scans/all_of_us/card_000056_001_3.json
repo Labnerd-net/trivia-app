@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000056_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2012 animated film sees classic monsters like Count Dracula working in the hospitality business.",
+      "answer": "Hotel Transylvania"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This professional wrestler and mixed martial artist was the only woman to win a championship in both the UFC and WWE and was voted the best female athlete of all time in a 2015 ESPN poll.",
+      "answer": "Ronda Rousey"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This artist released 2013's 'All of Me.'",
+      "answer": "John Legend"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Comedians Keegan-Michael Key and Jordan Peele star in this sketch comedy series.",
+      "answer": "Key & Peele"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 2008, Suzanne Collins released this popular novel, which tells the story of an event in which one boy and one girl are selected from each of 12 districts to compete in a battle to the death.",
+      "answer": "The Hunger Games"
+    }
+  ]
+}

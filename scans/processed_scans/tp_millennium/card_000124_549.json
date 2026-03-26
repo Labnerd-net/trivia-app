@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000124_549",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European country stopped hearing pleas for asylum on July 1, 1993?",
+      "answer": "Germany"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "How many Wheel of Fortune shows are typically taped in one day?",
+      "answer": "Five"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What future president's tendency to lose battles prompted John Adams to call him 'an old muttonhead'?",
+      "answer": "George Washington's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What northern disaster killed an estimated 580,000 birds in 1989?",
+      "answer": "The Exxon Valdez oil spill"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What three U.S. cities have hosted the Summer Olympics?",
+      "answer": "Atlanta, Los Angeles, St. Louis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did McDonald's employee Cathy Shephard eat eight of, instead of the six allowed, to get herself fired in 1996?",
+      "answer": "Chicken McNuggets"
+    }
+  ]
+}

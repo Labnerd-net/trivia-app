@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000076_1",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What Saturday morning cartoon featured characters named Brainy, Clumsy, Grouchy, Hefty, and Gargamel?",
+      "answer": "The Smurfs"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This theme park became the fourth to open as part of the Walt Disney World complex in 1998, but with a zoological theme.",
+      "answer": "Animal Kingdom"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Calvin Broadus Jr. was a laid-back rapper who had a penchant for 'wizzle, fo shizzle.' What was his stage name?",
+      "answer": "Snoop Dogg"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This security guard was a household name when wrongly accused as the Sentinel Olympic Park Bomber. He later was cleared and heralded a hero.",
+      "answer": "Richard Jewell"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In a commercial using the famous Meatloaf song, people would do anything for love, but they wouldn't do that. What is that?",
+      "answer": "Share their Dr. Pepper"
+    }
+  ]
+}

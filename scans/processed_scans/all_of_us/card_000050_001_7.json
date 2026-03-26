@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "'Bailamos' is a Spanglish single by which artist?",
+      "answer": "Enrique Iglesias"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "The lawyers from TV's 'The Practice' are based in what US city?",
+      "answer": "Boston"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "Who plays Kevin Brown, also known as Agent K, in 'Men in Black'?",
+      "answer": "Tommy Lee Jones"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "In 1999, the Breitling Orbiter 3 was the first manned balloon flight to do what?",
+      "answer": "Circumnavigate the globe"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "This hit film popularized the quote 'Show me the money!'",
+      "answer": "Jerry Maguire"
+    }
+  ]
+}

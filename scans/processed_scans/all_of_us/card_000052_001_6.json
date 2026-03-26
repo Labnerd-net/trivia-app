@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "A spin-off of \"16 and Pregnant,\" this MTV series follows teens as they adjust to the challenges of motherhood.",
+      "answer": "Teen Mom"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This artist is known for major hits like \"Me, Myself & I,\" \"In the Name of Love,\" and \"Meant to Be.\"",
+      "answer": "Bebe Rexha"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Widely used by athletes and adventurers, this company has become synonymous with action cameras.",
+      "answer": "GoPro"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This restaurant features menu items like the Chalupa Supreme and Cheesy Gordita Crunch.",
+      "answer": "Taco Bell"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Ava Michelle stars as a 6-and-a-half-foot tall high schooler in this 2019 Netflix film.",
+      "answer": "Tall Girl"
+    }
+  ]
+}

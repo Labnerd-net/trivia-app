@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000096_9",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "The world lost this prolific co-writer and creator of the Marvel universe in 2018.",
+      "answer": "Stan Lee"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What app allowed a person to hear nearly any song on their phone, but with ads if they didn't have Premium?",
+      "answer": "Spotify"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In light of the hashtag metoo culture, this beloved holiday classic came under the microscope in 2018 for inappropriate lyrics.",
+      "answer": "\"Baby, It's Cold Outside\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2011, what female senator was shot in the head when a gunman opened fire outside a supermarket where she was meeting constituents?",
+      "answer": "Sen. Gabby Giffords"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This phrase requested photographic evidence from someone telling an unbelievable story as proof the events actually occurred.",
+      "answer": "\"Pics or it didn't happen\""
+    }
+  ]
+}

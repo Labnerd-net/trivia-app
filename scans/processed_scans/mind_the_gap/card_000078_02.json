@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000078_02",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In the movie My Girl, what type of allergic reaction caused Thomas J.'s death?",
+      "answer": "Bee stings"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What pop star inspired the perfume Electric Youth with the signature neon pink spiral inside the bottle?",
+      "answer": "Debbie Gibson"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Shawn Carter was known by a lot of names: Hova, HOV, Jigga, and what other name?",
+      "answer": "Jay-Z"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "On May 3 of what year did 74 tornadoes touch down in Oklahoma and Kansas, including an F5 that left a path of destruction 38 miles long?",
+      "answer": "1999"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This was Buzz Lightyear's catchphrase, especially when jumping into action.",
+      "answer": "\"To infinity...and beyond!\""
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000121_243",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country are you in if you're stuck in the Boos Hotel in the middle of Worms?",
+      "answer": "Germany"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie pits Arnold Schwarzenegger's character against Sharon Stone's in hand-to-hand combat?",
+      "answer": "Total Recall"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What book did many Northern Civil War troops keep in their breast pocket for protection?",
+      "answer": "The Bible"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What science is celebrated on Mole Day, every October 23rd?",
+      "answer": "Chemistry"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 11-year-old puck pusher had his photo snapped with Gordie Howe at a dinner in Toronto in 1972?",
+      "answer": "Wayne Gretzky"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Alex Haley manuscript fetched $100,000 at a 1992 auction?",
+      "answer": "The Autobiography of Malcolm X"
+    }
+  ]
+}

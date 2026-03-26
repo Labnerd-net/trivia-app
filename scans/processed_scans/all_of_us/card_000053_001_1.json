@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000053_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What cute yellow Pokémon was the subject of a meme used to symbolize surprise?",
+      "answer": "Pikachu"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In 2018, a team of soccer players were trapped in a cave for 17 days in this country.",
+      "answer": "Thailand"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Country music duo Dan Smyers and Shay Mooney are better known under what group name?",
+      "answer": "Dan + Shay"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In 2018 this tech firm became the first company valued at more than $1 trillion.",
+      "answer": "Apple"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Alan Rickman played Severus Snape in this film series.",
+      "answer": "Harry Potter"
+    }
+  ]
+}

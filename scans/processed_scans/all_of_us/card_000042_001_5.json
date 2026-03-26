@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Who sang the theme to 'Ghostbusters'?",
+      "answer": "Ray Parker Jr."
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Once the longest-running television show in history, what program portrays reenactments of dangerous criminals and implores viewers to call a hotline with tips?",
+      "answer": "America's Most Wanted"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Now an NBA legend, this Chicago Bulls player was named 1985's Rookie of the Year.",
+      "answer": "Michael Jordan"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Made to parody the Cabbage Patch Kids, these sticker trading cards were kind of gross.",
+      "answer": "Garbage Pail Kids"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "This David Lynch-directed film tells the story of a college student who becomes entangled with a mysterious singer who's in danger.",
+      "answer": "Blue Velvet"
+    }
+  ]
+}

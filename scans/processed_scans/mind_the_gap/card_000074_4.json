@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000074_4",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Frasier was a spinoff of what popular Gen X show?",
+      "answer": "Cheers"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What company's popular subscription service allowed one to receive twelve CDs for just a penny?",
+      "answer": "Columbia House"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What Smash Mouth song was featured on the Shrek soundtrack?",
+      "answer": "\"All Star\""
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the name given to the expected computer glitch disaster on January 1, 2000?",
+      "answer": "Y2K"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In The Princess Bride, this was Westley's response to Buttercup's every request.",
+      "answer": "\"As you wish\""
+    }
+  ]
+}

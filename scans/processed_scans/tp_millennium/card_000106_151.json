@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000106_151",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What auto company raised a giant three-pointed star above the Stuttgart skyline?",
+      "answer": "Daimler-Benz"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What future 007 star joined the circus as a fire-eater while still a teenager?",
+      "answer": "Pierce Brosnan"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What presidential advisor was paid $2.5 million to pen his memoirs, in 1996?",
+      "answer": "Dick Morris"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What former presidential candidate's wife said simply of Viagra: \"It is a great drug\"?",
+      "answer": "Bob Dole's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Olympic event's winner is considered to be the \"world's greatest athlete\"?",
+      "answer": "The decathlon's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was a sandwich made with Spam commonly called in the 1930s?",
+      "answer": "A SPAMwich"
+    }
+  ]
+}

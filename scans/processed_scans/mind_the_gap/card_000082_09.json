@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000082_09",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What soap opera became the longest-running radio and TV show, following the Bauer family and their descendants in the midwestern town of Springfield?",
+      "answer": "Guiding Light"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the famous square-jawed comic strip detective and beau to Tess Trueheart.",
+      "answer": "Dick Tracy"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "To what city was Johnny Cash going after he and June \"got married in a fever\" and after \"the fire went out\"?",
+      "answer": "\"Jackson\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "The 1960 election made history with the first televised Presidential debate. Who were the two candidates?",
+      "answer": "John F. Kennedy and Richard Nixon"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What TV show included the following line in every episode? \"This tape will self-destruct in five seconds.\"",
+      "answer": "Mission Impossible"
+    }
+  ]
+}

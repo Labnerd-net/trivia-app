@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1985 film follows a group of kids hunting for the treasure of a 17th-century pirate.",
+      "answer": "The Goonies"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Whose book 'A Brief History of Time' was published in 1988?",
+      "answer": "Stephen Hawking"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Before a later Limp Bizkit remake, who had a hit with 'Faith' in 1987?",
+      "answer": "George Michael"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Johnny Depp stars as a youthful-looking undercover detective in this late-'80s television drama.",
+      "answer": "21 Jump Street"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This American figure skater, known for his signature backflip and innovative footwork, won 4 consecutive World Championships from 1981–1984 and is also an Olympic gold medalist.",
+      "answer": "Scott Hamilton"
+    }
+  ]
+}

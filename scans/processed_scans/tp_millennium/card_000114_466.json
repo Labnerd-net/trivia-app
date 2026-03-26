@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000114_466",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the biggest city on the island of Java?",
+      "answer": "Jakarta"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What singer-actor swore off Hollywood films in 1942 until there were roles for blacks besides \"plantation hallelujah shouters\"?",
+      "answer": "Paul Robeson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What decade first saw U.S. women vote in equal numbers to men?",
+      "answer": "The 1950s"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What animal's fat was most often used in the manufacture of explosives during World War II?",
+      "answer": "The pig's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What size of triple-E sneakers does Shaquille O'Neal slip into?",
+      "answer": "Twenty-one"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What John Wayne movie did critic Renata Adler call \"vile, insane, dull, stupid, rotten and false\"?",
+      "answer": "The Green Berets"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000044_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "On the sitcom 'That '70s Show,' character Jackie Burkhart is played by this actress.",
+      "answer": "Mila Kunis"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This rapper married Beyoncé in 2008.",
+      "answer": "Jay-Z"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Ben & Jerry's flavor 'Hannah Teter's Maple Blondie' honors an Olympic champion in what winter sport?",
+      "answer": "Snowboarding"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This country music star rose to prominence in the early 2000s, shortly before marrying Nicole Kidman.",
+      "answer": "Keith Urban"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 1999 sports film stars James Van Der Beek as a quarterback in a rural Texas community.",
+      "answer": "Varsity Blues"
+    }
+  ]
+}

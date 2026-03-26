@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000117_591",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country uses the common greeting: \"Have you eaten rice yet\"?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie was almost titled Along Came a Spider?",
+      "answer": "Arachnophobia"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose famous birth year may have been miscalculated by a 6th-century monk, and might really be between 5 and 8 B.C.?",
+      "answer": "Jesus Christ's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did a U.S. librarian named Melvil give the world in 1876?",
+      "answer": "The Dewey decimal system"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two hoops teams with the same nickname played the 1997 NCAA Division 1 Championship game?",
+      "answer": "The Arizona Wildcats and Kentucky Wildcats"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Plymouth and Dodge models were the first U.S. cars to be called \"minivans\"?",
+      "answer": "The Voyager and Caravan"
+    }
+  ]
+}

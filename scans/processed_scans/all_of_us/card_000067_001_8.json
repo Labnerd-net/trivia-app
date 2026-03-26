@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In the television series 'Starsky and Hutch,' what iconic car does the duo drive?",
+      "answer": "Red Torino"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Norman Greenbaum is best known for this late-'60s track.",
+      "answer": "Spirit in the Sky"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This TV cowboy stepped on to the big screen in 1956.",
+      "answer": "The Lone Ranger"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This family band released the song 'ABC.'",
+      "answer": "The Jackson 5"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In what decade was 'The Cat in the Hat' published?",
+      "answer": "1950s"
+    }
+  ]
+}

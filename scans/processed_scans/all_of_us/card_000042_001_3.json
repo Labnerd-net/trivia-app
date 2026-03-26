@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "It's the car that's remembered from 'Back to the Future.'",
+      "answer": "DeLorean"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "George Michael and Andrew Ridgeley form what British pop duo?",
+      "answer": "Wham!"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "The 1985 Live Aid concerts were held to provide relief to what famine-stricken country?",
+      "answer": "Ethiopia"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Lindsay Wagner plays the lead in this 'Six Million Dollar Man' spin-off.",
+      "answer": "The Bionic Woman"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "This epic 1984 rock and roll mockumentary spawned the phrase 'These go to 11.'",
+      "answer": "This Is Spinal Tap"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000038_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Bill Cosby brought this animated character to TV in 1972.",
+      "answer": "Fat Albert"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Prince stars as the \"Kid\" in this 1984 film.",
+      "answer": "Purple Rain"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "These popular 1970s toys were said to \"wobble, but they don't fall down!\"",
+      "answer": "Weebles"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "This band hit the charts in 1982 with \"I Want Candy.\"",
+      "answer": "Bow Wow Wow"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "As part of the US war on drugs, a widely released advertising campaign encouraged kids to do this if offered drugs.",
+      "answer": "Just Say No"
+    }
+  ]
+}

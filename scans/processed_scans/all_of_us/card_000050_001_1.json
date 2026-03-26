@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "This actress, with her distinctive nasal voice and New York accent, notably stars as Fran Fine in the hit series 'The Nanny.'",
+      "answer": "Fran Drescher"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "In a popular dance song, C&C Music Factory describes 'Things That Make You Go' what?",
+      "answer": "Hmmm"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "Released in 2001, 'The Fellowship of the Ring' was the first film of this epic series.",
+      "answer": "The Lord of the Rings"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "What 'Degrassi' cast member has become a hip-hop megastar?",
+      "answer": "Drake"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "This internet competition's objective was to eat a spoonful of a ground spice.",
+      "answer": "Cinnamon challenge"
+    }
+  ]
+}

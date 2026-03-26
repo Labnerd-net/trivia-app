@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000119_166",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the only U.S. state never to have banned prostitution?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What quartet dressed up as The Bat Lizard, Star Child, Space Man and The Cat?",
+      "answer": "Kiss"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who promised Hitler he'd commit his troops when Germany's attack on France proved successful?",
+      "answer": "Benito Mussolini"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What dog's name was changed to the St. Francis terrier to enhance its image?",
+      "answer": "The pit bull's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What automatic weapon was once marketed as \"the ideal weapon for the protection of large estates, ranches, plantations, etc.\"?",
+      "answer": "The Tommy Gun, or Thompson Submachine"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did the French call the English disease and the English call the French disease?",
+      "answer": "Syphilis"
+    }
+  ]
+}

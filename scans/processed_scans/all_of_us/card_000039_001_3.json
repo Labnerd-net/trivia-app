@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actress plays the role of Gertie in 'E.T. the Extra-Terrestrial'?",
+      "answer": "Drew Barrymore"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What 1980s police procedural drew heavily upon the era's new wave culture and music?",
+      "answer": "Miami Vice"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "'Business up front, party out back' describes what '80s hair style?",
+      "answer": "Mullet"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Paul Reubens was better known by what stage name?",
+      "answer": "Pee-Wee Herman"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What performer was Whitney Houston married to?",
+      "answer": "Bobby Brown"
+    }
+  ]
+}

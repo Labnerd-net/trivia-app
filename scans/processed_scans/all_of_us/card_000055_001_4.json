@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A video of this chef's style of seasoning steak became known as what meme?",
+      "answer": "Salt Bae"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Grammy Award-winning artist won Best Rap Album for 'Coloring Book' in 2017.",
+      "answer": "Chance the Rapper"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Users can upload photos, create memes, and vote for images to go viral on this site.",
+      "answer": "Imgur"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2010 Disney film was loosely based on the fairy tale Rapunzel.",
+      "answer": "Tangled"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In this series, a former lawyer goes back to community college and creates a study group with the hopes of attracting a fellow student.",
+      "answer": "Community"
+    }
+  ]
+}

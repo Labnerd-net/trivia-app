@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_5",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "On what musical instrument did Jack Benny supposedly play poorly, but was in fact very proficient?",
+      "answer": "Violin"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What San Francisco neighborhood was considered the birthplace of the 60's counterculture movement?",
+      "answer": "Haight Ashbury"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the pop star known for \"Travelin' Man,\" \"Poor Little Fool,\" and \"Garden Party.\"",
+      "answer": "Ricky Nelson"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous couple wed and divorced in 1954, but maintained a friendship until her death? He had roses put on her grave weekly until his own death 37 years later.",
+      "answer": "Joe DiMaggio and Marilyn Monroe"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was Gracie Allen's response when her husband George Burns said, \"Say Goodnight Gracie\"?",
+      "answer": "\"Goodnight Gracie\""
+    }
+  ]
+}

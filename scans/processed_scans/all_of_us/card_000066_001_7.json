@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This Beatle had a hit with 'My Sweet Lord.'",
+      "answer": "George Harrison"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The first US space station was known as what?",
+      "answer": "Skylab"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What sport was Willie Mays known for?",
+      "answer": "Baseball"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who is the Lone Ranger's faithful companion?",
+      "answer": "Tonto"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actor stars in 'Last Tango in Paris'?",
+      "answer": "Marlon Brando"
+    }
+  ]
+}

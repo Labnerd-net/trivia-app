@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000074_1",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Who was never a judge on American Idol? Nicki Minaj, Ellen DeGeneres, or Sharon Osborne?",
+      "answer": "Sharon Osborne"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This company founded in 1995 was created 'to bring together buyers and sellers in an honest and open marketplace.'",
+      "answer": "eBay"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Known for high-speed, intricate lyrics, what rapper had hits 'Put Your Hands Where My Eyes Could See,' 'Dangerous,' and 'Gimme Some More'?",
+      "answer": "Busta Rhymes"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Michael Jordan did this for the first time on October 6, 1993, then again on January 13, 1999.",
+      "answer": "Retired"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What phrase did Johnny Cochran drill into the jury concerning OJ's bloody glove?",
+      "answer": "\"If it doesn't fit, you must acquit.\""
+    }
+  ]
+}

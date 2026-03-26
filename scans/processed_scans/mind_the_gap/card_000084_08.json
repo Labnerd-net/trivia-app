@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_08",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What TV sitcom was set in Stalag 13, a WWII P.O.W. camp in Germany?",
+      "answer": "Hogan's Heroes"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Davy Crockett was popular again in 1955 due to the Disney movie. What piece of clothing did all the little fans want?",
+      "answer": "A coonskin cap"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What band launched in the 1960s with members Pete Townshend, Roger Daltrey, Keith Moon, and John Entwistle?",
+      "answer": "The Who"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "At the age of 42, this Negro League sensation became the first African-American to pitch in a World Series, and he was inducted into the Baseball Hall of Fame in 1971.",
+      "answer": "Satchel Paige"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Complete the 1963 jingle: \"Oh I wish I were an ___________\"",
+      "answer": "\"Oscar Mayer wiener.\""
+    }
+  ]
+}

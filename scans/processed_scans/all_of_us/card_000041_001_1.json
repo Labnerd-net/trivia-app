@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000041_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Singer Billy Joel married this supermodel in 1985 before splitting 8 years later.",
+      "answer": "Christie Brinkley"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "\"True Colors\" was a 1986 hit for which singer?",
+      "answer": "Cyndi Lauper"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This American politician and retired 4-star general served as national security adviser and chairman of the Joint Chiefs of Staff and was the first black man to serve as secretary of state in 2001.",
+      "answer": "Colin Powell"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Take your music to go—this device started the modern era of portable music.",
+      "answer": "Sony Walkman"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Lion-O, Tygra, and Panthro are all feline humanoid creatures from what 1980s media franchise?",
+      "answer": "Thundercats"
+    }
+  ]
+}

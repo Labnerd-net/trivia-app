@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which member of One Direction left the group in 2017?",
+      "answer": "Zayn Malik"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What sport is Alex Rodriguez known for?",
+      "answer": "Baseball"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which Marvel superhero is from the fictional African country of Wakanda?",
+      "answer": "Black Panther"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This Jenner sister has a cosmetics line that bears her name.",
+      "answer": "Kylie"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What is Microsoft's search engine?",
+      "answer": "Bing"
+    }
+  ]
+}

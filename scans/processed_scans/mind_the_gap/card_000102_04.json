@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_05",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name at least three of the five Cosby Show Kids.",
+      "answer": "Sondra, Denise, Theo, Vanessa, Rudy"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What character duo said, if a certain female were President, she would be \"Babe-raham Lincoln\"?",
+      "answer": "Wayne and Garth in Wayne's World"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "\"Clock strikes upon the hour/And the sun begins to fade/Still enough time to figure out/How to chase my blues away.\"  Name the song.",
+      "answer": "\"I Wanna Dance with Somebody\" by Whitney Houston"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the oil tanker that spilled more than 11 million gallons of crude oil in the Prince William Sound in Alaska in 1989.",
+      "answer": "Exxon Valdez"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "If someone told you to \"kick rocks,\" what did they want you to do?",
+      "answer": "Go away"
+    }
+  ]
+}

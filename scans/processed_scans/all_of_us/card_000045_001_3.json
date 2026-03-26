@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actress and former Playmate of the Year has had numerous hosting roles for MTV and \"The View\" and has starred in her own sitcoms.",
+      "answer": "Jenny McCarthy"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This rapper gained fame after being featured on Dr. Dre's \"The Chronic.\"",
+      "answer": "Snoop Doggy Dogg"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actress plays the lead role in \"Bridget Jones's Diary\" and its sequels?",
+      "answer": "Renée Zellweger"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What former US president was awarded the Nobel Peace Prize in 2002?",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "After achieving early success in stand-up comedy, this star appeared in his own sitcom from 1995 to 2004 and later became the host of the game show \"The Price Is Right.\"",
+      "answer": "Drew Carey"
+    }
+  ]
+}

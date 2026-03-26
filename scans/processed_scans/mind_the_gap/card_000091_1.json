@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000091_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of the British animated series that followed a family of pigs in their daily lives?",
+      "answer": "Peppa Pig"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In the Japanese racing game MarioKart, what was commonly considered to be the most difficult course?",
+      "answer": "Rainbow Road"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What song by Lauren Daigle held the number one song across multiple genres in 2018?",
+      "answer": "\"You Say\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In January 2010, a 7.0 earthquake devastated this Caribbean country, killing more than 230,000 and destroying the nation's infrastructure.",
+      "answer": "Haiti"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did LMK mean?",
+      "answer": "Let Me Know"
+    }
+  ]
+}

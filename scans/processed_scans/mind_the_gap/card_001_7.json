@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_7",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This 1950s children's show had a Peanut Gallery and a clown named Clarabell.",
+      "answer": "Howdy Doody"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What popular building toy was invented by Frank Lloyd Wright's son to inspire kids to be creative?",
+      "answer": "Lincoln Logs"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What did Simon and Garfunkel ask you to buy if you were going to Scarborough Fair?",
+      "answer": "\"Parsley, sage, rosemary, and thyme\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the man who was the first African-American to receive the Nobel Peace Prize, primarily for his work as a peace negotiator in the Middle East following the creation of Israel.",
+      "answer": "Ralph Bunche"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What tagline was associated with the Smothers Brothers?",
+      "answer": "\"Mom always liked you best.\""
+    }
+  ]
+}

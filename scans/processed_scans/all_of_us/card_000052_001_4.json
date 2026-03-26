@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What Facebook cofounder also serves as CEO of the company?",
+      "answer": "Mark Zuckerberg"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This person was recognized by Forbes as the world's youngest billionaire and has been called the most influential celebrity in the fashion industry.",
+      "answer": "Kylie Jenner"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which character does Tom Hiddleston play in the \"Thor\" movie franchise?",
+      "answer": "Loki"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What kind of hairstyle does Ariana Grande typically sport?",
+      "answer": "Ponytail"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Karlie Kloss replaced Heidi Klum as the host of this popular TV series in 2019.",
+      "answer": "Project Runway"
+    }
+  ]
+}

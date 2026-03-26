@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000086_5",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the 1957 Oscar-winning movie where British POWs are forced to build the Japanese a railway during World War II, featuring Alec Guinness and William Holden.",
+      "answer": "Bridge on the River Kwai"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This 1964 military-themed doll gave boys an action figure with which to play.",
+      "answer": "G. I. Joe"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What prolific singer/songwriter cemented his place in the 1960's protest movement with the album The Times They Are A-Changin'?",
+      "answer": "Bob Dylan"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In 1962, what American astronaut was the first to orbit the earth?",
+      "answer": "John Glenn"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What did it mean if someone asked you to \"gimme some skin\"?",
+      "answer": "To slap or shake your hand in greeting or agreement"
+    }
+  ]
+}

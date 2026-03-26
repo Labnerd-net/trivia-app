@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_34",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country officially limits women to one child?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who had nine best-selling French albums before waxing her first in English in 1990?",
+      "answer": "Celine Dion"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What future U.S. president claimed no thinking man in North America desired independence, in 1774?",
+      "answer": "George Washington"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did physicist Lord Rutherford discover inside the nucleus of the atom?",
+      "answer": "Protons"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's hyped in league ads as 'the coolest game on Earth'?",
+      "answer": "Hockey"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who told Rev. Al Sharpton to style his hair like James Brown's, before a 1981 trip to the White House?",
+      "answer": "James Brown"
+    }
+  ]
+}

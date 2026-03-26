@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Megan Thee Stallion released this platinum single with Nicki Minaj and Ty Dolla Sign in 2019.",
+      "answer": "Hot Girl Summer"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "On what photo-sharing app can users blog and reblog other posts?",
+      "answer": "Tumblr"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Dwayne Johnson plays Luke Hobbs in this series of action films.",
+      "answer": "The Fast and the Furious"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Kristen Bell stars as Eleanor Shellstrop in this comedy series in which she's welcomed into a heaven-like afterlife by mistake.",
+      "answer": "The Good Place"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Whether you prefer flavors like 'nacho cheese' or 'cool ranch,' be warned that these snack chips might turn your fingers orange.",
+      "answer": "Doritos"
+    }
+  ]
+}

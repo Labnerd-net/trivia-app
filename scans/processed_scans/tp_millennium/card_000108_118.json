@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000108_118",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Southeast Asian city did the U.S. open an embassy in, in 1995?",
+      "answer": "Hanoi"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie classic has James Stewart sigh: \"I suppose it'd been better if I'd never been born at all\"?",
+      "answer": "It's a Wonderful Life"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What make of car did a retired race driver named Enzo unveil in 1947?",
+      "answer": "The Ferrari"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does the newly discovered hormone orexin encourage animals to do?",
+      "answer": "Eat"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What pitcher is the all-time major league leader in losses?",
+      "answer": "Cy Young"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What \"relationship\" book spent a record 193 weeks atop the hardcover nonfiction best-seller list, from 1994 to 1996?",
+      "answer": "Men Are From Mars, Women Are From Venus"
+    }
+  ]
+}

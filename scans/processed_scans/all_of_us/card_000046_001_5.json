@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000046_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This comedian was a cast member on \"Saturday Night Live,\" where he played iconic characters such as Church Lady, Garth Algar of \"Wayne's World\" fame, and President George H. W. Bush.",
+      "answer": "Dana Carvey"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What hip-hop duo produced the single \"Thrift Shop\"?",
+      "answer": "Macklemore and Ryan Lewis"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 1996, game show host Bob Barker appeared as himself in this comedy film.",
+      "answer": "Happy Gilmore"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In a memorable \"Saturday Night Live\" sketch, Jimmy Fallon plays a sports fanatic of what baseball team?",
+      "answer": "Boston Red Sox™"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Before YouTube® and the internet, Americans tuned in to this program to see \"viral videos.\"",
+      "answer": "America's Funniest Home Videos"
+    }
+  ]
+}

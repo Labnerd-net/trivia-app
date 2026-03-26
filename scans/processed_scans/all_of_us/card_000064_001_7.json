@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Featuring the legendary Ben E. King on lead vocals, which group recorded 'Save the Last Dance for Me'?",
+      "answer": "The Drifters"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The newspaper editor in 'The Mary Tyler Moore Show' later spun off into his own series called what?",
+      "answer": "Lou Grant"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Later famous for her self-titled sitcom, what actress's legs and voice are featured in the TV drama 'Richard Diamond, Private Detective'?",
+      "answer": "Mary Tyler Moore"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which actress stars in 'The Exorcist'?",
+      "answer": "Linda Blair"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which influential American trumpeter, singer, and composer was also known as 'Satchmo'?",
+      "answer": "Louis Armstrong"
+    }
+  ]
+}

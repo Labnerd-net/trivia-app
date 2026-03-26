@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In addition to his massive social media following, this DJ is known for best-selling albums like 'We the Best Forever,' 'Major Key,' and 'Grateful.'",
+      "answer": "DJ Khaled"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This MTV series explores the lives of couples that have formed relationships online but have never met in real life.",
+      "answer": "Catfish"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The 'Backpack Kid' is credited with creating this dance that is not associated with dental care.",
+      "answer": "Floss"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Katie Ledecky won 5 Olympic gold medals for competing in this sport.",
+      "answer": "Swimming"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Angelina Jolie stars as the lead character in this 2014 live-action spin-off of Walt Disney's 'Sleeping Beauty.'",
+      "answer": "Maleficent"
+    }
+  ]
+}

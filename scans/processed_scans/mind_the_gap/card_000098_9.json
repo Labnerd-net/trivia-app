@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000098_9",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What game show host joined Jeopardy! in 1984?",
+      "answer": "Alex Trebek"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 70s and 80s blonde supermodel was known especially for her pink bikini poster, and swimsuit pictures in Sports Illustrated?",
+      "answer": "Cheryl Tiegs"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the first line of the lyrics: \"Her name was Lola, _________.\"",
+      "answer": "\"She was a showgirl.\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What peace accords were signed by Anwar Sadat, Menachim Begin, and Jimmy Carter in 1978?",
+      "answer": "Camp David Accords"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "On what show did announcer Johnny Olsen first say, \"Come on down!\"?",
+      "answer": "The Price is Right"
+    }
+  ]
+}

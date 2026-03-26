@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000106_96",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How old must children be before you can legally swear at them in Jonesboro, Georgia?",
+      "answer": "Fourteen"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1991 road movie was originally intended for Meryl Streep and Goldie Hawn?",
+      "answer": "Thelma and Louise"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did many Canadian Mounties begin doing without in 1938?",
+      "answer": "Horses"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Where does the embryo implant itself in a tubal pregnancy?",
+      "answer": "A Fallopian tube"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What gambling devices did W.C. Fields dub \"galloping dominoes\"?",
+      "answer": "Dice"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What computer-animated animals warmed hearts in Coca-Cola's \"Always\" ads in the mid-1990s?",
+      "answer": "Polar bears"
+    }
+  ]
+}

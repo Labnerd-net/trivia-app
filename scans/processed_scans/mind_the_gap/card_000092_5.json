@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000092_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This new series installment in 2015, starring Chris Pratt, proved we still have not learned the lesson it is a bad idea to breed dinosaurs.",
+      "answer": "Jurassic World"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "True or False: Generation Z watches almost twice as much TV as Boomers.",
+      "answer": "False. Boomers watch twice as much"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "He officially \"brought sexy back\" in 2006.",
+      "answer": "Justin Timberlake"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This Jamaican sprinter was a world record holder in the 100 meters, 200 meters, and 4x100 meter relay.",
+      "answer": "Usain Bolt"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the enormously successful and heart-warming P&G ad campaign starting with the 2010 Olympics?",
+      "answer": "\"Thank you, Mom\""
+    }
+  ]
+}

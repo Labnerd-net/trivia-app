@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000125_509",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What huge exhibit hall was slated to open along the Thames on December 31, 1999?",
+      "answer": "The Millennium Dome"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What rock star's wake was enlivened by a Grateful Dead performance, in 1970?",
+      "answer": "Janis Joplin's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Latin leader did CIA director William Casey refer to in noting, \"He's a bastard, but he's our bastard\"?",
+      "answer": "Manuel Noriega"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What is Evista prescribed to prevent in older women?",
+      "answer": "Osteoporosis"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who served as captain for Notre Dame's unbeaten football squad in 1913?",
+      "answer": "Knute Rockne"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What notorious Brentwood houseguest stayed at Geraldo Rivera's digs, asking \"Do you have cable\"?",
+      "answer": "Kato Kaelin"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000075_02",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the name of Andy's destructive neighbor in Toy Story?",
+      "answer": "Sid"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This form of online publishing allowed anyone with an internet connection to post their writings.",
+      "answer": "Blogging"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Billy Corgan fronted what alt rock band?",
+      "answer": "Smashing Pumpkins"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This Republican leader was named Speaker of the House in 1995, and also named Man of the Year by Time Magazine.",
+      "answer": "Newt Gingrich"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "If someone spit while they were talking, they might have been told to \"say it but ___\"?",
+      "answer": "Don't spray it."
+    }
+  ]
+}

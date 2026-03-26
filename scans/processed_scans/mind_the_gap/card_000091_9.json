@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000091_9",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the 2017 Jordan Peele horror movie that redefined the genre.",
+      "answer": "Get Out"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What mobile messaging app was used to share photos, videos, text, and drawings so users could \"live in the moment\"?",
+      "answer": "Snapchat"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What late show TV host and Broadway star drove around and sang with celebrities?",
+      "answer": "James Corden"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2019 what country became the first nation in the world to safely and successfully land a spacecraft on the far side of the moon?",
+      "answer": "China"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "To what sport did \"Trust Fund Hockey\" refer?",
+      "answer": "Lacrosse"
+    }
+  ]
+}

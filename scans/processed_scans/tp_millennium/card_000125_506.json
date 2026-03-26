@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000125_506",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What desert covers much of southern Israel?",
+      "answer": "The Negev"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who gave six-year-old Melanie Griffith a tiny wooden coffin that featured a wax replica of her mother?",
+      "answer": "Alfred Hitchcock"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What city did Freud settle in after Hitler came to power?",
+      "answer": "London"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What brain operation was tried first on a confused 63-year-old female at George Washington Hospital in 1956?",
+      "answer": "A lobotomy"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who boasted in 1964, \"I'm so pretty that I can hardly stand to look at myself\"?",
+      "answer": "Muhammad Ali, or Cassius Clay"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What language other than English were over 20 versions of The Ballad of Davy Crockett recorded in?",
+      "answer": "French"
+    }
+  ]
+}

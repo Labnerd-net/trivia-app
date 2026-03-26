@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1984 film tells the story of a young man who receives a pet 'mogwai.'",
+      "answer": "Gremlins"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "On the sitcom 'Happy Days,' what is the name of Richie's practical joke-loving friend?",
+      "answer": "Ralph Malph"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is Wayne Gretzky known for?",
+      "answer": "Hockey"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "'Everybody Wants to Rule the World' is a single from what English pop-rock group?",
+      "answer": "Tears for Fears"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1986 IBM unveiled its PC Convertible, commonly known as what?",
+      "answer": "Laptop"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which major tech company owns the PlayStation brand?",
+      "answer": "Sony"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Swedish environmental activist became the youngest person to be named TIME's Person of the Year in 2019.",
+      "answer": "Greta Thunberg"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which store offers the giant-sized Big Gulp drink?",
+      "answer": "7-Eleven"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Known for wearing colorful bows in her hair, this dancer, singer, and actress built a massive following on YouTube after her appearance on 'Dance Moms.'",
+      "answer": "JoJo Siwa"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "He had a hit with 2019's 'Sicko Mode.'",
+      "answer": "Travis Scott"
+    }
+  ]
+}

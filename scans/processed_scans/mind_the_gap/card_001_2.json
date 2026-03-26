@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_2",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Which Tanner daughter famously exclaimed, \"How rude\" in every episode?",
+      "answer": "Stephanie Tanner"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What service, launched in 1997, allowed subscribers to have DVDs mailed directly to their home?",
+      "answer": "Netflix"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was Marshall Bruce Mathers III's stage name?",
+      "answer": "Eminem"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What five-year-old boy became a catalyst on immigration policy with a standoff between the US and Cuba in 2000.",
+      "answer": "Elian Gonzalez"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What did WMD stand for?",
+      "answer": "Weapons of mass destruction"
+    }
+  ]
+}

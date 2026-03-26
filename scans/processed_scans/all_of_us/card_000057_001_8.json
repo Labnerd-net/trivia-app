@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which coffee shop uses terms like tall, grande, and venti?",
+      "answer": "Starbucks"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This video game follows an international task force that was assembled to combat a group of hostile robots called the Omnics.",
+      "answer": "Overwatch"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "According to this company, 'a diamond is forever.'",
+      "answer": "De Beers"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What are the names of the twin main characters in the cartoon Gravity Falls?",
+      "answer": "Dipper and Mabel"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "She entered the mainstream with her 2017 single 'Bodak Yellow.'",
+      "answer": "Cardi B"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What pocket-size device taught users the responsibility of caring for a digital pet?",
+      "answer": "Tamagotchi"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What Canadian-born singer debuted with the album \"Jagged Little Pill\"?",
+      "answer": "Alanis Morissette"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What sport is Carmelo Anthony known for?",
+      "answer": "Basketball"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Lea Thompson stars as Manhattan-based cartoonist Caroline Duffy in this series, which ran from 1995 through 1999.",
+      "answer": "Caroline in the City"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor stars as father Wayne Szalinski in 1989's \"Honey, I Shrunk the Kids\"?",
+      "answer": "Rick Moranis"
+    }
+  ]
+}

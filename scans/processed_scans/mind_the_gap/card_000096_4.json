@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000096_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "If someone felt inspired to \"volunteer as tribute,\" what were they watching?",
+      "answer": "The Hunger Games"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2006, the first message was sent out on this micro-blogging platform, but it didn't use all 140 characters.",
+      "answer": "Twitter"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"Empire State of Mind\" by Jay-Z featured this singer/musician.",
+      "answer": "Alicia Keys"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What smartphone payment convenience was released in 2014?",
+      "answer": "ApplePay"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "When someone was effortlessly stylish or had a distinct style, they had _________.",
+      "answer": "\"Steez\""
+    }
+  ]
+}

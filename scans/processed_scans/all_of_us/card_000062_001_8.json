@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What series follows the lives of brothers Theodore and Wallace?",
+      "answer": "Leave It to Beaver"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This jazz quartet may be best remembered for the top 40 hit \"Take Five\" and their classic \"Time Out\" album.",
+      "answer": "The Dave Brubeck Quartet"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What wacky-haired toy trend swept the US market in the early 1960s?",
+      "answer": "Troll dolls"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actress became the princess of Monaco?",
+      "answer": "Grace Kelly"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This 1969 classic film stars Peter Fonda and Dennis Hopper as a pair of bikers who travel through the American South.",
+      "answer": "Easy Rider"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Name one person killed in the plane crash known as 'The Day the Music Died.'",
+      "answer": "Buddy Holly, Ritchie Valens, or J. P. 'Big Bopper' Richardson"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This 1961 Broadway-adapted film stars Natalie Wood.",
+      "answer": "West Side Story"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He became secretary of state in 1973.",
+      "answer": "Henry Kissinger"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1978 this European nation ended 40 years of dictatorship.",
+      "answer": "Spain"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This group had a hit with 'Pleasant Valley Sunday.'",
+      "answer": "The Monkees"
+    }
+  ]
+}

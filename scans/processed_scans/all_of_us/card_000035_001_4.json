@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This Stanley Kubrick film is about Vietnam-era Marines.",
+      "answer": "Full Metal Jacket"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This hip-hop group had a 1987 hit with the surf-themed single 'Wipeout.'",
+      "answer": "The Fat Boys"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 'Saturday Night Live' star played Gumby and Buckwheat.",
+      "answer": "Eddie Murphy"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1992, this US city experienced extreme flooding after a tunnel ruptured, causing $1.95 billion in damages.",
+      "answer": "Chicago"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He plays Jack Tripper on 'Three's Company.'",
+      "answer": "John Ritter"
+    }
+  ]
+}

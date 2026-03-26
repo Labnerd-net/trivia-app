@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What movie adapted from a popular kid's novel in 2017, was about Auggie, a 10-year-old boy with Treacher Collins Syndrome?",
+      "answer": "Wonder"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "These short messages became the preferred method of communication on cell phones instead of calling.",
+      "answer": "Texts"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Jason Mraz song began with \"Well you done me and you bet I felt it, I tried to be chill but you're so hot that I melted\"?",
+      "answer": "\"I'm Yours\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "U.S. college student Otto Warmbier was charged with \"subversion\" by this country for trying to steal a propaganda poster. He died from his ordeal.",
+      "answer": "North Korea"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What were obsessed fans of Taylor Swift called?",
+      "answer": "\"Swifties\""
+    }
+  ]
+}

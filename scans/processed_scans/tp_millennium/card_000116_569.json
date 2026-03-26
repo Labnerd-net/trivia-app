@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000116_569",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Colorado city offers public housing assistance to people with incomes as high as $115,000 per year?",
+      "answer": "Aspen"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who gets 'a few minutes' on 60 Minutes?",
+      "answer": "Andy Rooney"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What royal briefly banished Sir Walter Raleigh to the Tower of London after hearing of his secret marriage to her maid of honor?",
+      "answer": "Elizabeth I"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What body part does bulbar polio attack?",
+      "answer": "The lung"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose phone call after the Rangers' 1994 Stanley Cup victory prompted Brian Leetch to ask: 'Was that Dana Carvey'?",
+      "answer": "Bill Clinton's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was the world's best-selling car of the 1950s and 1960s?",
+      "answer": "The Volkswagen Beetle"
+    }
+  ]
+}

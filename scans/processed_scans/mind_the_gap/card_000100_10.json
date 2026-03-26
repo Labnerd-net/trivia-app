@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_10",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What long running cartoon first premiered on The Tracy Ullman Show in 1987?",
+      "answer": "The Simpsons"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What is the name of the sub generation that has characteristics of both Gen X and Millennials?",
+      "answer": "Xennials born between 1977 and 1984"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Huey Lewis had a hit song and a cameo in this blockbuster movie.",
+      "answer": "Back to the Future"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "The 1970's S.A.L.T. agreements were signed by Soviet and U.S. leaders. What did S.A.L.T. mean?",
+      "answer": "Strategic Arms Limitation Talks"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "The best of the best were \"all that and __________.\"",
+      "answer": "\"A bag of chips\""
+    }
+  ]
+}

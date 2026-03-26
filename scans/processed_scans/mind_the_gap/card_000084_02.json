@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_02",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name three of the four movie stars in the popular film White Christmas.",
+      "answer": "Rosemary Clooney, Vera Ellen, Danny Kaye, Bing Crosby"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Two years after her debut, what classic couple was introduced to children in 1961?",
+      "answer": "Barbie and Ken"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who was the \"First Lady of Country Music\" who sang \"Stand by your Man\"?",
+      "answer": "Tammy Wynette"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the international celebrity who won the Nobel Peace Prize in 1952, known as a pastor, scholar, author, concert organist, and medical missionary.",
+      "answer": "Albert Schweitzer"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What slang term meant hip, trendy, marvelous, wonderful?",
+      "answer": "\"Groovy\""
+    }
+  ]
+}

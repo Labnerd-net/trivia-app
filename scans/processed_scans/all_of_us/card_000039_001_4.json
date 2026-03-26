@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In this movie Arnold Schwarzenegger's character avenges his parents' death.",
+      "answer": "Conan the Barbarian"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What iconic fast-food chain first offered toys in decorative boxes alongside burgers and fries?",
+      "answer": "McDonald's"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Robert Smith's dark songwriting and stage appearance made this band a leader of the goth-rock style.",
+      "answer": "The Cure"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This actress starred as Joey Potter in 'Dawson's Creek.'",
+      "answer": "Katie Holmes"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1996, the dissolution of what royal marriage captivated audiences worldwide?",
+      "answer": "Princess Diana and Prince Charles"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_464",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the most prominent U.S. government outfit headquartered in Langley, Virginia?",
+      "answer": "The CIA"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who married a Korean woman in the final episode of M*A*S*H?",
+      "answer": "Max Klinger"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What outfit did Elizabeth Dole head after resigning as George Bush's labor secretary in 1990?",
+      "answer": "The American Red Cross"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What colorless gas is essential in the production of fertilizers and light bulbs?",
+      "answer": "Nitrogen"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 1975 finger fad did inventor Joshua Reynolds describe as \"portable biofeedback aids\"?",
+      "answer": "Mood rings"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who did Elizabeth Taylor describe as \"the least weird man\" she'd ever known?",
+      "answer": "Michael Jackson"
+    }
+  ]
+}

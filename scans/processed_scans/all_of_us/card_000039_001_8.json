@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Lynda Carter stars as this TV superhero.",
+      "answer": "Wonder Woman"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "An infamous nuclear accident occurred at this site in Pennsylvania in 1979.",
+      "answer": "Three Mile Island"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "He was already a rock star when he went solo with 1975's 'Welcome to My Nightmare.'",
+      "answer": "Alice Cooper"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Before video game consoles became common, gamers would flock to these locations.",
+      "answer": "Arcades"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Arnold Schwarzenegger stars in this film about a violent game show in which contestants must run for their lives.",
+      "answer": "The Running Man"
+    }
+  ]
+}

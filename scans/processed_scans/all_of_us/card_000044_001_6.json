@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000044_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A member of the band No Doubt, this singer went solo in 2004.",
+      "answer": "Gwen Stefani"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In its third season, what TV drama features an actor playing real-life hotel tycoon Conrad 'Connie' Hilton?",
+      "answer": "Mad Men"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What supercomputer defeated chess master Garry Kasparov?",
+      "answer": "Deep Blue"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Ron Swanson is Leslie Knope's mustachioed boss on what popular sitcom?",
+      "answer": "Parks and Recreation"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In a memorable gaffe, the late senator Ted Stevens famously referred to what technology as a 'series of tubes'?",
+      "answer": "The Internet"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Ja Rule famously featured on a remix of what song by Jennifer Lopez in 2001?",
+      "answer": "I'm Real"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actress's famous roles include Elaine Benes on \"Seinfeld\" and Vice President Selina Meyer on \"Veep.\"",
+      "answer": "Julia Louis-Dreyfus"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"The Tillman Story\" is a documentary exploring the death of a US soldier who gave up a career in what?",
+      "answer": "Professional football"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Audiences loved to chant, \"Jerry! Jerry! Jerry!\" on this outrageous talk show, which ran from 1991 through 2018.",
+      "answer": "The Jerry Springer Show"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What media mogul found himself at the center of a widespread phone-hacking scandal in 2011?",
+      "answer": "Rupert Murdoch"
+    }
+  ]
+}

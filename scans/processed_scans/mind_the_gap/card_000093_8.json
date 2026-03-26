@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000093_8",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "First published before Boomers were born (gasp), this Tolkien novel got the blockbuster treatment like Lord of the Rings did years earlier.",
+      "answer": "The Hobbit"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This \"always learning\" rover landed on Mars in 2011, and discovered the presence of water molecules in 2012.",
+      "answer": "Curiosity"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the musical group that won Grammy Awards for their albums The Open Door EP and Kintsugi.",
+      "answer": "Death Cab for Cutie"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "At the end of 2006, this former dictator was hanged for crimes against humanity.",
+      "answer": "Saddam Hussein"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the book/movie with the phrase, \"You is kind. You is smart. You is important.\"",
+      "answer": "The Help"
+    }
+  ]
+}

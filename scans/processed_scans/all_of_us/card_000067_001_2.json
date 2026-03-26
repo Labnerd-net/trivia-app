@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which Scottish singer found chart success with songs such as 'Catch the Wind,' 'Sunshine Superman,' and 'Mellow Yellow'?",
+      "answer": "Donovan"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1955, which amusement park opened in California?",
+      "answer": "Disneyland"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The digital revolution of the 1970s was attributed to the invention of what semiconductor found in radios?",
+      "answer": "Transistors"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This former member of Big Brother and the Holding Company died in 1970.",
+      "answer": "Janis Joplin"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Rod Serling created and hosted which interdimensional TV series?",
+      "answer": "The Twilight Zone"
+    }
+  ]
+}

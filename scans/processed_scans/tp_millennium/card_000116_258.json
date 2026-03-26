@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000116_258",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What southwestern U.S. state ran tourist ads sloganing: 'It's Like a Whole Other Country'?",
+      "answer": "Texas"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What member of Fleetwood Mac has had the most commercially successful solo career?",
+      "answer": "Stevie Nicks"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What city saw the minting of the first silver florins in 1189?",
+      "answer": "Florence"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Whose parenting book begins: 'You know more than you think you do'?",
+      "answer": "Dr. Benjamin Spock's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who referred to Soviet world chess champs as 'commie cheats'?",
+      "answer": "Bobby Fischer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1998 movie inspired Newsweek to note, 'Sure, size matters. But so do screenplays'?",
+      "answer": "Godzilla"
+    }
+  ]
+}

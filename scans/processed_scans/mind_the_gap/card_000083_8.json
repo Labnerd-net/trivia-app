@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000083_8",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Hollywood legend starred in Ben Hur and The Ten Commandments?",
+      "answer": "Charlton Heston"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In a feat of culinary technology, what became the first nonperishable meat product that didn't require refrigeration?",
+      "answer": "SPAM"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous daughter sang 'These Boots are Made for Walkin' in 1966?",
+      "answer": "Nancy Sinatra"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Though invented in 1957, this product wasn't used for packaging and protecting fragile items until 1960.",
+      "answer": "Bubble wrap"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What reprimand did Mr. Whipple direct at customers?",
+      "answer": "\"Please don't squeeze the Charmin!\""
+    }
+  ]
+}

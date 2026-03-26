@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name three of the four original Charlie's Angels actresses from 1976-1981.",
+      "answer": "Kate Jackson, Farrah Fawcett, Jaclyn Smith, Cheryl Ladd"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What early computer game was designed to teach students about the realities of 19th century pioneer life?",
+      "answer": "Oregon Trail"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the Debby Boone hit from 1977.",
+      "answer": "'You Light up my Life'"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What despot murdered millions of Cambodians in 'the killing fields'?",
+      "answer": "Pol Pot"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Nancy Reagan phrase came from the 80's 'War on Drugs' discouraging kids from using recreational drugs?",
+      "answer": "'Just say no'"
+    }
+  ]
+}

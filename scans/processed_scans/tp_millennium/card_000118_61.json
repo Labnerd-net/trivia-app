@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000118_61",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country is headed by King Fahd Ibn Abdul Iziz, one of 44 sons sired by a 22-wife dad?",
+      "answer": "Saudi Arabia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Whose 1990 fashion statement did Mr. Blackwell sum up as 'Yentl's gone mental'?",
+      "answer": "Barbra Streisand's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What member of Nixon's cabinet was depicted in a Superman outfit on a Newsweek cover that bore the caption, 'It's Super K'?",
+      "answer": "Henry Kissinger"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the term for the brain's nerve cells?",
+      "answer": "Neurons"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Washington Capitals goalie earned the nicknames 'Ace' and 'Net Detective'?",
+      "answer": "Jim Carey"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who was called 'Nembutal' on the set of High Society, while Sinatra was called 'Dexedrine'?",
+      "answer": "Bing Crosby"
+    }
+  ]
+}

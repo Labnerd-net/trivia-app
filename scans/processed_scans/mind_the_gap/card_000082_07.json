@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000082_07",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the address Dory had to remember that led to Nemo in Finding Nemo?",
+      "answer": "\"P Sherman, 42 Wallaby Way, Sydney\""
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What is the general name for tech platforms allowing people to virtually stay connected through status updates and photo sharing?",
+      "answer": "Social media"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This trio was one of the biggest names in Christian music with rock/pop albums Jesus Freak, Free at Last, and Supernatural.",
+      "answer": "DC Talk"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Julia Roberts left this Hollywood actor at the altar three days before their scheduled wedding.",
+      "answer": "Keifer Sutherland"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the 1993 ad campaign with celebrities wearing milk mustaches.",
+      "answer": "\"Got Milk?\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_1",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Groove Is in the Heart\" was a 1992 hit for this group.",
+      "answer": "Deee-Lite"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The teenage protagonists of what sitcom often travel in a Vista Cruiser owned by the main character's father, Red Forman?",
+      "answer": "That '70s Show"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What auto manufacturer developed the first highway-legal, fully electric car in 2008?",
+      "answer": "Tesla"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which team did football star Tom Brady play for from 2000–2019?",
+      "answer": "New England Patriots"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Yeah, baby! This actor famously portrayed both Austin Powers and his nemesis, Dr. Evil.",
+      "answer": "Mike Myers"
+    }
+  ]
+}

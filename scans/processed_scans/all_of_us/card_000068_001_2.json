@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The US Supreme Court ruled that segregation of public schools is unconstitutional in which 1954 landmark case?",
+      "answer": "Brown v. Board of Education"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This popular '70s band was the project of musicians Walter Becker and Donald Fagen.",
+      "answer": "Steely Dan"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actor stars in \"The Bad News Bears\"?",
+      "answer": "Walter Matthau"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This keyboardist famously collaborated with the Beatles on their \"Let It Be\" and \"Abbey Road\" albums.",
+      "answer": "Billy Preston"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who is \"That Girl\"?",
+      "answer": "Marlo Thomas"
+    }
+  ]
+}

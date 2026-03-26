@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000071_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What series features an unorthodox cop who often wears disguises while on the beat?",
+      "answer": "Baretta"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Original members of this folk-rock group included Roger McGuinn, Gene Clark, and David Crosby.",
+      "answer": "The Byrds"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed 1972's 'Pink Flamingos'?",
+      "answer": "John Waters"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "You can rearrange the face of this popular '50s toy.",
+      "answer": "Mr. Potato Head"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What author was known for his James Bond novels?",
+      "answer": "Ian Fleming"
+    }
+  ]
+}

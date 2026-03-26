@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "A 2019 live-action film saw this classic Nickelodeon character explore the Lost City of Gold.",
+      "answer": "Dora the Explorer"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This controversial Robin Thicke song featured T.I. and Pharrell and was the longest-running #1 hit in 2013.",
+      "answer": "Blurred Lines"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Kickstarter and GoFundMe are examples of this type of fundraising.",
+      "answer": "Crowdfunding"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In the 2020 'Birds of Prey' film, Margot Robbie stars as this popular DC Comics character.",
+      "answer": "Harley Quinn"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This hugely successful mobile game franchise, which debuted in 2009, pits players against a fortress of pigs.",
+      "answer": "Angry Birds"
+    }
+  ]
+}

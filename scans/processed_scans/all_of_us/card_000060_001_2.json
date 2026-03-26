@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This annual convention is dedicated to comics, anime, graphic novels, cosplay, and toys.",
+      "answer": "Comic-Con"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This website bills itself as \"the free encyclopedia.\"",
+      "answer": "Wikipedia"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This boy band released 2018's \"Fake Love.\"",
+      "answer": "BTS"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This mayor from Indiana became the first openly gay man to seek the Democratic presidential nomination in 2020.",
+      "answer": "Pete Buttigieg"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "First released in 2016, the smart glasses called Spectacles are made by the same company behind their popular social media app.",
+      "answer": "Snapchat®"
+    }
+  ]
+}

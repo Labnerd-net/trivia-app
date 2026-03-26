@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000059_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Portuguese soccer star is reportedly Instagram's highest-paid influencer.",
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This series of fighting games includes characters like Baraka, Johnny Cage, and Sub-Zero.",
+      "answer": "Mortal Kombat"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which Grammy award-winning country singer is known for hits like \"Butterflies\" and \"Space Cowboy\"?",
+      "answer": "Kacey Musgraves"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "After her breakout role on \"The Cosby Show,\" Raven-Symoné starred in what aptly named show?",
+      "answer": "That's So Raven"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This dating-themed Netflix film from 2019 stars Noah Centineo, Laura Marano, and Camila Mendes.",
+      "answer": "The Perfect Date"
+    }
+  ]
+}

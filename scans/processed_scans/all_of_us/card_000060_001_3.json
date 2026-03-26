@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_3",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This term is used for when someone appears in the background of a photo, without the photographer meaning to include them.",
+      "answer": "Photobomb"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What Dr. Seuss story comes to life in a 2019 animated Netflix® series?",
+      "answer": "\"Green Eggs and Ham\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The characters known as \"minions\" first appeared in which 2010 animated film?",
+      "answer": "\"Despicable Me\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Chip and Joanna Gaines are best known for this HGTV® series, which premiered in 2014.",
+      "answer": "\"Fixer Upper\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Released in 2018, the politically charged song \"This Is America\" was performed by which artist?",
+      "answer": "Childish Gambino"
+    }
+  ]
+}

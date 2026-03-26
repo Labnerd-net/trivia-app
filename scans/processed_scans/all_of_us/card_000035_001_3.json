@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Featured in commercials and animated specials, this animated group of anthropomorphized food performed R&B music.",
+      "answer": "The California Raisins"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who did Princess Diana divorce in 1996?",
+      "answer": "Prince Charles"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This band of Irish rockers wrote 'Sunday Bloody Sunday.'",
+      "answer": "U2"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "1983's 'Risky Business' helped launch the career of this actor.",
+      "answer": "Tom Cruise"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This geometric drawing toy is based on mechanical gears that produce complex curves.",
+      "answer": "Spirograph"
+    }
+  ]
+}

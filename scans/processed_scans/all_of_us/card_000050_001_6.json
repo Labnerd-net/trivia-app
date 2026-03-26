@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This low-budget, high-drama TV genre surged in popularity in the 2000s.",
+      "answer": "Reality TV"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In this film, a detective named Basil attempts to locate London's missing toymaker and defeat Professor Ratigan, who wants to become 'supreme ruler of all mousedom.'",
+      "answer": "The Great Mouse Detective"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Carly Rae Jepsen's hit single was titled what?",
+      "answer": "Call Me Maybe"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "J. K. Rowling released this immensely successful book to US markets in 1998.",
+      "answer": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This was a line of popular makeup cases in the late '80s.",
+      "answer": "Caboodles"
+    }
+  ]
+}

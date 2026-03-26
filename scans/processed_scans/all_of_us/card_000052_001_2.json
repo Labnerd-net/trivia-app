@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which rapper was feeling \"Hot in Herre\" in his 2002 hit?",
+      "answer": "Nelly"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What aphorism popularized in 2012 is similar to \"carpe diem\"?",
+      "answer": "YOLO"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Now named for its inventor, what exercise regimen was first known as \"contrology\"?",
+      "answer": "Pilates"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which 1996 film features Will Smith, Bill Pullman, and Jeff Goldblum working to save the planet from an alien race?",
+      "answer": "Independence Day"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "All 3 of the popular \"CSI\" TV dramas feature theme songs performed by what rock band?",
+      "answer": "The Who"
+    }
+  ]
+}

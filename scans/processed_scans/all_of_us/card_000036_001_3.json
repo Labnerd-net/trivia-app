@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This American quiz show originally aired in 1964, but it wasn't until 1984 that host Alex Trebek took over.",
+      "answer": "Jeopardy!"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The 1984 Summer Olympics were hosted in which US state?",
+      "answer": "California"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This competitive game has a vertical board and red and yellow pieces.",
+      "answer": "Connect 4"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What hit is Toni Basil known for?",
+      "answer": "Mickey"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "She was Corey Feldman's love interest in 1989.",
+      "answer": "Drew Barrymore"
+    }
+  ]
+}

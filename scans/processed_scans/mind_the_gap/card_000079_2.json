@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000079_2",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "\"I don't think so, Tim\" was a recurring line in which TV show?",
+      "answer": "Home Improvement"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This was the most popular social media platform in the world from 2005 to 2008, allowing music and video uploads as well as personal blogs.",
+      "answer": "MySpace"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What Australian country music star married an Australian actress?",
+      "answer": "Keith Urban"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the Cowboys' cornerback who was the only player to hit a home run in the major leagues and score an NFL touchdown in the same week.",
+      "answer": "Deion Sanders"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "True or False: Netflix and chill is something you do with your parents around.",
+      "answer": "FALSE"
+    }
+  ]
+}

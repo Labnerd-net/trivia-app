@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed \"Annie Hall\"?",
+      "answer": "Woody Allen"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "From the late 1970s, companies such as Sharp began manufacturing these low-cost kitchen appliances used to rapidly cook food.",
+      "answer": "Microwave ovens"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who sang the hits \"Wichita Lineman\" and \"Rhinestone Cowboy\"?",
+      "answer": "Glen Campbell"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1964, President Johnson declared war on what?",
+      "answer": "Poverty"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What 1960s aquatic series features stunning underwater cinematography of an ultraintelligent sea mammal?",
+      "answer": "Flipper"
+    }
+  ]
+}

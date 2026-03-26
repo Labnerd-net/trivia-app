@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000077_09",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In most Disney films the mother is dead or missing. In this 1994 animated feature, though, the main character loses his dad.",
+      "answer": "The Lion King"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the peak of 90's innovation: a wearable blanket with arm holes.",
+      "answer": "Snuggie"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What R&B group had a breakout hit with \"No Diggity\"?",
+      "answer": "Blackstreet"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "On July 17, 1996, this TWA flight took off from JFK airport and exploded 12 minutes later over the Atlantic Ocean, killing all 230 passengers on board.",
+      "answer": "TWA Flight 800"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What clothing brand touted the virtues of extreme sports, mostly skateboarding and motocross, and contempt for social norms?",
+      "answer": "No Fear"
+    }
+  ]
+}

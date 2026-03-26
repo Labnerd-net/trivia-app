@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Adam Sandler stars in this 1995 comedy about a man rapidly completing grades 1–12 to settle a score with his father.",
+      "answer": "Billy Madison"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Known for the political content of their lyrics, this hip-hop group rose to fame in the late '80s with singles such as \"Don't Believe the Hype\" and \"Fight the Power.\"",
+      "answer": "Public Enemy"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The kidnapping of this then-14-year-old girl from Salt Lake City made national headlines in 2002.",
+      "answer": "Elizabeth Smart"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Tina Fey and Amy Poehler were the first 2 female anchors on what \"Saturday Night Live\" sketch?",
+      "answer": "Weekend Update"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 1993 the Space Shuttle Endeavour completed a mission to repair what space telescope?",
+      "answer": "Hubble"
+    }
+  ]
+}

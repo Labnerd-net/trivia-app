@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Nickelodeon series stars Victoria Justice as high school student and aspiring singer Tori Vega.",
+      "answer": "Victorious"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which brand of jeans is known for selling numbered styles like 505s, 511s, and 514s?",
+      "answer": "Levi's"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In the gaming world, what does RPG stand for?",
+      "answer": "Role-playing game"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This TV series makes heavy use of flashbacks to explore the emotional ties among a family of triplets and their parents.",
+      "answer": "This Is Us"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Ava Max released this 2019 hit, which topped the charts in 26 countries.",
+      "answer": "Sweet But Psycho"
+    }
+  ]
+}

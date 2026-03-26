@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name Pa Cartwright's three sons on the TV show Bonanza.",
+      "answer": "Adam, Hoss, and Little Joe"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who invented the first frozen TV dinners in 1954?",
+      "answer": "Swanson"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Jim Morrison, Ray Manzarek, Robby Krieger and John Densmore made up what band?",
+      "answer": "The Doors"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name two of the three rock and roll musicians killed in a 1959 plane crash in Clear Lake, Iowa.",
+      "answer": "Buddy Holly, Ritchie Valens, \"The Big Bopper\" J.P. Richardson"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In 1971, what character said, \"You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?\"",
+      "answer": "Dirty Harry"
+    }
+  ]
+}

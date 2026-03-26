@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000071_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "¡Salud! Which instrumental group took 'Tequila' to the top of the charts in 1958?",
+      "answer": "The Champs"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This portable music medium was replaced by the compact cassette.",
+      "answer": "8-track"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Recognizable for his bald head and deep voice, this star is best known for his role in TV's 'Kojak.'",
+      "answer": "Telly Savalas"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What US war started in 1955?",
+      "answer": "Vietnam"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This group released 1968's album 'Child Is Father to the Man.'",
+      "answer": "Blood, Sweat & Tears"
+    }
+  ]
+}

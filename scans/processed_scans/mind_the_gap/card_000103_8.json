@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was the iconic host most closely associated with $25,000 Pyramid and $100,000 Pyramid game show?",
+      "answer": "Dick Clark"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the humorist author of the column 'At Wits End,' and of best-selling books such as The Grass Is Always Greener Over the Septic Tank?",
+      "answer": "Erma Bombeck"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Genesis drummer took over as lead singer when Peter Gabriel left to pursue a solo career?",
+      "answer": "Phil Collins"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Originally known as the UPC, this 1974 invention transformed checkout lines and allowed retailers to track sales and stock.",
+      "answer": "Barcodes"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the 1970s, what advertising slogan was spoken after someone smacked themselves on the head?",
+      "answer": "\"I could've had a V8!\""
+    }
+  ]
+}

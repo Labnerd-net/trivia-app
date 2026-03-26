@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000089_2",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What western-themed TV show originally starring Ward Bond was a favorite in the late 50s and early 60s?",
+      "answer": "Wagon Train"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the 'wonderful' cartoon character that 'whenever he gets in a fix he reaches into his bag of tricks.'",
+      "answer": "Felix the Cat"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What song was played near the end of Billy Graham crusades?",
+      "answer": "\"Just As I Am\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What weapon did the U.S. successfully test in 1952?",
+      "answer": "The hydrogen bomb"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In what 1967 movie was the following quote? 'Mrs. Robinson, you're trying to seduce me. Aren't you?'",
+      "answer": "The Graduate"
+    }
+  ]
+}

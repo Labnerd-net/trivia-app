@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000038_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This John Hughes movie is about 5 kids in detention.",
+      "answer": "The Breakfast Club"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "David Byrne was the head of what American rock band?",
+      "answer": "Talking Heads"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "You can spot this '90s teen movie star in the TV series \"Criminal Minds.\"",
+      "answer": "Jennifer Love Hewitt"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This US figure skater was the 1993 US National Figure Skating Champion and was notably injured in an attack in January 1994.",
+      "answer": "Nancy Kerrigan"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Kermit and friends stop a jewel thief in this movie.",
+      "answer": "The Great Muppet Caper"
+    }
+  ]
+}

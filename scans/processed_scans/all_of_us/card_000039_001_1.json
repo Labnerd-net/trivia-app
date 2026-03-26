@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's a fantasy film with Tom Hanks and Zoltar.",
+      "answer": "Big"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "An oil spill from this tanker spilled 10.8 million gallons of crude oil off the coast of Alaska in 1989, often considered one of the worst environmental disasters in history.",
+      "answer": "Exxon Valdez"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What's the name of Penny's dog on 'Inspector Gadget'?",
+      "answer": "Brain"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1987, the stock market plunged an incredible 22.6 percent, worse than the crash before the Great Depression. What nickname did the press give this event?",
+      "answer": "Black Monday"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What '80s musical act notoriously demanded M&M's be provided backstage but with the brown ones removed?",
+      "answer": "Van Halen"
+    }
+  ]
+}

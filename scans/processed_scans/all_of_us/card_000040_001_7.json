@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which group took \"Walk Like an Egyptian\" to the top of the charts?",
+      "answer": "The Bangles"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actress stars as Alice Cable in 1982's \"Swamp Thing\"?",
+      "answer": "Adrienne Barbeau"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1980s prime-time soap revolves around the Carrington family.",
+      "answer": "Dynasty"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What fashion accessory was created by Swiss watchmaker Nicolas Hayek in 1983?",
+      "answer": "Swatch"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is Roger Clemens known for?",
+      "answer": "Baseball"
+    }
+  ]
+}

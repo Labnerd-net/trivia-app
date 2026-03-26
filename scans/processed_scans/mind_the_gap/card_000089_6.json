@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000089_6",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the four main characters on The Andy Griffith Show.",
+      "answer": "Andy Taylor, Barney Fife, Opie, Aunt Bee"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous E.B. White children's novel, set in a barn, was published in 1952?",
+      "answer": "Charlotte's Web"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "'How many roads must a man walk down/Before you call him a man?' Name that song.",
+      "answer": "\"Blowin' in the Wind\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What cult leader was ultimately responsible for his communal family committing nine murders in 1969?",
+      "answer": "Charles Manson"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Finish the famous phrase from The Pride of the Yankees: 'Today, I consider myself ___.'",
+      "answer": "\"the luckiest man on the face of the earth.\""
+    }
+  ]
+}

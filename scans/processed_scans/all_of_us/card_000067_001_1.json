@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In the '50s, lots of kids wore these leather shoes with contrasting colors.",
+      "answer": "Saddle shoes"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Played by Al Lewis, Count Vladimir Dracula is better known as Grandpa in what spooky TV series?",
+      "answer": "The Munsters"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which singer warned us about 'Runaround Sue' in his 1961 hit?",
+      "answer": "Dion"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This '70s federal commission explored abuses by the CIA.",
+      "answer": "Rockefeller Commission"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He released 'Rock 'n' Roll Animal' in 1974.",
+      "answer": "Lou Reed"
+    }
+  ]
+}

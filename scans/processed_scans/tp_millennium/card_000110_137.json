@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000110_137",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was officially considered a Great Lake for eighteen days, in 1998?",
+      "answer": "Lake Champlain"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Comedy Central character invented a cure for penicillin, serious putty and nonalcoholic root beer?",
+      "answer": "Dr. Katz"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What southern U.S. state waited until 1995 to ratify the amendment abolishing slavery?",
+      "answer": "Mississippi"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of chocolate was first developed for public consumption in Vevey, Switzerland in 1875?",
+      "answer": "Milk chocolate"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many dollars did Mark McGwire get for wearing Nike shoes in 1998?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What last name did Jerry Falwell call Ellen DeGeneres when she came out of the closet?",
+      "answer": "DeGenerate"
+    }
+  ]
+}

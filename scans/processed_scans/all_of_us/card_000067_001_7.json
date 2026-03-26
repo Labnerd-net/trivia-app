@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "By the end of the '50s, many living rooms were centered around this device.",
+      "answer": "Television"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "An important location in the history of punk rock, this club opened in 1973 in New York City.",
+      "answer": "CBGB"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In the 'All in the Family' spin-off series 'Maude,' what relation is the title character to Edith Bunker?",
+      "answer": "Cousin"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The NASA Mariner 9 mission brought back images of this planet.",
+      "answer": "Mars"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Director Ed Wood is remembered for this zany 1959 sci-fi movie.",
+      "answer": "Plan 9 from Outer Space"
+    }
+  ]
+}

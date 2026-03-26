@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000125_133",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Italian city saw the Church of St. Francis completed in 1252?",
+      "answer": "Assisi"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was the first rap group to appear on American Bandstand and the cover of Rolling Stone?",
+      "answer": "Run-D.M.C."
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What's the submachine gun invented by Mikhail Kalashnikov in 1947 better known as?",
+      "answer": "The AK47"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What geographic term describes a hill with sharply sloping sides and a flat top?",
+      "answer": "Butte"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What name, adopted in 1881 for J.H. Kellogg's cold breakfast cereal, was resurrected by hippies in the 1960s?",
+      "answer": "Granola"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What spirits outsold vodka in the U.S. for the first time ever, in 1980?",
+      "answer": "Rum"
+    }
+  ]
+}

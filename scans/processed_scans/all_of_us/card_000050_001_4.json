@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "William Hung went viral due to his off-key version of what pop song?",
+      "answer": "She Bangs"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 1997-debuting animated TV show brought back the characters from a recent blockbuster film featuring lots of aliens.",
+      "answer": "Men in Black: The Series"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 2002 he got his own 'All That' spin-off.",
+      "answer": "Nick Cannon"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 2006, Barry Bonds hit his 715th home run, breaking a previous record set by which baseball legend?",
+      "answer": "Hank Aaron"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 1993 film sees lead actor Bill Murray reliving the same day again and again.",
+      "answer": "Groundhog Day"
+    }
+  ]
+}

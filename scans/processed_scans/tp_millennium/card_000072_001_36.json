@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_36",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What British landmark is the world's largest inhabited castle?",
+      "answer": "Windsor Castle"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV series won the most Outstanding Drama Emmys in the 1980s?",
+      "answer": "Hill Street Blues"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What archipelago lost an estimated one million of its citizens in the war against Japan from 1941 to 1945?",
+      "answer": "The Philippines"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What brand became the first sugar-free sugar substitute, in 1957?",
+      "answer": "Sweet 'N Low"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA star attempted a record 28,307 field goals in regular season games?",
+      "answer": "Kareem Abdul-Jabbar"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 77-year-old did Bob Dylan sing Knockin' on Heaven's Door to, at a mass in Bologna, Italy?",
+      "answer": "Pope John Paul II"
+    }
+  ]
+}

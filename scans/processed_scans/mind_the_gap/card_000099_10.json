@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_10",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the 1982 Eddie Murphy movie 48 Hours, what actor played the cop who springs Murphy from prison to help him catch a killer?",
+      "answer": "Nick Nolte"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Despite technological advances, this common desk item had to be used when a cassette tape messed up.",
+      "answer": "A pencil"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What hit song from 1976 was sung by Elton John and Kiki Dee?",
+      "answer": "\"Don't Go Breaking My Heart\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1986, what golfer, considered the greatest of all time, captured his sixth Masters' title?",
+      "answer": "Jack Nicklaus"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the catchphrase from S.E. Hinton's The Outsiders: \"Stay gold, _________.\"",
+      "answer": "\"Pony Boy\""
+    }
+  ]
+}

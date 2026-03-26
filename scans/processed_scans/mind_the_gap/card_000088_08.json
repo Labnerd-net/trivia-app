@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000088_08",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What actor usually portrayed tough guys, with early success in The Magnificent Seven and The Dirty Dozen?",
+      "answer": "Charles Bronson"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the 1962 Madeleine L'Engle young adult novel about Meg Murry and her time and space travel.",
+      "answer": "A Wrinkle in Time"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What song by the Turtles begins with \"Imagine me and you, I do, I think about you day and night, it's only right\"?",
+      "answer": "\"Happy Together\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What playwright won the Pulitzer Prize in 1949 for his quintessential American drama, Death of a Salesman?",
+      "answer": "Arthur Miller"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was it called when people got out of their vehicle at a red light and ran around the car exchanging places?",
+      "answer": "\"Chinese fire drill\""
+    }
+  ]
+}

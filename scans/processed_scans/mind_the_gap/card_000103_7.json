@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1975 movie, starring Richard Dreyfuss, Robert Shaw, and Roy Scheider, was Steven Spielberg's first big movie?",
+      "answer": "Jaws"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Whose flowing feathered locks inspired a 70s hairstyle fad, along with her pin-up poster status making her an icon of a generation?",
+      "answer": "Farrah Fawcett"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "'We are strong. No one can tell us we're wrong.' Name that tune by Pat Benatar.",
+      "answer": "\"Love is a Battlefield\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What eccentric billionaire recluse died in 1975?",
+      "answer": "Howard Hughes"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What comic book and TV character's tagline was, 'You wouldn't like me when I'm angry.'?",
+      "answer": "David Banner/Incredible Hulk"
+    }
+  ]
+}

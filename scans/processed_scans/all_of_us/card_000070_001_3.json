@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Elvis stars as a talented inmate in this film.",
+      "answer": "Jailhouse Rock"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Signed by the United States and the Soviet Union in 1972, the SALT I Treaty imposed limits on emergent forms of these ultimate Cold War weapons.",
+      "answer": "Nuclear weapons"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actor married Ann-Margret?",
+      "answer": "Roger Smith"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "'Knock Three Times' was a hit for this group.",
+      "answer": "Dawn"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who was the host of 'American Bandstand'?",
+      "answer": "Dick Clark"
+    }
+  ]
+}

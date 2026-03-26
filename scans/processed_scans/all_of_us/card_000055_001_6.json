@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What movie was based on a construction toy and featured a lead character named Emmet?",
+      "answer": "The Lego Movie"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Now popular with skaters, this brand of shoes was originally started in the 1960s as the Van Doren Rubber Company.",
+      "answer": "Vans"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Millie Bobby Brown rose to stardom for her role as what 'Stranger Things' character?",
+      "answer": "Eleven"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Someone who is a 'snack' is what?",
+      "answer": "Good looking"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The 2018 film 'Christopher Robin' follows the titular character as he's reunited with whom?",
+      "answer": "Winnie the Pooh"
+    }
+  ]
+}

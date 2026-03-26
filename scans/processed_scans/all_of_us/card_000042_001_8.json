@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Which rock singer has a band called the Blackhearts?",
+      "answer": "Joan Jett"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Which iconic country singer stars in 'The Best Little Whorehouse in Texas'?",
+      "answer": "Dolly Parton"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What stand-up comedian starred in the sitcom bearing her name from 1994 to 1998?",
+      "answer": "Ellen DeGeneres"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What hip headwear did LL Cool J often sport?",
+      "answer": "Kangol hat"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "In 1981, this domestic terrorist attempted to assassinate President Reagan.",
+      "answer": "John Hinckley Jr."
+    }
+  ]
+}

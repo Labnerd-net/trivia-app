@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_31",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What west coast city did some jazz musicians dub 'Mississippi with palm trees'?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What kid's show's interracial cast needed riot police protection during a 1969 trip to Mississippi?",
+      "answer": "Sesame Street's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What substance did Bob Dole unwisely say may not be addictive, in 1996?",
+      "answer": "Tobacco"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What body parts are oversized in a man suffering from gynecomastia?",
+      "answer": "Breasts"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was Craig MacTavish the last NHL player to play without?",
+      "answer": "A helmet"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Whitney Houston hit did Helen Stephens blast her neighbors with around the clock for six solid weeks, earning her a week in jail?",
+      "answer": "I Will Always Love You"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000051_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "2001's film \"Zoolander\" tells the tale of an egotistical male model played by which actor?",
+      "answer": "Ben Stiller"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "After achieving success playing drums for Nirvana, this singer and multi-instrumentalist founded another popular act, Foo Fighters.",
+      "answer": "Dave Grohl"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Directed by Sam Raimi, 2002's \"Spider-Man\" features a memorable upside-down kiss scene between Tobey Maguire and this actress.",
+      "answer": "Kirsten Dunst"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "President Bush created this federal department to fight terrorism in 2002.",
+      "answer": "Homeland Security"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Leonardo DiCaprio stars in this 2002 crime film as con man Frank Abagnale Jr., posing as a pilot, doctor, and prosecutor as he eludes an FBI agent.",
+      "answer": "Catch Me If You Can"
+    }
+  ]
+}

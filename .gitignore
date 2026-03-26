@@ -26,6 +26,10 @@ dist-ssr
 # Local card input data
 input
 input/
+scans/input_scans/
+
+# Scanner secrets
+scripts/scanner.env
 
 # wrangler files
 .wrangler

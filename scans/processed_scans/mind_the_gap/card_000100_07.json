@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_07",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name at least five of the eight members of the Brat Pack.",
+      "answer": "Molly Ringwald, Anthony Michael Hall, Andrew McCarthy, Rob Lowe, Emilio Estevez, Ally Sheedy, Judd Nelson, Demi Moore"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular 80's doll had adoption papers?",
+      "answer": "Cabbage Patch Kids"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was Annie Lennox walking on in a 1992 hit?",
+      "answer": "\"Walking on Broken Glass\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was the legendary, fedora-wearing coach of the Dallas Cowboys?",
+      "answer": "Tom Landry"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did Casey Kasem encourage listeners to do at the end of each American Top 40 radio show?",
+      "answer": "\"Keep your feet on the ground, and keep reaching for the stars.\""
+    }
+  ]
+}

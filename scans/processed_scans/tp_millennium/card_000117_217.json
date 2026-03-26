@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000117_217",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What commonwealth country considered Norland, Cabotia and Transatlantia when it chose its name in 1867?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who won three Oscars after she turned 60?",
+      "answer": "Katharine Hepburn"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What decade-beginning year saw the introduction of Twinkies, flashbulbs and sliced bread?",
+      "answer": "1930"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What sea mammal's upper lip moves much like the trunk of an elephant?",
+      "answer": "The manatee's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What relief pitcher was nicknamed for the pet he kept while playing for the Pirates?",
+      "answer": "\"Goose\" Gossage"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What offbeat evidence did London detectives use against a burglar who listened at the doors of his victims?",
+      "answer": "His earprint"
+    }
+  ]
+}

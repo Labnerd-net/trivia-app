@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This TV show followed Clay Jensen in his search to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.",
+      "answer": "13 Reasons Why"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name this product: could be molded into shapes; didn't stick to anything but itself; didn't dry out",
+      "answer": "Kinetic Sand"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Which rapper was arrested and imprisoned in 2018 for conspiracy to commit murder and armed robbery?",
+      "answer": "6ix9ine"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2016, what country impeached Dilma Rousseff, their first female president?",
+      "answer": "Brazil"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Complete the phrase: \"Ight, Imma _________.\"",
+      "answer": "\"Head out\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "With its video starring Tawny Kitaen, what hard rock band performs 'Here I Go Again'?",
+      "answer": "Whitesnake"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Arnold Schwarzenegger stars in this 1987 sci-fi film about a team of commandos being hunted by a sophisticated alien creature.",
+      "answer": "Predator"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In December 1980, this legendary musician was tragically murdered in the archway of his New York City home.",
+      "answer": "John Lennon"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Sported by Dwayne Wayne, what TV show popularized flip-up sunglasses in the 1980s?",
+      "answer": "A Different World"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In this Nintendo arcade release, Mario fights a giant ape.",
+      "answer": "Donkey Kong"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000056_001_8",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Kiernan Shipka is known for playing what title role in this supernatural Netflix series?",
+      "answer": "Sabrina Spellman"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Jeffree Star is known for creating his own brand of what?",
+      "answer": "Cosmetics"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "EPCOT is part of which giant theme park?",
+      "answer": "Disney World"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What country is Ed Sheeran from?",
+      "answer": "England"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This streetwear and skateboarding brand is easily recognizable by its prominently featured red rectangular logo.",
+      "answer": "Supreme"
+    }
+  ]
+}

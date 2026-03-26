@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "These two friends teamed up to hit the road with Dorothy Lamour in a series of movies.",
+      "answer": "Bing Crosby and Bob Hope"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This toy, seen in the movie franchise Toy Story, originally came with just plastic facial features and some Styrofoam.",
+      "answer": "Mr. Potato Head"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "The son of Italian immigrants, this tenor gained superstar status in movies and with his most famous song, \"Be My Love.\"",
+      "answer": "Mario Lanza"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Egyptian leader nationalized the Suez Canal sparking an international crisis in 1956?",
+      "answer": "Gamal Abdel Nasser"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the meaning of \"out the wazoo\"?",
+      "answer": "Too much or excessive"
+    }
+  ]
+}

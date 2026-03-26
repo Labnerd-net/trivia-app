@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Neither light as a feather nor stiff as a board, this spooky 1996 film features 4 teenage girls who learn witchcraft.",
+      "answer": "The Craft"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This musical artist and actress famously wore a dress styled after a white swan to the 2001 Academy Awards.",
+      "answer": "Björk"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What world icon was tragically killed in an August 1997 car crash?",
+      "answer": "Princess Diana"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This TV show about a mother and daughter living in a small town in Connecticut debuted in 2000 on the WB.",
+      "answer": "Gilmore Girls"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "An athletic fad in the '90s, roller skates came back in this new form.",
+      "answer": "Rollerblades or inline skates"
+    }
+  ]
+}

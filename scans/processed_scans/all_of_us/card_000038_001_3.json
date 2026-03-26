@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000038_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The lead singer and bassist of the Police, this artist went solo in 1985.",
+      "answer": "Sting"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Her role as Jill Munroe on \"Charlie's Angels\" cemented her '70s stardom.",
+      "answer": "Farrah Fawcett"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This legendary American boxer became the youngest heavyweight champion in 1985.",
+      "answer": "Mike Tyson"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In the 1980s, Richard Gere made headlines for dating this model, who's 17 years younger.",
+      "answer": "Cindy Crawford"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The 1986 film \"Platoon\" is set during which war?",
+      "answer": "Vietnam War"
+    }
+  ]
+}

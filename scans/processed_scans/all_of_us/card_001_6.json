@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This R&B singer duetted with Monica on the popular 1998 single 'The Boy Is Mine.'",
+      "answer": "Brandy"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2002 marching band-themed film follows the story of a gifted drummer who enrolls in a university, hoping to lead the band to victory in the BET Big Southern Classic competition.",
+      "answer": "Drumline"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This champion cyclist was stripped of his post-1998 achievements due to a doping scandal.",
+      "answer": "Lance Armstrong"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2008 satirical action-comedy follows a group of actors making a Vietnam War-themed film when their director abandons them in the jungle.",
+      "answer": "Tropic Thunder"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 2003, Roy Horn of the duo Siegfried and Roy was attacked by what type of animal?",
+      "answer": "Tiger"
+    }
+  ]
+}

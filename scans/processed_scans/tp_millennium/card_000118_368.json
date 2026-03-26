@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000118_368",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent's population is expected to surpass the combined populations of Europe, North America and South America in 2025?",
+      "answer": "Africa's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 23-year-old Tejano singer was murdered by her fan club president?",
+      "answer": "Selena"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What despot did Picasso endorse at the end of World War II?",
+      "answer": "Josef Stalin"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the most common tick-borne disease contracted in the U.S.?",
+      "answer": "Lyme disease"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who scored the first triple-double in an NBA All-Star Game, in 1997?",
+      "answer": "Michael Jordan"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What musical refrain did the publishers of Soul Man ask Bob Dole's 1996 campaign to stop using?",
+      "answer": "I'm a Dole man"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Whose time travel adventures had them meeting historical figures like \"So-crates\"?",
+      "answer": "Bill and Ted"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What toilet paper were grocery shoppers discouraged from squeezing?",
+      "answer": "Charmin"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What bearded group was known for \"Sharp Dressed Man\" and \"Legs\"?",
+      "answer": "ZZ Top"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was murdered by Mark David Chapman in 1980?",
+      "answer": "John Lennon"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Used to describe a married couple, what did the acronym DINK mean?",
+      "answer": "Double (or dual) Income, No Kids"
+    }
+  ]
+}

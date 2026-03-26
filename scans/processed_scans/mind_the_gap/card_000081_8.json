@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000081_8",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What university did Forrest attend in Forrest Gump?",
+      "answer": "The University of Alabama"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What company was founded by actress Jessica Alba in 2011?",
+      "answer": "The Honest Company"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In the song 'Regulate,' Nate Dogg 'just hit the Eastside of the L.B.C. on a mission' to do what?",
+      "answer": "Trying to find Mr. Warren G."
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Pedro from The Real World shined a light on this public issue.",
+      "answer": "AIDS"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What Chili's jingle, introduced in 1986, announced one's longing for a specific cut of meat?",
+      "answer": "I want my baby back ribs"
+    }
+  ]
+}

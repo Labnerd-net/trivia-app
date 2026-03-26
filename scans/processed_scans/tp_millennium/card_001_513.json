@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_513",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What university, with 13 million volumes, has the largest college reference library in the U.S.?",
+      "answer": "Harvard"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What ballet do Parisians call Lac des Cygnes?",
+      "answer": "Swan Lake"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What secretary of the interior called the U.S. a country of \"liberals and Americans\"?",
+      "answer": "James Watt"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What two-word term does a weatherman use for the temperature at which water vapor begins to condense?",
+      "answer": "Dew point"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Florida-based pro sports team is named after the rarest American mammal?",
+      "answer": "The Florida Panthers"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was the first online bookstore, offering 2.5 million titles by 1997?",
+      "answer": "Amazon.com"
+    }
+  ]
+}

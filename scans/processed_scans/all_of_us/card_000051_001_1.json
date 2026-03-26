@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000051_001_1",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 2002, Nelly released \"Dilemma,\" which was a duet with whom?",
+      "answer": "Kelly Rowland"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The United States defeated what nation at the 1999 FIFA Women's World Cup?",
+      "answer": "China"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Scrantones perform the theme music for what Pennsylvania-based sitcom?",
+      "answer": "The Office"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What experimental personal aircraft was unveiled in 2008?",
+      "answer": "Martin Jetpack"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Jim Carrey stars as the painfully honest Fletcher Reede in this 1997 comedy.",
+      "answer": "Liar Liar"
+    }
+  ]
+}

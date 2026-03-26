@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000118_62",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What is the new name of the portion of Highway 51 South that runs in front of Graceland?",
+      "answer": "Elvis Presley Boulevard"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Bob Dylan song did the Rolling Stones start performing in the 1990s?",
+      "answer": "Like A Rolling Stone"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What politician introduced the expression 'Black Power' in a 1966 speech at Howard University?",
+      "answer": "Adam Clayton Powell"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What antiwrinkling cream was reformulated and renamed Renova?",
+      "answer": "Retin-A"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What L.A. Lakers great might have played for Chicago if the Bulls had called 'tails' in a 1979 NBA coin toss?",
+      "answer": "Magic Johnson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What brand of cookie do the pigs run for, in Swifty Swine Productions' Pig Races?",
+      "answer": "Oreo"
+    }
+  ]
+}

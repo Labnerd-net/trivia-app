@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000117_567",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What French explorer's ship, the Belle, sank in Texas' Matagorda Bay in 1686?",
+      "answer": "La Salle's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What daytime talk show host did producers say was the best thing ever to happen to Broadway, in 1998?",
+      "answer": "Rosie O'Donnell"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose 1995 novel The Moor's Last Sigh enraged Hindu militants in India?",
+      "answer": "Salman Rushdie's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What procedure did a Massachusetts resident use to revive an iguana that had fallen into a pool in 1996?",
+      "answer": "Mouth-to-mouth resuscitation"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who owned 20 of the 50 individual NHL career records by 1997?",
+      "answer": "Wayne Gretzky"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did the National Review term Gorbachev-era \"young, upwardly mobile communists\"?",
+      "answer": "Yuppies"
+    }
+  ]
+}

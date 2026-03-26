@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What boy band sparked the singing and acting career of Justin Timberlake?",
+      "answer": "*NSYNC"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "On the '90s sitcom 'Blossom,' Joey Lawrence's character is known for what catchphrase?",
+      "answer": "Whoa!"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actress stars in the 2002 rom-com 'Maid in Manhattan'?",
+      "answer": "Jennifer Lopez"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which US state was the first to issue marriage licenses to same-sex couples?",
+      "answer": "Massachusetts"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Based on a book by Roald Dahl, this 1996 film tells of a young orphan who discovers a magical fruit.",
+      "answer": "James and the Giant Peach"
+    }
+  ]
+}

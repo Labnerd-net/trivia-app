@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Batman villain wears a green-and-purple costume and leaves complex puzzles as clues to his crimes.",
+      "answer": "The Riddler"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This type of YouTube video shows users taking products out of their packaging, setting them up, and reviewing them.",
+      "answer": "Unboxing"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Set in the Florida panhandle, this MTV program is a successor to 'Jersey Shore.'",
+      "answer": "Floribama Shore"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A popular 2019 meme features Taylor Armstrong from 'Real Housewives of Beverly Hills' yelling at this animal.",
+      "answer": "A cat"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which company makes the Pixel line of smartphones?",
+      "answer": "Google"
+    }
+  ]
+}

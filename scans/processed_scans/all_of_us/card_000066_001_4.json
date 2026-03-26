@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Gregory Peck plays this character in 1962's adaptation of 'To Kill a Mockingbird.'",
+      "answer": "Atticus Finch"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This 1960 Chevy® model was an early US compact car.",
+      "answer": "Corvair™"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Dr. Johnny Fever is a DJ on this radio-themed TV show.",
+      "answer": "WKRP in Cincinnati"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Marilyn Monroe was married to what famous baseball player?",
+      "answer": "Joe DiMaggio"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who walked to the top of the charts in 1966 with 'These Boots Are Made for Walkin''?",
+      "answer": "Nancy Sinatra"
+    }
+  ]
+}

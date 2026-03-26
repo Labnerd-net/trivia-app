@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "An episode of what sci-fi series begins with the narration, 'Theorizing that one could time travel within his own lifetime, Dr. Sam Beckett led an elite group of scientists into the desert to develop a top-secret project'?",
+      "answer": "Quantum Leap"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What band performed the hard rock hit 'Rock of Ages'?",
+      "answer": "Def Leppard"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What Canadian-born actor got his big break playing the human form of Casper?",
+      "answer": "Devon Sawa"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Boris Yeltsin became the first popularly elected president of this country in 1991.",
+      "answer": "Russia"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The Apple II was a groundbreaking introduction in what technological category?",
+      "answer": "Personal computing"
+    }
+  ]
+}

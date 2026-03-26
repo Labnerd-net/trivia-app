@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000078_01",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was Hagrid's first name?",
+      "answer": "Rubeus"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What social network was created in 2002 for business networking?",
+      "answer": "LinkedIn"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What show gave viewers a look into musician's houses?",
+      "answer": "MTV Cribs"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This two-wheeled, self-balancing personal transporter was initially for sale in 2001.",
+      "answer": "Segway"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "On Seinfeld what was the catchphrase that expressed dull, predictable conversation not worth repeating?",
+      "answer": "\"Yada, yada, yada\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Mercy! The 1964 hit 'Oh, Pretty Woman' was performed by which singer?",
+      "answer": "Roy Orbison"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Launched in 1959, she's one of the most popular toys of all time.",
+      "answer": "Barbie"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After someone is made the subject of a practical joke, the host reveals a hidden camera on what show?",
+      "answer": "Candid Camera"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed the film 'Chinatown'?",
+      "answer": "Roman Polanski"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This beach-inspired rock genre was all the rage in the early to mid-'60s.",
+      "answer": "Surf music"
+    }
+  ]
+}

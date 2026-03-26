@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The United States resumed full diplomatic relations with this country in 1979.",
+      "answer": "China"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Suge Knight was a cofounder of what hip-hop label?",
+      "answer": "Death Row Records"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Matthew Fox's acting career was sparked by what '90s teen drama?",
+      "answer": "Party of Five"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This massive network of telephone companies was broken up in 1984 over an antitrust suit.",
+      "answer": "Bell"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "When introducing new Apple products, Steve Jobs was known for sporting what distinctive shirt?",
+      "answer": "Turtleneck"
+    }
+  ]
+}

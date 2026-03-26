@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000120_168",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What East European country's Mecsek hills vineyards yield a popular wine called 'Bull's Blood'?",
+      "answer": "Hungary's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Beatles song has been covered by an estimated 2,960 artists?",
+      "answer": "Yesterday"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country did ever-prudent King Farouk I declare war on in 1945?",
+      "answer": "Germany"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of complex did Alfred Adler cite as the primary cause of adult neuroses, in 1907?",
+      "answer": "The inferiority complex"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NHL puckster was the first person ever featured on a Campbell's soup can?",
+      "answer": "Wayne Gretzky"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What term did CBS News president Sig Mickelson coin for Walter Cronkite?",
+      "answer": "Anchor"
+    }
+  ]
+}

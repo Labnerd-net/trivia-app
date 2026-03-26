@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Blake Edwards' movie series, revived in the 70s, follows the madcap antics of Inspector Clouseau and his nemesis Chief Inspector Dreyfus?",
+      "answer": "The Pink Panther"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the 80s, pagers displayed a phone number for the recipient to call back, usually on a pay phone. What was the nickname given to pagers?",
+      "answer": "Beepers"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular singer/songwriter wrote \"Annie's Song\" for his then-wife that became a wedding standard in the 70s?",
+      "answer": "John Denver"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What famous ballet dancer defected from the Soviet Union in 1974, eventually starring in the movie White Nights with Gregory Hines in 1985?",
+      "answer": "Mikhail Baryshnikov"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What medicinal phrase was told to someone who needed to calm down?",
+      "answer": "\"Take a chill pill\""
+    }
+  ]
+}

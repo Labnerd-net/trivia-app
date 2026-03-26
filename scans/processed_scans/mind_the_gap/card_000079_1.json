@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000079_1",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the first rule of Fight Club?",
+      "answer": "You do not talk about Fight Club."
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What type of scooter did every kid need to own?",
+      "answer": "Razor"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the title and artist of the song that begins with, \"Oh baby, baby, how was I supposed to know that something wasn't right here?\"",
+      "answer": "\"Baby One More Time\" by Britney Spears"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "After 9/11, what name was given to define a war that was not against one particular country?",
+      "answer": "The War on Terror"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What did it mean to \"throw shade\"?",
+      "answer": "A sneaky way of putting someone down or criticizing them."
+    }
+  ]
+}

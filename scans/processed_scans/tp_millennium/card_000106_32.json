@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000106_32",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What are the only three nations with Jewish populations of over one million?",
+      "answer": "Israel, U.S., Russia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What literary character pokes fun at his most prominent feature with: \"When it bleeds, the Red Sea\"?",
+      "answer": "Cyrano de Bergerac"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the first staple the U.S. government rationed during World War II?",
+      "answer": "Sugar"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the last name of the Canadian farmer who cultivated a wild apple he found on his property in 1796?",
+      "answer": "McIntosh"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Canadian team plays home games in the NHL arena with the largest seating capacity?",
+      "answer": "The Montreal Canadiens"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What book did a Mississippi man try to sue in 1994, claiming it was based on \"oppressive hearsay\"?",
+      "answer": "The Bible"
+    }
+  ]
+}

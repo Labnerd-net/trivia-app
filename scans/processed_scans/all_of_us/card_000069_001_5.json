@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The Orlons, a vocal group from Philadelphia, popularized this dance in the early '60s.",
+      "answer": "The Watusi"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He became the 37th president in 1969.",
+      "answer": "Richard Nixon"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Steve McQueen portrays a bounty hunter named Josh Randall in what TV series?",
+      "answer": "Wanted Dead or Alive"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who appeared on the first cover of \"TV Guide\"?",
+      "answer": "Lucille Ball and her baby"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1968 many musicians traveled to this country for spiritual enlightenment.",
+      "answer": "India"
+    }
+  ]
+}

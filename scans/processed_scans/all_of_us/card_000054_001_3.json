@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_3",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Iron Man, Thor, and the Hulk are members of this team of superheroes.",
+      "answer": "The Avengers"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which group gave us 2010's \"Teach Me How to Dougie\"?",
+      "answer": "Cali Swag District"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Netflix sci-fi series follows a family of space colonists whose ship crashes into a strange earthlike planet.",
+      "answer": "Lost in Space"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Chris Pratt rose to prominence for his role as Andy Dwyer in this series.",
+      "answer": "Parks and Recreation"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This hit preschool series follows the \"PJs,\" Catboy, Owlette, and Gekko, who work together to stop villains.",
+      "answer": "PJ Masks"
+    }
+  ]
+}

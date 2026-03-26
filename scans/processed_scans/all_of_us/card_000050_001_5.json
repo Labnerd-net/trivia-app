@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "Which actor plays the lead role in the gender-bending 1993 film 'Mrs. Doubtfire'?",
+      "answer": "Robin Williams"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "What pop star produced the hits 'Poker Face' and 'Just Dance'?",
+      "answer": "Lady Gaga"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "Who was vice president during George W. Bush's presidency?",
+      "answer": "Dick Cheney"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "This late-'90s sitcom follows a relationship between a lawyer and his best friend, an interior designer.",
+      "answer": "Will & Grace"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "Released in 1989, this handheld video game console was a real game changer.",
+      "answer": "Game Boy"
+    }
+  ]
+}

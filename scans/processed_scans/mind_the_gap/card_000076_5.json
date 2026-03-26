@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000076_5",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Maggie Smith was not in which film? Harry Potter, Hook, Chocolat, Divine Secrets of the Ya-Ya Sisterhood",
+      "answer": "Chocolat"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Hipsters would never be seen sporting which of the following: cargo pants, chunky glasses, man bun, scarf",
+      "answer": "Cargo pants"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Billie Joe Armstrong, Mike Dirnt, and Tre Cool made up what American punk band?",
+      "answer": "Green Day"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In 2001, a plane crashed carrying 10 members of this college's basketball team and coaching staff.",
+      "answer": "Oklahoma State University"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What catchphrase came from Tom Hanks' character in the movie A League of Their Own?",
+      "answer": "\"There's no crying in baseball!\""
+    }
+  ]
+}

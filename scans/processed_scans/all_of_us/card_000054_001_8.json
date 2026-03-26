@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_8",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which wireless service provider asks, \"Can you hear me now?\"",
+      "answer": "Verizon"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This singer released the song \"Shallow\" with actor Bradley Cooper.",
+      "answer": "Lady Gaga"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Tom Hardy played the lead in this 2018 Marvel film, in which he gains superpowers after being bound to an alien symbiote.",
+      "answer": "Venom"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Saved from an early demise, NBC revived what popular cop comedy once canceled by Fox?",
+      "answer": "Brooklyn Nine-Nine"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This website's tagline is \"The front page of the internet.\"",
+      "answer": "Reddit"
+    }
+  ]
+}

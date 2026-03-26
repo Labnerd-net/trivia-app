@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000058_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Claiming it is her lucky number, what singer writes 13 on the back of her hand before shows?",
+      "answer": "Taylor Swift"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "These animal-shaped marshmallows are most popular around Easter time.",
+      "answer": "Peeps"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which tech company wants you to 'think different'?",
+      "answer": "Apple"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Adam Conover hosts this series, where he debunks common misconceptions.",
+      "answer": "Adam Ruins Everything"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2012 arcade-themed film tells the story of a video game 'bad guy' who longs to become a hero.",
+      "answer": "Wreck-It Ralph"
+    }
+  ]
+}

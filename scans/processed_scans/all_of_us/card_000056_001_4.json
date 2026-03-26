@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000056_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor portrays Kylo Ren in the 'Star Wars' films?",
+      "answer": "Adam Driver"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This televised US talent show sees participants perform acts like singing, dancing, comedy, magic, and stunts.",
+      "answer": "America's Got Talent"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "YouTubers Ethan and Grayson Dolan are better known as what?",
+      "answer": "The Dolan Twins"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Since 2013, Apple has included this simple video-editing program with all new Mac devices.",
+      "answer": "iMovie"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What country do manga comics originate from?",
+      "answer": "Japan"
+    }
+  ]
+}

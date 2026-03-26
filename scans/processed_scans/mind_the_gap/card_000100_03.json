@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_03",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Beginning in 1977, what do Anthony Daniels, Kenny Baker, and Peter Mahew have in common?",
+      "answer": "They all were in Star Wars"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Named after its founder, what company's TV ads sold numerous products such as Veg-O-Matic, Mr. Microphone, and Ginsu Knives?",
+      "answer": "Ronco"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1977 cover by Shaun Cassidy included the lyrics, \"I met her on a Monday and my heart stood still.\"?",
+      "answer": "\"Da Doo Ron Ron\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What famous school teacher was on board the Challenger space shuttle when it exploded after take off in 1986?",
+      "answer": "Christa McAuliffe"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did it mean to \"go postal\"?",
+      "answer": "Extreme anger; arbitrarily firing into a random group of people"
+    }
+  ]
+}

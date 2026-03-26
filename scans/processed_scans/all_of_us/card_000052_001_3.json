@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which band was behind 1993's hit \"Two Princes\"?",
+      "answer": "Spin Doctors"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Who is the cocreator and star of the original British version of \"The Office\"?",
+      "answer": "Ricky Gervais"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 1999, what hockey great retired from the sport with 61 records to his name?",
+      "answer": "Wayne Gretzky"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Nintendo franchise, which included video games, trading cards, and an animated TV show, became a full-blown fad by the end of the '90s.",
+      "answer": "Pokémon"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This spooky slasher film features a killer who famously asks, \"What's your favorite scary movie?\"",
+      "answer": "Scream"
+    }
+  ]
+}

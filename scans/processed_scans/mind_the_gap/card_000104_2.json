@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What award-winning 70's show depicted a Depression-era family in the mountains of Virginia?",
+      "answer": "The Waltons"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1974 invention was first marketed as Press 'n Peel in 1977 as an office product?",
+      "answer": "Post-it notes"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Breakdancing was an integral part of this style of music.",
+      "answer": "Hip-hop"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Saint blew its top in 1980?",
+      "answer": "Mount St. Helens"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did \"I gotta motor\" mean?",
+      "answer": "Gotta go"
+    }
+  ]
+}

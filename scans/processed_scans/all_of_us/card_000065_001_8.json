@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This man became the 33rd president of the US after the death of Franklin D. Roosevelt.",
+      "answer": "Harry S. Truman"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This hairstyle was made popular in the early '60s by Jackie Kennedy.",
+      "answer": "Bouffant"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which 1960s icon was nicknamed the \"Lizard King\"?",
+      "answer": "Jim Morrison"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What TV anthology features stories of horror and the macabre?",
+      "answer": "Night Gallery"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which actor famously portrays Inspector Clouseau in the classic '60s and '70s \"The Pink Panther\" films?",
+      "answer": "Peter Sellers"
+    }
+  ]
+}

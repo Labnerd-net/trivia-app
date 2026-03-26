@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000125_113",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the first English-speaking nation to offer its connoisseurs French wine in cans?",
+      "answer": "England"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1996 Demi Moore movie won \"Razzies\" for worst picture, actress, screen couple, director, screenplay and song?",
+      "answer": "Striptease"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was succeeded by Sister Nirmala, in 1997?",
+      "answer": "Mother Teresa"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What star of Mask helped found a charity for kids with cranio-facial problems?",
+      "answer": "Cher"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Dodger struck out 500 batters in 445 innings, faster than any other major league pitcher?",
+      "answer": "Hideo Nomo"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What European prime minister spent two years singing for the rock band Ugly Rumours?",
+      "answer": "Tony Blair"
+    }
+  ]
+}

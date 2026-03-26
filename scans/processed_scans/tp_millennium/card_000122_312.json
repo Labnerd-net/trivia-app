@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000122_312",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What two nations can Ulan Bator residents reach by hopping a Trans-Mongolian Railway train?",
+      "answer": "China and Russia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom's script, The Contest, was auctioned at Christie's in 1998?",
+      "answer": "Seinfeld's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What means of conveyance did Fukashi Kazami use to reach the North Pole, in 1987?",
+      "answer": "A motorcycle"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What had been specially wired to \"fly\" when Neil Armstrong and Buzz Aldrin left it on the moon?",
+      "answer": "The U.S. flag"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What basketball team's 12-1 record in the 1983 playoffs is the best in NBA history?",
+      "answer": "The Philadelphia 76ers'"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Briton was the only world leader chosen for People's \"50 Most Beautiful People in the World\" in 1998?",
+      "answer": "Tony Blair"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000075_10",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name three of the four houses of Hogwarts.",
+      "answer": "Gryffindor, Hufflepuff, Ravenclaw, Slytherin"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the four Teenage Mutant Ninja Turtles.",
+      "answer": "Michelangelo, Donatello, Raphael, Leonardo"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What grunge song from DMB starts with the lyrics, \"You've got your ball, you've got your chain\"?",
+      "answer": "\"Crash\""
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the nickname of the 1996 women's gymnastics team that won the U.S.'s first ever gold medal in the team event?",
+      "answer": "The Magnificent Seven"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "\"No soup for you!\" was said by this Seinfeld character.",
+      "answer": "The Soup Nazi"
+    }
+  ]
+}

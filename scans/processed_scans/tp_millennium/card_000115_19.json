@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000115_19",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Caribbean city is served by Jose Marti Airport?",
+      "answer": "Havana"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who works in \"the cage\" at the Sunshine Cab Company?",
+      "answer": "Louie De Palma"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose fate was sealed in 1997 when DNA testing confirmed the bite mark on a Virginia woman was his?",
+      "answer": "Marv Albert's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's highest on the list of food phobias — mushrooms, nuts or seafood?",
+      "answer": "Nuts"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What European country did Shaquille O'Neal spend most of his adolescence in?",
+      "answer": "Germany"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What phrase, taken from the name of a Twist artist, denotes a man who enjoys looking at plump women?",
+      "answer": "Chubby checker"
+    }
+  ]
+}

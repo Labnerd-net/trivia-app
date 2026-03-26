@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_03",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name two of the four shows in ABC's early TGIF lineup.",
+      "answer": "Full House, Family Matters, Perfect Strangers, Step by Step"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What toy, originally released in 1976, was made of rubber and filled with gelled corn syrup?",
+      "answer": "Stretch Armstrong"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What band made the \"Heart of Rock and Roll\" beat in the 80s?",
+      "answer": "Huey Lewis and the News"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Ronald Reagan called the bluff on this industry by firing every single employee who went on strike.",
+      "answer": "Air traffic controllers"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Based on a Happy Days episode with Fonzy, what phrase means to have a ridiculous plot line to keep viewership and boost ratings?",
+      "answer": "\"Jump the shark\""
+    }
+  ]
+}

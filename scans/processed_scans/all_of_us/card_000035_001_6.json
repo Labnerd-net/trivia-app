@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1992, the Food and Drug Administration approved the 'Flavr Savr,' a genetically modified form of what?",
+      "answer": "Tomato"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Maury Povich famously says to some of his guests, 'You are NOT' what?",
+      "answer": "The father"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This actor stars in several Scorsese films, including 'Taxi Driver' and 'Raging Bull.'",
+      "answer": "Robert De Niro"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In this Atari game, you protect your fellow astronauts from abduction.",
+      "answer": "Defender"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "'I've fallen, and I can't get up' is the tagline of what product's ad campaign?",
+      "answer": "Life Alert"
+    }
+  ]
+}

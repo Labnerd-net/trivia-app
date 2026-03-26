@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_1",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This HBO® drama features Edie Falco and James Gandolfini.",
+      "answer": "The Sopranos"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What sport is Yao Ming known for playing?",
+      "answer": "Basketball"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "It's a fighting game franchise featuring Ken and Chun-Li.",
+      "answer": "Street Fighter"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Aerosmith's power ballad \"I Don't Want to Miss a Thing\" first appeared on the soundtrack to what film?",
+      "answer": "Armageddon"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Apple® released what program used to organize and manage music files in 2001?",
+      "answer": "iTunes®"
+    }
+  ]
+}

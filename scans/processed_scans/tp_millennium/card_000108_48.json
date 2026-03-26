@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000108_48",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. city is considered the unofficial capital of the South?",
+      "answer": "Atlanta"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What one city must a movie play in to be eligible for an Oscar?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. president praised Czech leader Vaclav Havel for \"living or dying, whatever, for freedom\"?",
+      "answer": "George Bush"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What contagious disease was scheduled for complete eradication on June 30, 1999?",
+      "answer": "Smallpox"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What race's runners refer to the noisy section along Wellesley College as the \"Screech Tunnel\"?",
+      "answer": "The Boston Marathon's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the Skeleteens soda named for Mötley Crüe?",
+      "answer": "Mötley Brüe"
+    }
+  ]
+}

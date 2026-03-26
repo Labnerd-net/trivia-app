@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000110_461",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many years does a governor's term last in New Hampshire and Vermont?",
+      "answer": "Two"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Baywatch babe was a Johnson & Johnson baby at 6 months, and in Max Factor ads at 6?",
+      "answer": "Yasmine Bleeth"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What state's Scapegoat Wilderness was Ted Kaczynski living near when his luck ran out?",
+      "answer": "Montana's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did Einstein follow up his special relativity theory with, in 1915?",
+      "answer": "His general relativity theory"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two-time All-Big-Eight defensive back at Colorado won three U.S. Open golf titles?",
+      "answer": "Hale Irwin"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. billionaire called Nazi troops that had crushed Poland 'fine-looking, honest fellows'?",
+      "answer": "J. Paul Getty"
+    }
+  ]
+}

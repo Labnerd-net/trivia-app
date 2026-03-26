@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This streaming service is a competitor of Netflix and is home to popular shows such as 'The Handmaid's Tale.'",
+      "answer": "Hulu"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What does GPS stand for?",
+      "answer": "Global Positioning System"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "PJ Morton won a Grammy for this R&B hit, which featured additional vocals by JoJo.",
+      "answer": "Say So"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which athletics brand is known for the slogan 'Just Do It'?",
+      "answer": "Nike"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which company makes the Chromecast line of digital media streaming devices?",
+      "answer": "Google"
+    }
+  ]
+}

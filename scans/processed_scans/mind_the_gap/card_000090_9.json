@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_9",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What movie, named after its superhero character, launched Marvel Studios' cinematic universe in 2008?",
+      "answer": "Iron Man"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the videos created to cause a tingling sensation, beginning on the scalp and moving down the back of the neck and upper spine.",
+      "answer": "ASMR"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Katy Perry song has a video where she becomes Queen of the Jungle?",
+      "answer": "\"Roar\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In April 2019 the first ever image of this space phenomenon was released.",
+      "answer": "A black hole"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did \"no cap\" mean?",
+      "answer": "Not lying"
+    }
+  ]
+}

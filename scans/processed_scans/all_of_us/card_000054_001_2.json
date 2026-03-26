@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This \"Bad Guy\" singer is often seen wearing baggy clothing.",
+      "answer": "Billie Eilish"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This 2012 film tells the story of a foul-mouthed stuffed animal that's been brought to life.",
+      "answer": "Ted"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In a 2019 Disney+ series, a group of theater students produce a staging of what film franchise?",
+      "answer": "High School Musical: The Musical: The Series"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "According to this credit card company, \"There are some things money can't buy. For everything else, there's...\"?",
+      "answer": "Mastercard"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Pixar-produced film tells the story of Merida, a Scottish princess and expert archer who wishes to follow her own path in life.",
+      "answer": "Brave"
+    }
+  ]
+}

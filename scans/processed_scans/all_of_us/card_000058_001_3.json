@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000058_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "These collectible rubber bands in crazy shapes were banned in many schools for causing distraction.",
+      "answer": "Silly Bandz"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which company did Kanye West collaborate with to release the Yeezy sneaker?",
+      "answer": "Adidas"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Who are Clarence Wendle's 2 best friends?",
+      "answer": "Jeff and Sumo"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "2019's 'Sunflower' was a song released by Post Malone and this rapper.",
+      "answer": "Swae Lee"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Ilana Glazer and Abbi Jacobson detail their real-life friendship and attempt to make it in New York in this TV sitcom.",
+      "answer": "Broad City"
+    }
+  ]
+}

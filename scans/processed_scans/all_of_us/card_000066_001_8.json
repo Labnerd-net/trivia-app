@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He is the sidekick to the Bond villain Goldfinger.",
+      "answer": "Oddjob"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This singer released 'The Look of Love' in 1967.",
+      "answer": "Dusty Springfield"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This comedy with an ensemble cast follows a wild chase for treasure hidden under a 'big W.'",
+      "answer": "It's a Mad, Mad, Mad, Mad World"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This fabric features a distinct cord pattern.",
+      "answer": "Corduroy"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A 1964 film chronicles the antics of and mania surrounding this band and was made at the height of their fame, leading up to a televised concert.",
+      "answer": "The Beatles"
+    }
+  ]
+}

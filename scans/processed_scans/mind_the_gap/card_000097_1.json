@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "To the delight of fans everywhere, Lorelai and Rory reunited in 2016 for a four episode revival of this classic mother/daughter saga.",
+      "answer": "Gilmore Girls"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What app sensation, released in 2016, allowed cell phone camera users to capture animated monsters that would \"appear\" in real life?",
+      "answer": "Pokemon Go!"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This singer came in second on American Idol in 2008 and sang the popular song \"Crush.\"",
+      "answer": "David Archuleta"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the nationwide demonstration organized by Marjory Stoneman Douglas High School students after the mass shooting at their school.",
+      "answer": "March for Our Lives"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "If people were \"twerking,\" what were they doing?",
+      "answer": "Dancing"
+    }
+  ]
+}

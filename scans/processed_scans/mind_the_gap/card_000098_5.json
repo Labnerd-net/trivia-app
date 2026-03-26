@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000098_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who starred in the Death Wish movies about a man who metes out vigilante justice?",
+      "answer": "Charles Bronson"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What device helped turn on a lamp without touching it?",
+      "answer": "The Clapper"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In Tommy Tutone's 80's hit, what number did you call to get \"Jenny\"?",
+      "answer": "867-5309"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was Gambino crime boss John Gotti's nickname, for being charged with multiple crimes but not convicted until 1992?",
+      "answer": "Teflon Don"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What phrase did the character Harry Callahan utter in the 1983 film Sudden Impact?",
+      "answer": "\"Go ahead, make my day.\""
+    }
+  ]
+}

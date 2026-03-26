@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Noah Centineo plays Peter Kavinsky in this popular romance film series.",
+      "answer": "\"To All the Boys I've Loved Before\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "On the single \"E.T.,\" which artist did Katy Perry collaborate with?",
+      "answer": "Kanye West"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In this preschool series, a boy named Ryder leads a team of search-and-rescue animals.",
+      "answer": "\"PAW Patrol\"™"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which Australian singer released 2012's hit \"Somebody I Used to Know\"?",
+      "answer": "Gotye"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Harvey Levin founded this tabloid news network, which is known for chasing celebrity gossip.",
+      "answer": "TMZ"
+    }
+  ]
+}

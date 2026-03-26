@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000124_117",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What D-word describes the scattering of the Jewish people around the world?",
+      "answer": "Diaspora"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Glenn Close movie did critic Andrea Shaw describe as 'the one-night stand who won't go away'?",
+      "answer": "Fatal Attraction"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What pro athlete did Fortune claim added $10 billion to the U.S. economy, in 1998?",
+      "answer": "Michael Jordan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What future shrink's first scientific paper was based on his dissection of 400 eels to determine if they had testes, in 1877?",
+      "answer": "Sigmund Freud's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sports league grew from a maximum of 96 players in 1956 to 348 in 1998?",
+      "answer": "The National Basketball Association"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What nation has produced 76 percent of the world's serial killers, according to The A to Z Encyclopedia of Serial Killers?",
+      "answer": "The U.S."
+    }
+  ]
+}

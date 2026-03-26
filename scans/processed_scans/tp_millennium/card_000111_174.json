@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000111_174",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European country once celebrated January 14 as a holiday called the Feast of the Ass?",
+      "answer": "France"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who starred in Mr. Goodwrench commercials before earning sitcom fame?",
+      "answer": "Tim Allen"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first First Lady to appear before a grand jury?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What movie system projects 70mm film onto screens four to eight stories high?",
+      "answer": "IMAX"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What legendary manager explained: \"You have to have a catcher. If you don't, the pitch will roll all the way back to the screen\"?",
+      "answer": "Casey Stengel"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did John Kenmuir lick and stick a record 393 of in four minutes, in 1990?",
+      "answer": "Stamps"
+    }
+  ]
+}

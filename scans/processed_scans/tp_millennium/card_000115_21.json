@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000115_21",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city honors its heroes with streets named Bowie, Crockett and Travis?",
+      "answer": "San Antonio"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What are the first three words of Candle in the Wind 1997?",
+      "answer": "\"Goodbye, English rose\""
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. vice president called liberals \"pampered prodigies\" and \"pusillanimous pussyfooters\"?",
+      "answer": "Spiro Agnew"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bean did Henry Ford use to form the body of an experimental car, in 1941?",
+      "answer": "The soybean"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What regions contribute teams to the NCAA \"March Madness\" final four?",
+      "answer": "East, Southeast, West, Midwest"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Stanley Kubrick movie was banned in Britain, because it spawned acts of violence?",
+      "answer": "A Clockwork Orange"
+    }
+  ]
+}

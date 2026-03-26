@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000078_03",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was Carrie Bradshaw's job in Sex and the City?",
+      "answer": "A writer/columnist"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "If you are on Facebook, you have this Harvard dropout to thank.",
+      "answer": "Mark Zuckerberg"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the name of P. Diddy's record label?",
+      "answer": "Bad Boy Records"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the Stanford academic who became the second woman and African-American to be named U.S. Secretary of State in 2005.",
+      "answer": "Condoleezza Rice"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What soft drink told you to \"obey your thirst?\"",
+      "answer": "Sprite"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "These TV crime fighters take their orders on speakerphone.",
+      "answer": "Charlie's Angels"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's a movie about an affair starring Michael Douglas and Glenn Close.",
+      "answer": "Fatal Attraction"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Michael Jackson and Lionel Richie wrote this charity single in 1985 for African famine relief.",
+      "answer": "We Are the World"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1982, American surgeon William DeVries made headlines for successfully implanting this medical device for the first time.",
+      "answer": "Artificial heart"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Known as \"Teflon Don,\" this infamous mafia boss was sentenced to life in prison in 1992.",
+      "answer": "John Gotti"
+    }
+  ]
+}

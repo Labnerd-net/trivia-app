@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This singer's hits include \"Copacabana,\" \"I Write the Songs,\" and \"Mandy.\"",
+      "answer": "Barry Manilow"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Millions more tuned in for Little Ricky's birth on \"I Love Lucy\" than Eisenhower's presidential what?",
+      "answer": "Inauguration"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Warren Beatty and Faye Dunaway star in this runaway classic film.",
+      "answer": "Bonnie and Clyde"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This singer and drummer performed in a duo with her brother, Richard, and featured on hits such as \"(They Long to Be) Close to You,\" \"Top of the World,\" and \"Rainy Days and Mondays.\"",
+      "answer": "Karen Carpenter"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What infamous prison closed in 1963?",
+      "answer": "Alcatraz"
+    }
+  ]
+}

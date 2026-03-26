@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "A former firefighter, this actor is better known for his roles in films such as \"Reservoir Dogs,\" \"Con Air,\" and \"The Big Lebowski.\"",
+      "answer": "Steve Buscemi"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This song by Los Del Rio spawned a dance craze in the mid-'90s.",
+      "answer": "Macarena"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's a sitcom named after the 2 \"All That\" actors it stars.",
+      "answer": "Kenan & Kel"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "English music producer Norman Cook experienced success under this stage name on hits such as \"Praise You,\" \"Right Here, Right Now,\" and \"Weapon of Choice.\"",
+      "answer": "Fatboy Slim"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which candidate was defeated by George W. Bush in the 2000 presidential election?",
+      "answer": "Al Gore"
+    }
+  ]
+}

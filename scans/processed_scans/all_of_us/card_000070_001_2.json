@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which groovy group released the far-out single 'Incense and Peppermints' in 1967?",
+      "answer": "Strawberry Alarm Clock"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Known as the 'King of Party Records,' this comedian also stars in TV's 'Sanford and Son.'",
+      "answer": "Redd Foxx"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1976 NASA released what famous photograph from Viking 1?",
+      "answer": "Face on Mars"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This tennis star defeated Bobby Riggs in the 'Battle of the Sexes.'",
+      "answer": "Billie Jean King"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which 1940s-1950s senator was known for fueling fear of Communists in the US?",
+      "answer": "Joseph McCarthy"
+    }
+  ]
+}

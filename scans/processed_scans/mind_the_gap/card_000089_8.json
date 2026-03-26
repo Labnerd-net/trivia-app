@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000089_8",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the famous duo who made nine films together, including Adam's Rib and Guess Who's Coming to Dinner.",
+      "answer": "Katherine Hepburn and Spencer Tracy"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the author whose novel, On the Road, became the representation of the Beat movement?",
+      "answer": "Jack Kerouac"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "How far did The Four Preps have to go 'across the sea' to an 'island of romance'?",
+      "answer": "\"26 Miles (to Santa Catalina)\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 1965 invention by DuPont chemists was a plastic that was five times stronger than steel?",
+      "answer": "Kevlar"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What did it mean when someone said you are 'cruisin' for a bruisin''?",
+      "answer": "You are deserving of a set-down, verbally or physically; looking for trouble"
+    }
+  ]
+}

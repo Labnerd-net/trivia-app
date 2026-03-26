@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000086_2",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the famous acting duo, considered one of the greatest on-screen pairings, who thrilled audiences in Butch Cassidy and the Sundance Kid and The Sting.",
+      "answer": "Robert Redford and Paul Newman"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 1952 Ralph Ellison novel exposed the social and intellectual issues facing African-Americans?",
+      "answer": "Invisible Man"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What country music star and television personality released 100 albums in his career that included chart-topping songs \"Tennessee Stud\" and \"Make the World Go Away\"?",
+      "answer": "Eddy Arnold"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Baltimore Colts quarterback was named the NFL's Most Valuable Player in 1959, 1964, and 1967?",
+      "answer": "Johnny Unitas"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What host regularly began his episode with, \"We have a really big show tonight,\" but pronounced \"show\" like \"shew\"?",
+      "answer": "Ed Sullivan"
+    }
+  ]
+}

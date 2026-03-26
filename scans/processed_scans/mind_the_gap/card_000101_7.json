@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular remake in 1991 starred Steve Martin, Dianne Keaton, and Kimberly Williams navigating a wedding?",
+      "answer": "Father of the Bride"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the first portable recorded music player that could fit into your pocket?",
+      "answer": "Sony Walkman"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What famous duet with Barbara Streisand and Neil Diamond became a hit song in 1978?",
+      "answer": "'You Don't Bring Me Flowers'"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did oceanographer Dr. Robert Ballard locate in 1985?",
+      "answer": "The Titanic"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What company had a major ad campaign featuring the slogan, 'Reach out and touch someone.'?",
+      "answer": "AT&T"
+    }
+  ]
+}

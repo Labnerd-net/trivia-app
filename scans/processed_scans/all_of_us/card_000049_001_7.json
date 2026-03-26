@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This singer and guitarist is known for his work with Radiohead and Atoms for Peace.",
+      "answer": "Thom Yorke"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What family drama launched the acting career of Jessica Biel?",
+      "answer": "7th Heaven"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A key figure in the 2008 presidential election, Ohio native Joe Wurzelbacher was better known as what?",
+      "answer": "Joe the Plumber"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This American TV personality may be best known for hosting Nickelodeon®'s \"Double Dare\" and \"What Would You Do?\" game shows.",
+      "answer": "Mark Sommers"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Good Will Hunting\" takes place in which US city?",
+      "answer": "Boston"
+    }
+  ]
+}

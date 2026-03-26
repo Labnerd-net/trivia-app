@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000125_358",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What hospital was J.R. Ewing rushed to when Kristen plugged him?",
+      "answer": "Parkland Memorial"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What famous Thelonious Monk tune did San Francisco's KJAZ play a version of every night at midnight?",
+      "answer": "Round Midnight"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What new hand-cranked weapon did Union forces unleash to win 1864's Battle of Nashville?",
+      "answer": "The Gatling Gun"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did chemist Vincent Schaefer seed clouds with to produce the first artificially induced precipitation?",
+      "answer": "Dry ice"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was Joe DiMaggio nearly traded to the Red Sox for in 1946?",
+      "answer": "Ted Williams"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What fad shoe of the 1970s had a version with a water-filled glass heel housing a goldfish?",
+      "answer": "The platform shoe"
+    }
+  ]
+}

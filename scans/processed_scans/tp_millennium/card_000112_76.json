@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000112_76",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the third-largest city in Canada?",
+      "answer": "Vancouver"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie did Sharon Stone land the lead in after it was nixed by Kim Basinger, Ellen Barkin, Michelle Pfeiffer and Geena Davis?",
+      "answer": "Basic Instinct"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What national anthem was first called the 'War Song of the Army of the Rhine'?",
+      "answer": "La Marseillaise"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What name was given to the 152 three-digit codes created in 1947's North American Numbering Plan?",
+      "answer": "Area codes"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What thoroughbred horse lost the 1998 Triple Crown by a nose?",
+      "answer": "Real Quiet"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What word, from the Sanskrit pandita for 'learned person,' did William Safire redefine as 'opinion monger'?",
+      "answer": "Pundit"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed 'Close Encounters of the Third Kind'?",
+      "answer": "Steven Spielberg"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Known for his group T. Rex, this English singer helped pioneer the early-'70s glam rock sound.",
+      "answer": "Marc Bolan"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Known as 'Dion,' the singer first performed with which vocal group on hits such as 'A Teenager in Love' and 'When You Wish Upon a Star'?",
+      "answer": "The Belmonts"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This star first rose to prominence for his role as Keith Partridge in 'The Partridge Family.'",
+      "answer": "David Cassidy"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1950, what type of organ was the first to be successfully transplanted?",
+      "answer": "Kidney"
+    }
+  ]
+}

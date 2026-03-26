@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000113_317",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What desert is home for Death Valley?",
+      "answer": "The Mojave"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the only category that can be voted on by all members of the Academy of Motion Picture Arts and Sciences?",
+      "answer": "Best Picture"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What city had 11 of its major roadways destroyed by a 1994 earthquake?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Pacific country claims to have the world's largest population of free-roaming camels?",
+      "answer": "Australia"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Packer scored an NFL record 176 points in the 1960 season?",
+      "answer": "Paul Hornung"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Rat Packer 'hits his ball 130 yards, and his jewelry goes 150,' according to Bob Hope?",
+      "answer": "Sammy Davis Jr."
+    }
+  ]
+}

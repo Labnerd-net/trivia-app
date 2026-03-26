@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000113_262",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What sitcom family's battered jalopy is on display in a museum at College of the Ozarks?",
+      "answer": "The Clampetts'"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What rapper's poetry became a course at the University of California at Berkeley in 1997?",
+      "answer": "Tupac Shakur's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did 97 percent of Florida's Cubans vote for in a 1980s presidential election?",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What meteorological term was derived from Spanish slang for 'the Christ child'?",
+      "answer": "El Niño"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sport landed Denny Brauer on a Wheaties box in 1998, inspiring the expression, 'Breakfast of Anglers'?",
+      "answer": "Fishing"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. encyclopedia was launched in 1917, eventually outselling all others?",
+      "answer": "The World Book"
+    }
+  ]
+}

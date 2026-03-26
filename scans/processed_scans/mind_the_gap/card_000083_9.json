@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000083_9",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name TV's longest-running variety show where national audiences could see stand-up comedians, Broadway performances, and iconic acts such as Elvis and The Beatles.",
+      "answer": "The Ed Sullivan Show"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What three numbers could you dial if you wanted someone's address or phone number?",
+      "answer": "411"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "When the Four Lads were standing on the corner, what were they watching?",
+      "answer": "\"All the girls go by.\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "With the invention of vinyl, what popular mattress was introduced to the general public in 1968, nicknamed 'The Pleasure Pit'?",
+      "answer": "Waterbeds"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Finish the famous Dinah Shore-sung jingle: 'See the USA ___.'",
+      "answer": "\"In your Chevrolet\""
+    }
+  ]
+}

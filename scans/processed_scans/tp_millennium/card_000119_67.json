@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000119_67",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What did Bill Clinton mistakenly call a \"former communist\" nation in 1997?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What five-word signature line got Rodney Dangerfield into Bartlett's Familiar Quotations?",
+      "answer": "\"I can't get no respect\""
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Montana militia outfit staged an 81-day standoff with the FBI, in 1996?",
+      "answer": "The Montana Freemen"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What popular African entree is an extremely poor dinner choice in the midst of an Ebola virus outbreak?",
+      "answer": "Chimpanzee"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was the first Major League Baseball team to open an office in Asia?",
+      "answer": "The Los Angeles Dodgers"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What \"hole\" did H.L. Mencken say was \"the one American contribution to the argot of golf\"?",
+      "answer": "The nineteenth hole"
+    }
+  ]
+}

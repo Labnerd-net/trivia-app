@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Her song \"Bidi Bidi Bom Bom\" was released in 1994.",
+      "answer": "Selena"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This animated series chronicles the adventures of Tommy Pickles.",
+      "answer": "Rugrats"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What automaker's 2007 S80 was the first car to market with an automated braking system?",
+      "answer": "Volvo®"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Nelson Mandela was the first black fully democratically elected president of what nation?",
+      "answer": "South Africa"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In addition to having his own sitcom from 2001 to 2006, this actor and comedian starred in films such as \"Ocean's Eleven,\" \"Mr. 3000,\" \"Guess Who,\" and \"Soul Men.\"",
+      "answer": "Bernie Mac"
+    }
+  ]
+}

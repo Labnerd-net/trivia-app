@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000106_93",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European nation's lottery, The Fat One, had a record jackpot of $270 million, in 1997?",
+      "answer": "Spain's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What private eye hangs out at the King Kamehameha Club?",
+      "answer": "Thomas Magnum"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the fourth nation to explode an atomic bomb?",
+      "answer": "France"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Which Hershey's chocolate has more caffeine per ounce than a cup of joe—Krackel Special Dark or Mr. Goodbar?",
+      "answer": "Special Dark"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Russian pole vaulter set an all-time mark of 35 world records from 1983 to 1994?",
+      "answer": "Sergei Bubka"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was once known in lunch counter lingo as a \"Coney Island chicken\"?",
+      "answer": "A hot dog"
+    }
+  ]
+}

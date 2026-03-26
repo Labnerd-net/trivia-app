@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000083_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What part did Jack Webb play on the Dragnet series?",
+      "answer": "Sgt. Joe Friday"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who was Porky Pig's girlfriend?",
+      "answer": "Petunia Pig"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "One of the pioneers of Rockabilly, this musician wrote and recorded 'Blue Suede Shoes' in 1955.",
+      "answer": "Carl Perkins"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Supreme Court case ruled in 1954 that segregation was unconstitutional in public schools?",
+      "answer": "Brown vs. Board of Education (of Topeka)"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was a 'shuckster'?",
+      "answer": "A liar or cheat; a con-man"
+    }
+  ]
+}

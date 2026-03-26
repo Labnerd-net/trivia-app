@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000108_77",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What sea could you catch rays on if you found yourself in Baku, Azerbaijan?",
+      "answer": "The Caspian"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who joked about landing the role as the young Obi-Wan: \"I really want to play Princess Leia. Stick some big pastries on my head\"?",
+      "answer": "Ewan McGregor"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What conflict was known as \"Truman's folly\"?",
+      "answer": "The Korean War"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What telephonic technology got its name from the Latin words meaning \"make alike\"?",
+      "answer": "Facsimile, or fax"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What innovative foil-wrapped candy was originally hyped: \"For that stormy breath\"?",
+      "answer": "Life Savers"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What cartoon series, based on Nintendo's Pocket Monsters game, sent flocks of Japanese kids to the hospital with nausea or seizures?",
+      "answer": "Pokémon"
+    }
+  ]
+}

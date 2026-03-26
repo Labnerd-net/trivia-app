@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000096_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What TV show took place in Hollywood Arts High School?",
+      "answer": "Victorious"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the Broadway smash about a teenager desperate to connect, making up a story and email account after a classmate's suicide.",
+      "answer": "Dear Evan Hansen"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Blake Shelton performed this song at the 2019 Academy of Country Music Awards, singing about his connection to his home and land.",
+      "answer": "\"God's Country\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "After 25 seasons and more than 5,000 episodes, what TV talk show aired its last original episode on May 25, 2011?",
+      "answer": "The Oprah Winfrey Show"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"Excuse me, I don't speak broke,\" was a reply to a person who did not own these.",
+      "answer": "Airpods"
+    }
+  ]
+}

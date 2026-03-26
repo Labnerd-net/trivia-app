@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000083_2",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What popular TV show featured the character Samantha who twitched her nose and magic happened?",
+      "answer": "Bewitched"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "One of the top selling children's toys of all time, it was invented by accident by scientists developing synthetic rubber.",
+      "answer": "Silly Putty"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the name of Buddy Holly's group?",
+      "answer": "The Crickets"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What synthetic material invented in 1958 was first marketed as Lycra?",
+      "answer": "Spandex (anagram of 'expands')"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was 'The San Francisco Treat'?",
+      "answer": "Rice-A-Roni"
+    }
+  ]
+}

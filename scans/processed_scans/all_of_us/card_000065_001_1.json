@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He lost to Richard Nixon in the 1972 election.",
+      "answer": "George McGovern"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who wrote and performed \"Johnny B. Goode\"?",
+      "answer": "Chuck Berry"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "She stars alongside Jimmy Stewart in \"Vertigo.\"",
+      "answer": "Kim Novak"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The events of the 1972 Summer Olympics, held in this German city, were overshadowed by the tragic massacre of 11 Israeli athletes.",
+      "answer": "Munich"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A Time Lord from the planet Gallifrey comes from which TV show?",
+      "answer": "Doctor Who"
+    }
+  ]
+}

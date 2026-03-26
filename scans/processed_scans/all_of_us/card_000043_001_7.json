@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A classic 1976 song by Blue Öyster Cult lends the advice 'Don't Fear the' what?",
+      "answer": "Reaper"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After being imprisoned for 27 years, this South African antiapartheid leader was released in 1990.",
+      "answer": "Nelson Mandela"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What popular '90s teen movie star earned an Emmy for her role in 'Dexter'?",
+      "answer": "Julia Stiles"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "'Hit Me with Your Best Shot' was a 1980 hit for this singer.",
+      "answer": "Pat Benatar"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This teen comedy about high school was written by Cameron Crowe.",
+      "answer": "Fast Times at Ridgemont High"
+    }
+  ]
+}

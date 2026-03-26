@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000078_04",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the duo who starred in Dumb and Dumber.",
+      "answer": "Jim Carrey and Jeff Daniels"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name 3 of the 5 members of N*SYNC",
+      "answer": "Justin Timberlake, JC Chasez, Joey Fatone, Chris Kirkpatrick, Lance Bass"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "With best-selling album Black Holes and Revelations, Matt Bellamy, Chris Wolstenholme, and Dominic Howard comprised what band?",
+      "answer": "Muse"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "The Branch Davidians were under seige for 51 days in 1993 in Waco, Texas. Who was their leader?",
+      "answer": "David Koresh"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This was the Millennial verb for growing up and being responsible.",
+      "answer": "\"Adulting\""
+    }
+  ]
+}

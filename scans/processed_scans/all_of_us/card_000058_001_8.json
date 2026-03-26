@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000058_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This game show sees a male contestant eliminate guests until the series finale, where he's expected to choose a wife from among them!",
+      "answer": "The Bachelor"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What performer released the 2018 single 'Mia' with Drake?",
+      "answer": "Bad Bunny"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Set 97 years after Earth was destroyed, this series follows 100 juvenile delinquents who are sent back to repopulate the planet.",
+      "answer": "The 100"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which rapper tried to file a US patent for the term 'okurrr'?",
+      "answer": "Cardi B"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Starring Troian Bellisario and Lucy Hale, this mystery series follows 4 teens whose friendship falls apart after their leader disappears.",
+      "answer": "Pretty Little Liars"
+    }
+  ]
+}

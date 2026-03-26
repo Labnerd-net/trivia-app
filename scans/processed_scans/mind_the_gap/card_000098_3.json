@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000098_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1987 movie starred Tom Selleck, Ted Danson, and Steve Guttenberg trying to take care of a newborn?",
+      "answer": "Three Men and a Baby"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What brand of jacket was a must-have for any cool kid in the 80s?",
+      "answer": "Members Only"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What \"Crazy Train\" artist once bit the head off of a live bat on stage?",
+      "answer": "Ozzy Osbourne"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What militant group made various terrorist attacks in Great Britain throughout the 70s, 80s and 90s?",
+      "answer": "I.R.A. (Irish Republican Army)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What comedian's tagline as character Fernando was, \"You look MAHvelous\"?",
+      "answer": "Billy Crystal"
+    }
+  ]
+}

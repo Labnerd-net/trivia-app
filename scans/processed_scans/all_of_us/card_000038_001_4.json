@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000038_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "1984's \"A Nightmare on Elm Street\" gave us this classic villain.",
+      "answer": "Freddy Krueger"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "This crime drama stars Tom Selleck.",
+      "answer": "Magnum P.I."
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Run-DMC sang about these trendy shoes.",
+      "answer": "Adidas"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Walter Mondale was vice president for which US president?",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "\"Love Shack\" was a hit single for this wacky new wave group.",
+      "answer": "The B-52's"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000118_558",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. city changed Nelson and Winnie Mandela Corner to Yitzhak Rabin Way?",
+      "answer": "New York City"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who did Archie Bunker refer to as 'that dago artist'?",
+      "answer": "Michelangelo"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country did British Prime Minister David L. George urge be squeezed 'until the pips squeak'?",
+      "answer": "Germany"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the world's largest stock exchange, the first to use computers to trade?",
+      "answer": "NASDAQ"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two countries competed under one flag at the Winter Olympics from 1952 through 1964?",
+      "answer": "East Germany and West Germany"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who urged the L.A. Times to fire critic Kenneth Turan for panning his mega-grossing movie?",
+      "answer": "James Cameron"
+    }
+  ]
+}

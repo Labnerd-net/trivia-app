@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000092_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What movie chronicled Dr. Martin Luther King, Jr.'s campaign to secure equal voting rights via an epic march in 1965?",
+      "answer": "Selma"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Which of these names was not a young singer's name? Kehlani, Bretman Rock, Dua Lipa, Harry Styles",
+      "answer": "Bretman Rock"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What musical sensation topped the charts in 2013 with the song \"Wrecking Ball\"?",
+      "answer": "Miley Cyrus"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Leah Remini and Mike Rinder hosted a documentary series that investigated what group?",
+      "answer": "Church of Scientology"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did \"draking\" mean?",
+      "answer": "Moping around"
+    }
+  ]
+}

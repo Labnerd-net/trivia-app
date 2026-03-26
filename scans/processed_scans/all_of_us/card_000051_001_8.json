@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000051_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Ja Rule released the single \"Always on Time\" featuring which singer?",
+      "answer": "Ashanti"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The 2000 Summer Olympics were held in what Australian city?",
+      "answer": "Sydney"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In \"The Princess Diaries,\" which actress plays the role of the princess of Genovia?",
+      "answer": "Anne Hathaway"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "On \"The Simpsons,\" what member of the Simpson family is commonly seen sucking on a pacifier?",
+      "answer": "Maggie"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Before it was available to everyone and their mother, this social network opened to college students in the early 2000s.",
+      "answer": "Facebook"
+    }
+  ]
+}

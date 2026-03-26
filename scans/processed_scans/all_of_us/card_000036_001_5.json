@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which band released the classic album 'Appetite for Destruction'?",
+      "answer": "Guns N' Roses"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This McDonald's offering comes with a toy.",
+      "answer": "Happy Meal"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This western movie icon continued his career until his death in 1979.",
+      "answer": "John Wayne"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sitcom features a well-to-do family employing a butler named Geoffrey?",
+      "answer": "The Fresh Prince of Bel-Air"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which iconic US building was bombed in a 1993 terrorist attack?",
+      "answer": "World Trade Center"
+    }
+  ]
+}

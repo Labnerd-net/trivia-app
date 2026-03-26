@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000114_496",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What river system flows through Tanzania, Uganda and Sudan?",
+      "answer": "The Nile"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie gave away souvenir pencils with a single commandment printed on them at its 1956 premiere?",
+      "answer": "The Ten Commandments"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country suffered the slaughter of half a million Tutsis and Hutus in 1994?",
+      "answer": "Rwanda"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What epidemic was named for the buboes, or swollen glands, that formed on a victim's neck, underarm and groin?",
+      "answer": "The bubonic plague"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose defeat of Floyd Patterson did writer James Baldwin call \"the death of boxing\"?",
+      "answer": "Sonny Liston's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What New York Realtor said: \"I was born with a name that just sort of worked for me\"?",
+      "answer": "Donald Trump"
+    }
+  ]
+}

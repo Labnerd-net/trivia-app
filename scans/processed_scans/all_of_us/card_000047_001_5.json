@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This hip-hop group from New York features many members, including Ghostface Killah and Method Man.",
+      "answer": "Wu-Tang Clan"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1987 fairy-tale film tells the story of Westley, a farmer, trying to rescue Princess Buttercup from the evil Prince Humperdinck.",
+      "answer": "The Princess Bride"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This orange-haired singer is remembered for her classic 2000 hit, \"Graduation (Friends Forever)\".",
+      "answer": "Vitamin C"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This entertainer enjoyed a 33-year career as a late-night talk-show host before retiring in 2015.",
+      "answer": "David Letterman"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is Martin Brodeur known for?",
+      "answer": "Hockey"
+    }
+  ]
+}

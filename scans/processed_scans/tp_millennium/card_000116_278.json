@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000116_278",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What two major rivers rise at Switzerland's St. Gotthard massif?",
+      "answer": "The Rhine and the Rhone"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Spielberg epic was the first movie to air on TV with an 'M' rating, for mature audiences?",
+      "answer": "Schindler's List"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What are Kenneth, Alexis, Natalie, Kelsey, Brandon, Nathan and Joel better known as?",
+      "answer": "The McCaughey septuplets"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What do you call the offspring of a male tiger and female lion?",
+      "answer": "A tiglon"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What major league baseball team posted a 911-698 won-lost record in the 1960s, tops for the decade?",
+      "answer": "The Baltimore Orioles"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who did Henry Ford II fire in 1978, saying: 'Sometimes you just don't like somebody'?",
+      "answer": "Lee Iacocca"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000112_176",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What body of water provides the 'black peloid' mud favored by mud bath connoisseurs in Israel?",
+      "answer": "The Dead Sea"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the longest continuously running comic strip in the U.S., dating back to 1897?",
+      "answer": "The Katzenjammer Kids"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What fellow fascist did Adolf Hitler refer to as the 'Little Sausage'?",
+      "answer": "Francisco Franco"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What animal's flesh, when sun-dried in the Andes, becomes a jerky called charqui?",
+      "answer": "A llama's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What former New York Met was nicknamed for the way he pronounced 'milk' as a small child?",
+      "answer": "\"Mookie\" Wilson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What two items of clothing did designers combine to create a 'skort'?",
+      "answer": "Skirt and shorts"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_523",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the first U.S. state to ban gambling, in 1909?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who succeeded Bryant Gumbel on the Today Show?",
+      "answer": "Matt Lauer"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What battle site was the start of Pheidippides' historic 25-mile run to Athens?",
+      "answer": "Marathon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What element did Marie Curie name in honor of her homeland?",
+      "answer": "Polonium"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What condiment was touted in 1876 as \"blessed relief for Mothers and other women in the household\"?",
+      "answer": "Ketchup"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who gives an annual \"State of the Mouse\" speech?",
+      "answer": "Michael Eisner"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000124_521",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country made blasphemy a capital offense in 1979?",
+      "answer": "Iran"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What role did George Peppard play in the pilot of Dynasty?",
+      "answer": "Blake Carrington"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What incident prompted promoters of The Last Action Hero to remove dynamite from the hand of Times Square's giant inflated Arnold?",
+      "answer": "The World Trade Center bombing"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What distant planet has a rapidly moving cloud patch called 'the Scooter'?",
+      "answer": "Neptune"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's the surfing term for a fast ride with five toes hooked over the front of the board?",
+      "answer": "Hang five"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What animals carried out executions in ancient Asia by stomping the heads of victims?",
+      "answer": "Elephants"
+    }
+  ]
+}

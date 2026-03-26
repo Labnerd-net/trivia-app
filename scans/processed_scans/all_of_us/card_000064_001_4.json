@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed 'Jaws'?",
+      "answer": "Steven Spielberg"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Often made of vinyl, this type of boot was made for walkin'.",
+      "answer": "Go-go boots"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which singer, remembered for his mellow voice and signature cardigan sweaters, won a Grammy in 1958 for 'Catch a Falling Star'?",
+      "answer": "Perry Como"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In the TV western 'Have Gun—Will Travel,' what does Paladin charge for his services?",
+      "answer": "$1,000"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What president authorized the Bay of Pigs invasion?",
+      "answer": "Kennedy"
+    }
+  ]
+}

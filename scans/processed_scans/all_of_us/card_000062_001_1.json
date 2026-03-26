@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"Joanie Loves Chachi\" is a failed spin-off of what much more successful sitcom?",
+      "answer": "Happy Days"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which legendary musician was known to set his guitar on fire?",
+      "answer": "Jimi Hendrix"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actress-singer known for her role in \"Singin' in the Rain\" was the mother of Carrie Fisher?",
+      "answer": "Debbie Reynolds"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which American novelist penned classics such as \"Breakfast at Tiffany's\" and \"In Cold Blood\"?",
+      "answer": "Truman Capote"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Miles Davis is known for playing which instrument?",
+      "answer": "Trumpet"
+    }
+  ]
+}

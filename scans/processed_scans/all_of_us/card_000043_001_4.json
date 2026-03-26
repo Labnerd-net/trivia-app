@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What became a major-league sport in the US in 1996?",
+      "answer": "Soccer"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This 2004 buddy comedy sees 2 friends go on the adventure of a lifetime after smoking marijuana and craving some fast food.",
+      "answer": "Harold & Kumar Go to White Castle"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In 1991's 'Beauty and the Beast,' what's the name of the teacup character?",
+      "answer": "Chip"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What tech trend describes consumers favoring internet-based media over traditional subscription broadcasts?",
+      "answer": "Cord cutting"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This spooky drama is about survivors of a plane crash.",
+      "answer": "Lost"
+    }
+  ]
+}

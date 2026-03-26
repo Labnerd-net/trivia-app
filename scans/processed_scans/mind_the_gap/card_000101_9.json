@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_9",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "On what show would you find kids Kimberly Drummond, and Willis and Arnold Jackson?",
+      "answer": "Different Strokes"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What large 80's portable music player was known for its very loud music?",
+      "answer": "Boombox"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Ray Charles' song was used as the theme for the TV show Designing Women?",
+      "answer": "'Georgia on My Mind'"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What lady received the Nobel Peace Prize in 1979 for her humanitarian work with the outcasts in India?",
+      "answer": "Mother Teresa"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In what classic Nike campaign did everyone from Michael Jordan to Bo Diddley appear, all referencing one of the greatest two-sport pro athletes in history?",
+      "answer": "'Bo Knows' (Bo Jackson)"
+    }
+  ]
+}

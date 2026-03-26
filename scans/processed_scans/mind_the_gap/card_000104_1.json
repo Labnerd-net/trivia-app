@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1980 disaster parody movie surely launched a thousand quotable quotes?",
+      "answer": "Airplane!"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1985, who teamed up with Mr. T for the debut of WrestleMania?",
+      "answer": "Hulk Hogan"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What group had huge hits with \"Celebration,\" \"Cherish,\" and \"Joanna\"?",
+      "answer": "Kool and the Gang"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Holocaust survivor and author of Night received the 1986 Nobel Peace Prize for his work for people persecuted for religion, race, or national origin?",
+      "answer": "Elie Wiesel"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Dry Idea's ads featured celebrities like designer Donna Karan and Bronco's coach Dan Reeves talking about three \"nevers\" in their jobs. Name the third \"never.\"",
+      "answer": "\"Never let them see you sweat.\""
+    }
+  ]
+}

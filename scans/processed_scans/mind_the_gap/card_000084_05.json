@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_05",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who played the role of piano player Sam in Casablanca?",
+      "answer": "Dooley Wilson"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What man was spokesman for Kentucky Fried Chicken, the restaurant he created?",
+      "answer": "Colonel Sanders"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What prolific composer and band leader charted in 1941 with \"Take the A Train\"?",
+      "answer": "Duke Ellington"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What independence leader was assassinated by an extreme Hindu nationalist in 1948?",
+      "answer": "Mohandas Gandhi"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was a \"heater\"?",
+      "answer": "A gun"
+    }
+  ]
+}

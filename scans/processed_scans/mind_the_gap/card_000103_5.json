@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1983, who starred in Risky Business, dancing around in his underwear and Ray-Bans?",
+      "answer": "Tom Cruise"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "If you were going to an 80's themed party, which colors would you most likely sport? Neons, Monochromes, Earth tones, Prints",
+      "answer": "Neons"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Journey had a 1981 hit song entitled 'Don't ___________.'",
+      "answer": "\"Don't Stop Believin'\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What reformulated drink lasted only 79 days in 1985 because of the outcry across the country?",
+      "answer": "New Coke"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What sassy culinary advice was popularized in The Breakfast Club and used by Bart Simpson?",
+      "answer": "\"Eat My Shorts\""
+    }
+  ]
+}

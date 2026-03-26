@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_43",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation's citizens were 45 times as likely to have TVs than hot water, in 1998?",
+      "answer": "China's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who thanked his parents for not practicing birth control upon picking up a 1979 Best Actor Oscar?",
+      "answer": "Dustin Hoffman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What island nation is torn in civil wars between the Tamil and Sinhalese people?",
+      "answer": "Sri Lanka"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's dichloro-diphenyl-trichloro-ethane better known as?",
+      "answer": "DDT"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How long is the course used for events staged by the World Organization of Racing Maggots?",
+      "answer": "One foot"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Scream star has a first name that is a Dutch word for \"snow\"?",
+      "answer": "Neve Campbell"
+    }
+  ]
+}

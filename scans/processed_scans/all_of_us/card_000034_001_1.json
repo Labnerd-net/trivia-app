@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What 1984 Bruce Springsteen album spawned 7 top-10 singles?",
+      "answer": "Born in the USA"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The classic sitcom 'Seinfeld' is often referred to as a 'show about' what?",
+      "answer": "Nothing"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's an Atari adventure in which you avoid hazards in a jungle.",
+      "answer": "Pitfall!"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What Major League Baseball team did Cal Ripken Jr. play for?",
+      "answer": "Baltimore Orioles"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This early-'80s film follows an adventure inside a computer.",
+      "answer": "Tron"
+    }
+  ]
+}

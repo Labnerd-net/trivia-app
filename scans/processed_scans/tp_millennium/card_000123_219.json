@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000123_219",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation is the top international destination for Japanese tourists?",
+      "answer": "The U.S."
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie had Robert Redford's character fondle a hunk of wood he called 'Wonderboy'?",
+      "answer": "The Natural"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What royal was dubbed 'The Duchess of Pork'?",
+      "answer": "Sarah Ferguson"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many kittens comprise the average litter?",
+      "answer": "Four"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Slav became the first woman in 55 years to win the French Open three straight times, in 1992?",
+      "answer": "Monica Seles"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the most expensive semiaquatic weasel used in fashion?",
+      "answer": "The mink"
+    }
+  ]
+}

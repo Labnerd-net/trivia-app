@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000108_311",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Norse explorer introduced Christianity to Greenland around 1000 A.D.?",
+      "answer": "Leif Ericsson"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What British thespian has made Shakespeare \"hip for the masses,\" according to Esquire?",
+      "answer": "Kenneth Branagh"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What paper acquired the Boston Globe for a cool $1.1 billion, in 1993?",
+      "answer": "The New York Times"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What major mail-order company sends computer products in cow-spotted boxes?",
+      "answer": "Gateway 2000"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was the first team in U.S. pro sports history to lose four straight championship title games?",
+      "answer": "The Buffalo Bills"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What aviation manufacturer is known to Wall Street wags as \"Mad Dog\"?",
+      "answer": "McDonnell Douglas"
+    }
+  ]
+}

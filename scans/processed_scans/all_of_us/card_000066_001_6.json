@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1958, this rock and roll pioneer was drafted into the US Army as a private and served for 2 years.",
+      "answer": "Elvis"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Kirk Douglas plays the lead in this movie set in ancient Rome.",
+      "answer": "Spartacus"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Technically called a linear predictive coding speech synthesizer, what handheld toy asks users to spell a spoken word?",
+      "answer": "Speak & Spell™"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Each episode of 'The Rockford Files' begins with a camera shot of what?",
+      "answer": "Answering machine"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What animated TV series centers on the animal rivalry between its 2 title characters?",
+      "answer": "The Tom and Jerry Show"
+    }
+  ]
+}

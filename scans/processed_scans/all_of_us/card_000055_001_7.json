@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which billionaire entrepreneur is CEO of both Tesla and SpaceX?",
+      "answer": "Elon Musk"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "France won the 2018 World Cup, which took place in this eastern European nation.",
+      "answer": "Russia"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actress played Black Widow in the 'Avengers' films?",
+      "answer": "Scarlett Johansson"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Featuring Milo Ventimiglia, Mandy Moore, and Sterling K. Brown, this series makes use of flashbacks to chronicle the lives of the Pearson family.",
+      "answer": "This Is Us"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This Australian band is known for their hits like 'Youngblood,' 'She's Kinda Hot,' and 'Good Girls.'",
+      "answer": "5 Seconds of Summer"
+    }
+  ]
+}

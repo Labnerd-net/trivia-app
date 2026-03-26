@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "According to one coffee franchise, \"America runs on...\" what?",
+      "answer": "Dunkin'"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What sport is Megan Rapinoe known for?",
+      "answer": "Soccer"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The characters Jon Snow, Arya Stark, and Tyrion Lannister appear in this epic series.",
+      "answer": "Game of Thrones"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What's the name of Apple's AI assistant?",
+      "answer": "Siri"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "After achieving success in \"The Suite Life of Zack & Cody,\" this star played Sharpay Evans in the \"High School Musical\" franchise.",
+      "answer": "Ashley Tisdale"
+    }
+  ]
+}

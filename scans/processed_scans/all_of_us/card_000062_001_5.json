@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actor had leading roles in both \"My Favorite Martian\" and \"The Hulk\"?",
+      "answer": "Bill Bixby"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which singer-songwriter performed \"Nobody Does It Better\" for the James Bond film \"The Spy Who Loved Me\"?",
+      "answer": "Carly Simon"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In a famous speech, President Franklin Roosevelt proclaimed that Americans had a \"rendezvous\" with what?",
+      "answer": "Destiny"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In the \"Godfather\" film series, character Michael Corleone is played by whom?",
+      "answer": "Al Pacino"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "It's the name for the intense fandom surrounding the Fab Four.",
+      "answer": "Beatlemania"
+    }
+  ]
+}

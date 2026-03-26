@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000106_94",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What capital city is found near the headwaters of the Bosna river?",
+      "answer": "Sarajevo"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who played a transvestite FBI agent on Twin Peaks before going on to better things?",
+      "answer": "David Duchovny"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. presidential candidate opined: \"We need a nation closer to the Waltons than the Simpsons\"?",
+      "answer": "George Bush"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What body of water was polluted by 1.45 million tons of oil in 1991?",
+      "answer": "The Persian Gulf"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who has an inscription on his golf bag that reads, \"Keep It Straight, John\"?",
+      "answer": "John Daly"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What song did the band strike up when Nightline members accepted an Emmy for their Oklahoma City bombing coverage, in 1996?",
+      "answer": "Oklahoma!"
+    }
+  ]
+}

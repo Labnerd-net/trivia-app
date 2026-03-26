@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This phone accessory is used for taking photos of yourself.",
+      "answer": "Selfie stick"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This company's ads feature a tiny green spokes-lizard.",
+      "answer": "GEICO"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He released the album 'Blonde' in 2016.",
+      "answer": "Frank Ocean"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Actor Chris Evans is known for playing this Marvel character in many films.",
+      "answer": "Captain America"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which restaurant is home to the Whopper?",
+      "answer": "Burger King"
+    }
+  ]
+}

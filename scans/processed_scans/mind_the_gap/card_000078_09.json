@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000078_09",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Pixar's mascot was a jumping lamp. What was its name?",
+      "answer": "Luxo Jr."
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What device was called the \"Jesus phone\" and popularized the term \"app\"?",
+      "answer": "iPhone"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Besides Coachella, this festival, based in Chicago, was considered one of the largest and most iconic music festivals in the world.",
+      "answer": "Lollapalooza"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the crowd-sourced encyclopedia website launched in 2001.",
+      "answer": "Wikipedia"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "The definitive way to have the last word in an argument was to tell someone to speak to a part of your body. What's the phrase?",
+      "answer": "\"Talk to the hand\""
+    }
+  ]
+}

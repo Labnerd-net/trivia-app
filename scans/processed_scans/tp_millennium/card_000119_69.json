@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000119_69",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What drink do Mexicans traditionally offer to deceased family members on the Day of the Dead?",
+      "answer": "Tequila"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV miniseries were 130 million Americans glued to in January of 1977?",
+      "answer": "Roots"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Native American is credited with founding the Iroquois Confederacy?",
+      "answer": "Hiawatha"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What astronaut claimed he went through more NASA physical checks than any other?",
+      "answer": "John Glenn"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What winning thoroughbred is named for an aviation checkpoint, and not a tobacco product?",
+      "answer": "Cigar"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What famous cowpoke died at the age of 86, in July of 1998?",
+      "answer": "Roy Rogers"
+    }
+  ]
+}

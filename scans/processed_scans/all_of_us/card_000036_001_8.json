@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which group released the romantic rocker 'I Melt with You'?",
+      "answer": "Modern English"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Eddie Murphy first gained national popularity by starring on what late-night series?",
+      "answer": "Saturday Night Live"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Most valuable player Bobby Orr holds the record for the most points and assists in a single season by a defenseman in which sport?",
+      "answer": "Hockey"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This actor married 'I Know What You Did Last Summer' costar Sarah Michelle Gellar.",
+      "answer": "Freddie Prinze Jr."
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "You didn't have to run a single mile to sport this '80s fashion.",
+      "answer": "Tracksuits"
+    }
+  ]
+}

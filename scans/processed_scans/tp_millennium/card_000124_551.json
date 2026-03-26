@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000124_551",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the world's highest man-made structure for 4,000 years?",
+      "answer": "The Great Pyramid of Cheops"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV newsmagazine closes with the modest voiceover, 'Very nice, everyone'?",
+      "answer": "Dateline NBC"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the first dam built after the U.S. Congress got involved in the production of hydroelectric power?",
+      "answer": "Boulder Dam"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What herb is the most often-prescribed treatment in Germany for depression?",
+      "answer": "St. John's Wort"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many points was a touchdown worth in 1911?",
+      "answer": "Five"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What New York Times column alternated Wednesdays with one called 'Dining Out,' in 1998?",
+      "answer": "\"Dining In\""
+    }
+  ]
+}

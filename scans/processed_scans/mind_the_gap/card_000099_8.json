@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who starred in the 80's TV show Magnum P.I.?",
+      "answer": "Tom Selleck"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What pro football player was featured in an iconic Super Bowl Coke ad where he tossed one of his jerseys to a kid?",
+      "answer": "Mean Joe Greene"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was Van Halen \"hot\" for in the 80s?",
+      "answer": "Teacher"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1978, Affirmed won the Triple Crown with an 18-year-old jockey, the youngest ever to win, and only jockey named SI's Sportsman of the Year. Name him.",
+      "answer": "Steve Cauthen"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the commercial: \"Weebles wobble, _________.\"",
+      "answer": "\"But they don't fall down.\""
+    }
+  ]
+}

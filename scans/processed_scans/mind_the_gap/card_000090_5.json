@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_5",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the 1960s TV drama about a medical intern and his surgeon mentor, played by Richard Chamberlain and Raymond Massey respectively.",
+      "answer": "Dr. Kildare"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What dog food claimed to make its own gravy?",
+      "answer": "Gravy Train"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What group's most iconic song was 1971's \"Stairway to Heaven\"?",
+      "answer": "Led Zeppelin"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What decision by NBC in 1966 concerning new programs from that point forward changed the face of television?",
+      "answer": "Produce only in color"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous catchphrase from Dragnet was attributed to character Joe Friday?",
+      "answer": "\"Just the facts, Ma'am\""
+    }
+  ]
+}

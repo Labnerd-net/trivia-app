@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Serving over 785 cities worldwide, this company is well known for its ride-sharing service as well as its food delivery program.",
+      "answer": "Uber"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Starting in 2014, this Michigan city was in the news because of lead in its drinking water.",
+      "answer": "Flint"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This American rapper achieved viral success and international recognition for his 'country rap' debut single, 'Old Town Road,' in 2019.",
+      "answer": "Lil Nas X"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In this popular 2019 series, 2 awkward teens set up their own business to offer sex advice to fellow high schoolers.",
+      "answer": "Sex Education"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Vine and TikTok star is known for making 'magic vines.'",
+      "answer": "Zach King"
+    }
+  ]
+}

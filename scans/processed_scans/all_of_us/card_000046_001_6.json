@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000046_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2000 film stars independent ladies Cameron Diaz, Drew Barrymore, and Lucy Liu working together as private detectives.",
+      "answer": "Charlie's Angels"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This group released the album \"Nevermind\" in 1991.",
+      "answer": "Nirvana"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Using stop-motion animation, this 2000 film sees a group of chickens trying to escape their owners.",
+      "answer": "Chicken Run"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actress is best known for her starring role as Dana Scully in \"The X-Files.\"",
+      "answer": "Gillian Anderson"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "First appearing in 1988's \"Hairspray,\" this actress went on to host her own daytime talk show, which ran from 1993 to 2004.",
+      "answer": "Ricki Lake"
+    }
+  ]
+}

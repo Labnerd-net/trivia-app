@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actor stars in 'Serpico'?",
+      "answer": "Al Pacino"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which group released the rock opera 'Tommy'?",
+      "answer": "The Who"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The bartender in the TV series 'Gunsmoke' is named what?",
+      "answer": "Sam"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In what state did the 1964 World's Fair occur?",
+      "answer": "New York"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Marketed as 'original instant life,' this aquatic pet was popular with kids in the '60s.",
+      "answer": "Sea-Monkeys"
+    }
+  ]
+}

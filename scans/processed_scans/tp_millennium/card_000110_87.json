@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000110_87",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country would a Bulgarian with a good sense of direction walk through to reach Armenia by foot?",
+      "answer": "Turkey"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Marlon Brando cult film was inspired by a gang leader named 'Wino Willie' Forkner?",
+      "answer": "The Wild One"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the Union equivalent of the Confederate epithet 'Bill Yank'?",
+      "answer": "Johnny Reb"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What milk product did the U.S. Agriculture Department propose as a substitute for meat in school lunches, in 1996?",
+      "answer": "Yogurt"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many of Wimbledon's top 16 seeds could end up in the round of 16?",
+      "answer": "Sixteen"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What B-word will usually be found on the labels of very dry champagne?",
+      "answer": "Brut"
+    }
+  ]
+}

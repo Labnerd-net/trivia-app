@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Neil Patrick Harris stars in the title role of what medical drama?",
+      "answer": "Doogie Howser, M.D."
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This band released \"November Rain\" in 1992.",
+      "answer": "Guns N' Roses"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A fashion accessory known as the \"closer tote\" was popularized by a TV character played by what actress?",
+      "answer": "Kyra Sedgwick"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Afghan Girl\" was a photo featured on the cover of what magazine?",
+      "answer": "National Geographic"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which rapper released 1996's \"All Eyez on Me\"?",
+      "answer": "Tupac Shakur"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000081_2",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the twins in Beverly Hills 90210.",
+      "answer": "Brenda and Brandon (Walsh)"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What were sneakers with wheels called?",
+      "answer": "Heelys"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This iconic Gen X female singer famously kissed this iconic Millennial female singer at the 2003 VMAs.",
+      "answer": "Madonna and Britney Spears"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "The sudden death of this musician on June 25, 2009, led to tributes from millions of people all over the world.",
+      "answer": "Michael Jackson"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the name of the paper fragments remaining on Florida ballots being hand-counted in the 2000 Presidential election?",
+      "answer": "Hanging chads"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_9",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the actress and actor who starred in the rom-com When Harry Met Sally.",
+      "answer": "Meg Ryan and Billy Crystal"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What ubiquitous 1980s office machine transmitted hard copies of documents over the telephone lines?",
+      "answer": "Fax machines"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Norwegian electropop trio rose to prominence after they released their single \"Take On Me\"?",
+      "answer": "A-ha"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was the eighth and final leader of the Soviet Union?",
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What phrase was used by Madonna to describe a cute, young male who was dating an older female?",
+      "answer": "Boy Toy"
+    }
+  ]
+}

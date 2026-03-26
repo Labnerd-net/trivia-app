@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000120_40",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country would you be in if you were charged 50 mongos for mutton?",
+      "answer": "Mongolia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Cheers character claimed an elk could not pronounce 'lasagna' due to the shape of its esophagus?",
+      "answer": "Cliff"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What spiritual leader was called Juan Pablo in Havana in 1998?",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of egg will yield 11 and one-half average-size omelettes?",
+      "answer": "An ostrich egg"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What jockey is second to Willie Shoemaker in career wins?",
+      "answer": "Laffit Pincay Jr."
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did a New York teacher refuse to let her 6th grade class watch on a classroom TV in 1998, prompting four female students to attack her?",
+      "answer": "The Jerry Springer Show"
+    }
+  ]
+}

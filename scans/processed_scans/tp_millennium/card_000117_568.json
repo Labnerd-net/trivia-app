@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000117_568",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What must be undertaken every 10 years, according to Article 1, Section 2 of the U.S. Constitution?",
+      "answer": "A census"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who reopened old wounds in 1997 by comparing Lennon and McCartney to Mozart and Salieri?",
+      "answer": "Yoko Ono"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country was compromised by the Munich Pact, signed in 1938?",
+      "answer": "Czechoslovakia"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the safest color of car to drive at night, according to a University of California study?",
+      "answer": "Yellow"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's the lowest single round golf score ever posted at The Masters, through 1998?",
+      "answer": "Sixty-three"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many out of every three Anglican priests polled by London's Sunday Times could not recite all ten commandments unaided?",
+      "answer": "Two"
+    }
+  ]
+}

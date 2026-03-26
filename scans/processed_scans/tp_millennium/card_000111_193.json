@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000111_193",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation do Britons call \"the republic\"?",
+      "answer": "Ireland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who caused a commotion at a PBS kids' show rehearsal when sparks began flying off his smoking head, in 1997?",
+      "answer": "Barney"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What New England state was the first to declare slavery illegal, in 1783?",
+      "answer": "Massachusetts"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of celestial body, dubbed XF11, was erroneously reported in 1998 as a threat to Earth?",
+      "answer": "An asteroid"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Native American language was Super Bowl XXX the first to broadcast in?",
+      "answer": "Navajo"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What entree did Arizona prison officials threaten to serve for 21 straight days to inmates who misbehaved, in 1984?",
+      "answer": "Meat loaf"
+    }
+  ]
+}

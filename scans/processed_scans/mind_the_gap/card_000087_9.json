@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000087_9",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What film is most closely associated with James Dean as a juvenile delinquent?",
+      "answer": "Rebel Without a Cause"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Before 24-hour television, what did most stations play at their evening sign-off time?",
+      "answer": "The national anthem"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What group had mega-hits with 'Sherry,' 'Big Girls Don't Cry,' and 'Walk Like a Man'?",
+      "answer": "The Four Seasons"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What anthropologist couple made headlines around the world for their discovery of the earliest human remains?",
+      "answer": "The Leakeys (Louis and Mary)"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What did it mean if someone said, 'Don't Bogart that.'?",
+      "answer": "Don't hog it, share it"
+    }
+  ]
+}

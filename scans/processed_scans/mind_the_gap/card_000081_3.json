@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000081_3",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Who starred opposite Ice Cube in the 1995 film Friday?",
+      "answer": "Chris Tucker"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In the MTV cartoon, Beavis and Butthead, what two bands were featured on their t-shirts?",
+      "answer": "AC/DC and Metallica"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This artist started out as a Fly Girl on In Living Color then went on to star in the biopic Selena as the title character.",
+      "answer": "Jennifer Lopez"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In 1997, this immigrant from Czechoslovakia became the first female Secretary of State in U.S. history.",
+      "answer": "Madeleine Albright"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What Valleyspeak word usually meant 'male,' but also was a word for 'person,' 'Hey you,' 'Are you serious?', and 'Wow'?",
+      "answer": "Dude"
+    }
+  ]
+}

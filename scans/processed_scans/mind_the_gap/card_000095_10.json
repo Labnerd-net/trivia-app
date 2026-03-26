@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_10",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What movie streaming service released in 2019 included almost all Disney productions?",
+      "answer": "Disney+"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What viral meme was based on a picture of a social media user standing on a sidewalk wearing a light-colored shirt and shorts?",
+      "answer": "Do it to 'em OR You know I had to do it to 'em"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2011 LMFAO's popular music video for \"Party Rock Anthem,\" everyone was doing the same dance. What was the name of the dance?",
+      "answer": "Melbourne Shuffle"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "The 2014 Winter Olympics were held in what Russian city?",
+      "answer": "Sochi"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What movie's tagline was \"An unforgettable journey she probably won't remember\"?",
+      "answer": "Finding Dory"
+    }
+  ]
+}

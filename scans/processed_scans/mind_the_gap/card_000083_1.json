@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000083_1",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This Oscar winner in It Happened One Night was a movie star for three decades and dubbed the 'King of Hollywood.'",
+      "answer": "Clark Gable"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What type of vinyl records were introduced in 1949 primarily for popular radio singles?",
+      "answer": "45 RPM"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous actress and singer was best known for 'Stormy Weather,' and 'The Lady is a Tramp'?",
+      "answer": "Lena Horne"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the two territories admitted as U.S. states in 1959.",
+      "answer": "Alaska and Hawaii"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "If someone were going to the 'passion pit,' where were they going?",
+      "answer": "Drive-in movie theater"
+    }
+  ]
+}

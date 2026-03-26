@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000120_79",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation boasts Kruger National Park, with 137 mammal and 450 bird species?",
+      "answer": "South Africa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What singer-songwriter had five albums in the Billboard Top 200 in 1977?",
+      "answer": "Barry Manilow"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What late Egyptian dated Tina Sinatra, Brooke Shields and Prince Andrew's former paramour Koo Stark?",
+      "answer": "Dodi Fayed"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the first name of the Israeli man who invented a rapid-fire weapon in 1953?",
+      "answer": "Uzi"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who is the only tennis player to have won each of the four grand slam events at least four times?",
+      "answer": "Steffi Graf"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many of every ten Ford Explorer owners have never driven off-road?",
+      "answer": "Nine"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000088_01",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What TV medical drama starred Robert Young as a kindly physician in California?",
+      "answer": "Marcus Welby, M.D."
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What tablet was designed for young children to learn how to write?",
+      "answer": "The Big Chief"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Nicknamed \"The Schnoz,\" this singer and comedian had hits with \"Smile,\" \"Make Someone Happy,\" and \"Inka Dinka Doo.\"",
+      "answer": "Jimmy Durante"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What scientist developed the first polio vaccine in 1953?",
+      "answer": "Jonas Salk"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What company was \"Star of the American Road\" for decades?",
+      "answer": "Texaco"
+    }
+  ]
+}

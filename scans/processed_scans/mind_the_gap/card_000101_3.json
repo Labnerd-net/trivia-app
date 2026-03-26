@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the TV show set in Nantucket with brothers Brian and Joe Hackett, and friends, Helen, Lowell, Antonio, and Fay.",
+      "answer": "Wings"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Premiering in 1977, what recurring sketch on Saturday Night Live starred Jane Curtin, Dan Aykroyd, and Laraine Newman as aliens?",
+      "answer": "Coneheads"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Southern rock band had hits with 'Free Bird' and 'Sweet Home Alabama'?",
+      "answer": "Lynyrd Skynyrd"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was kidnapped by the Symbionese Liberation Army in 1974, and then became an accomplice in their terror attacks?",
+      "answer": "Patty Hearst"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was Gary Coleman's catchphrase on Different Strokes?",
+      "answer": "'What you talkin' 'bout, Willis?'"
+    }
+  ]
+}

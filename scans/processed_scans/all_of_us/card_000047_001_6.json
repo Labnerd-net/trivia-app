@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This hip-hop group released 1996's \"Tha Crossroads.\"",
+      "answer": "Bone Thugs-N-Harmony"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 2003, what were french fries briefly renamed?",
+      "answer": "Freedom fries"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What high-tech eyewear was tested by few in 2013?",
+      "answer": "Google Glass"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Rapper Coolio's song \"Gangsta's Paradise\" features on the soundtrack to this film.",
+      "answer": "Dangerous Minds"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The Morgendorffer family appears in what TV series?",
+      "answer": "Daria"
+    }
+  ]
+}

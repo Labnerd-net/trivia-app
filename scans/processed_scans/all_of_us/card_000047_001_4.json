@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This group released the song \"Been Caught Stealing\" in 1990.",
+      "answer": "Jane's Addiction"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What agricultural simulation video game was introduced in 2009?",
+      "answer": "FarmVille"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 2003, the US Supreme Court upheld this set of policies, which are intended to help end discrimination in education and employment.",
+      "answer": "Affirmative action"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In addition to her talk show, what television host also produced and costars in 1989's \"The Women of Brewster Place\"?",
+      "answer": "Oprah Winfrey"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Starring Adam Sandler and Drew Barrymore, this classic '90s rom-com also features a surprise appearance from rocker Billy Idol.",
+      "answer": "The Wedding Singer"
+    }
+  ]
+}

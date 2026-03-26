@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Harrison Ford reprises his role as Indiana Jones in this 1984 sequel.",
+      "answer": "Indiana Jones and the Temple of Doom"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1988 this image-editing software was introduced.",
+      "answer": "Adobe Photoshop"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Debbie Harry fronted what group of new wave pioneers?",
+      "answer": "Blondie"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The US, Canada, and Mexico signed this important agreement in 1994.",
+      "answer": "NAFTA"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "'I don't wanna grow up' was the beginning of what former retail giant's tagline?",
+      "answer": "Toys R Us"
+    }
+  ]
+}

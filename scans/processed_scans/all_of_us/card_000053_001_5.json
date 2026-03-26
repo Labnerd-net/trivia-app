@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000053_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which of the Jonas Brothers married English actress Sophie Turner?",
+      "answer": "Joe"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2016 Disney film tells the tale of a police officer bunny teaming up with a con artist red fox.",
+      "answer": "Zootopia"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What team has quarterback Russell Wilson played for since 2012?",
+      "answer": "Seattle Seahawks"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Team Edward or Team Jacob\" is the debate among readers of which book series?",
+      "answer": "Twilight"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This British celebrity chef is known to US audiences for starring in \"Kitchen Nightmares\" and \"Hell's Kitchen.\"",
+      "answer": "Gordon Ramsay"
+    }
+  ]
+}

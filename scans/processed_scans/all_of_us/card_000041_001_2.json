@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000041_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What group performed the 1985 hit \"The Power of Love\"?",
+      "answer": "Huey Lewis and the News"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "During the Carter presidency, this Iranian politician led a revolution in which 52 Americans were held hostage in Tehran.",
+      "answer": "Ayatollah Khomeini"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What actor plays the title character in all 3 \"Karate Kid\" films and reprised the role in a YouTube series in 2017?",
+      "answer": "Ralph Macchio"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who directed 1981's \"Raiders of the Lost Ark\"?",
+      "answer": "Steven Spielberg"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who stars as Laurie Strode in 1978's \"Halloween\"?",
+      "answer": "Jamie Lee Curtis"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_244",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What biblical site do two adventurers claim they found after sneaking into Saudi Arabia, in a 1998 book titled The Gold of Exodus?",
+      "answer": "Mount Sinai"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom popularized the line, \"Up your nose with a rubber hose\"?",
+      "answer": "Welcome Back, Kotter"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What discovery in the 1840s inspired the phrase: \"Go West, young man\"?",
+      "answer": "Gold"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What rock makes the cheapest, softest form of sandpaper?",
+      "answer": "Flint"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sport's arcane scoring system has been traced to France's 60-sou piece, which could be divided into quarters?",
+      "answer": "Tennis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What spokescat warned: \"Humph! Din-din. I'll eat when I'm ready\"?",
+      "answer": "Morris the Cat"
+    }
+  ]
+}

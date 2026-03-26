@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_309",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What four U.S. state names have a double \"n\"?",
+      "answer": "Connecticut, Minnesota, Pennsylvania, Tennessee"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What topped the American Film Institute list of the best 100 movies, to celebrate a century of U.S. filmmaking in 1998?",
+      "answer": "Citizen Kane"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What communist was Time's Man of the Year in both 1987 and 1989?",
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who was scheduled to broadcast two lessons from space to millions of U.S. students in 1986?",
+      "answer": "Christa McAuliffe"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What race begins 15 minutes before runners begin the Boston Marathon?",
+      "answer": "The wheelchair race"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What writer has been dubbed \"Mr. Techno-thriller\" now that the Cold War is over?",
+      "answer": "Tom Clancy"
+    }
+  ]
+}

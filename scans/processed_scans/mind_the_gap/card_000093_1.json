@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000093_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Angelina Jolie looked so scary in her costume for this movie that kids visiting the set would scream and cry when they saw her.",
+      "answer": "Maleficent"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This console attracted young and old alike with casual fitness and sports games along with its nunchuk style controllers.",
+      "answer": "Nintendo Wii"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This song was Gotye's most successful and signature song based on his experiences in past relationships.",
+      "answer": "\"Somebody That I Used to Know\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2009, what digital currency was invented allowing direct transactions between users without oversight by a financial institution?",
+      "answer": "Bitcoin"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did the phrase \"secure the bag\" mean?",
+      "answer": "Get money any way possible"
+    }
+  ]
+}

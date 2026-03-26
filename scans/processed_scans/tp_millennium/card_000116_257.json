@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000116_257",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What popular Red Square tourist attraction did Russian leaders discuss burying in 1998?",
+      "answer": "Vladimir Lenin's corpse"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What actress coined the term 'Rat Pack'?",
+      "answer": "Lauren Bacall"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 'safe haven' was hyped in 1950s ads reading: 'Don't let Pearl Harbor happen to you'?",
+      "answer": "A bomb shelter"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who said on July 20, 1969: 'The surface is fine and powdery'?",
+      "answer": "Neil Armstrong"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What former New York Giant was the first to get a second bust in the Pro Football Hall of Fame?",
+      "answer": "Frank Gifford"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the favored name for pet goldfish?",
+      "answer": "Jaws"
+    }
+  ]
+}

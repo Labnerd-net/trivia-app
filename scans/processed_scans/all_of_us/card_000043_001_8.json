@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "'The Final Countdown' was a hit for this Swedish group.",
+      "answer": "Europe"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The term 'red shirt,' used to describe a minor TV character, derives from what classic show?",
+      "answer": "Star Trek"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What Danish model was Sylvester Stallone's bride in 1985?",
+      "answer": "Brigitte Nielsen"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "US forces finally left this country in 1992 after nearly 100 years of American military presence.",
+      "answer": "Philippines"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "With what toy could you flip a lever to see a revolving album of photographs?",
+      "answer": "View-Master"
+    }
+  ]
+}

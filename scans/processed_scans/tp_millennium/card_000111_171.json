@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000111_171",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What type of animal, named \"Frederico,\" was leading the polls in a Pilar, Brazil mayoral race when he died unexpectedly in 1996?",
+      "answer": "A goat"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who titled her autobiography Pamdemonium?",
+      "answer": "Pamela Anderson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What city did Pat Robertson say might face terrorists, tornadoes and \"possibly a meteor,\" to avenge Gay Days at a theme park in 1998?",
+      "answer": "Orlando"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the largest whale with teeth?",
+      "answer": "The sperm whale"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's the American version of what the British hospitality trade calls a \"chucker-out\"?",
+      "answer": "A bouncer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many compartments were in the first TV dinner?",
+      "answer": "Three"
+    }
+  ]
+}

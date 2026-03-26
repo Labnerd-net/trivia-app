@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which tough singer let out a 'Rebel Yell' in 1983?",
+      "answer": "Billy Idol"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This child star had prominent roles in 'Uncle Buck' and 'Richie Rich.'",
+      "answer": "Macaulay Culkin"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What popular '80s crime drama set in Hawaii was rebooted in 2018?",
+      "answer": "Magnum P.I."
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This American football legend, nicknamed 'Sweetness,' played with the Chicago Bears for his entire 13-year career and set a rushing record of 16,726 yards.",
+      "answer": "Walter Payton"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Apple introduced this family of home computers in 1984.",
+      "answer": "Macintosh"
+    }
+  ]
+}

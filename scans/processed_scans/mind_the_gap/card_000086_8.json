@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000086_8",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This show hosted by Dick Clark ran for many years highlighting popular songs and dances.",
+      "answer": "American Bandstand"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What cowboy character was used in tobacco advertisements from 1954 to 1999?",
+      "answer": "The Marlboro Man"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What country star made her mark in music with hits such as \"Crazy\" and \"I Fall to Pieces\"?",
+      "answer": "Patsy Cline"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the codename of the atomic bomb development program by U.S., British, and Canadian efforts?",
+      "answer": "Manhattan Project"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What happened when someone \"bought the farm\"?",
+      "answer": "He/she died"
+    }
+  ]
+}

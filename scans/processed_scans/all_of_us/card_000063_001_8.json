@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actress stars in the 1972 film \"Cabaret\"?",
+      "answer": "Liza Minnelli"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He released the album \"Touching You, Touching Me\" in 1969.",
+      "answer": "Neil Diamond"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Whose good-natured but naive antics are the constant annoyance of Gunnery Sgt. Vince Carter?",
+      "answer": "Gomer Pyle"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What type of animal was the first in space in 1957?",
+      "answer": "Dog"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What major-league team did Jackie Robinson join in 1947?",
+      "answer": "Brooklyn Dodgers™"
+    }
+  ]
+}

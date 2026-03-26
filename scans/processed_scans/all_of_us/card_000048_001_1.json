@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_1",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "These large, sometimes elaborate hair ties were popular in the '90s.",
+      "answer": "Scrunchies"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In the 2000s, cable TV providers started to offer this feature, which helped usher in the streaming era.",
+      "answer": "On-demand TV"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Classically trained as a pianist, what R&B artist composed the music for the 2011 Broadway play \"Stick Fly\"?",
+      "answer": "Alicia Keys"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Sammy Sosa is known for playing which sport?",
+      "answer": "Baseball"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Cool Runnings\" features a team of bobsledders from this country.",
+      "answer": "Jamaica"
+    }
+  ]
+}

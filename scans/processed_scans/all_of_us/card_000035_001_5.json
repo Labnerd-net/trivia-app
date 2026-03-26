@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What American actor was banned from entering China due to his role in 'Seven Years in Tibet'?",
+      "answer": "Brad Pitt"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which group performed the 1986 number 1 single 'Venus'?",
+      "answer": "Bananarama"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Girls in the '80s went crazy for these minimal, brightly colored plastic shoes.",
+      "answer": "Jelly shoes"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Jonathan Smith is an earthbound angel who befriends retired police officer Mark Gordon in what television drama series?",
+      "answer": "Highway to Heaven"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1980, the United States boycotted the Olympics occurring in what city?",
+      "answer": "Moscow"
+    }
+  ]
+}

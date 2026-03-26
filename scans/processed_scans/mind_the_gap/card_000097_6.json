@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of the Sandra Bullock movie based on the real-life adoption story of NFL player Michael Ohe.",
+      "answer": "The Blind Side"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This technology, bought by Microsoft for $8.5 billion dollars in 2011, thrilled long-distance grandparents.",
+      "answer": "Skype"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What banjo-wielding British folk rock group had us all jamming out to \"I Will Wait\" in 2012?",
+      "answer": "Mumford and Sons"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What British artist is known for his graffiti works and pranks, notably when \"Girl with Balloon\" began to shred shortly after being bought for £1M?",
+      "answer": "Banksy"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did OTP mean?",
+      "answer": "One True Pairing"
+    }
+  ]
+}

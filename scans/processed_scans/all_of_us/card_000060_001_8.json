@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_8",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "He released the 2016 album \"The Life of Pablo.\"",
+      "answer": "Kanye West"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This former first lady of the United States released the best-selling book \"Becoming\" in 2018.",
+      "answer": "Michelle Obama"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Online or in text messages, \"TBH\" means what?",
+      "answer": "\"To be honest\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This YouTube® makeup enthusiast also appears in the \"Afterschooled\" series.",
+      "answer": "Summer McKeen"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "LeBron James is known for what sport?",
+      "answer": "Basketball"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000125_356",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state has the most unemployed dancers?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who answered questions about wife Lauren Holly with: \"Beep, access denied. Beep, access denied\"?",
+      "answer": "Jim Carrey"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What's the most \"scrutinized\" film in history, according to the New York Times?",
+      "answer": "The Zapruder film"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What car company was the leading worldwide advocate for a universal chassis, by 1998?",
+      "answer": "Ford Motor Company"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA star retired for the third time on May 14, 1996?",
+      "answer": "Magic Johnson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What former chairman of the Joint Chiefs was earning $6 million per year on the lecture circuit by 1997?",
+      "answer": "Colin Powell"
+    }
+  ]
+}

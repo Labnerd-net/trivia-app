@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000081_10",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "The climax of this movie featured an arena full of fans quacking in unison.",
+      "answer": "The Mighty Ducks"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Parents of millennials coined this phrase to describe time their kids spent with tech devices.",
+      "answer": "Screen time"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Boyz II Men, one of the top R&B and hip-hop groups of all-time, originated in what city?",
+      "answer": "Philadelphia"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In 1999, which Williams sister was the first to win the Grand Slam singles title?",
+      "answer": "Serena Williams"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "'Smiling's my favorite' came from this holiday classic.",
+      "answer": "Elf"
+    }
+  ]
+}

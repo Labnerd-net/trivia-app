@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_08",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 80's TV show starred Cybill Shepherd and Bruce Willis as private detectives?",
+      "answer": "Moonlighting"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What McDonald's villain was present in 70's and 80's advertisements, always creeping around looking for an opportunity to steal sandwiches?",
+      "answer": "Hamburglar"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the lyric: \"We had joy, we had fun,\"",
+      "answer": "\"we had seasons in the sun.\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What unstable Ugandan military dictator made headlines in the '70s with international hostage-taking and cruel, murderous treatment of his citizens?",
+      "answer": "Idi Amin"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the 80s, if something was \"wack\" what did that mean?",
+      "answer": "It was bad, stupid, low quality, lousy, lame"
+    }
+  ]
+}

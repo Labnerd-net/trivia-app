@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000114_487",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation's pilsner-swilling populace downs the most beer per person?",
+      "answer": "The Czech Republic's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What vegetarian vampire made life miserable for Danger Mouse?",
+      "answer": "Count Duckula"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What were relatives of the 84 who died in the MGM Grand Hotel fire surprised to learn the hotel was not equipped with?",
+      "answer": "Smoke alarms"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many minutes can the average rat in a New York City sewer hold its breath underwater?",
+      "answer": "Three"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who popped out to shortstop in his last at-bat after 24 record-setting seasons, in 1928?",
+      "answer": "Ty Cobb"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What brand is the world's largest supplier of matzoh?",
+      "answer": "Manischewitz"
+    }
+  ]
+}

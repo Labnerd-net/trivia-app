@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000120_39",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What West African nation's name means 'lion mountain'?",
+      "answer": "Sierra Leone's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie was summed up as 'five women whose principal distinguishing characteristic is that they have different names'?",
+      "answer": "Spice World"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. military medal is nicknamed the 'Blue Max'?",
+      "answer": "The Congressional Medal of Honor"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of sites was the Superfund created to clean up, in 1980?",
+      "answer": "Hazardous waste sites"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Seattle slugger paid off a steak dinner bet he lost to Lou Piniella with a 1,200-pound Hereford cow?",
+      "answer": "Ken Griffey Jr."
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 'anonymous' insider novel did political pundit Joe Klein finally admit authoring?",
+      "answer": "Primary Colors"
+    }
+  ]
+}

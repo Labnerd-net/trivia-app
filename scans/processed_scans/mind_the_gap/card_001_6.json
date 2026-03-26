@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "The Honey Boo Boo show was a major circus and viewers jumped on the crazy train to watch. What was her mom's name on the show?",
+      "answer": "Mama June"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the hero of the book series by Rick Riordan that follows a boy demigod, who is the son of Poseidon and a mortal woman.",
+      "answer": "Percy Jackson"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Finish the lyrics: \"Welcome to the final show, __________.\"",
+      "answer": "\"hope you're wearing your best clothes.\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the person convicted of murdering her ex-boyfriend in 2008, leaving incriminating evidence on a digital camera in his apartment?",
+      "answer": "Jodi Arias"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was meant by the phrase, \"Turned down for what\"?",
+      "answer": "Excitement for upcoming events"
+    }
+  ]
+}

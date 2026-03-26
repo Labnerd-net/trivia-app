@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_02",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "When the Fresh Prince lived in Philadelphia, where did he spend most of his days?",
+      "answer": "On the playground"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What aerobics instructor was best known for his workout series 'Sweatin' to the Oldies'?",
+      "answer": "Richard Simmons"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who became 'The Artist Formerly Known As' due to a contract dispute with Warner Brothers?",
+      "answer": "Prince"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the Soviet counterpart to the CIA, which deeply embedded its agents in the US during the Cold War.",
+      "answer": "KGB"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did it mean 'to diss' someone?",
+      "answer": "To be insulting or disrespectful"
+    }
+  ]
+}

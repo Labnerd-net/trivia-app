@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_473",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation tries to lure tourists with the ad, \"We've been fascinating travelers since 8,000 B.C.\"?",
+      "answer": "Turkey"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Miramax change the title Scary Movie to, in 1996?",
+      "answer": "Scream"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What retired pathologist calls himself an \"obitiatrist\"?",
+      "answer": "Dr. Jack Kevorkian"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many feet tall are most cattle at the shoulder?",
+      "answer": "Five"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What had George Robson just won in 1946 when he quipped, \"All I had to do is keep turning left\"?",
+      "answer": "The Indianapolis 500"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What actor did NASA Captain Jim Lovell dub \"a closet astronaut\"?",
+      "answer": "Tom Hanks"
+    }
+  ]
+}

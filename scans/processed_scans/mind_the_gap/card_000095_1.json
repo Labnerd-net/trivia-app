@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of the actor/singer that played Austin Moon in Austin and Ally?",
+      "answer": "Ross Lynch"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2009, what popular crowd-sourcing company allowed users to fund an idea or invention by providing differently levels of buy-ins?",
+      "answer": "Kickstarter"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2019, this R&B singer was arrested on federal charges alleging sex crimes and obstruction of justice. He faced a total of 18 federal counts.",
+      "answer": "R. Kelly"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What TV show did Meghan Markle have to quit in order to marry into the Royal Family?",
+      "answer": "Suits"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did \"clapback\" mean?",
+      "answer": "Getting back at someone with a witty response for being confronted or insulted"
+    }
+  ]
+}

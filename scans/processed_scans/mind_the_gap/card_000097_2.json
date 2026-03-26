@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name of the dog in Dog with a Blog?",
+      "answer": "Stan"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In this game, players assumed the roles of pioneers, each attempting to build and develop holdings while trading and acquiring resources.",
+      "answer": "The Settlers of Catan"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What song by Pharrell Williams spent ten weeks on top of the Billboard Top 100 chart in 2014?",
+      "answer": "\"Happy\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "On April 29, 2011, who said their vows in Westminster Abbey before an estimated television audience of two billion people worldwide?",
+      "answer": "Prince William and Kate Middleton"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"Who is Joe?\"",
+      "answer": "Joe MAMA"
+    }
+  ]
+}

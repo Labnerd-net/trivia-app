@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "On what 70's show would you enjoy the comedic timing of psychologist Dr. Robert Hartley, the antics of his nutty patients, and his wife Emily?",
+      "answer": "The Bob Newhart Show"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What U.S. male diver, considered the greatest of all time, was a gold medalist in the 1984 and 1988 Olympic games?",
+      "answer": "Greg Louganis"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Scot had 80's hits with the catchy tunes \"Morning Train (Nine to Five)\" and \"Strut\"?",
+      "answer": "Sheena Easton"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1979, where in the U.S. did a nuclear power plant accident occur that spread fear about a possible disaster?",
+      "answer": "Three Mile Island (Pennsylvania)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What TV character used to say, \"Na-nu, na-nu\"?",
+      "answer": "Mork"
+    }
+  ]
+}

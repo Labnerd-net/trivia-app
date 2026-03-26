@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000121_160",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What singer's February 6 birthdate is a national holiday in Jamaica?",
+      "answer": "Bob Marley's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who claimed she's not offended by dumb blonde jokes because she's 'not dumb' and 'not blonde'?",
+      "answer": "Dolly Parton"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was an independent country for 10 years before becoming a U.S. state in 1845?",
+      "answer": "Texas"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of mail surpassed U.S. first class postal service in volume for the first time, in 1998?",
+      "answer": "E-mail"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Padre's .394 batting average in 1994 is the best in the majors in 57 years?",
+      "answer": "Tony Gwynn's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was it illegal to wear while walking on the Coney Island Boardwalk in the 1930s?",
+      "answer": "A bathing suit"
+    }
+  ]
+}

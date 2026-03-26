@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000053_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This social media sensation had users having a bucket of water poured over them to promote awareness of ALS.",
+      "answer": "Ice Bucket Challenge"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "He became the first sitting US president to visit Cuba since the 1920s.",
+      "answer": "Barack Obama"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "\"We Are Never Ever Getting Back Together\" was a hit for which singer?",
+      "answer": "Taylor Swift"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What animated series features a race of magical humanoids called the Crystal Gems?",
+      "answer": "Steven Universe"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which film franchise does the adorable robot called BB-8 appear in?",
+      "answer": "Star Wars"
+    }
+  ]
+}

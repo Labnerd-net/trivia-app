@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000041_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actor stars in 1984's \"Beverly Hills Cop\"?",
+      "answer": "Eddie Murphy"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1980, which group wanted to be taken to \"Funkytown\"?",
+      "answer": "Lipps Inc."
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What memory game featured a ring of sequential flashing lights?",
+      "answer": "Simon"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "During the Reagan presidency, who served as vice president?",
+      "answer": "George H. W. Bush"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Dee Snider was the big-haired front man for what '80s glam rock band?",
+      "answer": "Twisted Sister"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This hip-hop group features the rappers Offset, Takeoff, and Quavo and is known for hits like 'Bad and Boujee,' 'Stir Fry,' and 'Walk It Talk It.'",
+      "answer": "Migos"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Huey, Dewey, and Louie are nephews of Scrooge McDuck in what cartoon series?",
+      "answer": "DuckTales"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What sport is James Harden known for playing?",
+      "answer": "Basketball"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Designed to test the validity of common beliefs, this science-experiment-based series was revived in 2017 with new hosts.",
+      "answer": "MythBusters"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Featuring Chris Pratt, Bryce Dallas Howard, and Rafe Spall among its cast members, 2018's 'Fallen Kingdom' belongs to what long-running film series?",
+      "answer": "Jurassic World / Jurassic Park"
+    }
+  ]
+}

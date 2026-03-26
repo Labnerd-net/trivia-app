@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "001_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This singer got her start in showbiz by appearing on 'Barney & Friends' and later released hits like 'The Heart Wants What It Wants.'",
+      "answer": "Selena Gomez"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "'Hidden Figures' is a 2016 film about African American mathematicians working at which US agency?",
+      "answer": "NASA"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Becoming a popular meme, this phrase from the movie 'Friday' had everyone saying bye to whom?",
+      "answer": "Felicia"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Jimmy Donaldson is better known to his millions of YouTube subscribers under what account name?",
+      "answer": "MrBeast"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This film, inspired by the novel 'The Scarlett Letter,' stars Emma Stone as a high school student who lies about losing her virginity to improve her social standing.",
+      "answer": "Easy A"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000089_4",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who was the original host of TV's Kids Say the Darndest Things, an offshoot of his show House Party?",
+      "answer": "Art Linkletter"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What book by S.E. Hinton was published in 1967 when she was only 18 years old?",
+      "answer": "The Outsiders"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Finish the next line in Gale Garnett's 1964 song, 'We'll Sing in the Sunshine.'",
+      "answer": "\"We'll laugh every day.\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "During WWII, scientists discovered that wounded soldiers could be given this temporary substitute for whole blood, reconstituted with water and easier to transport.",
+      "answer": "Plasma"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was meant if a person said something was 'gobbledygook'?",
+      "answer": "Speaking nonsense; unintelligible"
+    }
+  ]
+}

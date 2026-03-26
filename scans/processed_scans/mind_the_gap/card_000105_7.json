@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000105_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name three of the four girls Mrs. Garrett was housemother to on the sitcom Facts of Life.",
+      "answer": "Blair, Jo, Tootie, Natalie"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "On Saturday Night Live, what comedian hosted \"Mr. Robinson's Neighborhood,\" a spoof of Mr. Rogers?",
+      "answer": "Eddie Murphy"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What vocal jazz group scored a Grammy with \"The Boy from New York City\" in 1981?",
+      "answer": "Manhattan Transfer"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did the press nickname the 1988 Winter Olympic ice skating competition between Canadian Brian Orser and American Brian Boitano?",
+      "answer": "\"Battle of the Brians\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the company whose ad campaign stated, \"When it absolutely, positively has to be there overnight.\"",
+      "answer": "Federal Express (FedEx)"
+    }
+  ]
+}

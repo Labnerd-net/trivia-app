@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000038_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This movie is a Stephen King adaptation about a rabid dog.",
+      "answer": "Cujo"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "A pair of federal agents investigate the paranormal in what sci-fi drama?",
+      "answer": "The X-Files"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What company produced the most widely used self-developing camera system?",
+      "answer": "Polaroid"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "\"Don't You Want Me\" was a number 1 hit single from what electropop group?",
+      "answer": "The Human League"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What media mogul famously sported a smoking jacket and sailor's cap?",
+      "answer": "Hugh Hefner"
+    }
+  ]
+}

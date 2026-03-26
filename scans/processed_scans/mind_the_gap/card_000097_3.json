@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_3",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What actress was featured in the 2015 live-action Cinderella?",
+      "answer": "Lily James"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the style of running in which a person or character runs leaning forward with their arms stretched out behind them.",
+      "answer": "Naruto run"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This artist became a superstar with her first hit singles \"Poker Face\" and \"Just Dance.\"",
+      "answer": "Lady Gaga"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What oil rig was rocked in a nighttime explosion in the Gulf of Mexico on April 20, 2010?",
+      "answer": "Deepwater Horizon"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did \"LMR\" stand for on Snapchat?",
+      "answer": "Like My Recent"
+    }
+  ]
+}

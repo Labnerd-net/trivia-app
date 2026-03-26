@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000046_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Baz Luhrmann-directed film from 2001 tells the story of a young English writer who falls in love with a cabaret star in Paris.",
+      "answer": "Moulin Rouge!"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The rapper Biz Markie sings in a famed chorus, \"But you say he's\" what?",
+      "answer": "Just a friend"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actress was a teen idol after starring in \"10 Things I Hate about You.\"",
+      "answer": "Julia Stiles"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actor provided the voices for multiple recurring characters on \"The Simpsons,\" including Lionel Hutz and Troy McClure.",
+      "answer": "Phil Hartman"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which Disney® film features the song \"A Whole New World\"?",
+      "answer": "Aladdin"
+    }
+  ]
+}

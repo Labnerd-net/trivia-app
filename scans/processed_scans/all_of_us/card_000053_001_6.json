@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000053_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This song by Pharrell Williams was released as a single on the soundtrack to the movie \"Despicable Me 2\".",
+      "answer": "Happy"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This slang word expresses excitement, approval, or surprise, often when doing a dance move or throwing something.",
+      "answer": "Yeet"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Acquired by Twitter in 2012, what microblogging app features short, looping video content?",
+      "answer": "Vine"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "2017's \"Jumanji: Welcome to the Jungle\" features which actor and former wrestler as Dr. Smolder Bravestone?",
+      "answer": "Dwayne \"The Rock\" Johnson"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Windows is a computer system developed by this company.",
+      "answer": "Microsoft"
+    }
+  ]
+}

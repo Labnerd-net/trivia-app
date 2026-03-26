@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000119_327",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the only country in Southeast Asia to never be ruled by a European nation?",
+      "answer": "Thailand"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV show centered around a car with a 300 mph cruising speed?",
+      "answer": "Knight Rider"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Beatles song was played as Prince Charles knighted two Hong Kong men the day before China took control, in 1997?",
+      "answer": "Yesterday"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What kitchen invention took the top prize at the 1893 Chicago World's Fair?",
+      "answer": "The dishwasher"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the first defenseman to win the NHL point-scoring title?",
+      "answer": "Bobby Orr"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What future rap star did Charlie Finley hire as a dancing batboy to entertain members of the Athletics?",
+      "answer": "M.C. Hammer"
+    }
+  ]
+}

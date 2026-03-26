@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What team did Mickey Mantle play for?",
+      "answer": "New York Yankees"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "English singer-songwriter Peter Noone kicked off his career in this popular group.",
+      "answer": "Herman's Hermits"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The 1957 book 'On the Road' was written by whom?",
+      "answer": "Jack Kerouac"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Charlton Heston stars in this dystopian 1973 film, which featured an odd new food.",
+      "answer": "Soylent Green"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A trio of troubled hippies transform into undercover cops in what popular drama?",
+      "answer": "The Mod Squad"
+    }
+  ]
+}

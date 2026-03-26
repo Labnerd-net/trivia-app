@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "These NASA missions brought astronauts to the moon.",
+      "answer": "Apollo"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 'Three's Company,' what is the name of the male roommate?",
+      "answer": "Jack Tripper"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Becoming one of the most iconic '70s soul singers, he rose to prominence with his 1968 recording of 'I Heard It through the Grapevine.'",
+      "answer": "Marvin Gaye"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In Super Bowl IV, the heavily favored Minnesota Vikings were beaten by this team.",
+      "answer": "Kansas City Chiefs"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which actor appeared as James Bond in 1965's 'Thunderball'?",
+      "answer": "Sean Connery"
+    }
+  ]
+}

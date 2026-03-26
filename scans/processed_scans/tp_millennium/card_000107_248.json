@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_248",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What does a mosque's mihrab indicate the direction to?",
+      "answer": "Mecca"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What calypso singer founded USA For Africa, the charity that waxed We Are the World?",
+      "answer": "Harry Belafonte"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What army of guerrillas dug 200 miles of tunnels to successfully elude U.S. forces?",
+      "answer": "The Vietcong"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What are the \"magic\" chunks of data that Web applications pass through to browsers to track unique information?",
+      "answer": "Cookies"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was ranked number one in women's tennis for a record 374 weeks, until 1997?",
+      "answer": "Steffi Graf"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What imprisoned cult leader has a son named Zezozose Zadfrack?",
+      "answer": "Charles Manson"
+    }
+  ]
+}

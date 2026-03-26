@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_10",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "A veteran Disney actor, who starred in the 1976 movie The Shaggy D.A.?",
+      "answer": "Dean Jones"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did CD mean?",
+      "answer": "Compact Disc"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the group who charted with 'Mr. Blue Sky,' 'Don't Bring Me Down,' and 'Evil Woman.'",
+      "answer": "ELO (Electric Light Orchestra)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Time magazine named it 'Man of the Year' in 1982.",
+      "answer": "Personal computer"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What disheveled TV detective always interjected the phrase, 'Just one more thing.'?",
+      "answer": "Columbo"
+    }
+  ]
+}

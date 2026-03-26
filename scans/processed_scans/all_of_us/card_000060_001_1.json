@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Instagram® marketing entrepreneurs are also known by what term?",
+      "answer": "Influencers"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Who is the first social media star to have a wax statue at Madame Tussauds in New York?",
+      "answer": "Jenna Marbles"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Miley Cyrus was briefly married to this star, known for his role as Gale Hawthorne in \"The Hunger Games\" films.",
+      "answer": "Liam Hemsworth"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This TV network features programming about real estate and design.",
+      "answer": "HGTV®"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The act of using a mobile phone camera to take a picture of oneself is called what?",
+      "answer": "Taking a selfie"
+    }
+  ]
+}

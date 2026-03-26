@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000113_216",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. Christian sect spawned adolescent gangs named Antiques, Crickets and Pilgrims?",
+      "answer": "The Amish"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who topped a 1998 survey of Las Vegas residents as the worst hotel entertainer?",
+      "answer": "Wayne Newton"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was said to be the final casualty of the U.S. Civil War, killed five days after it ended?",
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What insect family has the most varieties, making up 290,000 of the 751,000 insect classes?",
+      "answer": "The beetle"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many Super Bowls did San Francisco lose, through 1998?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What two kids starred in school reading primers in 1930?",
+      "answer": "Dick and Jane"
+    }
+  ]
+}

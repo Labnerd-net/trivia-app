@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_3",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who was known as the \"Man Of A Thousand Voices\" for his uniquely expressive vocal range, especially for cartoon voices?",
+      "answer": "Mel Blanc"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous animators were the genius behind much-beloved cartoon series Tom and Jerry?",
+      "answer": "Hanna and Barbera"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the theme song for cowboy stars Roy Rogers and Dale Evans?",
+      "answer": "\"Happy Trails\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What former fighter pilot was the first to break the sound barrier in the Bell X-1 rocket plane?",
+      "answer": "Chuck Yeager"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was going on if someone had a \"hissy\"?",
+      "answer": "A fit of anger"
+    }
+  ]
+}

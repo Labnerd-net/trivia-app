@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_10",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What hit TV show starred James Garner as an ex-con turned private investigator?",
+      "answer": "The Rockford Files"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What clothing line rose to popularity in the 80s and 90s with brightly colored sweaters and the slogan, 'United Colors'?",
+      "answer": "Benetton"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Paul Simon provided this number of ways to leave your lover.",
+      "answer": "Fifty"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the name of the first space shuttle, which was launched on April 12, 1981?",
+      "answer": "The Columbia"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Rioting and police brutality in LA prompted Rodney King to utter this plea.",
+      "answer": "'Can we all just get along?'"
+    }
+  ]
+}

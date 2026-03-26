@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "He had a hit with 1995's 'Gangsta's Paradise.'",
+      "answer": "Coolio"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "This 1995 coming-of-age film follows a group of record-store employees and features performances by Liv Tyler and Renée Zellweger.",
+      "answer": "Empire Records"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "What edgy police procedural drama garnered acclaim and criticism for its depiction of the gritty nature of New York police work?",
+      "answer": "NYPD Blue"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "She had a hit in 1989 with the single 'Nothing Compares 2 U.'",
+      "answer": "Sinéad O'Connor"
+    },
+    {
+      "category": "Gen X",
+      "color": "green",
+      "question": "What American sitcom stars a Jewish fashion queen from Flushing named Fran Fine?",
+      "answer": "The Nanny"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This pop star is known for his retro-styled performances, his Super Bowl 48 performance, and wide musical range.",
+      "answer": "Bruno Mars"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Often compared to \"The Twilight Zone,\" what surreal anthology premiered in Britain before coming to Netflix?",
+      "answer": "Black Mirror"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "It's a kids' show about the Alstons and Binyah Binyah.",
+      "answer": "Gullah Gullah Island"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Her acting career took off when she played Hermione in the \"Harry Potter\" films.",
+      "answer": "Emma Watson"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2007 film follows the story of a Texan who recovers a briefcase full of cash from a drug deal gone wrong and his attempt to outrun a notorious hitman.",
+      "answer": "No Country for Old Men"
+    }
+  ]
+}

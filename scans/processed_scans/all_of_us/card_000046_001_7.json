@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000046_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "From 1991 to 1996, this vocal a cappella group featured on the kids' geography game show \"Where in the World Is Carmen Sandiego?\"",
+      "answer": "Rockapella"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Set in the Windy City, this 2002 musical film features performances by Catherine Zeta-Jones, Renée Zellweger, and Richard Gere.",
+      "answer": "Chicago"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Featuring Billie Joe Armstrong, this band helped define the mid-'90s punk sound.",
+      "answer": "Green Day"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What R&B artist was an early mentor to Justin Bieber?",
+      "answer": "Usher"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Katie Holmes stars as Joey Potter in this hit TV series, which ran from 1998 to 2003.",
+      "answer": "Dawson's Creek"
+    }
+  ]
+}

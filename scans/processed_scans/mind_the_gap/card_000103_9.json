@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_9",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1984 Rob Reiner movie, that followed a faux rock band, popularized the mockumentary-style filmmaking?",
+      "answer": "This is Spinal Tap"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1985 best-selling Nintendo game used the NES Zapper to shoot birds?",
+      "answer": "Duck Hunt"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who sang the following lyrics? 'Oh yes, they call him the Streak; Fastest thing on two feet.'",
+      "answer": "Ray Stevens"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the two dueling quarterbacks of the 70's Pittsburgh Steelers and the Dallas Cowboys.",
+      "answer": "Terry Bradshaw and Roger Staubach"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the jingle: 'Gimme a break, gimme a break, ___________.'",
+      "answer": "\"break me off a piece of that Kit Kat bar\""
+    }
+  ]
+}

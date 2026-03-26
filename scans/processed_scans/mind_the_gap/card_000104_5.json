@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "This \"easter egg\" is referenced or seen in every single episode of Seinfeld.",
+      "answer": "Superman"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 80's do-it-yourself product could add some bling and zing to your wardrobe?",
+      "answer": "BeDazzler"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "\"I Heard it Through the Grapevine\" was the favorite song of this shriveled fruit group.",
+      "answer": "The California Raisins"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What technology was introduced to consumers by JVC in 1976 that allowed them to record television shows when not at home?",
+      "answer": "VCR (with VHS tapes)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "If someone were going to the \"crib,\" where were they going?",
+      "answer": "Home"
+    }
+  ]
+}

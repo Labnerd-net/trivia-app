@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000060_001_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Who does David Schwimmer play on \"Friends\"?",
+      "answer": "Ross"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "\"Black and Yellow\" was a 2011 hit single by which rapper?",
+      "answer": "Wiz Khalifa"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This TV talent show has had a range of hosts, from Regis Philbin to Tyra Banks and Terry Crews.",
+      "answer": "\"America's Got Talent\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Jim Parsons stars as Sheldon in this series.",
+      "answer": "\"The Big Bang Theory\""
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Singer Harry Styles was a member of what group?",
+      "answer": "One Direction"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000118_363",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What town name did Kleberg County, Texas commissioners vote to replace with Heaven-o?",
+      "answer": "Hello"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sultry 1940s blonde dumped the names Constance Ockelman and Connie Keane?",
+      "answer": "Veronica Lake"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. commander-in-chief did some feminists call 'predator-in-chief'?",
+      "answer": "Bill Clinton"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What celestial objects were once referred to as 'hairy stars'?",
+      "answer": "Comets"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who retired from cycling after failing to win a sixth straight Tour de France?",
+      "answer": "Miguel Indurain"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1995 movie was initially banned in Malaysia because pigs are offensive to Muslims?",
+      "answer": "Babe"
+    }
+  ]
+}

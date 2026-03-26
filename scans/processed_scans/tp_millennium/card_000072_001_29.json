@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_29",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What did the U.S. Board on Geographic Names strip from Harpers Ferry and Marthas Vineyard?",
+      "answer": "Apostrophes"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What show's characters wrecked over 300 cars during its TV run?",
+      "answer": "The Dukes of Hazzard's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. president gave the order to have Al Capone imprisoned at any cost?",
+      "answer": "Herbert Hoover"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What country's space program became the third to send a probe to another planet, in 1998?",
+      "answer": "Japan"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What racket sport was patented in 19th-century Britain as 'Sphairistike' or 'sticky'?",
+      "answer": "Tennis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What word did Dan Quayle devote an entire chapter to, in his book of memoirs?",
+      "answer": "Potato"
+    }
+  ]
+}

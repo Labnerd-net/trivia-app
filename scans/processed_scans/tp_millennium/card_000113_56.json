@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000113_56",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What new country considered German, French and Greek as official languages, before settling on English?",
+      "answer": "The U.S."
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie has Marlon Brando attempting an Irish accent and wearing a dress?",
+      "answer": "The Missouri Breaks"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country's leader was Bill Clinton able to call direct for the first time, in 1998?",
+      "answer": "China's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did Hong Kong health honchos slaughter a million of, in hopes of containing a 1997 flu?",
+      "answer": "Chickens"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sports venue is also known as 'The Bronx Zoo'?",
+      "answer": "Yankee Stadium"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What cable channel thought Johnny Cochran would make a good co-host, in 1997?",
+      "answer": "Court TV"
+    }
+  ]
+}

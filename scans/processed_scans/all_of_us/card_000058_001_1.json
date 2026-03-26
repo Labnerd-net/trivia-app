@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000058_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This 2016 animated film tells the story of a young Polynesian girl on a mission to save her island and its people.",
+      "answer": "Moana"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which rapper released the #1 album 'Astroworld' in 2018?",
+      "answer": "Travis Scott"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Starring Adam Sandler and Jennifer Aniston, this 2019 Netflix film tells the story of a couple caught in a murder investigation.",
+      "answer": "Murder Mystery"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which singer won a Grammy for the album 'Dirty Computer' in 2018?",
+      "answer": "Janelle Monáe"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What are the first names of the Jonas Brothers?",
+      "answer": "Kevin, Joe, and Nick"
+    }
+  ]
+}

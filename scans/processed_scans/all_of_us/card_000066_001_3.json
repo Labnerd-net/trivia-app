@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This actress stars opposite Marilyn Monroe in 'Gentlemen Prefer Blondes.'",
+      "answer": "Jane Russell"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This legendary sitar player became a household name in part due to his association with George Harrison.",
+      "answer": "Ravi Shankar"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Zorro actor Guy Williams was also famous for his role as Professor John Robinson in what sci-fi series?",
+      "answer": "Lost in Space"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What pediatrician penned 'Baby and Child Care,' one of the best-selling volumes in history?",
+      "answer": "Dr. Spock"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This musical pioneer was known for hits such as 'Everybody's Talkin',' 'Without You,' and 'Coconut.'",
+      "answer": "Harry Nilsson"
+    }
+  ]
+}

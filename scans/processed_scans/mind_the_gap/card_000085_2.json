@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_2",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Besides Gilligan and the Skipper, name the five passengers on the TV show Gilligan's Island.",
+      "answer": "Thurston Howell III, Lovey Howell, Ginger, the Professor, Mary Ann"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the most famous weekly magazine for decades, primarily using photographs for Americans to view the world?",
+      "answer": "Life"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Recite the first two lines of the Troggs' 1966 version of \"Wild Thing.\"",
+      "answer": "\"Wild thing, you make my heart sing, you make everything groovy, wild thing.\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the company that GM provided with the new Scenicruiser bus in 1951, tailor-made for the enormous distances between U.S. cities.",
+      "answer": "Greyhound"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who famously encouraged the counterculture movement with the phrase, \"Turn On, Tune In, Drop Out\"?",
+      "answer": "Timothy Leary"
+    }
+  ]
+}

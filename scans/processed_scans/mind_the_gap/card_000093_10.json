@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000093_10",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In the movie The Fault in Our Stars, what illness did both teenagers have?",
+      "answer": "Cancer"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "On which social media platform did the dancing hot dog begin?",
+      "answer": "Snapchat"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the name given to Justin Bieber fans in 2010?",
+      "answer": "Beliebers"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2018, this musician and occasional judge on The Voice became one of sixteen people to earn Emmy, Grammy, Oscar, and Tony awards.",
+      "answer": "John Legend"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "If you were \"at the club rn,\" what did \"rn\" mean?",
+      "answer": "\"Right now\""
+    }
+  ]
+}

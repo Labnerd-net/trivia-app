@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000093_3",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Who snapped in Marvel's movie Infinity War?",
+      "answer": "Thanos"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2018 what was the most disliked video on YouTube?",
+      "answer": "Youtube Rewind 2018"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "As of 2020, what song by Ed Sheeran held the Guinness World Record for the most streamed song of all time?",
+      "answer": "\"Shape of You\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What extremist group became infamous after a series of online videos, leading al-Qaeda to distance itself from them for being \"too extreme\"?",
+      "answer": "ISIS"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"Weird flex, but okay\" was a phrase used in reply to what kind of statement?",
+      "answer": "Boasts or brags that most people would find either awkward, irrelevant, or just plain weird"
+    }
+  ]
+}

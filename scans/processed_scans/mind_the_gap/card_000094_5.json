@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000094_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What TV series depicted rich teenagers living in NYC's Upper East Side who couldn't hide anything from the blogger who always was watching?",
+      "answer": "Gossip Girl"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What dangerous internet challenge showed videos of teens chewing and gagging on something then daring others to do the same?",
+      "answer": "Tide Pod Challenge"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Who was the youngest female solo artist to score a No. 1 U.K. album at 17 years and 3 months of age?",
+      "answer": "Billie Eilish"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2013 what group was founded that brought attention to the racial inequalities in America?",
+      "answer": "Black Lives Matter"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"Have you ever tried shawarma?\" was a catchphrase from what movie?",
+      "answer": "The Avengers"
+    }
+  ]
+}

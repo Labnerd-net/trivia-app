@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_173",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What virus infected one in four adults in Botswana and Zimbabwe by 1998?",
+      "answer": "HIV"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Garrison Keillor say was 'the little town that time forgot, that the decades cannot improve'?",
+      "answer": "Lake Wobegon"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose operatic music did Nazis goose-step to at the Nuremburg rallies, in the 1930s?",
+      "answer": "Richard Wagner's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What drug did Freud claim could be used to wean addicts off morphine?",
+      "answer": "Cocaine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What former heavyweight champ lasted only three days in U.S. Marine boot camp, in 1997?",
+      "answer": "Riddick Bowe"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who noted: 'If you can count your millions you are not a billionaire'?",
+      "answer": "J. Paul Getty"
+    }
+  ]
+}

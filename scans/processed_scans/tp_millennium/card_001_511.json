@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_511",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What state has had mining camps called Humbug City, Sucker Flat and Jackassville?",
+      "answer": "California"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What musical did author Jonathan Larson spend seven years working on, only to die hours before its pre-Broadway opening?",
+      "answer": "Rent"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What company did Bill and Hillary Clinton form with James McDougal in the seventies?",
+      "answer": "Whitewater Development Company, Inc."
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the cheapest method of disposing of municipal solid waste?",
+      "answer": "Landfill"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What year was the first summer Olympiad televised live?",
+      "answer": "1960"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What magazine's complete output from 1888 to 1997, including 155,520 images and 175,000 pages of text, was published in a 30-CD-ROM set?",
+      "answer": "National Geographic's"
+    }
+  ]
+}

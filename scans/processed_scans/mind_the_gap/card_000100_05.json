@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_05",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What actor strutted his way across the dance floor in Saturday Night Fever?",
+      "answer": "John Travolta"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the first woman to co-anchor a network evening news show. She was an Emmy Award winner most famous for interviews with high-profile individuals.",
+      "answer": "Barbara Walters"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What scary music video was filmed in a house, an alley, and a cemetery?",
+      "answer": "\"Thriller\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was launched in 1990, revolutionizing the field of astronomy?",
+      "answer": "Hubble Space Telescope"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did inquiring minds want to know about the prime time show Dallas in 1980?",
+      "answer": "\"Who shot J.R.?\""
+    }
+  ]
+}

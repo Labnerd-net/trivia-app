@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_10",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1987, Steve Martin starred in the movie Roxanne, a modern take on Cyrano de Bergerac. Who played Roxanne?",
+      "answer": "Daryl Hannah"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What advertising character for cereal was a vampire with a Dracula accent?",
+      "answer": "Count Chocula"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What song by The Knack was the number one song of the year in 1979?",
+      "answer": "\"My Sharona\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1978, what name was chosen by the first non-Italian Pope in 455 years?",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What phrase was trademarked by LifeAlert in 1992?",
+      "answer": "\"I've fallen, and I can't get up\""
+    }
+  ]
+}

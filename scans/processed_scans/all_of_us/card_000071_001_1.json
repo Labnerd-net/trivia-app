@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000071_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Musicians Daryl Dragon and Toni Tennille made up this popular duo.",
+      "answer": "Captain & Tennille"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which actress stars in 'Kramer vs. Kramer'?",
+      "answer": "Meryl Streep"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What 1960s prime-time soap shares the name of the 1956 book from which it was adapted?",
+      "answer": "Peyton Place"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This German brand made inroads in the US car market by the early '60s.",
+      "answer": "Volkswagen"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The US returned control of this island to Japan in 1972.",
+      "answer": "Okinawa"
+    }
+  ]
+}

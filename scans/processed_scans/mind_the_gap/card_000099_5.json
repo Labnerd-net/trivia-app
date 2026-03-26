@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was Angela Bower's housekeeper in Who's the Boss?",
+      "answer": "Tony Micelli"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What British figure was on the cover of People magazine more than any other celebrity in history?",
+      "answer": "Princess Diana"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the song/video that launched MTV.",
+      "answer": "\"Video Killed the Radio Star\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Almost a foot long and weighing nearly two pounds, the first mobile phone was launched by this company in 1983.",
+      "answer": "Motorola"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the 80s, this verb was turned into the ultimate filler word and sometimes used multiple times in a single sentence.",
+      "answer": "\"Like,\" it's like. Duh."
+    }
+  ]
+}

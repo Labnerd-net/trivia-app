@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000038_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "After the film \"Jaws\" took off in 1975, this animated series featuring a shark that played the drums was produced.",
+      "answer": "Jabberjaw"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "In this action film, John McClane battles Hans Gruber.",
+      "answer": "Die Hard"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "She's an icon of the punk movement—a singer, musician, poet, and more.",
+      "answer": "Patti Smith"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "In 1990, President Bush and Soviet leader Mikhail Gorbachev signed a historic agreement to end production of what type of weapon?",
+      "answer": "Chemical"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "This '70s music icon was the lead singer of Queen.",
+      "answer": "Freddie Mercury"
+    }
+  ]
+}

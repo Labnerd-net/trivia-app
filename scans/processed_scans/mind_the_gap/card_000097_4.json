@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What British actor played a Russian who was playing an American in The Americans?",
+      "answer": "Matthew Rhys"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the first private company to launch, orbit, and recover a spacecraft, and send a spacecraft to the International Space Station?",
+      "answer": "SpaceX"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "If you loved the chart topping single, \"Radioactive,\" you had this band to thank for it.",
+      "answer": "Imagine Dragons"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2018 a soccer team in Thailand went on an outing but were trapped for days. Where did they go and why were they trapped?",
+      "answer": "Then went into a cave that then flooded."
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "If someone wanted to DM, what did that mean?",
+      "answer": "Direct message"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000112_46",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What San Francisco fixture is a favorite jumping-off point for an average of 14 people a year?",
+      "answer": "The Golden Gate Bridge"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the first solo female host of the Academy Awards ceremony?",
+      "answer": "Whoopi Goldberg"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose last words to the firing squad he faced in 1977 were: 'Let's do it'?",
+      "answer": "Gary Gilmore's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What locale in the Sunda Strait made quite a noise on August 27, 1883?",
+      "answer": "Krakatoa"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was primarily responsible for the record crowds at pregame batting practices, in 1998?",
+      "answer": "Mark McGwire"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What novelist led an investment group that bought the Minnesota Vikings in 1998?",
+      "answer": "Tom Clancy"
+    }
+  ]
+}

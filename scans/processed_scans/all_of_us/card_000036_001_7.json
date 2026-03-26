@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He was already a star when he released his solo debut, 'Off the Wall.'",
+      "answer": "Michael Jackson"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "From 1983 to 1998, what team did John Elway play for?",
+      "answer": "Denver Broncos"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "ABC ran this cartoon about an ensemble of superheroes.",
+      "answer": "Super Friends"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The first of 24 satellites to make up what system was placed into orbit in 1989?",
+      "answer": "GPS"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1984 movie is about a Soviet invasion of the US.",
+      "answer": "Red Dawn"
+    }
+  ]
+}

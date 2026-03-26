@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_1",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actress stars in \"Clarissa Explains It All,\" \"Sabrina the Teenage Witch,\" and \"Melissa & Joey.\"",
+      "answer": "Melissa Joan Hart"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "It's a band with members including Anthony Kiedis and Flea.",
+      "answer": "Red Hot Chili Peppers"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In \"There's Something about Mary,\" which actress plays the titular role?",
+      "answer": "Cameron Diaz"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Until 2014, women were not allowed to compete in which Winter Olympic event?",
+      "answer": "Ski jumping"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This singer starred in the film \"The Bodyguard.\"",
+      "answer": "Whitney Houston"
+    }
+  ]
+}

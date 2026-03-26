@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000114_597",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many residents populated Valley Park, Oklahoma in 1990, when it was the smallest incorporated place in the U.S.?",
+      "answer": "One"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Hollywood director was named after the Burt Reynolds character on Gunsmoke?",
+      "answer": "Quentin Tarantino"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What cable outfit pioneered the cable TV revolution of the 1970s?",
+      "answer": "HBO"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What fashion statement was linked to arthritis of the knees in women, in a 1998 study?",
+      "answer": "High-heeled shoes"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What board game's first ad slogan was \"A Party in a Box,\" in 1982?",
+      "answer": "Trivial Pursuit's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. president was dubbed a \"fat pantload\" by radio talk show host Don Imus?",
+      "answer": "Bill Clinton"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000121_42",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What national holiday in Mexico has picnickers munching chocolate coffins and sugar skulls?",
+      "answer": "The Day of the Dead"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What HBO talk show parody began: 'Live, on tape, from Hollywood ...'?",
+      "answer": "The Larry Sanders Show"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was posthumously awarded the title of six-star general in 1976?",
+      "answer": "George Washington"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What became the first consumer video cassette recorder in 1975, but was marketed only to professionals after 1987?",
+      "answer": "The Sony Betamax"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What company was the first to produce bottled beer in the U.S., in 1875?",
+      "answer": "Schlitz"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's Rush Limbaugh, according to an Al Franken book title?",
+      "answer": "\"A Big, Fat Idiot\""
+    }
+  ]
+}

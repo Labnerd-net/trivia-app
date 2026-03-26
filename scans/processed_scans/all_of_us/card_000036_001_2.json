@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000036_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This product's ads feature a couple in a romantic setting and compel its users to 'kiss a little longer.'",
+      "answer": "Big Red gum"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This extremely popular former first lady died in 1994.",
+      "answer": "Jacqueline Kennedy Onassis"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which glam metal band released the 1990 hit 'Cherry Pie'?",
+      "answer": "Warrant"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He cemented his '70s fame playing Randle in 'One Flew Over the Cuckoo's Nest.'",
+      "answer": "Jack Nicholson"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What 'Diff'rent Strokes' spin-off series is set in an all-girls boarding school in Peekskill, New York?",
+      "answer": "The Facts of Life"
+    }
+  ]
+}

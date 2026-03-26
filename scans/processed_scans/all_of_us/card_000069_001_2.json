@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "On \"Gilligan's Island,\" Capt. Jonas Grumby of the SS \"Minnow\" is better known by what nickname?",
+      "answer": "The Skipper"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This star climbed the charts with songs such as \"Mack the Knife,\" \"Splish Splash,\" and \"Beyond the Sea.\"",
+      "answer": "Bobby Darin"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Starring Clint Eastwood and popularizing the spaghetti western genre, this film is the first installment in an unintended trilogy.",
+      "answer": "A Fistful of Dollars"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "With a price tag of more than $3,000, Motorola's DynaTAC was the first consumer what?",
+      "answer": "Cell phone"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After their hit 1958 single, \"Tom Dooley,\" this group went on to have a major influence on the early 1960s folk revival.",
+      "answer": "The Kingston Trio"
+    }
+  ]
+}

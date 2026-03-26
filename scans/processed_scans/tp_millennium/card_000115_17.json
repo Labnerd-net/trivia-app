@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000115_17",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What did France's oldest woman, Jeanne Louise Calment, give up after 98 years, in 1993?",
+      "answer": "Cigarettes"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What character gave up a job at the Cheers bar to write a novel?",
+      "answer": "Diane Chambers"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What New York City cleric warned Catholics that seeing Carroll Baker in Baby Doll was a sin?",
+      "answer": "Cardinal Spellman"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What brand name drug is most often prescribed to treat attention deficit disorder?",
+      "answer": "Ritalin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What clean-shaven 6-foot-6 star is the shortest player to top the NBA in rebounding?",
+      "answer": "Charles Barkley"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. president is the focus of \"cretins' corner\" in Havana's Museum of the Revolution?",
+      "answer": "Ronald Reagan"
+    }
+  ]
+}

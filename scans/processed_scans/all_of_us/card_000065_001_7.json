@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The Archies had a hit in 1969 with this bubblegum classic.",
+      "answer": "Sugar, Sugar"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What creepy, kooky TV series lasted only 2 seasons?",
+      "answer": "The Addams Family"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After 57 tours with the USO, what celebrated entertainer was declared an honorary veteran?",
+      "answer": "Bob Hope"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Granddaughter of a notable publisher, she was convicted of and later pardoned for crimes she committed on behalf of a terrorist group that kidnapped her.",
+      "answer": "Patty Hearst"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which comedy group released a 1975 film about the Holy Grail?",
+      "answer": "Monty Python"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000079_6",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Elle Woods was the main character in what film?",
+      "answer": "Legally Blonde"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In the early 2000s, what type of connection was replaced by broadband?",
+      "answer": "Dial-up"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What song did Kelly Clarkson sing when she won the first season of American Idol?",
+      "answer": "\"A Moment Like This\""
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "A statue of this man was torn down as a symbol of the end of the battle of Baghdad.",
+      "answer": "Saddam Hussein"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In what 1993 movie would you hear the line, \"You're killing me Smalls!\"?",
+      "answer": "The Sandlot"
+    }
+  ]
+}

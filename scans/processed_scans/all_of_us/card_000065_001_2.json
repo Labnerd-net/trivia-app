@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This long-running English blues-rock group has famously featured notable players including Eric Clapton, Jeff Beck, and Jimmy Page.",
+      "answer": "The Yardbirds"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Carl Betz plays Dr. Alex Stone on \"The Donna Reed Show.\" What type of doctor is he?",
+      "answer": "Pediatrician"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed the film \"A Clockwork Orange\"?",
+      "answer": "Stanley Kubrick"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which US president was elected in 1952?",
+      "answer": "Dwight D. Eisenhower"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A symbol of the darkest fears of the Cold War era, these structures were installed below many buildings throughout the US and elsewhere.",
+      "answer": "Fallout shelters"
+    }
+  ]
+}

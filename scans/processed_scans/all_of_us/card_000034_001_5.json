@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What Queen hit with a signature rhythm is still heard in sports arenas today?",
+      "answer": "We Will Rock You"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In 1997, this famous golfer became the youngest ever to win the Masters Tournament.",
+      "answer": "Tiger Woods"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The 4 main characters from 'Teenage Mutant Ninja Turtles' are all named after famous what?",
+      "answer": "Renaissance artists"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "On the 'Arsenio Hall Show,' a special section of the audience is called a what?",
+      "answer": "Dog Pound"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Completing the original trilogy, this 'Star Wars' film was released in 1983.",
+      "answer": "Return of the Jedi"
+    }
+  ]
+}

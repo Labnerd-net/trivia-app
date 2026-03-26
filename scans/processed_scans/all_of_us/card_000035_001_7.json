@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which rapper released the classic 1992 debut album 'The Chronic'?",
+      "answer": "Dr. Dre"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He played the lead in films '...And Justice for All' and 'Scarface.'",
+      "answer": "Al Pacino"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This buddy sitcom stars Bronson Pinchot and Mark Linn-Baker as a pair of cousins living in Chicago.",
+      "answer": "Perfect Strangers"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "One could own a life-size replica of ALF or sport E.T. on a lunch box thanks to a marketing trend known as what?",
+      "answer": "Merchandising"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The United States invaded this Caribbean island nation in October 1983.",
+      "answer": "Grenada"
+    }
+  ]
+}

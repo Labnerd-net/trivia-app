@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "She won an Academy Award® for playing Mary Poppins.",
+      "answer": "Julie Andrews"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which singer released the iconic 1970s albums \"Tea for the Tillerman\" and \"Teaser and the Firecat\"?",
+      "answer": "Cat Stevens"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After experiencing a catastrophic malfunction, what NASA lunar mission safely returned to Earth?",
+      "answer": "Apollo 13"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which US president created Medicare?",
+      "answer": "Johnson"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "On \"Gilligan's Island,\" the millionaire castaway is named what?",
+      "answer": "Thurston Howell III"
+    }
+  ]
+}

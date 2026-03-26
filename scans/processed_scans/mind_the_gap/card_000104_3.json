@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What TV detective was portrayed by Telly Savalas, sucking on a lollipop instead of a cigarette?",
+      "answer": "Kojak"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the talk show host known for her trademark red-rimmed glasses.",
+      "answer": "Sally Jessy Raphael"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What comedian upstaged Paul Simon in his own music video for \"You Can Call Me Al\"?",
+      "answer": "Chevy Chase"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1974, what daredevil tried to jump the Snake River Canyon in Idaho?",
+      "answer": "Evel Knievel"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the closing scene of what hit 70's TV show would you hear, \"Goodnight John-Boy\"?",
+      "answer": "The Waltons"
+    }
+  ]
+}

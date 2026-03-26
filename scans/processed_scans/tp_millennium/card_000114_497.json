@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000114_497",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state's official sport is mushing?",
+      "answer": "Alaska's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What former member of Crosby, Stills, Nash and Young waxed If Only I Could Remember My Name and It's All Coming Back to Me Now?",
+      "answer": "David Crosby"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did African-American children in Chicago admire as much as Jesus in a 1996 poll?",
+      "answer": "Michael Jordan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What continent must deal with more than half of all AIDS victims worldwide?",
+      "answer": "Africa"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sports announcer hung his toupee on a hat rack when he was off-camera?",
+      "answer": "Howard Cosell"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Disneyland put in animatronic women's hands to make the Caribbean pirates chasing them seem hungry, rather than lusty?",
+      "answer": "Food"
+    }
+  ]
+}

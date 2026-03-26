@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000091_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What American comedy TV show premiered in 2014, a spinoff of the show Boy Meets World?",
+      "answer": "Girl Meets World"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What \"challenge\" became an internet sensation in 2014, raising money and awareness for ALS?",
+      "answer": "Ice Bucket Challenge"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What band sued French political party UMP, who was advocating anti-piracy legislation, for using their song \"Kids\" without permission?",
+      "answer": "MGMT"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "On January 18, 2010, President Obama became the first president in history to use this social media platform.",
+      "answer": "He tweeted on Twitter"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What popular beauty store's tagline was \"Let's Beauty Together\"?",
+      "answer": "Sephora"
+    }
+  ]
+}

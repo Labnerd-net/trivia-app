@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000122_371",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Arab capital has a name that means \"God's gift\"?",
+      "answer": "Baghdad"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What became the first totally new U.S. movie studio in 50 years in 1995?",
+      "answer": "Dreamworks SKG"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country used weather-borne balloons to drop more than a hundred bombs on North America during World War II?",
+      "answer": "Japan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does a chrematophobic bank president fear?",
+      "answer": "Money"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What golfer beat Porky Oliver at the 1946 PGA Championship to win his first major?",
+      "answer": "Ben Hogan"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What color did Dennis Rodman dye his hair in support of women with breast cancer, in 1996?",
+      "answer": "Pink"
+    }
+  ]
+}

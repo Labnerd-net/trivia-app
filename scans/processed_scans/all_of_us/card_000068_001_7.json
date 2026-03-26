@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"Cat on a Hot Tin Roof\" stars Paul Newman and this actress.",
+      "answer": "Elizabeth Taylor"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This type of car became a symbol for the growing suburbs.",
+      "answer": "Station wagons"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which member of the Monkees was the first to leave the group?",
+      "answer": "Peter Tork"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Cars were lined up at gas stations in 1973 because of this event.",
+      "answer": "Oil crisis or embargo"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What device once commonly used to help improve TV reception was nicknamed \"rabbit ears\"?",
+      "answer": "Antenna"
+    }
+  ]
+}

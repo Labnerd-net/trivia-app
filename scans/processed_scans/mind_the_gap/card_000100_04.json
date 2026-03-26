@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_05",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the name of the TV show where Mr. Roarke and Tattoo assisted wealthy guests in having their dreams come true?",
+      "answer": "Fantasy Island"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What replaced the 8mm movie cameras to record \"home movies\"?",
+      "answer": "Camcorders"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the lyrics: \"I got my first real six string, Bought it at a five and dime, Played it til my fingers bled, ___________________________.\"",
+      "answer": "\"Was the summer of '69\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the name given for Southeast Asian refugees in the late 70s?",
+      "answer": "\"boat people\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the second line of the Navy's recruitment ad?  \"It's not just a job. _______________________.\"",
+      "answer": "\"It's an adventure.\""
+    }
+  ]
+}

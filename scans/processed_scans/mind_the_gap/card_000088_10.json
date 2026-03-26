@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000088_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What distinguished actor was the first African-American to win an Academy Award for Best Actor for his work in Lilies of the Field?",
+      "answer": "Sidney Poitier"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What favorite children's character was spirited out of World War II Europe by his creators, and given many adventures with his friend, The Man in the Yellow Hat?",
+      "answer": "Curious George"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the 1964 musical starring Julie Andrews that won five Academy Awards and was practically perfect in every way.",
+      "answer": "Mary Poppins"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Who did Jacqueline Kennedy marry in 1968?",
+      "answer": "Aristotle Onassis"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What were tough guys known as in the 1950s?",
+      "answer": "\"Greasers\" or \"hoods\""
+    }
+  ]
+}

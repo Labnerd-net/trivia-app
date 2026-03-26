@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000082_03",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What NBC show, adapted from a UK show of the same name, was filmed in a mockumentary style?",
+      "answer": "The Office"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Britney and Justin once wore matching outfits made entirely of this material.",
+      "answer": "Denim"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What song played when a person got Rick-Rolled?",
+      "answer": "\"Never Gonna Give You Up\""
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "A humanitarian crisis in this African region led to an argument about what constitutes genocide and what necessitates U.N. action.",
+      "answer": "Darfur"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Millennials coined this term for an urban, heterosexual male with a refined sense of taste and an interest in fashion.",
+      "answer": "Metrosexual"
+    }
+  ]
+}

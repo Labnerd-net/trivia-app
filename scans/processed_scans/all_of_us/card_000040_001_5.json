@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The James Bond film \"A View to a Kill\" features a song performed by which English new wave group?",
+      "answer": "Duran Duran"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He appeared on the cover of lots of early-'80s teen magazines and later starred in \"The Young and the Restless.\"",
+      "answer": "Peter Barton"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This \"SNL\" cast member went on to star in films including \"Animal House\" and \"The Neighbors.\"",
+      "answer": "John Belushi"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Widely considered to be the most popular wrestler of the '80s, this star won 6 heavyweight championships during his career with the World Wrestling Federation.",
+      "answer": "Hulk Hogan"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1987 drama features Jennifer Grey and Patrick Swayze.",
+      "answer": "Dirty Dancing"
+    }
+  ]
+}

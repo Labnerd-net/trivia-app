@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What rock icon stars in \"The Man Who Fell to Earth\"?",
+      "answer": "David Bowie"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which party did President Eisenhower run for?",
+      "answer": "Republican"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Andy Kaufman plays a goofy but lovable mechanic named Latka in what sitcom?",
+      "answer": "Taxi"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Originally designed for a British nuclear nonproliferation organization, it became the defining emblem of the hippie movement.",
+      "answer": "Peace symbol"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This legendary group found early success with singles such as \"Surfin' Safari,\" \"Surfer Girl,\" and \"Little Deuce Coupe.\"",
+      "answer": "The Beach Boys"
+    }
+  ]
+}

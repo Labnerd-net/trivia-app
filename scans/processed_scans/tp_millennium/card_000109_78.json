@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000109_78",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country boasts the Chrysanthemum Dynasty?",
+      "answer": "Japan"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What four major showbiz awards were Rita Moreno and Barbra Streisand the first two women to collect a full set of?",
+      "answer": "Emmy, Grammy, Oscar, Tony"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. Civil War general was known as old 'Fuss and Feathers'?",
+      "answer": "Winfield Scott"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What U.S. president gave Americans the bleak news that Russia had the bomb?",
+      "answer": "Harry Truman"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did Chris Sabo shower the field with when his bat broke in a July 31, 1996 game?",
+      "answer": "Cork"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Paul Benier leave in his locked getaway car while he robbed a bank in Swansea, Massachusetts?",
+      "answer": "His car keys"
+    }
+  ]
+}

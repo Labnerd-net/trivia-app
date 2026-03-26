@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What movie, often credited with having the last word on Gen Xers, had four friends dancing to 'My Sharona' inside a gas station?",
+      "answer": "Reality Bites"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was Spuds McKenzie's favorite beer?",
+      "answer": "Bud Light"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Why did Stevie Wonder use the telephone?",
+      "answer": "'I Just Called to Say I Love You'"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What came down in 1989, signalling the defrosting of the Cold War?",
+      "answer": "The Berlin Wall"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who, after being shot by a would-be assassin, jokingly told attending surgeons 'Please tell me you're Republicans.'?",
+      "answer": "Ronald Reagan"
+    }
+  ]
+}

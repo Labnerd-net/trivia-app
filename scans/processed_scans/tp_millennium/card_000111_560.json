@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000111_560",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's farmers marched on U.S. and Soviet embassies to protest flood damage to crops caused by holes spaceships tore in the sky?",
+      "answer": "Turkey's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom star began life as Tim Dick?",
+      "answer": "Tim Allen"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was on the Duchess of Windsor's calendar almost every day at 11 a.m.—a massage, a game of whist or a bathroom break?",
+      "answer": "A massage"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bacteria cause gastroenteritis?",
+      "answer": "Salmonella"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Canadian sprinter was banned from all competition for life for an elevated testosterone level in 1993?",
+      "answer": "Ben Johnson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What church are John Travolta, Tom Cruise and Kirstie Alley adherents of?",
+      "answer": "The Church of Scientology"
+    }
+  ]
+}

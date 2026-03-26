@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He was the lead singer of the Doors.",
+      "answer": "Jim Morrison"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "These documents, released by the 'New York Times,' galvanized the antiwar movement.",
+      "answer": "Pentagon Papers"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "ABBA came on the scene in 1974 with this single.",
+      "answer": "Waterloo"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed 1977's 'Eraserhead'?",
+      "answer": "David Lynch"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "'Will You Love Me Tomorrow' and 'Dedicated to the One I Love' were just 2 of the hits by this classic girl group.",
+      "answer": "The Shirelles"
+    }
+  ]
+}

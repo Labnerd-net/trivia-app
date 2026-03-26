@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_8",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Fast and Furious star was killed in a car wreck in 2013?",
+      "answer": "Paul Walker"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "For his YouTube channel, Lucas Cruikshank created this six-year-old character with a high-pitched voice and anger management issues.",
+      "answer": "Fred Figglehorn"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was Donald Glover's stage name?",
+      "answer": "Childish Gambino"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What beloved comedian/actor was convicted and imprisoned in 2018 for numerous sex offenses?",
+      "answer": "Bill Cosby"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "If someone asked for \"deets,\" what did they want?",
+      "answer": "Details"
+    }
+  ]
+}

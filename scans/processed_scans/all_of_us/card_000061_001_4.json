@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Centered on country music, what variety show is set in fictional Kornfield Kounty?",
+      "answer": "Hee Haw"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This iconic performer released hits such as 'Take Me Home, Country Roads' and 'Rocky Mountain High.'",
+      "answer": "John Denver"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who stars as Joe Buck in 'Midnight Cowboy'?",
+      "answer": "Jon Voight"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Barbara Stanwyck is the star of what TV western drama set in Stockton, California?",
+      "answer": "The Big Valley"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Known for antiwar protests, this icon of the 1960s counterculture movement also wrote 1971's 'Steal This Book,' which sold more than a quarter-million copies.",
+      "answer": "Abbie Hoffman"
+    }
+  ]
+}

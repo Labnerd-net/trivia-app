@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000109_357",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What airport lies across the channel from Rikers Island Penitentiary?",
+      "answer": "La Guardia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What talk show host aired a remote sketch that answered the question: 'Can a guy in a bear suit get a free hot dog'?",
+      "answer": "David Letterman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was pictured on a 1997 Time magazine cover that sold a record 1,183,758 copies?",
+      "answer": "Princess Diana"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What plastic did John Hyatt use in the 19th century to win $10,000 from a firm in need of an ivory substitute for billiard balls?",
+      "answer": "Celluloid"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Stanley Cup-winning team plays home games at the highest altitude?",
+      "answer": "The Colorado Avalanche"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What movie was blamed when trained seagulls landed on the heads of West Coast beachgoers, in 1964?",
+      "answer": "The Birds"
+    }
+  ]
+}

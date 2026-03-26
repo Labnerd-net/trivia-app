@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000118_63",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Western Hemisphere nation's anthem had French lyrics the first time it was sung in public, in 1880?",
+      "answer": "Canada's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's Stimpson J. Cat's more familiar name?",
+      "answer": "Stimpy"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Wild West figure is described on his New Mexico tombstone as 'The Boy Bandit King'?",
+      "answer": "Billy the Kid"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What term describes the amount of water vapor present in the air, relative to the amount that could be present?",
+      "answer": "Relative humidity"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 45-year-old former boxing champion was said to have 'hands of pebble' in 1996?",
+      "answer": "Roberto Duran"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What secretive group organized the surprise party for Bill Clinton's 50th birthday that he found out about ahead of time?",
+      "answer": "The CIA"
+    }
+  ]
+}

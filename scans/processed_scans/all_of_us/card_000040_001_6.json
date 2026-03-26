@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which Austrian performer released the hit \"Rock Me Amadeus\"?",
+      "answer": "Falco"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which iconic pop singer stars in 1987's \"Moonstruck\"?",
+      "answer": "Cher"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This British soap set in the fictional borough of Walford aired in the US on PBS.",
+      "answer": "EastEnders"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This UK prime minister won a rare third term after the 1987 election.",
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This tabletop game has players pressing levers to \"eat\" as many marbles as they can to win.",
+      "answer": "Hungry Hungry Hippos"
+    }
+  ]
+}

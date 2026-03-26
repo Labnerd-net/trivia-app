@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000093_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the American made-for-television sci-fi disaster film about sharks lifted out of the ocean and deposited in Los Angeles.",
+      "answer": "Sharknado"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What type of video encouraged others to do goofy or funny acts and upload them to YouTube?",
+      "answer": "Challenge videos"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Hawaiian-born artist's hits included \"24K,\" \"Finesse,\" and \"The Lazy Song\"?",
+      "answer": "Bruno Mars"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2007 who became the first woman to be elected Speaker of the House?",
+      "answer": "Nancy Pelosi"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What word, derived from a high-end fashion brand, could have meant \"good\" or \"chill\" or \"awesome\"?",
+      "answer": "Gucci"
+    }
+  ]
+}

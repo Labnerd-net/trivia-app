@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000109_82",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What biblical figure did the tobacco industry picture on its 1998 promotional calendar in the Philippines?",
+      "answer": "The Virgin Mary"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Edgar Allan Poe poem inspired Paul Gauguin's painting, Nevermore?",
+      "answer": "The Raven"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who ordered the master copy of the Treaty of Versailles burned in 1940?",
+      "answer": "Adolf Hitler"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's defined as the distance between a lens and its focal point?",
+      "answer": "Its focal length"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA team posted an 11-71 record during the 1992-93 season, the worst in the last twenty-five years?",
+      "answer": "The Dallas Mavericks"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who became Woody Allen's mother-in-law following his 1997 marriage?",
+      "answer": "Mia Farrow"
+    }
+  ]
+}

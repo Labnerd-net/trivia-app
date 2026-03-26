@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000087_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the popular TV show in the 60s set in Hooterville at the Shady Rest Hotel, run by a widow and her three daughters.",
+      "answer": "Petticoat Junction"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "An American icon created for the U.S. Forest Service, this character had a song, books and advertising spots.",
+      "answer": "Smokey Bear"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What musical included songs 'Some Enchanted Evening,' and 'There is Nothing Like a Dame'?",
+      "answer": "South Pacific"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What machine was invented by Daisuke Inoue in 1971 with an 8-track player, a microphone, and an amplifier?",
+      "answer": "Karaoke"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Finish the phrase from The Andy Griffith Show: 'Howdy do to you and you. It's me, it's me, ___.'",
+      "answer": "'It's Ernest T!'"
+    }
+  ]
+}

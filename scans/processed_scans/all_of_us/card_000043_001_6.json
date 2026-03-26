@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What animated series features characters based on 2 comic strips by Jim Davis?",
+      "answer": "Garfield and Friends"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actor stars as Ren McCormack in 1984's 'Footloose'?",
+      "answer": "Kevin Bacon"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Quarterback Roger Staubach, nicknamed 'Captain America,' led this team to the Super Bowl 5 times during his 11-season career with them.",
+      "answer": "Dallas Cowboys"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Tyco released this magnetic drawing toy, a competitor to Etch A Sketch, that used a pen.",
+      "answer": "Magna Doodle"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which teen icon had a 1987 hit with a new recording of 'I Think We're Alone Now'?",
+      "answer": "Tiffany"
+    }
+  ]
+}

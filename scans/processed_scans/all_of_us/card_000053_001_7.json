@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000053_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Ryan Reynolds stars as which wisecracking mercenary in a 2016 Marvel film?",
+      "answer": "Deadpool"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Canadian rapper spent many weeks at the top of the charts in 2016 after releasing his album \"Views.\"",
+      "answer": "Drake"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2016 sequel focuses on a forgetful fish who's on a journey to find her parents.",
+      "answer": "Finding Dory"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Grammy Awards recognize achievements from people in what industry?",
+      "answer": "Music"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Nickelodeon series follows a boy named Harvey and his friends as they seek adventure and mischief.",
+      "answer": "Harvey Beaks"
+    }
+  ]
+}

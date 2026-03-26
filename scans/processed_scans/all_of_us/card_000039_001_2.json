@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This Jim Henson and Frank Oz fantasy adventure takes place on planet Thra.",
+      "answer": "The Dark Crystal"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What rapper's song 'Dear Mama' was officially preserved in the Library of Congress in 2010?",
+      "answer": "Tupac Shakur"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This baseball all-star was banned from the sport in 1989 after betting on his own team.",
+      "answer": "Pete Rose"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What actress was nominated for 10 Golden Globes and 12 Emmys for her work on the TV drama 'Murder, She Wrote'?",
+      "answer": "Angela Lansbury"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who plays Lisa Turtle in the 'Saved by the Bell' series?",
+      "answer": "Lark Voorhies"
+    }
+  ]
+}

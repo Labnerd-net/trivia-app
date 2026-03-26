@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "If someone describes a couple as a \"Sam and Diane,\" they are referring to the on-again, off-again couple of what classic sitcom?",
+      "answer": "Cheers"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "With hair gel and leather jackets, this style defined '50s rock and roll.",
+      "answer": "Greaser"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "It's the name of Neil Armstrong and Buzz Aldrin's lunar lander.",
+      "answer": "Eagle"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This doll was introduced so he could be friends with Barbie™.",
+      "answer": "Ken™"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which iconic drummer played in Led Zeppelin?",
+      "answer": "John Bonham"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This singer swore he was 'never going to give you up, never going to let you down.'",
+      "answer": "Rick Astley"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In July 1981, Prince Charles made headlines for marrying this popular icon.",
+      "answer": "Lady Diana Spencer"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Frequently cited as the worst film of all time, this 1986 film stars a humanoid duck who tries to stop an alien invasion.",
+      "answer": "Howard the Duck"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What television series is mainly set in a classroom of the Millard Fillmore High School?",
+      "answer": "Head of the Class"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's a popular brand of colorful little toy bricks.",
+      "answer": "LEGO"
+    }
+  ]
+}

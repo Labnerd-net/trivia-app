@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Known for hits such as 'All I Have to Do Is Dream' and 'Bird Dog,' brothers Don and Phil made up this musical duo.",
+      "answer": "The Everly Brothers"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Lt. Cmdr. Quinton McHale was played by Oscar-winning actor Ernest Borgnine in what television series?",
+      "answer": "McHale's Navy"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The first 2-seater sports car was introduced by Chevrolet in the 1960s and was called what?",
+      "answer": "Corvette"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "He served as Nixon's first vice president.",
+      "answer": "Spiro Agnew"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which film legend produced and directed '2001: A Space Odyssey'?",
+      "answer": "Stanley Kubrick"
+    }
+  ]
+}

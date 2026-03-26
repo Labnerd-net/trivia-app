@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_06",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What actress became famous for her roles in TV's Gidget and The Flying Nun?",
+      "answer": "Sally Field"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What cartoon duo, a plucky squirrel and a dimwitted moose, were very \"punny\" from 1959-1964?",
+      "answer": "Rocky and Bullwinkle"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What song by Staff Sergeant Barry Sadler was the number one single in 1966?",
+      "answer": "\"Ballad of the Green Berets\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "First headed by his brother-in-law Sargent Shriver, what organization did President Kennedy establish in 1961 to aid developing nations?",
+      "answer": "Peace Corps"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous line from Funny Girl did Barbra Streisand also say when she received the Academy Award for Best Actress?",
+      "answer": "\"Hello, gorgeous.\""
+    }
+  ]
+}

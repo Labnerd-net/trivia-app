@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_2",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Lindsay Lohan and Rachel McAdams star in this 2004 teen comedy, which explores the dynamics of high school cliques.",
+      "answer": "Mean Girls"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This children's TV show is about a girl with \"curly doodle\" hair and a yellow dog.",
+      "answer": "Allegra's Window"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This popular '90s hairstyle shares its name with a fungus.",
+      "answer": "Mushroom cut"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In a much publicized accounting scandal, which Texas-based energy company filed for bankruptcy in 2001?",
+      "answer": "Enron"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In this 1992 film, the Newton family's loveable Saint Bernard is the target of a plot by an evil veterinarian, who does experiments on animals.",
+      "answer": "Beethoven"
+    }
+  ]
+}

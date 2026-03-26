@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000086_7",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Popular on stage, screen, and radio for 30 years, these siblings starred in comedies such as Duck Soup.",
+      "answer": "The Marx Brothers"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What innovative artistic pieces by Alexander Calder became popular during the 40s and 50s?",
+      "answer": "Mobiles"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What smooth singer topped the charts in 1950 with \"Mona Lisa\"?",
+      "answer": "Nat King Cole"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What leader seized power in Cuba in 1959, creating the first communist dictatorship in the West?",
+      "answer": "Fidel Castro"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was a dating term for a couple who only were seeing each other?",
+      "answer": "\"Going steady\""
+    }
+  ]
+}

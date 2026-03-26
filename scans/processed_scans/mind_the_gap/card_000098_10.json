@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000098_10",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular sitcom starred Pam Dawber and Robin Williams, an alien visiting Boulder, Colorado?",
+      "answer": "Mork and Mindy"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1976, what musical, dramatizing an audition of Broadway dancers, won the Tony for Best Musical?",
+      "answer": "A Chorus Line"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Peter Gabriel confessed that he wanted to be this tool in a stop-motion music video.",
+      "answer": "\"Sledgehammer\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1975, who was the target in the assassination attempt by former Manson family member Lynette \"Squeaky\" Fromme?",
+      "answer": "President Gerald Ford"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did it mean when someone said \"Don't drink the kool-aid\"?",
+      "answer": "Don't be gullible or too trusting"
+    }
+  ]
+}

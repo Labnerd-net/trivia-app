@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 80's TV show featured a policeman who wore pastel sport coats with rolled up sleeves, and loafers with no socks?",
+      "answer": "Miami Vice"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What gets between Brooke Shields and her Calvin Klein jeans?",
+      "answer": "\"Nothing\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who sang a 1983 song that claimed \"the kid is not my son\"?",
+      "answer": "Michael Jackson"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1984 Apple released the first GUI to select icons. What does GUI mean?",
+      "answer": "Graphical User Interface"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What claymation character on Saturday Night Live would say \"Oh noooooooooo!\"?",
+      "answer": "Mr. Bill"
+    }
+  ]
+}

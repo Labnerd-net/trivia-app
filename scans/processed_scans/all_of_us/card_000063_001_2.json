@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Introduced in 1965, Quisp is a type of what?",
+      "answer": "Breakfast cereal"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which artist did Cher divorce in 1974?",
+      "answer": "Sonny Bono"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What billion-dollar company did Ray Kroc start in 1955?",
+      "answer": "McDonald's®"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Disney® opened this theme park in 1971.",
+      "answer": "Walt Disney World®"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This singer was a member of Faces before his hugely successful solo career.",
+      "answer": "Rod Stewart"
+    }
+  ]
+}

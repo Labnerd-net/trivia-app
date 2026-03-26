@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000051_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Drew Barrymore plays the lonesome lead role of Josie Geller in which 1999 classic rom-com?",
+      "answer": "Never Been Kissed"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This alternative rock band is fronted by Eddie Vedder.",
+      "answer": "Pearl Jam"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Before quickly becoming unfashionable, this functional accessory was worn around many people's waists.",
+      "answer": "Fanny pack"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "As the \"Fresh Prince\" theme song tells us, Will Smith was born and raised where?",
+      "answer": "West Philadelphia"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "St. Louis Cardinals slugger Mark McGwire and Chicago Cubs star Sammy Sosa duked it out over hitting the most what?",
+      "answer": "Home runs"
+    }
+  ]
+}

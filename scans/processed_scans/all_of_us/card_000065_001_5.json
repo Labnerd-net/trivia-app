@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000065_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who plays Robin in the 1960s \"Batman\" TV series?",
+      "answer": "Burt Ward"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Before crossing over to TV and film, which former teen idol performed the chart-topping songs \"Venus\" and \"Why\"?",
+      "answer": "Frankie Avalon"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "1964 was a big year for big monsters. Godzilla fans were introduced to King Ghidorah and also witnessed a battle between Godzilla and this monster.",
+      "answer": "Mothra"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This flirtatious French skunk is always looking for love, but his odor just drives others away.",
+      "answer": "Pepé Le Pew"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Performing a mixture of rockabilly, pop, and country, this singer may now be best known for her Christmas classic \"Rockin' Around the Christmas Tree.\"",
+      "answer": "Brenda Lee"
+    }
+  ]
+}

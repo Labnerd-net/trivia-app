@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular country music TV variety show was hosted by Roy Clark and Buck Owens?",
+      "answer": "Hee Haw"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Broadway hit in 1977 had America singing \"Tomorrow\" and \"It's a Hard Knock Life\"?",
+      "answer": "Annie"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Even though the landlord may have to litigate, who wanted you not to worry and instead be happy?",
+      "answer": "Bobby McFerrin"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What passenger-carrying commercial supersonic jet made its first transatlantic flight in 1973, with regular service beginning in 1976?",
+      "answer": "Concorde"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Jack Nicholson line became a catchphrase from the movie A Few Good Men?",
+      "answer": "\"You can't handle the truth!\""
+    }
+  ]
+}

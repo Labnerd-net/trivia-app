@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which performer released the viral hit 'Gangnam Style'?",
+      "answer": "Psy"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Macy's department store holds a nationally broadcast parade for this US holiday.",
+      "answer": "Thanksgiving"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Rick, Carl, and Michonne are all survivors of the zombie apocalypse on what TV series?",
+      "answer": "The Walking Dead"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This model had a wax figure of her likeness created ahead of London Fashion Week in 2016.",
+      "answer": "Kendall Jenner"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Featuring performances by Constance Wu, Henry Golding, and Michelle Yeoh, this 2018 rom-com raked in big bucks at the box office.",
+      "answer": "Crazy Rich Asians"
+    }
+  ]
+}

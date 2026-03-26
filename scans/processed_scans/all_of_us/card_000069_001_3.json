@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Floyd is the name of a barber on what classic variety show?",
+      "answer": "The Andy Griffith Show"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Johnny Carson famously ended his \"The Tonight Show\" monologues by pretending to do what?",
+      "answer": "Swing a golf club"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What 1950s heartthrob stars in the movies \"Pillow Talk\" and \"Magnificent Obsession\"?",
+      "answer": "Rock Hudson"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What soft drink's 1960s ads featured the tagline \"It'll tickle yore innards\"?",
+      "answer": "Mountain Dew"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The 1960s \"Motown Sound\" came from what city?",
+      "answer": "Detroit"
+    }
+  ]
+}

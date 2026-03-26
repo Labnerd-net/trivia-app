@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000051_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What ad campaign of the '90s often portrayed a person in a predicament who finds resolution after eating the product advertised?",
+      "answer": "Mentos"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This band released their breakthrough album \"Out of Time\" in 1991.",
+      "answer": "R.E.M."
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What digital media format unseated the then-leading HD-DVD in 2008?",
+      "answer": "Blu-Ray"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The television series \"JAG\" follows the exploits of uniformed lawyers of what branch of the US military?",
+      "answer": "Navy"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This stoner flick features Dave Chappelle and Jim Breuer as friends who steal from a medical marijuana facility in hopes of raising money to free a friend from jail.",
+      "answer": "Half Baked"
+    }
+  ]
+}

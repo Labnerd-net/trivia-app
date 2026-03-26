@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000117_206",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city's homeowner hoped to discourage tourists with a sign that read: \"Mork doesn't live here so go away\"?",
+      "answer": "Boulder's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who became the first jazz musician to win a Pulitzer Prize, in 1997?",
+      "answer": "Wynton Marsalis"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What famed British journalist and explorer fought on both sides in the U.S. Civil War?",
+      "answer": "Henry Stanley"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the \"electronic numerical integrator and computer\" better known as?",
+      "answer": "ENIAC"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What team started sprouting mustaches in 1972 after Reggie Jackson sported one in spring training?",
+      "answer": "The Oakland Athletics"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What cross-class brand of clothing is the favorite of U.S. shoplifters?",
+      "answer": "Tommy Hilfiger"
+    }
+  ]
+}

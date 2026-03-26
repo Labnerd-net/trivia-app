@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000122_349",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What state's disasters caused a governor's aide to sigh, \"We call them plagues. We're just two behind Egypt-frogs and boils\"?",
+      "answer": "California's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What veteran crooner won the 1994 Album of the Year Grammy for MTV Unplugged?",
+      "answer": "Tony Bennett"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country did Bill Clinton visit with a record retinue of over 1,000?",
+      "answer": "China"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who coined the phrase \"natural selection\" to describe the evolutionary process?",
+      "answer": "Charles Darwin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What North American country's bar patrons were the first to thrill to the sport of gerbil racing?",
+      "answer": "Canada's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What four words did George Costanza scream when he thought he'd impregnated a woman?",
+      "answer": "\"My boys can swim!\""
+    }
+  ]
+}

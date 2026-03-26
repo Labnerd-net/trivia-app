@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This pop-punk band found widespread commercial success with the release of 1999's \"Enema of the State.\"",
+      "answer": "Blink-182"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What entertainment and merchandising franchise is built around 5 teenagers who morph into evil-fighting superheroes?",
+      "answer": "Power Rangers"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "A pescatarian breaks from the vegetarian code by eating what?",
+      "answer": "Fish"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Crocodile Dundee\" is set in which country?",
+      "answer": "Australia"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This popular Chinese-American figure skater is both a 2-time Olympic medalist and a 5-time World Champion.",
+      "answer": "Michelle Kwan"
+    }
+  ]
+}

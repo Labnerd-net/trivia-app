@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "David Hasselhoff stars alongside an artificially intelligent auto named KITT in what TV action series?",
+      "answer": "Knight Rider"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This tennis player was the first African American selected to the United States Davis Cup team as well as the first to win the singles title at Wimbledon, the US Open, and the Australian Open.",
+      "answer": "Arthur Ashe"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Susanna Hoffs performs in what classic '80s band?",
+      "answer": "The Bangles"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1982 arcade release introduced a female counterpart to a very popular character.",
+      "answer": "Ms. Pac-Man"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Prince had a short fling with what \"Batman\" actress in 1989?",
+      "answer": "Kim Basinger"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_01",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the Emmy-winning fast-paced variety show featuring recurring roles played by Ruth Buzzi, Arte Johnson, Goldie Hawn, and Lily Tomlin.",
+      "answer": "(Rowan & Martin's) Laugh-In"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 1950's invention was a must-have in order to organize contacts and addresses on removable cards?",
+      "answer": "Rolodex"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "\"Trailer for sale or rent, Rooms to let fifty cents.\" Name that song.",
+      "answer": "\"King of the Road\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the nickname of the 1959 impromptu debate in Moscow between Vice-President Nixon and Soviet Premier Khrushchev, arguing the merits of capitalism and communism?",
+      "answer": "Kitchen Debate"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What did it mean to be called a \"wet rag\"?",
+      "answer": "You dampened the fun"
+    }
+  ]
+}

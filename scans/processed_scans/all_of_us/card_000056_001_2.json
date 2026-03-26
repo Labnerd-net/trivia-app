@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000056_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This video game franchise blends historical fiction and sci-fi to play out the struggle between the groups known as the Assassins and the Templars.",
+      "answer": "Assassin's Creed"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Grizz, Panda, and Ice Bear are siblings on what animated show?",
+      "answer": "We Bare Bears"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which singer had a #1 hit with the 2018 single 'Without Me'?",
+      "answer": "Halsey"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What fashion doll franchise from Mattel is inspired by horror and sci-fi characters?",
+      "answer": "Monster High"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Who played the lead, Brooks Rattigan, in the Netflix film 'The Perfect Date'?",
+      "answer": "Noah Centineo"
+    }
+  ]
+}

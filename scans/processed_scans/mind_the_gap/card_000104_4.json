@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1983 movie, set in Tulsa, starred Patrick Swayze, Rob Lowe, C. Thomas Howell, Ralph Macchio, Matt Dillon, Tom Cruise, and Emilio Estevez?",
+      "answer": "The Outsiders"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What hungry hero was introduced in arcades in 1980, becoming one of the most popular games in history?",
+      "answer": "Pac-Man"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "When the song \"Na Na Hey Hey Kiss Him Goodbye\" was played at sporting events, what did the winning fans do?",
+      "answer": "Taunted the opposing team by waving their car keys"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 14-year-old Romanian gymnast became a star at the 1976 Olympics, winning three gold medals and scoring the first perfect \"10\" in history?",
+      "answer": "Nadia Comaneci"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What famous catchphrase and ad campaign showed a woman stressed by work and home demands and needing an at-home break?",
+      "answer": "\"Calgon, take me away!\""
+    }
+  ]
+}

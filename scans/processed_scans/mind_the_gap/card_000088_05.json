@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000088_05",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What 60's TV show starred Robert Culp and Bill Cosby as U.S. intelligence agents posing as a tennis pro and his trainer, the first TV show to feature a black actor?",
+      "answer": "I Spy"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In the 1950s and 60s, actress Aylene Lewis portrayed this iconic woman at a Disneyland restaurant bearing the character's name, and serving her pancakes.",
+      "answer": "Aunt Jemima"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name three of the five members of the Rat Pack.",
+      "answer": "Frank Sinatra, Dean Martin, Sammy Davis Jr., Peter Lawford, Joey Bishop"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In 1965, where did six days of violent confrontations end with 34 dead, over 1,000 injured, and entire neighborhoods burned to the ground?",
+      "answer": "The Watts Riots"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous CBS Evening News anchor signed-off each night with, \"And that's the way it is\"?",
+      "answer": "Walter Cronkite"
+    }
+  ]
+}

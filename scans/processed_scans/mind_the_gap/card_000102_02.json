@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_02",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Based on Alex Haley's book, what was the most-watched miniseries in TV history, shown over the course of eight consecutive nights in 1977?",
+      "answer": "Roots"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1976 Olympic Gold Medalist for women's ice skating became a cultural icon with her wedge haircut?",
+      "answer": "Dorothy Hamill"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What movie's soundtrack had a hit song with \"It Might be You\" by Stephen Bishop?",
+      "answer": "Tootsie"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What two countries did the Chunnel finally connect?",
+      "answer": "France and England"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What product was the \"quicker picker upper\"?",
+      "answer": "Bounty Paper Towels"
+    }
+  ]
+}

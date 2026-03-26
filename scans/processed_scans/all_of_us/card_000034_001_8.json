@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000034_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What solo artist emerged from the British punk scene as a member of Generation X?",
+      "answer": "Billy Idol"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What was created when a denim company accidentally tumbled some pants with bleach?",
+      "answer": "Acid-wash jeans"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In the sitcom 'Murphy Brown,' what is the name of the fictional television newsmagazine for which the title character is an investigative journalist?",
+      "answer": "FYI"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Whose album 'Rapture' included the Grammy-winning hit 'Sweet Love'?",
+      "answer": "Anita Baker"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He's the filmmaker behind the 'Star Wars' and 'Indiana Jones' franchises.",
+      "answer": "George Lucas"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000091_3",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "So a serial killer who only killed bad guys? Is it okay to like them? Showtime made us like this one played by Michael C. Hall.",
+      "answer": "Dexter"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Introduced in 2011, what casual video game allowed players to explore, collect resources, build, craft, and fight?",
+      "answer": "Minecraft"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What movie soundtrack with Hugh Jackman stayed at the top of the charts and was the best-selling album globally in 2018?",
+      "answer": "The Greatest Showman"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Olympic gold medal winner had sex reassignment surgery?",
+      "answer": "Caitlyn Jenner"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did \"hypebeast\" mean?",
+      "answer": "Someone who only liked things that were super popular"
+    }
+  ]
+}

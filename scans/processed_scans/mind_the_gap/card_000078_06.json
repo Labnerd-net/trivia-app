@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000078_06",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This future A-list actor got his start playing Dr. Doug Ross on ER.",
+      "answer": "George Clooney"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was \"like having 1,000 songs in your pocket\"?",
+      "answer": "The iPod"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the theme song, sung by Celine Dion, for James Cameron's movie Titanic.",
+      "answer": "\"My Heart Will Go On\""
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "2.5 billion people tuned in to watch this person's funeral in 1997.",
+      "answer": "Princess Diana"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What famous phrase was often said by the Teenage Mutant Ninja Turtles' Michelangelo as an exclamation of awesomeness?",
+      "answer": "\"Cowabunga, dude!\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000064_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Also known as 'Ducky' on the hit show 'NCIS,' what actor portrays a secret agent in 'The Man from U.N.C.L.E.'?",
+      "answer": "David McCallum"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "These 2 rockers are nicknamed the 'Glimmer Twins.'",
+      "answer": "Mick Jagger and Keith Richards"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who stars in 'Rosemary's Baby'?",
+      "answer": "Mia Farrow"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which player broke Babe Ruth's record for home runs in 1974?",
+      "answer": "Hank Aaron"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Remembered for acts such as the Crystals and the Ronettes, these doo-wop-inspired R&B groups were collectively called this.",
+      "answer": "Girl groups"
+    }
+  ]
+}

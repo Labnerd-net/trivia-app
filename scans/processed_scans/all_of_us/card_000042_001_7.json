@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "This cartoon featured little blue creatures.",
+      "answer": "Smurfs"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What Simple Minds 1985 hit was featured in 'The Breakfast Club'?",
+      "answer": "Don't You (Forget about Me)"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Bob Keeshan stars in this long-running children's TV series.",
+      "answer": "Captain Kangaroo"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Madonna married this actor in 1985 before divorcing in 1989.",
+      "answer": "Sean Penn"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Using their arms, dancers spell out each letter of what '70s song title?",
+      "answer": "Y.M.C.A."
+    }
+  ]
+}

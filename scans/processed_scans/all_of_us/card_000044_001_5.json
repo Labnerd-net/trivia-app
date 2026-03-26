@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000044_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Morgan Freeman plays the role of God in this 2003 comedy, which stars Jim Carrey.",
+      "answer": "Bruce Almighty"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "With his trademark top hat, this legendary guitarist has played in bands including Guns N' Roses and Velvet Revolver.",
+      "answer": "Slash"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Mandy Moore and Shane West star in this 2002 coming-of-age story about a romance between a popular high school boy and a local minister's daughter who has leukemia.",
+      "answer": "A Walk to Remember"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor became governor of California in 2003?",
+      "answer": "Arnold Schwarzenegger"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "It's a cartoon in which the main character bears resemblance to Elvis.",
+      "answer": "Johnny Bravo"
+    }
+  ]
+}

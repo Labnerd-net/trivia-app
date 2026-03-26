@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000086_4",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This fresh-faced singer and actress was best known for romantic comedies, and was an Academy Award nominee for Pillow Talk.",
+      "answer": "Doris Day"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What popular children's toy was launched in 1967, allowing kids to create pictures with colored pegs on an illuminated console?",
+      "answer": "Lite Brite"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What single did Doris Day sing in the musical Calamity Jane that won the Academy Award for best song in 1953?",
+      "answer": "\"Secret Love\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What alliance was signed in 1954 by the USSR and seven of its satellite countries?",
+      "answer": "The Warsaw Pact"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Why would someone tell you to \"think fast\"?",
+      "answer": "Because they were throwing something at you"
+    }
+  ]
+}

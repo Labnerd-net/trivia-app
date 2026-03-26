@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who played rebel cop Axel Foley in the Beverly Hills Cop movie franchise?",
+      "answer": "Eddie Murphy"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the media nickname for followers of cult leader Sun Myung Moon who were married in ceremonies involving thousands of couples?",
+      "answer": "\"Moonies\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What artist scored a multi-platinum album for the soundtrack When Harry Met Sally?",
+      "answer": "Harry Connick, Jr."
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What nickname was given to serial killer David Berkowitz, a New York City postal worker?",
+      "answer": "\"Son of Sam\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "\"Let's get Mikey. He hates everything. He likes it!\" So, what did Mikey like?",
+      "answer": "Life cereal"
+    }
+  ]
+}

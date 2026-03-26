@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state's high altitude nearly doubles the effects of auto emissions?",
+      "answer": "Colorado's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What annoying song title did teen trio Hanson put in people's minds in 1997?",
+      "answer": "Mmmbop"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What soul songstress sang at Martin Luther King's funeral and Bill Clinton's inaugural?",
+      "answer": "Aretha Franklin"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of seeds can cause drug tests to trigger false positives for opium?",
+      "answer": "Poppy seeds"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What brand of Dijon mustard sold in the U.S. is actually made in Oxnard, California?",
+      "answer": "Grey Poupon"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Asian nation's residents mousse their hair with a product called 'Brown Gross Foam'?",
+      "answer": "Japan's"
+    }
+  ]
+}

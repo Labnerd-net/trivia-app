@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000096_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In the Pixar film Brave, Merida has red hair. What is the name of her horse?",
+      "answer": "Angus"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Kids are told not to get into a car with a stranger, however this app was the first to allow you to call strangers to drive you places.",
+      "answer": "Uber"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In a drastic turn of events, this bad boy rapper started Sunday Service in 2019.",
+      "answer": "Kanye West"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the 17-year-old who received the Nobel Peace Prize in 2014.",
+      "answer": "Malala (Yousafzai)"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What is the phone number to call during the J.G. Wentworth TV commercials?",
+      "answer": "877-Cash Now"
+    }
+  ]
+}

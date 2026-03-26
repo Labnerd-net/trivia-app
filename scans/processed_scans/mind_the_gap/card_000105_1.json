@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000105_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the go-to dessert for The Golden Girls to discuss things around the table?",
+      "answer": "Cheesecake"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the nickname of the National Geographic photo, which depicted a Pashtun orphan in 1985, that became their most famous cover?",
+      "answer": "\"Afghan girl\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What artist received the first MTV Best Female Video award in 1984 for \"Girls Just Want to Have Fun\"?",
+      "answer": "Cyndi Lauper"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In Guyana, South America, what tragic event occurred in 1978?",
+      "answer": "Rev. Jim Jones led over 900 people in a mass suicide"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the meaning of the question, \"What's the skinny?\"",
+      "answer": "What's the story or gossip?"
+    }
+  ]
+}

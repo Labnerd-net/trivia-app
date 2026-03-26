@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000041_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What member of the rock band Led Zeppelin shares his name with a famous naval hero of the Revolutionary War?",
+      "answer": "John Paul Jones"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This college comedy movie features characters Lewis and Gilbert.",
+      "answer": "Revenge of the Nerds"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "She sang in Fleetwood Mac and became a '70s style icon.",
+      "answer": "Stevie Nicks"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's an Atari game in which the player defends 6 cities.",
+      "answer": "Missile Command"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is Reggie White known for playing?",
+      "answer": "Football"
+    }
+  ]
+}

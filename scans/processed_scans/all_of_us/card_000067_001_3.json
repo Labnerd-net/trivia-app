@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "'Who wears short shorts?' was a question asked by what cosmetic brand's classic TV jingle?",
+      "answer": "Nair"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Gene Kelly directed this 1969 musical film, which stars Barbra Streisand and Walter Matthau.",
+      "answer": "Hello, Dolly!"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which mysterious group hit the charts with the garage-rock classic '96 Tears'?",
+      "answer": "Question Mark & the Mysterians"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "An early model of this device was called Pulsar and featured a red LED display.",
+      "answer": "Digital wristwatch"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which author was known for the 'Peanuts' comic series?",
+      "answer": "Charles Schulz"
+    }
+  ]
+}

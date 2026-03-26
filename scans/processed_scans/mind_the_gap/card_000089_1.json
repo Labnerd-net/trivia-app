@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000089_1",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In what 1959 movie would you find the characters Francie, Moondoggie, and The Big Kahuna?",
+      "answer": "Gidget"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What designer's post-war 'New Look' used lots of fabric and accented women's figures?",
+      "answer": "Christian Dior"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What retrospective song in the musical Fiddler on the Roof became a mainstay of many wedding ceremonies?",
+      "answer": "\"Sunrise, Sunset\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This medicine, discovered in 1928 but not successfully mass-produced until 1942, saved countless lives during World War II by preventing deadly bacterial infections.",
+      "answer": "Penicillin"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "If someone engaged in idle fantasies, or if he didn't know what he was talking about, he was said to be 'whistling ___'",
+      "answer": "Dixie"
+    }
+  ]
+}

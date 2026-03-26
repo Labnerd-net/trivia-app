@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000056_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which singer performed 2010's 'TiK ToK'?",
+      "answer": "Kesha"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This social app delivers messages for just a short time before they become inaccessible to their recipients.",
+      "answer": "Snapchat"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What online game's activities involve exploration, crafting, and resource gathering?",
+      "answer": "Minecraft"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "MakeupByMandy24 is a YouTube channel started by whom?",
+      "answer": "Amanda Steele"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor played the lead role in 2015's 'Ant-Man' film?",
+      "answer": "Paul Rudd"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000124_116",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What 'K-word' would a Dusseldorf mechanic likely utter if he felt your auto had run its last mile?",
+      "answer": "Kaputt"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who's the son of Henry, brother of Jane and father of Bridget?",
+      "answer": "Peter Fonda"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What explorer did Esquire magazine dub 'Dubious Man of the Millennium,' in 1992?",
+      "answer": "Christopher Columbus"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What a polygon with four unequal sides called?",
+      "answer": "A quadrilateral"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What screen star serves as an occasional caddy for Scott Simpson on the PGA Tour?",
+      "answer": "Bill Murray"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was the cheapest one-way fare from New York to California once the transcontinental railroad was completed in 1869?",
+      "answer": "$1"
+    }
+  ]
+}

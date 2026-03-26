@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000120_141",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many times a year are residents of Kentucky required by law to bathe?",
+      "answer": "Once"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What future Oscar-winning actress portrayed Murray Slaughter's daughter on The Mary Tyler Moore Show?",
+      "answer": "Helen Hunt"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "How many bags of mail were lost by the Pony Express?",
+      "answer": "One"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What name did George Eastman invent in 1888 because it was easy to memorize, pronounce and spell?",
+      "answer": "Kodak"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who demoralized fellow golfers with a record 12-stroke win at the 1997 Masters?",
+      "answer": "Tiger Woods"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What British rocker did Princess Diana console at Gianni Versace's funeral?",
+      "answer": "Elton John"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000061_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "When something online goes wildly viral, people say it broke what?",
+      "answer": "The internet"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Margot Robbie is featured as the beloved character Harley Quinn in this 2016 film.",
+      "answer": "Suicide Squad"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This star's hosting duties have included 'American Idol,' 'Dick Clark's New Year's Rockin' Eve,' and a talk show with Kelly Ripa.",
+      "answer": "Ryan Seacrest"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which former Fifth Harmony singer performed with Sam Smith on 'Dancing with a Stranger'?",
+      "answer": "Normani"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This comedian, actor, and host is known not only for his stand-up but also for starring in 'Ride Along,' 'Central Intelligence,' and 'Night School.'",
+      "answer": "Kevin Hart"
+    }
+  ]
+}

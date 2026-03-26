@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000110_463",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What monument's uppermost seven spikes symbolize seven continents and seven seas?",
+      "answer": "The Statue of Liberty's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What daytime talk-show host informed the world, 'I am irreverent, I am opinionated, but I'm not perky'?",
+      "answer": "Kathie Lee Gifford"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What beverage did the Japanese stop making in 1252, to conserve rice?",
+      "answer": "Sake"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What term describes energy obtained from underground heat?",
+      "answer": "Geothermal"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was known to Yankee fans as 'Donnie Baseball'?",
+      "answer": "Don Mattingly"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1998 Harrison Ford movie title summed up Mike Piazza's career with the Florida Marlins, according to comedy writer Jerry Perisho?",
+      "answer": "Six Days, Seven Nights"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000108_586",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Asian nation was not invaded by enemy forces between 1275 and 1944?",
+      "answer": "Japan"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who has starred in movies by Francis Ford Coppola, Brian DePalma, Sergio Leone and Martin Scorsese?",
+      "answer": "Robert De Niro"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose court battle with the beef industry did Time dub \"The Thrilla in Amarilla\"?",
+      "answer": "Oprah Winfrey's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What German nerve specialist was the first to diagnose Alzheimer's disease, in 1907?",
+      "answer": "Alois Alzheimer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What breakfast item did Burger King reformulate in 1996, making it less likely to leave grease stains on steering wheels?",
+      "answer": "The Croissanwich"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose works are covered in an introductory college course dubbed \"Baby Shakes\"?",
+      "answer": "William Shakespeare's"
+    }
+  ]
+}

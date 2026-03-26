@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "One of the biggest stars of the outlaw country genre, this performer released the massively successful albums 'Red Headed Stranger' and 'Stardust.'",
+      "answer": "Willie Nelson"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In this 1951 Tennessee Williams adaptation, Marlon Brando plays Stanley.",
+      "answer": "A Streetcar Named Desire"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In the series 'The Bionic Woman,' how does Jaime Sommers become injured?",
+      "answer": "Skydiving accident"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A Grand Ole Opry legend, Porter Wagoner was also known for hit duets with what singer?",
+      "answer": "Dolly Parton"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What treaty of scientific cooperation was signed in 1959 by 12 countries?",
+      "answer": "Antarctic Treaty"
+    }
+  ]
+}

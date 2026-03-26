@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Drew Barrymore stars in this 2004 film as a character who experiences amnesia.",
+      "answer": "50 First Dates"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Michael Jackson, Paul McCartney, and the Ramones all made guest appearances on this animated series.",
+      "answer": "The Simpsons"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What social networking site held its initial public offering in 2012?",
+      "answer": "Facebook"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor plays the titular character in 1989's \"Batman\"?",
+      "answer": "Michael Keaton"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What iconic fashion designer was murdered in 1997?",
+      "answer": "Gianni Versace"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the most successful TV producer in history with over 200 shows, and at one time was responsible for over a third of primetime on ABC.",
+      "answer": "Aaron Spelling"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the name of the first TV network to air only music videos?",
+      "answer": "MTV"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What dancer, choreographer, and singer hit number one with 'Straight Up' in 1988?",
+      "answer": "Paula Abdul"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the nickname given to Muhammad Ali's fight against Joe Frazier in the Philippines in 1975?",
+      "answer": "\"The Thrilla in Manilla\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "According to Chiffon Margarine, 'It's not nice ___________.'",
+      "answer": "\"to fool mother nature.\""
+    }
+  ]
+}

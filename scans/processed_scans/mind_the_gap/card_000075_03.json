@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000075_03",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What 90's teen drama starred Claire Danes and Jared Leto who dealt with social issues such as teenage alcoholism and child abuse?",
+      "answer": "My So-Called Life"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "According to author Mitch Albom, with whom did he spend his Tuesdays?",
+      "answer": "Morrie"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What crossover artist had a 1996 hit song covering Patsy Cline's \"Blue\"?",
+      "answer": "LeAnn Rimes"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the \"Oracle of Omaha\" broker and philanthropist who donated 30 billion dollars to the Gates Foundation in 2006.",
+      "answer": "Warren Buffett"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Found commonly in Valleyspeak, what word could be used to express any form of disbelief or disagreement? It even had it's own hand gesture.",
+      "answer": "\"Whatever\""
+    }
+  ]
+}

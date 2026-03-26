@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000119_367",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What desert covers most of southern Mongolia?",
+      "answer": "The Gobi Desert"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What CBS correspondent used his 13 Emmys as hat racks between trips during his million miles On the Road?",
+      "answer": "Charles Kuralt"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Whitewater figure was freed from prison to have a back injury treated, in 1998?",
+      "answer": "Susan McDougal"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What leafy plant was thought to relieve flatulence and whiten teeth after its discovery in 1535?",
+      "answer": "Tobacco"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What baseball team plays home games in a park nicknamed \"The Jake\"?",
+      "answer": "The Cleveland Indians"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How long does it take to serve a \"calendar\" in prison?",
+      "answer": "A year"
+    }
+  ]
+}

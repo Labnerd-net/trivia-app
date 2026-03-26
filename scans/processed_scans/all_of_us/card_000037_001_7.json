@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which iconic vocalist is known for fronting the band Culture Club?",
+      "answer": "Boy George"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Considered to be the most watched television series in the world, what drama has a plot that revolves around the dangers faced by a group of California lifeguards?",
+      "answer": "Baywatch"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Introduced in 1982, these leafy dolls became one of the most popular toys of the decade.",
+      "answer": "Cabbage Patch Kids"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 1984 film follows a rural religious cult that wants to kill off all the adults in town to ensure a successful harvest.",
+      "answer": "Children of the Corn"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In Washington State, which volcano erupted in 1980, killing more than 50 people?",
+      "answer": "Mount Saint Helens"
+    }
+  ]
+}

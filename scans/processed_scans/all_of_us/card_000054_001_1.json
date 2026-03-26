@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Over 2 million people RSVP'd on Facebook to an event to storm this government facility.",
+      "answer": "Area 51"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Her single \"Work\" features Drake.",
+      "answer": "Rihanna"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This spooky series follows a teenage girl that falls in love with a 162-year-old vampire.",
+      "answer": "Vampire Diaries"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Jennifer Lopez became engaged to this former New York Yankee in 2019.",
+      "answer": "Alex Rodriguez"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "21 Savage features on the single \"Bartier Cardi\" by this rapper.",
+      "answer": "Cardi B"
+    }
+  ]
+}

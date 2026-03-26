@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000051_001_2",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Following a widely publicized scandal, Tiger Woods returned to pro golf in 2010 at what tournament?",
+      "answer": "The Masters"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "One of the most successful songs of 2001, \"I'm Like a Bird\" was performed by which singer-songwriter?",
+      "answer": "Nelly Furtado"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "On TLC's \"19 Kids and Counting,\" all 19 children in the Duggar family have first names that begin with what letter?",
+      "answer": "J"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What French-born DJ is known as the \"grandfather of EDM\"?",
+      "answer": "David Guetta"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Eddie Murphy stars as Sherman Klump in which 1996 film?",
+      "answer": "The Nutty Professor"
+    }
+  ]
+}

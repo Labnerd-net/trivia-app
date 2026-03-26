@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000093_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Where was the Grey Sloan Memorial Hospital from Grey's Anatomy located?",
+      "answer": "Seattle, Washington"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What stuffed animals had playable online counterparts?",
+      "answer": "Webkinz"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What famous brothers formed a band, suddenly split up in 2013, then reunited 6 years later to begin touring again?",
+      "answer": "The Jonas Brothers"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2011, what Missouri city suffered devastating damage as a large tornado ripped through most of the city and killed 161 people?",
+      "answer": "Joplin"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What meme suggested \"I'm down if you are\"?",
+      "answer": "\"Just kidding...unless\""
+    }
+  ]
+}

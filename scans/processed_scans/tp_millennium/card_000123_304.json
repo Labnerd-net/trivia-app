@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000123_304",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Ohio city's thriving hog industry earned it the nickname 'Porkopolis' in the 1830s?",
+      "answer": "Cincinnati's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What regular at the Cheers bar confessed his real name was Hilary?",
+      "answer": "Norm Petersen"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What union was miffed when the media stereotyped a segment of the working class as 'the Archie Bunker vote'?",
+      "answer": "The Teamsters"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many legs do crabs, lobsters and shrimp each have?",
+      "answer": "Ten"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who spent 36 years announcing bowling matches for ABC?",
+      "answer": "Chris Schenkel"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What ER star boycotted Entertainment Tonight and Hard Copy because they aired paparazzi pics of him, in 1996?",
+      "answer": "George Clooney"
+    }
+  ]
+}

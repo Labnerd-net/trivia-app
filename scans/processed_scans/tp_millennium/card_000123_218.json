@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000123_218",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country reopened the notorious political prison camp, Perm 36, for tourists in 1997?",
+      "answer": "Russia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What blonde was the subject of the four most expensive Andy Warhol works sold at auction?",
+      "answer": "Marilyn Monroe"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What book got Aleksandr Solzhenitsyn arrested for treason?",
+      "answer": "The Gulag Archipelago"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What food is the leading source of salmonella poisoning?",
+      "answer": "Chicken"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose long jump record of 26 feet, eight-and-one-quarter inches, stood for 33 years?",
+      "answer": "Jesse Owens'"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who did Mr. Blackwell call 'the bald-headed banshee of MTV' and 'a New Age nightmare'?",
+      "answer": "Sinead O'Connor"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000092_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Joe Jonas and Demi Lovato met on the set of this Disney movie.",
+      "answer": "Camp Rock"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Name the Gen Z fashion trend using a stylish version of exercise clothing.",
+      "answer": "Athleisure"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This country music group had hits with \"Cruise\" and \"H.O.L.Y.\"",
+      "answer": "Florida Georgia Line"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This movement started in 2017 after allegations of sexual misconduct were brought against prominent men in media, notably Harvey Weinstein.",
+      "answer": "hashtag MeToo"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Used disparagingly by older generations, individual Gen Zers were known by what term, indicating they were all special and unique?",
+      "answer": "\"Snowflake\""
+    }
+  ]
+}

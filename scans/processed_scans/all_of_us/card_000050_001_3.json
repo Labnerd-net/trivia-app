@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000050_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which single did Jay-Z and Alicia Keys release together?",
+      "answer": "Empire State of Mind"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This brand of wearable blanket became a trend in the 2000s.",
+      "answer": "Snuggie"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "He rose to fame in the late '90s playing the character Kelso on 'That '70s Show.'",
+      "answer": "Ashton Kutcher"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What eccentric billionaire opened the first commercial spaceport in 2011?",
+      "answer": "Richard Branson"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Game Boy shipped with this popular puzzle game.",
+      "answer": "Tetris"
+    }
+  ]
+}

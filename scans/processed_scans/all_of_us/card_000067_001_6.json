@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000067_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "From the popular 'Rocky' film series, what's the titular character's last name?",
+      "answer": "Balboa"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Robert Allen Zimmerman is best known for his work under what stage name?",
+      "answer": "Bob Dylan"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What is widower Steven Douglas's profession in the sitcom 'My Three Sons'?",
+      "answer": "Aeronautical engineer"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "You can draw with this toy, then shake it to erase.",
+      "answer": "Etch A Sketch"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What did the US Postal Service introduce in 1963?",
+      "answer": "Zip codes"
+    }
+  ]
+}

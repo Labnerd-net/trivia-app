@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_2",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Theo Kojak is a detective for what city's police department?",
+      "answer": "New York"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The term 'rock and roll' was coined by what famous DJ?",
+      "answer": "Alan Freed"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A '50s favorite, kids pulled each other around in this red thing.",
+      "answer": "Radio Flyer® wagon"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Musicians James Taylor and Dennis Wilson star in this 1971 racing film.",
+      "answer": "Two-Lane Blacktop"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1958, the United States imposed an embargo on this country.",
+      "answer": "Cuba"
+    }
+  ]
+}

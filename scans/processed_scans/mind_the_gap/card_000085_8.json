@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_8",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "One of the longest-running shows in TV history, this western was led by Marshal Matt Dillon.",
+      "answer": "Gunsmoke"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What artist was known as a leader in the Abstract Expressionist movement, but most famous for his \"action paintings\" that involved drips and splashes?",
+      "answer": "Jackson Pollock"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What early 60s teen idol had hits with \"Take Good Care of My Baby\" and \"Rubber Ball\"?",
+      "answer": "Bobby Vee"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What country's civil war finally ended with a communist victory in 1949?",
+      "answer": "China"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was a \"hunk of junk\"?",
+      "answer": "A broken-down car"
+    }
+  ]
+}

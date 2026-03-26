@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000038_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "On what classic TV game show do contestants frequently shout \"No Whammies\"?",
+      "answer": "Press Your Luck"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "In 1983, President Reagan signed this holiday into law, for the first time celebrating a revered civil rights icon.",
+      "answer": "Martin Luther King Jr. Day"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "1979's \"Moonraker\" sees James Bond go up against this henchman with steel teeth.",
+      "answer": "Jaws"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Which singer and actress released 1982's hit \"Physical\"?",
+      "answer": "Olivia Newton-John"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Technical advances in the '80s led to the widespread use of this telecopying device.",
+      "answer": "Fax machine"
+    }
+  ]
+}

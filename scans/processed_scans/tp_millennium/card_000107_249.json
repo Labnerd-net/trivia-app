@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000107_249",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state are you in if you've hit the town of Jackpot?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What two Seinfeld characters reversed the peepholes on their apartment doors?",
+      "answer": "Kramer and Newman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What's the nickname of 16th-century Countess Erszebet Bathory, who killed 600 girls, believing their blood would prevent aging?",
+      "answer": "Countess Dracula"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What large animal starves to death after losing its sixth and last set of teeth?",
+      "answer": "The elephant"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What golfer had played 154 straight Grand Slam events before skipping the 1998 British Open?",
+      "answer": "Jack Nicklaus"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What magazine finally took the table of contents off its front cover in 1998?",
+      "answer": "Reader's Digest"
+    }
+  ]
+}

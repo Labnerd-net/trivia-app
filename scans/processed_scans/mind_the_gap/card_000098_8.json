@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000098_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What sports movie set in Philadelphia won the Best Picture Academy Award in 1976?",
+      "answer": "Rocky"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Long before Mario, there was Pong which had to be played on this classic home console, released in 1975.",
+      "answer": "Atari"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name two of the four friends who reminded us \"That's What Friends Are For\" in 1985, to raise money for AIDS research.",
+      "answer": "Dionne Warwick, Elton John, Gladys Knight, Stevie Wonder"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1977, what rock band's plane crashed killing members Ronnie Van Zant and Steve Gaines?",
+      "answer": "Lynyrd Skynyrd"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did Wayne and Garth encourage people to do?",
+      "answer": "\"Party On\""
+    }
+  ]
+}

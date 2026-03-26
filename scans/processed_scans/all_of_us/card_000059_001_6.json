@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000059_001_6",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Shawn Mendes released 2019's \"Señorita\" with this singer.",
+      "answer": "Camila Cabello"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2017 Jordan Peele-directed horror film follows an African American man who uncovers a twisted secret when he meets the family of his white girlfriend.",
+      "answer": "Get Out"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Donald Glover stars in this FX series about 2 cousins navigating the Atlanta rap scene.",
+      "answer": "Atlanta"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This artist released the song \"Can't Feel My Face\" in 2015.",
+      "answer": "The Weeknd"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2011 animated movie features the characters Blu, Jewel, and Linda.",
+      "answer": "Rio"
+    }
+  ]
+}

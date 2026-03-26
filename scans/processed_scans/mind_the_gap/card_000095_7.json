@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Ryan Gosling and Emma Stone starred in this award-winning movie as a jazz musician and wannabe actor trying to make it in LA.",
+      "answer": "La La Land"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was \"The Most Interesting Man in the World\" wanting you to buy?",
+      "answer": "Dos Equis beer"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "As of 2020, what was the largest subscription music streaming service with 113 million subscribers?",
+      "answer": "Spotify"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In what city did a mass shooting occur during an outdoor music concert killing 58 people in 2017?",
+      "answer": "Las Vegas"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This word was short for a romantic relationship, popularized in fanfiction circles.",
+      "answer": "\"Ship\""
+    }
+  ]
+}

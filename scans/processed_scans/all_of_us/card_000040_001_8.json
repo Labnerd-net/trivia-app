@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What band did Belinda Carlisle perform in?",
+      "answer": "The Go-Go's"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Released in 1977, this Atari device remained popular for years.",
+      "answer": "Atari 2600"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What series ended its 6-season run in the top 10 when Bea Arthur chose to leave?",
+      "answer": "The Golden Girls"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This '70s fashion icon later married David Bowie.",
+      "answer": "Iman"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "On the cartoon series \"Scooby-Doo,\" which character typically sports an ascot?",
+      "answer": "Fred"
+    }
+  ]
+}

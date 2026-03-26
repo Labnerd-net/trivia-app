@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000084_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the 1957 classic romantic movie starring Cary Grant and Deborah Kerr.",
+      "answer": "An Affair to Remember"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What groovy light fixture became a symbol of the 60s?",
+      "answer": "Lava Lamps"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Considered the first modern musical, what began with a cowboy singing \"Oh, What a Beautiful Mornin'\"?",
+      "answer": "Oklahoma!"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What man's U-2 spy plane was shot down in 1960, resulting in an eventual trade for Soviet spy Rudolf Abels in 1962?",
+      "answer": "Francis Gary Powers"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "How did Lucky the Leprechaun describe Lucky Charms?",
+      "answer": "\"They're magically delicious!\""
+    }
+  ]
+}

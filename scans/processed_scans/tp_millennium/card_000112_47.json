@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000112_47",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What western nation had more than 363 million $2 coins in circulation by 1997?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What George Harrison song did Paul report as Frank Sinatra's favorite 'Lennon/McCartney' track?",
+      "answer": "Something"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What future Canadian prime minister once hitchhiked across war-torn Indochina?",
+      "answer": "Pierre Trudeau"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's a water moccasin often called, because it's white inside its mouth?",
+      "answer": "A cottonmouth"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who's the most popular plumber in video game history?",
+      "answer": "Mario"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What tenor's corpse got a change of clothes every year from 1921 to 1927 until his widow opted to entomb it?",
+      "answer": "Enrico Caruso's"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000103_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "On General Hospital in 1981, whose wedding became the highest rated program in daytime TV history?",
+      "answer": "Luke and Laura"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What kind of new printer in the 80s had a continuous feed sheet with holes in the sides?",
+      "answer": "Dot matrix printers"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What famous Gen Xer and lead singer committed suicide in 1994 after years of depression and addiction?",
+      "answer": "Kurt Cobain"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "How did Princess Diana die?",
+      "answer": "Car accident (Chased by paparazzi)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What word, that previously meant dumb, became an intensifier prefix?",
+      "answer": "\"Stupid\""
+    }
+  ]
+}

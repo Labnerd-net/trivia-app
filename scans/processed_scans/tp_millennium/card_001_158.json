@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_158",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the only U.S. state to share a border with one of Canada's Maritime provinces?",
+      "answer": "Maine"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What stage musical did Donny Osmond and seven of his nephews all appear in, in the 1990s?",
+      "answer": "Joseph and the Amazing Technicolor Dreamcoat"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country did Fidel Castro go to, to plot the revolution after his release from prison?",
+      "answer": "Mexico"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the small flap in the back of your throat called?",
+      "answer": "The uvula"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two-letter street slang for \"Hello, there\" will give Scrabble players a legal five points?",
+      "answer": "Yo"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Leonard Nimoy name his 1995 book sequel to I Am Not Spock?",
+      "answer": "I Am Spock"
+    }
+  ]
+}

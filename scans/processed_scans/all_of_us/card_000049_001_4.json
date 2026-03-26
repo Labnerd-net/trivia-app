@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Blind Melon released this 1993 hit, along with its iconic video featuring the \"bee girl\" character.",
+      "answer": "No Rain"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "According to the title of a sitcom featuring Danny DeVito, \"It's Always Sunny in\" which US city?",
+      "answer": "Philadelphia"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The 1994 FIFA® World Cup™ was held in what country?",
+      "answer": "United States"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which performer released the #1 hit \"That's the Way Love Goes\" in 1993?",
+      "answer": "Janet Jackson"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The 1998 rom-com \"The Parent Trap\" features which actress playing twin sisters?",
+      "answer": "Lindsay Lohan"
+    }
+  ]
+}

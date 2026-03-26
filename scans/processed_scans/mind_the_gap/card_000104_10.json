@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000104_10",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the comedy duo cast in The Apple Dumpling Gang and The Private Eyes.",
+      "answer": "Tim Conway and Don Knotts"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What actress' workout videos, beginning in 1982, started a fitness phenomenon?",
+      "answer": "Jane Fonda"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What unlikely duo had a hit with \"To All the Girls I Loved Before\"?",
+      "answer": "Willie Nelson and Julio Iglesias"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the two men who started Apple Computers in 1976.",
+      "answer": "Steve Jobs and Steve Wozniak"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who used to say, \"Schlemiel! Schlemaze!! Hasenpfeffer Incorporated!\"",
+      "answer": "Laverne and Shirley"
+    }
+  ]
+}

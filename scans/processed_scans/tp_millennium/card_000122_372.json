@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000122_372",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state boasts North America's snowiest spot at Blue Canyon?",
+      "answer": "California"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who became the hottest pop star to come out of Iceland in the mid-1990s?",
+      "answer": "Bjork"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Brit predicted, \"No woman in my time will be prime minister or chancellor or foreign secretary\"?",
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the top technology manual of 1996, at over one million sales?",
+      "answer": "Windows 95 for Dummies"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What type of tests were National League umpires ordered to undergo in 1911?",
+      "answer": "Eye tests"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What type of onion did 81-year-old Floridian Izzie Rotterman use to fend off a mugger, in 1996?",
+      "answer": "A Vidalia"
+    }
+  ]
+}

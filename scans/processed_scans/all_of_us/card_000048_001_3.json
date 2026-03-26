@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What fad consisted of lying in a facedown position in an unusual location?",
+      "answer": "Planking"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Before finding success as a solo artist, Lauryn Hill was a member of what group?",
+      "answer": "Fugees"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This \"All That\" actress went on to star in \"What a Girl Wants\" and \"She's the Man.\"",
+      "answer": "Amanda Bynes"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor plays Batman in 1995's \"Batman Forever\"?",
+      "answer": "Val Kilmer"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Who is Tamera Mowry's twin sister?",
+      "answer": "Tia Mowry"
+    }
+  ]
+}

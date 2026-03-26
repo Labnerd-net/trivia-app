@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000087_5",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the TV show that centered around the character Rob Petrie, his writing team Sally and Buddy, and his wife Laura.",
+      "answer": "The Dick Van Dyke Show"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In response to the hunt for communists, what 1953 play by Arthur Miller dramatized the Salem witch trials?",
+      "answer": "The Crucible"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What smooth singer's first number one hit was 'Chances Are'?",
+      "answer": "Johnny Mathis"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What couple was found guilty in 1951 of wartime espionage and executed in 1953?",
+      "answer": "Julius and Ethel Rosenberg"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Based on a 1961 Freddy Cannon song, what might you call a girl who listens a lot to her portable radio?",
+      "answer": "'Transistor sister'"
+    }
+  ]
+}

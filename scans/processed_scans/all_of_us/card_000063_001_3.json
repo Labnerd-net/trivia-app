@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The prime-time soap \"Knots Landing\" is a spin-off of what other longtime series?",
+      "answer": "\"Dallas\""
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This iconic writer is best known for his book \"Fear and Loathing in Las Vegas\" and for establishing a subgenre of journalism he called \"gonzo.\"",
+      "answer": "Hunter S. Thompson"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "One of Motown's earliest stars, this singer broke out with hits such as \"My Guy\" and \"You Beat Me to the Punch.\"",
+      "answer": "Mary Wells"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Before embarking on a successful solo career, who appeared in film and television with Dean Martin in the 1950s?",
+      "answer": "Jerry Lewis"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This brand of colorful clay comes in a can.",
+      "answer": "Play-Doh®"
+    }
+  ]
+}

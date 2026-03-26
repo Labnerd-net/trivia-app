@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000047_001_2",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Who was the first host of the television game show \"Who Wants to Be a Millionaire\"?",
+      "answer": "Regis Philbin"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This early-'90s hip-hop crew was led by Mark Wahlberg.",
+      "answer": "Marky Mark and the Funky Bunch"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Scientists from around the world completed sequencing of about 99 percent of what in 2003?",
+      "answer": "Human genome"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which team did Derek Jeter play for?",
+      "answer": "New York Yankees"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This awkward coming-of-age film popularized the quote \"One time, at band camp.\"",
+      "answer": "American Pie"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "'Shout at the Devil' was a hit for what band?",
+      "answer": "Mötley Crüe"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who became the first female justice of the US Supreme Court in 1981?",
+      "answer": "Sandra Day O'Connor"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The popularity of home videos grew with the introduction of what kind of video-capturing device?",
+      "answer": "Camcorder"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What '80s action-adventure series about a group of mercenaries spawned a series of comics, books, and even a video game?",
+      "answer": "The A-Team"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What Huey Lewis and the News single was featured in 1985's 'Back to the Future'?",
+      "answer": "The Power of Love"
+    }
+  ]
+}

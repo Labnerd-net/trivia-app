@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Nicknamed the \"King of Cool,\" this singer was a member of the Rat Pack and was known for signature songs such as \"That's Amore.\"",
+      "answer": "Dean Martin"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who stars in 1974's \"Badlands\"?",
+      "answer": "Martin Sheen"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"As the Stomach Turns\" was a recurring sketch parody of modern soaps featuring whom?",
+      "answer": "Carol Burnett"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which civil rights icon famously refused to give up her seat on a bus?",
+      "answer": "Rosa Parks"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Introduced in 1963, what miniature appliance used an incandescent light bulb as a source of heat?",
+      "answer": "Easy-Bake Oven"
+    }
+  ]
+}

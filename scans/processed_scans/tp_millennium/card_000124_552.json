@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000124_552",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the official state song of New York?",
+      "answer": "I Love New York"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the translation of Choba B CCCP, the 1988 oldies album Paul McCartney released in the USSR?",
+      "answer": "Back in the USSR"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What world leader was married to Jiang Qing?",
+      "answer": "Mao Zedong"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of therapist would most likely prescribe jasmine to empower you before a business seminar?",
+      "answer": "An aromatherapist"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What pitcher was the first to have his number retired by three different teams?",
+      "answer": "Nolan Ryan"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What disease has ended the lives of three models who portrayed the Marlboro Man in ads?",
+      "answer": "Lung cancer"
+    }
+  ]
+}

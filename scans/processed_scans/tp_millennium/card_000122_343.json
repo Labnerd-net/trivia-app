@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000122_343",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Mediterranean country's highest appeals court ruled it is not a crime to occasionally beat your wife, in 1997?",
+      "answer": "Italy's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What veteran British rock star explained: \"I smash guitars because I like them\"?",
+      "answer": "Pete Townshend"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first person to accuse Ronald Reagan of campaigning on \"voodoo economics\"?",
+      "answer": "George Bush"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was Spode the first to make in 1797, by adding bone ash to hard-paste porcelain?",
+      "answer": "Bone china"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did 3Com boss Eric Benhamon say he wished he had named his company, after fan outrage?",
+      "answer": "Candlestick"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's Larry King's definitive fashion statement?",
+      "answer": "Suspenders"
+    }
+  ]
+}

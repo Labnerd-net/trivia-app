@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000041_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "The commercials for this popular drink involve its mascot breaking through a wall and shouting his famous tagline, \"Oh yeah!\"",
+      "answer": "Kool-Aid"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "You could make this action figure 4 feet long!",
+      "answer": "Stretch Armstrong"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who was the lead singer of the Cars?",
+      "answer": "Ric Ocasek"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Famous for his feuding with Hulk Hogan, this wrestling star's large size was the result of gigantism, caused by excess growth hormone.",
+      "answer": "André the Giant"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actor stars as John Winger in 1981's \"Stripes\"?",
+      "answer": "Bill Murray"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000059_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "If someone \"slides into the DMs,\" what did they do?",
+      "answer": "Sent a direct message on social media"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This series follows 4 reptilian brothers living in New York City.",
+      "answer": "Teenage Mutant Ninja Turtles"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This NBC songwriting contest has produced chart-topping hits and has featured guests like John Legend, the Jonas Brothers, and OneRepublic.",
+      "answer": "Songland"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which auto manufacturer claims to make \"the ultimate driving machine\"?",
+      "answer": "BMW"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which of these is NOT a video-sharing app: TikTok, Snapchat, or Uber?",
+      "answer": "Uber"
+    }
+  ]
+}

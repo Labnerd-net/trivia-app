@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000051_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"In da Club\" was a hit in 2003 for which rapper?",
+      "answer": "50 Cent"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "\"Space Jam\" features which basketball player in a lead role?",
+      "answer": "Michael Jordan"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Chelsea Clinton walked down the aisle in a wedding dress designed by whom?",
+      "answer": "Vera Wang"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Bravo series \"Bethenny Getting Married\" is a spin-off of what \"Real Housewives\" edition?",
+      "answer": "New York City"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Amazon sparked the e-reader market with what 2007 gadget?",
+      "answer": "Kindle"
+    }
+  ]
+}

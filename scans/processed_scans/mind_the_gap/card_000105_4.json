@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000105_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name three of the four stars of All in the Family.",
+      "answer": "Carol O'Connor, Jean Stapleton, Sally Struthers, Rob Reiner"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What supermodel and Uptown Girl was married to Billy Joel in the 80s?",
+      "answer": "Christie Brinkley"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What family group reminded everyone \"We Are Family\"?",
+      "answer": "Sister Sledge"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What Panamanian dictator was convicted in the U.S. of cocaine trafficking and money laundering?",
+      "answer": "Manuel Noriega"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "As Tattoo on Fantasy Island, what was Herve Villechaize's famous line?",
+      "answer": "\"De plane\" or \"Ze Plane\""
+    }
+  ]
+}

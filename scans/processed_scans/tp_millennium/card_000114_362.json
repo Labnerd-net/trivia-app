@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000114_362",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's citizens manage to save an average 25 percent of their earnings?",
+      "answer": "China's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What critic can usually be found \"munching from a box of Good & Plenty\" during movie screenings, according to Time?",
+      "answer": "Roger Ebert"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Miss America Pageant winner turned in her tiara on July 23, 1984?",
+      "answer": "Vanessa Williams"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What three types of weapons are known in Pentagon-speak as \"ABC\"?",
+      "answer": "Atomic, biological, chemical"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What U.S. state first featured salad bars in restaurants?",
+      "answer": "California"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What women's magazine started a Lithuanian edition, its 36th in a foreign language, in 1998?",
+      "answer": "Cosmopolitan"
+    }
+  ]
+}

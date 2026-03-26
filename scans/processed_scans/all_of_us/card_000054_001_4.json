@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What sport is J. J. Watt known for?",
+      "answer": "Football"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which actress plays Rey in \"Star Wars: The Last Jedi\"?",
+      "answer": "Daisy Ridley"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Starting her career as an actress, this person later became a member of the British royal family.",
+      "answer": "Meghan Markle"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In text lingo, \"SMH\" means what?",
+      "answer": "Shaking my head"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This YouTuber and professional gamer has over 22 million subscribers and earns more than $500,000 a month for streaming \"Fortnite.\"",
+      "answer": "Ninja"
+    }
+  ]
+}

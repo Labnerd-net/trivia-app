@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_8",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What artist had a New York City studio called the Factory?",
+      "answer": "Andy Warhol"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Impoverished Jed Clampett strikes it rich and moves his family to a California mansion in what comedy series?",
+      "answer": "The Beverly Hillbillies"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"Green Onions\" was a hit for this instrumental group.",
+      "answer": "Booker T. and the M.G.s"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who stars in \"The French Connection\"?",
+      "answer": "Gene Hackman"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"Let's Stay Together\" was a hit for this soul singer.",
+      "answer": "Al Green"
+    }
+  ]
+}

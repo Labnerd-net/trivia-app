@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The Vietnam War spread into this country in 1970.",
+      "answer": "Cambodia"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Robotic servant \"Robby the Robot\" was first featured in which iconic sci-fi classic?",
+      "answer": "Forbidden Planet"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Singer Janis Joplin was a member of this band between 1966 and 1968.",
+      "answer": "Big Brother and the Holding Company"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"I'm comin', Elizabeth!\" is a chest-clenching utterance by what \"Sanford and Son\" character?",
+      "answer": "Fred"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who directed 1973's \"Mean Streets\"?",
+      "answer": "Martin Scorsese"
+    }
+  ]
+}

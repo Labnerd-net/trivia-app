@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What actress from the TV show Roseanne went on to play the mother of Sheldon Cooper in the Big Bang Theory?",
+      "answer": "Lori Metcalf"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What country artist played Daisy Duke in The Dukes of Hazard movie remake, and famously asked if tuna was \"chicken or fish\" on her reality show?",
+      "answer": "Jessica Simpson"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Finish these lyrics by TLC: \"A scrub is a guy that and is also known as a buster.\"",
+      "answer": "\"Thinks he's fly\""
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In 1997, IBM's Deep Blue defeated this world chess champion.",
+      "answer": "Garry Kasparov"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What did it mean if someone called you a GOAT?",
+      "answer": "Greatest of All Time"
+    }
+  ]
+}

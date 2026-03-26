@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Gen Z won't remember Tom Hanks getting stuck on an island, but they WILL remember Matt Damon getting stuck on Mars in this movie.",
+      "answer": "The Martian"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This dating app allowed potential dates to swipe right on profiles if they wanted to meet up.",
+      "answer": "Tinder"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Getting married and having a son inspired this singer to write \"Girl on Fire.\"",
+      "answer": "Alicia Keys"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "While trying to obtain paperwork for marriage, what Washington Post columnist was murdered and dismembered at the Saudi consulate in Turkey?",
+      "answer": "Jamal Khashoggi"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In the The Big Bang Theory what did Dr. Sheldon Cooper say after playing a practical joke on people?",
+      "answer": "\"Bazinga\""
+    }
+  ]
+}

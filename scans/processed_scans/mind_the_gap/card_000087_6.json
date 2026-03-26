@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000087_6",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Alfred Hitchcock classic with Jimmy Stewart is filmed in one room, and only from his character's perspective?",
+      "answer": "Rear Window"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Duncan Toys became the number one company for this skill toy, where one could 'walk the dog,' 'shoot the moon,' and 'rock the cradle.'",
+      "answer": "Yo-Yo"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Little Eva sang, 'Everybody's doing a brand-new dance, now.' What was the dance?",
+      "answer": "'The Locomotion'"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What company developed the world's first handheld calculator in 1967?",
+      "answer": "Texas Instruments"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What iconic phrase was first spoken in 1963's Dr. No?",
+      "answer": "'Bond. James Bond.'"
+    }
+  ]
+}

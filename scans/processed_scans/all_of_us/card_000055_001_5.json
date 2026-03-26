@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000055_001_5",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This pet-themed video game for Nintendo DS allowed players to pet and play with their virtual dogs.",
+      "answer": "Nintendogs"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "After 42 years and 9 major film releases, this movie series concluded its initial story with a 2019 film.",
+      "answer": "Star Wars"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Hailey Baldwin married this pop star in a private ceremony in 2018, leading to extreme reactions from fans on social media.",
+      "answer": "Justin Bieber"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What augmented-reality mobile game in which players hunt and capture virtual creatures was released in 2016?",
+      "answer": "Pokémon Go"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What group of YouTubers frequently posts videos of impressive sport feats?",
+      "answer": "Dude Perfect"
+    }
+  ]
+}

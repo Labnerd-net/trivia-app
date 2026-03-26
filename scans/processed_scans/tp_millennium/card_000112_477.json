@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000112_477",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. president's library is located on the hill where Sherman watched Atlanta burn?",
+      "answer": "Jimmy Carter's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What play is most often assigned in U.S. high school English classes?",
+      "answer": "Romeo and Juliet"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who, after anchoring off Hawaii in 1779, was mistaken for the god Lono?",
+      "answer": "Captain James Cook"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What now-extinct fowl was originally named 'disgusting bird' by its Dutch discoverers?",
+      "answer": "Dodo"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What New York Knick was the only player to be named MVP of the NBA finals twice in the 1970s?",
+      "answer": "Willis Reed"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who was dumped by Brad Pitt but made a neat fit for Ben Affleck, in 1997?",
+      "answer": "Gwyneth Paltrow"
+    }
+  ]
+}

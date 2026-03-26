@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Before his romance with Pamela Anderson, rocker Tommy Lee was attached to this 'Dynasty' actress.",
+      "answer": "Heather Locklear"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "A popular song in stadiums, the Ramones' 'Blitzkrieg Bop' begins with what chorus?",
+      "answer": "Hey! Ho! Let's go!"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Despite its name, the wearer of this garment need not belong to an exclusive group.",
+      "answer": "Members Only jacket"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Michael Keaton plays a stay-at-home dad in this movie.",
+      "answer": "Mr. Mom"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "He's a Yankee known as the 'Hit Man.'",
+      "answer": "Don Mattingly"
+    }
+  ]
+}

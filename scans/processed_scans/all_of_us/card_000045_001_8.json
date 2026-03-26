@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000045_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Who plays Danny Tanner in \"Full House\"?",
+      "answer": "Bob Saget"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In 2001, fear spread among the US public after multiple letters were sent containing what substance?",
+      "answer": "Anthrax"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Designer Jonathan Ive is responsible for the minimalist features of what iconic piece of music-playing tech?",
+      "answer": "iPod"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This TLC member accidentally burned her house down in 1994.",
+      "answer": "Lisa Left Eye Lopes"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Lisa Kudrow and Mira Sorvino star in this 1997 high school-themed comedy.",
+      "answer": "Romy and Michele's High School Reunion"
+    }
+  ]
+}

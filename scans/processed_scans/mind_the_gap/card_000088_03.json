@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000088_03",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What comedian hosted the long-running quiz show You Bet Your Life?",
+      "answer": "Groucho Marx"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What feline became the face of 9Lives cat food in 1968?",
+      "answer": "Morris the Cat"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "From the musical Gigi, complete the title of the song, \"Thank Heaven _____________.\"",
+      "answer": "\"for Little Girls\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What couple famously wed on The Tonight Show in 1969, one of the most-watched programs in the show's history?",
+      "answer": "Tiny Tim and Miss Vicki"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous saying comes from old westerns that allows a person to talk about what is happening in other parts of their life?",
+      "answer": "\"Meanwhile, back at the ranch . . .\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000087_1",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This Yankee Doodle Dandy star also served as president of the Screen Actors Guild.",
+      "answer": "James Cagney"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What cigarette, made by the Duke family-owned American Tobacco Company, was the most popular in the 40s and 50s?",
+      "answer": "Lucky Strikes"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Whose 'Trolley Song' became a chart-topper in 1944, from the musical Meet Me In St Louis?",
+      "answer": "Judy Garland"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name one of the two men who were the first to successfully summit Mt. Everest in 1952.",
+      "answer": "Edmund Hillary and Tenzing Norgay"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In college, if someone was 'pinned,' what did that mean?",
+      "answer": "Seriously dating but not engaged"
+    }
+  ]
+}

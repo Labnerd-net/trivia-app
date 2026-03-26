@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000098_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1975 movie won Academy Awards for Best Picture, Director, Screenplay, and Actor for Jack Nicholson, and Actress for Louise Fletcher?",
+      "answer": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 18\" dolls were first introduced in 1986 with complete back stories in specific time periods of U.S. history?",
+      "answer": "American Girl dolls"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What TV sitcom's catchy theme song \"Without Us\" was sung by Deniece Williams and Johnny Mathis?",
+      "answer": "Family Ties"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the nickname given to Muhammad Ali's match against George Foreman in Zaire, regaining the world heavyweight championship in 1974?",
+      "answer": "\"Rumble in the Jungle\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What network ad campaign from 1979 to 1981 used the jingle \"Proud as a Peacock\"?",
+      "answer": "NBC"
+    }
+  ]
+}

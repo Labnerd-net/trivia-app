@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000081_1",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What scary movie opened with Drew Barrymore making popcorn on the stove?",
+      "answer": "Scream"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the title of Frank McCourt's Pulitzer Prize winning memoir of his childhood in Ireland?",
+      "answer": "Angela's Ashes"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This band's biggest hits were 'Just a Girl' and 'Don't Speak' from their album Tragic Kingdom.",
+      "answer": "No Doubt"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What British couple divorced on August 28, 1996, after 15 years of marriage?",
+      "answer": "Prince Charles and Princess Diana"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Complete this slogan: 'Silly Rabbit, ___.'",
+      "answer": "Trix are for kids."
+    }
+  ]
+}

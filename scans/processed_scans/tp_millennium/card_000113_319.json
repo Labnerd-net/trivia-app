@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000113_319",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Chinese city is the world's largest noncapital?",
+      "answer": "Shanghai"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who wrote the line: 'I'll make him an offer he can't refuse'?",
+      "answer": "Mario Puzo"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What outfit would William Russell not hire you to ride for if you weighed more than 120 pounds?",
+      "answer": "The Pony Express"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What American built the world's first factory devoted to producing inventions?",
+      "answer": "Thomas Edison"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What percentage of alcohol is found in 80-proof whiskey?",
+      "answer": "Forty"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What ABC legend was asked by The Howard Stern Show's Stuttering John: 'Your speech impediment...is that real'?",
+      "answer": "Barbara Walters"
+    }
+  ]
+}

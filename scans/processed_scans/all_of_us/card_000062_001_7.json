@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_7",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What animated sitcom features a robotic housekeeper named Rosie?",
+      "answer": "The Jetsons"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Written by Gerry Goffin and Carole King, \"The Loco-Motion\" was first a hit for which pop singer in 1962?",
+      "answer": "Little Eva"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1973 he defeated Joe Frazier, becoming the heavyweight boxing champ.",
+      "answer": "George Foreman"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What actor plays the role of Dr. Frederick Frankenstein in \"Young Frankenstein\"?",
+      "answer": "Gene Wilder"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What TV character popularized a style of cutoff jean shorts?",
+      "answer": "Daisy Duke"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_09",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the TV show Welcome Back, Kotter, what was the collective name of the students he taught...or tried to teach?",
+      "answer": "The Sweathogs"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the country comedian, known for her hat with a price tag attached, who was a mainstay of the Grand Ole Opry and the TV show Hee Haw.",
+      "answer": "Minnie Pearl"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "On what did Starship build this city?",
+      "answer": "Rock and roll"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who continually made headlines as the militant head of the Palestinian Liberation Organization?",
+      "answer": "Yasser Arafat"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the company that advertised in the 70s with, \"My bologna has a first name.\"",
+      "answer": "Oscar Mayer"
+    }
+  ]
+}

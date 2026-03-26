@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What crime drama is the longest-running live-action production in television history and has spawned several spin-offs?",
+      "answer": "Law & Order"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "He released 1994's \"Gin & Juice.\"",
+      "answer": "Snoop Doggy Dogg"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What ride-sharing company expanded into food delivery in 2014?",
+      "answer": "Uber"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Condoleezza Rice succeeded whom as secretary of state?",
+      "answer": "Colin Powell"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 1994 comedy sees Arnold Schwarzenegger star as a scientist experiencing a very unusual pregnancy.",
+      "answer": "Junior"
+    }
+  ]
+}

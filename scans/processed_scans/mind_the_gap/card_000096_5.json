@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000096_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What two actors became famous for playing Cameron and Mitchell Tucker-Pritchett on Modern Family?",
+      "answer": "Eric Stonestreet and Jesse Tyler Ferguson"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What famous NBA player was known as \"The King\"?",
+      "answer": "LeBron James"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What Broadway star gave voice to Elsa in Disney's Frozen?",
+      "answer": "Idina Menzel"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In what European capital did terrorists target a football stadium, restaurants and a concert venue that left 130 people dead?",
+      "answer": "Paris, France"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Where would one find \"influencers\"?",
+      "answer": "On social media"
+    }
+  ]
+}

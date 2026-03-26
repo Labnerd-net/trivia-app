@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000063_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This group released the album \"Strange Days\" in 1967.",
+      "answer": "The Doors"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The 1965 Voting Rights Act was signed into law by what president?",
+      "answer": "Johnson"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What social and fashion movement saw teens in flared jeans?",
+      "answer": "Hippie movement"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This Hollywood legend hosted \"The Price Is Right\" from 1972 until 2007.",
+      "answer": "Bob Barker"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which legendary composer wrote classics such as \"The Pink Panther Theme,\" \"Moon River,\" and the theme from \"Peter Gunn\"?",
+      "answer": "Henry Mancini"
+    }
+  ]
+}

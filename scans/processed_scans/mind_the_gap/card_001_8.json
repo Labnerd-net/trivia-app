@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_8",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What game show invented by Merv Griffin and his wife in 1964 gave contestants the answer and the contestants had to provide the question?",
+      "answer": "Jeopardy!"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This author's revolutionary book Baby and Child Care was a top seller for decades.",
+      "answer": "Dr. Benjamin Spock"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name three of the five original members of the Jackson 5.",
+      "answer": "Jackie, Tito, Jermaine, Marlon, Michael"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous female athlete, considered the greatest of the first half of the 20th century, was an Olympic gold medalist and professional golfer?",
+      "answer": "Babe Didrikson (Zaharias)"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was a \"patsy\"?",
+      "answer": "Scapegoat; someone left to face consequences; a gullible person"
+    }
+  ]
+}

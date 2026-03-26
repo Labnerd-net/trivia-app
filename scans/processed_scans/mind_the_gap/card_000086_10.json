@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000086_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the TV sitcom in which Fred MacMurray was a widower raising his children.",
+      "answer": "My Three Sons"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What popular comic book character was from a wealthy household?",
+      "answer": "Richey Rich"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "\"You'll Never Walk Alone\" is the most famous song from this 1956 musical film.",
+      "answer": "Carousel"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In 1958, Bank of America launched the first general-purpose credit card named the BankAmericard. What was it renamed in 1976?",
+      "answer": "Visa"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What idiom from a 1950's game show title means the crucial or essential issue in which the outcome is significant?",
+      "answer": "$64,000 Question"
+    }
+  ]
+}

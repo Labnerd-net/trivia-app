@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000098_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 70's and 80's game show hosted by Chuck Barris had celebrities judging amateur acts?",
+      "answer": "The Gong Show"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What talking bear had a place in his back for cassette tapes while his mouth moved along with the lyrics or stories?",
+      "answer": "Teddy Ruxpin"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the name of the song by Prince that sounded like birds sobbing?",
+      "answer": "\"When Doves Cry\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What computer was introduced in 1977 that included a keyboard and color screen?",
+      "answer": "Apple II"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "When someone wasn't paying attention or was daydreaming, one responded by using this line from a famous 1986 movie.",
+      "answer": "\"Bueller? Bueller?\""
+    }
+  ]
+}

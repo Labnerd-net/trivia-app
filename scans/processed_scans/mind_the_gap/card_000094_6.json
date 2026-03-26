@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000094_6",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Which iconic Pixar character had the famous catchphrase \"ka-chow\"?",
+      "answer": "Lightning McQueen"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What app did TikTok buy in 2017?",
+      "answer": "Musical.ly"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Which artist sang the pop song \"TiK ToK\"?",
+      "answer": "Ke$ha"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Who was the Swedish teenager who brought worldwide attention to climate change in 2018?",
+      "answer": "Greta Thunberg"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did \"iykyk\" mean?",
+      "answer": "\"If you know, you know\""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_06",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name two of the three actresses who starred in the movie 9 to 5.",
+      "answer": "Dolly Parton, Jane Fonda, Lily Tomlin"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Which of these is the most popular Gen X name for a female? Karen, Jennifer, Emma, Blakely",
+      "answer": "Jennifer"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "According to a Billy Joel song, when did the fire start?",
+      "answer": "\"It was always burning since the world's been turning\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What hockey player, nicknamed \"The Great One,\" won four Stanley Cup championships in the 1980s and retired with 61 NHL records?",
+      "answer": "Wayne Gretzky"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Jessie Spano in Saved by the Bell proclaimed that she was \"so excited,\" but actually she was what?",
+      "answer": "\"So...scared\""
+    }
+  ]
+}

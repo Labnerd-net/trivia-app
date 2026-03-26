@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "001",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1973 this Soviet leader gave a televised address in the US.",
+      "answer": "Leonid Brezhnev"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This 1959 Otto Preminger film follows a court case.",
+      "answer": "Anatomy of a Murder"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After the departure of their original singer and songwriter Syd Barrett, this band went on to define the sound of the early 70s.",
+      "answer": "Pink Floyd"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "NASA's Pioneer 10 sent back images of this planet.",
+      "answer": "Jupiter"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which legendary singer and bandleader was known as the \"Godfather of Soul\"?",
+      "answer": "James Brown"
+    }
+  ]
+}

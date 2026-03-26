@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000095_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What movie depicted the rise and fall of the gangsta rap group N.W.A and its members Eazy-E, Ice Cube, and Dr. Dre?",
+      "answer": "Straight Outta Compton"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "How many siblings did Kim Kardashian have?",
+      "answer": "Five"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In 2013, the song \"Blurred Lines\" was a huge hit for which two artists?",
+      "answer": "Robin Thicke and Pharrell Williams"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "To honor coach Martha Karolyi's retirement, Aly Raisman, Laurie Hernandez, Simone Biles, Gabby Douglas, and Madison Kocian called themselves this upon winning the Olympic gold medal.",
+      "answer": "The Final Five"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was it called when a person sent a Snap to another person to see if their messages were purposefully being ignored?",
+      "answer": "\"Snaptrap\""
+    }
+  ]
+}

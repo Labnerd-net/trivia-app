@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000123_286",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European country's name is Greek for 'monk'?",
+      "answer": "Monaco's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1969 novel caused outraged readers to accuse Phillip Roth of 'Jewish anti-Semitism'?",
+      "answer": "Portnoy's Complaint"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Southeast Asian nation lost 2.5 million people to starvation from 1995 to 1998?",
+      "answer": "North Korea"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What harmless substance makes up more than half of Caterpillar's new A-55 Advanced Fuel?",
+      "answer": "Water"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What new pitch helped Carl Hubbell win 24 straight games in the 1930s?",
+      "answer": "The screwball"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What explorer's excursion 'without a paddle' was originally up 'Ship's Creek'?",
+      "answer": "Captain James Cook's"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_09",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the 1984 Kevin Bacon movie that had people dancing from coast-to-coast.",
+      "answer": "Footloose"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What brand of designer jeans were marked with a swan?",
+      "answer": "Gloria Vanderbilt"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What famous singer had hits with \"Mandy,\" \"I Write the Songs,\" and \"Can't Smile Without You\"?",
+      "answer": "Barry Manilow"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who was the first teenager to go directly from high school to the NBA, signing with the Utah Stars in 1974?",
+      "answer": "Moses Malone"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the jingle: \"You deserve a break today, so get out and get away, to ________________.\"",
+      "answer": "McDonalds"
+    }
+  ]
+}

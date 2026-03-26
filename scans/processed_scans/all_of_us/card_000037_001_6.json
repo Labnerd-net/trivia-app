@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which hip-hop group released the 1994 hit 'Insane in the Brain'?",
+      "answer": "Cypress Hill"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In what sitcom does Judge Harold T. Stone practice magic tricks in his chambers?",
+      "answer": "Night Court"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is Deion Sanders known for?",
+      "answer": "Football"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Kids in the late '80s could sport replica Ecto Goggles and a Proton Pack as featured in what sci-fi film?",
+      "answer": "Ghostbusters"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Reese Witherspoon married this actor and costar in 1999.",
+      "answer": "Ryan Phillippe"
+    }
+  ]
+}

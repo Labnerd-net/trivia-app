@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000082_10",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Della Street and Paul Drake helped this character solve mysteries in the book series and TV show.",
+      "answer": "Perry Mason"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Philo T. Farnsworth 1927 invention was finally commercially viable in 1947?",
+      "answer": "Television"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous singer and eventual TV hostess had hits in the 1940s with \"Yes My Darling Daughter,\" and \"I'll Walk Alone\"?",
+      "answer": "Dinah Shore"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Issued in 1950 and limited at first to a few restaurants, what was the first credit card?",
+      "answer": "Diner's Club"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What were you supposed to do if someone told you to \"ice it\"?",
+      "answer": "Don't do it, or forget it; cool it"
+    }
+  ]
+}

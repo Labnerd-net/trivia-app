@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular sitcom was set in post-WWII with Ritchie Cunningham and his friends hanging out at Arnold's Malt Shop?",
+      "answer": "Happy Days"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What 1980's boy doll eventually got a 'Kid Sister'?",
+      "answer": "My Buddy"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who had the hit song 'Livin' on a Prayer'?",
+      "answer": "Bon Jovi"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What group raised money for Muslim-dominated Ethiopia by singing 'Do They Know It's Christmas?'",
+      "answer": "Band Aid"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Complete the jingle: 'I am stuck on a Band-Aid ___'",
+      "answer": "'Because a Band-Aid's stuck on me.'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000116_503",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What government depository in Kentucky has doors weighing 20 tons each?",
+      "answer": "Fort Knox"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What cop drama aired Amy Brenneman's bare behind on its premiere episode?",
+      "answer": "NYPD Blue"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation's soldiers did one Englishman sum up in World War II as 'overpaid, oversexed— and over here'?",
+      "answer": "The United States'"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What virus killed two million people in 1967?",
+      "answer": "Smallpox"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Spanish sporting event did Ernest Hemingway have passes for, at the time he killed himself?",
+      "answer": "The running of the bulls"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What magazine was the first to sell a billion copies worldwide in a year, in 1974?",
+      "answer": "TV Guide"
+    }
+  ]
+}

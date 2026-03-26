@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000093_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What actor replaced Charlie Sheen in the TV show Two and a Half Men?",
+      "answer": "Ashton Kutcher"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What popular book series used the phrase \"Zoo-Wee Mama!\"?",
+      "answer": "Diary of a Wimpy Kid (by Jeff Kinney)"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Finish the lyric: \"The story of my life, I take her home, ___\".",
+      "answer": "\"I drive all night to keep her warm\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Why was Harambe, a gorilla, shot and killed at the Cincinnati Zoo?",
+      "answer": "A 3-yr old boy fell into the enclosure and workers were afraid for his safety."
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What name was given for an old worn-out jacket worn to a frat party because it might end up dirty or stolen by the end of the night?",
+      "answer": "\"Fracket\""
+    }
+  ]
+}

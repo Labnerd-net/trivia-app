@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_7",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport did Katarina Witt compete in?",
+      "answer": "Figure skating"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Outgrowing his 'little' nickname, this artist went on to release classic albums such as 'Talking Book,' 'Innervisions,' and 'Songs in the Key of Life.'",
+      "answer": "Stevie Wonder"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This kids' drink had a 'Ghostbusters' theme.",
+      "answer": "Hi-C Ecto Cooler"
+    },
+    {
+      "category": "Boomers",
+      "color": "red",
+      "question": "Robin Williams had a breakout role on this TV show.",
+      "answer": "Mork and Mindy"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This film popularized the phrase 'Nobody puts Baby in the corner.'",
+      "answer": "Dirty Dancing"
+    }
+  ]
+}

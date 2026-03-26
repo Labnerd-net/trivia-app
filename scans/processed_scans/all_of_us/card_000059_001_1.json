@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000059_001_1",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In the live-action 2017 film \"Beauty and the Beast,\" who stars as Belle?",
+      "answer": "Emma Watson"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The acronym GOAT stands for what phrase?",
+      "answer": "Greatest of all time"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "Which group released the 2012 hit \"Radioactive\"?",
+      "answer": "Imagine Dragons"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Swedish YouTube vlogger is known for his Let's Play videos of horror and action video games and was the most-subscribed poster for many years.",
+      "answer": "Pewdiepie"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This actor portrays Archie in the drama series \"Riverdale.\"",
+      "answer": "K. J. Apa"
+    }
+  ]
+}

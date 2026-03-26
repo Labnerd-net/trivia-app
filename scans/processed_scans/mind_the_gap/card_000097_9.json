@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000097_9",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Who was the star of the 2017 smash hit Wonder Woman?",
+      "answer": "Gal Gadot"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What immersive technology hit mass appeal with the introduction of smartphones and techs, such as Google Cardboard?",
+      "answer": "Virtual Reality"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Bruno Mars sang he didn't want the girl to change anything about herself. What was the name of the song?",
+      "answer": "\"Just the Way You Are\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "In what United Arab Emirates city would you find the Burj Khalifa, the world's tallest building when opened in 2010?",
+      "answer": "Dubai"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "\"Left me on read\" meant what?",
+      "answer": "When a person read a text but didn't respond"
+    }
+  ]
+}

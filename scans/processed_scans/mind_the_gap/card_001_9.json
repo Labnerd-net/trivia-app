@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_9",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous on-screen couple starred in Send Me No Flowers, Lover Come Back, and Pillow Talk?",
+      "answer": "Doris Day and Rock Hudson"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the author of the science fiction anti-war novel Slaughterhouse-Five, published in 1969.",
+      "answer": "Kurt Vonnegut"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Based on a Dickens' novel, this 1960s musical was a smash hit on stage and screen, with songs \"Food, Glorious Food,\" \"Consider Yourself,\" and \"As Long as He Needs Me.\"",
+      "answer": "Oliver!"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What item did Nikita Khrushchev supposedly pound when agitated at the United Nations in 1960?",
+      "answer": "His shoe"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In what 1972 movie was the iconic phrase, \"I'm gonna make him an offer he can't refuse\"?",
+      "answer": "The Godfather"
+    }
+  ]
+}

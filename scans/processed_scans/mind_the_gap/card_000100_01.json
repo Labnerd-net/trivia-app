@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_01",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In what 80's TV show were Crystal and Alexis enemies?",
+      "answer": "Dynasty"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What company made customers wait by sadly singing 'Anticipation, is making me wait'? In the 2000s, the problem was fixed by upside-down squeeze bottles.",
+      "answer": "Heinz"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What unlikely duo had a number one hit with 'Ebony and Ivory' in 1982?",
+      "answer": "Paul McCartney and Stevie Wonder"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the 80s, the deadliest nuclear power plant accident to date occurred outside what Ukrainian city?",
+      "answer": "Pripyat"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the oft-quoted tagline from Dirty Dancing?",
+      "answer": "\"Nobody puts Baby in the corner.\""
+    }
+  ]
+}

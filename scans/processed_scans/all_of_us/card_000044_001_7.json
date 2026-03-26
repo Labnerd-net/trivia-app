@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000044_001_7",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Jamaican singer's fame in the US exploded after Beyoncé featured him on 'Baby Boy.'",
+      "answer": "Sean Paul"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This sitcom was about the lives of employees of a paper company.",
+      "answer": "The Office"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "They're lollipops that come in a tube.",
+      "answer": "Push Pops"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This rapper went on to be a 2000s icon after releasing the single 'Southern Hospitality.'",
+      "answer": "Ludacris"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Jackie Chan and Chris Tucker star together in this mixed-up buddy film.",
+      "answer": "Rush Hour"
+    }
+  ]
+}

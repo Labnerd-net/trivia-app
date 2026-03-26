@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000057_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Actor Ryan Reynolds provided the voice of this popular Pokémon character in a 2019 film.",
+      "answer": "Pikachu"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This group is known for the 2011 worldwide hit 'Party Rock Anthem.'",
+      "answer": "LMFAO"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Patrick Star and Squidward are neighbors of this yellow undersea character.",
+      "answer": "SpongeBob SquarePants"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Dwayne Michael Carter Jr. is better known by what name?",
+      "answer": "Lil Wayne"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which singer is known for fronting the band Maroon 5?",
+      "answer": "Adam Levine"
+    }
+  ]
+}

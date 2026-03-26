@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000066_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Oscar on 'The Odd Couple' is employed as a what?",
+      "answer": "Sportswriter"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "The first of these digital messages was sent in 1970.",
+      "answer": "Email"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Often called the 'Genius,' this piano-playing legend had early success in the R&B circuit before finding crossover success on his 'Modern Sounds' albums.",
+      "answer": "Ray Charles"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "TV's Deputy Marshal Sam McCloud is originally from where?",
+      "answer": "Taos, New Mexico"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "A master of the 'twangy' guitar instrumental, this performer is remembered for hits such as 'Peter Gunn' and 'Rebel Rouser.'",
+      "answer": "Duane Eddy"
+    }
+  ]
+}

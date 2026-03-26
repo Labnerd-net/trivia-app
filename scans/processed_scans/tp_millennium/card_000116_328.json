@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000116_328",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Great Lakes state would you be in if you were scratching an itch in Fleatown?",
+      "answer": "Ohio"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's former Manhattan Family Court Judge Sheindlin better known as?",
+      "answer": "Judge Judy"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the backup target for the B-29 named Bockscar, when Kokura was obscured by clouds?",
+      "answer": "Nagasaki"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What is a siderodromophobic hobo afraid to hitch a ride on?",
+      "answer": "Trains"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What storied NHL team got swept in a four-game playoff on home ice for the first time ever, in 1998?",
+      "answer": "The Montreal Canadiens"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the official military term for a soldier who's unofficially 'gone Elvis'?",
+      "answer": "Missing in action"
+    }
+  ]
+}

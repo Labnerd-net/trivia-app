@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000109_518",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What southern state would you be in if you asked someone to dance in Bumpass?",
+      "answer": "Virginia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What actor's real mother played his mother on L.A. Law?",
+      "answer": "Corbin Bernsen's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose 1980s wedding did Mariah Carey watch videos of to prepare for her $500,000 nuptials?",
+      "answer": "Prince Charles and Princess Diana's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What chart organizing elements into related groups was invented by Dmitri Mendeleyev?",
+      "answer": "The periodic table"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who holds the record for most innings pitched in a major league season?",
+      "answer": "Cy Young"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Egyptian queen's mummified remains were inadvertently dumped in the sewers by workers who were cleaning a Paris museum?",
+      "answer": "Cleopatra's"
+    }
+  ]
+}

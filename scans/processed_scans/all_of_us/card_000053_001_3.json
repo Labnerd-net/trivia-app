@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000053_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This group released the album \"Happiness Begins\" in 2019.",
+      "answer": "Jonas Brothers"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What is the name of the Irish professional mixed martial artist and boxer who is also a former Ultimate Fighting Championship (UFC) featherweight and lightweight champion?",
+      "answer": "Conor McGregor"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What animated series features \"bending\" of the classical elements?",
+      "answer": "Avatar: The Last Airbender"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What \"Shrek\" spin-off movie features a cat and his signature footwear?",
+      "answer": "Puss in Boots"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In this romantic dramedy, a 23-year-old virgin becomes pregnant after an accidental artificial insemination.",
+      "answer": "Jane the Virgin"
+    }
+  ]
+}

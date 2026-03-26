@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_6",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "A combination of the words 'marionette' and 'puppet' provides this name for characters created by Jim Henson.",
+      "answer": "Muppet"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Who stars in 1979's 'The Jerk'?",
+      "answer": "Steve Martin"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "The Roland TR-808 was key in the creation of hip-hop music. What is it?",
+      "answer": "Drum machine"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What team did Barry Sanders play for?",
+      "answer": "Detroit Lions"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Which group released the hit 'Every Breath You Take'?",
+      "answer": "The Police"
+    }
+  ]
+}

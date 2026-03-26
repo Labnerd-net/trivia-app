@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000048_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This kids' show is about a bear cub, a girl named Emily, and their animal friends.",
+      "answer": "Little Bear"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What sport is Roger Federer known for?",
+      "answer": "Tennis"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actor stars in \"Dumb and Dumber\" along with Jim Carrey?",
+      "answer": "Jeff Daniels"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "These fruity drinks came in flavors such as \"Chucklin' Cherry\" and \"Gallop'n Grape.\"",
+      "answer": "Squeezit"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "As a teenager, what artist's album \"...Baby One More Time\" set a Guinness World Record for selling more than 37 million albums?",
+      "answer": "Britney Spears"
+    }
+  ]
+}

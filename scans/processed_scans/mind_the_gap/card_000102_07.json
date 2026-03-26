@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000102_07",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Who starred in the 1984 comedy Police Academy, where a group of eccentrics are trying to join the local fight against crime?",
+      "answer": "Steve Guttenberg"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Popularized by M.C. Hammer and sometimes called Hammer Pants, what was another name for this 80's hip-hop trend?",
+      "answer": "Parachute Pants"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What band's self-titled album in 1976 became the fastest-selling debut ever with the hit \"More Than a Feeling\"?",
+      "answer": "Boston"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1988, Libyan terrorists planted a bomb in Pan Am Flight 103. What city in Scotland did the explosion occur, killing everyone on board and people on the ground?",
+      "answer": "Lockerbie"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the jingle: \"Have a Coke and _____________.\"",
+      "answer": "\"A smile\""
+    }
+  ]
+}

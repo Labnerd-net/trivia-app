@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the 80's ensemble police drama, led by Captain Frank Furillo, that received eight Emmy Awards in its initial season.",
+      "answer": "Hill Street Blues"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What singer became a spokesperson for the Psychic Friends Network astrology hotline?",
+      "answer": "Dionne Warwick"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the movie that made a hit song of an electronic instrumental piece by Harold Faltermeyer.",
+      "answer": "Beverly Hills Cop"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Organized by Quincy Jones, what was the 1985 superstar charity recording for famine relief efforts in Ethiopia?",
+      "answer": "\"We Are the World\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the 70s, what did it mean if someone asked, \"What's your 20?\"",
+      "answer": "What's your location or where are you?"
+    }
+  ]
+}

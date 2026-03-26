@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "It's a classic arcade game in which you try to cross a highway and a river.",
+      "answer": "Frogger"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Legendary athlete Kareem Abdul-Jabbar is known for playing which sport?",
+      "answer": "Basketball"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which guitar legend played the solo on Michael Jackson's 'Beat It'?",
+      "answer": "Eddie Van Halen"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "On 'Saturday Night Live,' David Spade popularized what catchphrase while acting as a flight attendant?",
+      "answer": "Buh-bye"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which critically acclaimed filmmaker directed the horror classics 'Videodrome,' 'The Fly,' and 'Naked Lunch'?",
+      "answer": "David Cronenberg"
+    }
+  ]
+}

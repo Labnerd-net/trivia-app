@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000120_167",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many Beanie Babies could you legally bring into the U.S. from Canada, in 1998?",
+      "answer": "One"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Whose dancing did Seinfeld's George describe as 'a full-body dry heave set to music'?",
+      "answer": "Elaine Benes'"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 20th-century decade gave the world panty hose, Mad magazine and Minute Rice?",
+      "answer": "The 1950s"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What food product did Hyppolyte Merge-Mouries invent in 1868 by treating oils with hydrogen?",
+      "answer": "Margarine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Olympic event has runners wearing shoes with perforations to allow for drainage?",
+      "answer": "Steeplechase"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who did Princess Diana dub 'The Rottweiler'?",
+      "answer": "Camilla Parker Bowles"
+    }
+  ]
+}

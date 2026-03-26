@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000123_333",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state would you be in if you made the short trip from Citronelle to Tangerine?",
+      "answer": "Florida"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What talk show host invites audience members to open the show by saying, 'Hit it, John'?",
+      "answer": "Rosie O'Donnell"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first lawyer to become First Lady?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the first nation to have two of its unmanned satellites dock while in orbit?",
+      "answer": "Japan"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Maine sports outfitter got its start with the invention of a rubber-soled fishing boot in 1912?",
+      "answer": "L.L. Bean"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What musical term has been defined as 'a tempo somewhat faster than largo'?",
+      "answer": "Larghetto"
+    }
+  ]
+}

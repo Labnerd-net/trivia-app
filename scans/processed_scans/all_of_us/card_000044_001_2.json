@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000044_001_2",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This actor launched his solo music career, releasing the theme song for the movie 'Men in Black,' which he also starred in.",
+      "answer": "Will Smith"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "SEGA launched this video game system in 1989.",
+      "answer": "Genesis"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In what sci-fi series does Eleven battle the Mind Flayer?",
+      "answer": "Stranger Things"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The 'Dream Team' was the nickname of what 1992 US Olympic team?",
+      "answer": "Men's basketball team"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Using a 'found-footage' technique, this supernatural film tells of 3 film students who disappear in the Black Hills of Maryland, but their footage is later recovered.",
+      "answer": "The Blair Witch Project"
+    }
+  ]
+}

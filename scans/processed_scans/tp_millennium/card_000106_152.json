@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000106_152",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the most common surname in the U.S. that begins with the letter \"M\"?",
+      "answer": "Miller"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who's the voice for over a dozen Simpsons characters, including Moe, Chief Wiggum and Apu?",
+      "answer": "Hank Azaria"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who predicted in the 1500s that a man named Franco would provoke a civil war in Spain?",
+      "answer": "Nostradamus"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What planet was pummeled by pieces of Shoemaker-Levy 9 in 1994, producing 2000-mile-high fireballs?",
+      "answer": "Jupiter"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the first major leaguer to hit 20 home runs in a calendar month, in 1998?",
+      "answer": "Sammy Sosa"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What snake-loving rock veteran hyped Big Bertha golf clubs in 1996 TV ads?",
+      "answer": "Alice Cooper"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "001_571",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Chinese city leads the world in illegally imported ivory?",
+      "answer": "Hong Kong"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who rode his Taster's Choice fame to a leading role on Buffy the Vampire Slayer?",
+      "answer": "Anthony Stewart Head"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was transported by wagon to Allentown for safekeeping when the British reached the outskirts of Philadelphia in 1777?",
+      "answer": "The Liberty Bell"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What mollusk is the geoduck a large edible variety of?",
+      "answer": "The clam"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NFL team once had Bob Hope, Henry Mancini, Maureen Reagan and Danny Thomas on its advisory board?",
+      "answer": "The Los Angeles Rams"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What does \"BTW\" mean in e-mail speak?",
+      "answer": "By the way"
+    }
+  ]
+}

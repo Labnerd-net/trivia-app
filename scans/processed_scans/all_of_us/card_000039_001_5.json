@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000039_001_5",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which tool-themed single by Peter Gabriel topped the charts in 1986?",
+      "answer": "Sledgehammer"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Which actor stars in 'The Man with Two Brains'?",
+      "answer": "Steve Martin"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is Jerry Rice known for?",
+      "answer": "Football"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This TV detective wears all kinds of disguises.",
+      "answer": "Tony Baretta"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Using a George Orwell reference, which company created the popular 1980s ad that promised, '1984 won't be like Nineteen Eighty-Four'?",
+      "answer": "Apple"
+    }
+  ]
+}

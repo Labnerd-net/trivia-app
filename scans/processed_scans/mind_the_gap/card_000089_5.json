@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000089_5",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous 1952 genre-defining western starred Gary Cooper and Grace Kelly?",
+      "answer": "High Noon"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the popular 1958 epic historical novel by Leon Uris that portrayed the Jewish experience and the founding of Israel.",
+      "answer": "Exodus"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What singer/songwriter and activist was best known for her versions of protest songs 'We Shall Overcome,' and 'The Night They Drove Old Dixie Down'?",
+      "answer": "Joan Baez"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In 1961, what name was given to black and white activists who rode buses through the South to protest segregated waiting rooms and bathroom facilities?",
+      "answer": "Freedom riders"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In what 1964 movie was the following quote? 'Gentlemen, you can't fight in here! This is the War Room!'",
+      "answer": "Dr. Strangelove"
+    }
+  ]
+}

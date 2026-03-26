@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Broadway musical \"American Idiot\" is a stage adaptation of a popular album by what punk band?",
+      "answer": "Green Day"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This J. J. Abrams–produced TV drama stars Keri Russell in the lead role.",
+      "answer": "Felicity"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Nintendo® upped its game in 1990 by introducing this gaming console.",
+      "answer": "Super Nintendo Entertainment System™"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What position is Peyton Manning known for playing?",
+      "answer": "Quarterback"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "An unorthodox detective helps the Miami Dolphins™ track down their missing mascot in this 1994 film.",
+      "answer": "Ace Ventura: Pet Detective"
+    }
+  ]
+}

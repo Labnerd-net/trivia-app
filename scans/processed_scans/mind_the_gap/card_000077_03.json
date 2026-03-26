@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000077_03",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was Aunt Becky's maiden name before she married Uncle Jessie?",
+      "answer": "Donaldson"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "ATMs became popular in the 1990s. What did \"ATM\" stand for?",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Millennials were the first generation to move from CDs to this music format.",
+      "answer": "MP3s"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was the name of the first successfully cloned sheep in history?",
+      "answer": "Dolly"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What was someone called who purposefully tried to provoke others on the internet?",
+      "answer": "A troll"
+    }
+  ]
+}

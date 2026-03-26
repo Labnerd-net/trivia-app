@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000113_57",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Alaskan settlement was called Davis until developers tried to entice a toy manufacturing plant to move there?",
+      "answer": "North Pole"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What wise guys are inextricably linked to the phrase 'Nyuk, nyuk, nyuk'?",
+      "answer": "The Three Stooges"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What European nation's inflation rate reached an alarming 60 percent an hour in the 1920s?",
+      "answer": "Germany's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the name of a male reproductive termite?",
+      "answer": "King"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What major league baseball team posted a decade-leading 953–657 won-lost record in the 1970s?",
+      "answer": "The Cincinnati Reds"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Hollywood madam's dad was Madonna's pediatrician?",
+      "answer": "Heidi Fleiss'"
+    }
+  ]
+}

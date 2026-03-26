@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000105_8",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the first and most iconic host of the TV game show Family Feud.",
+      "answer": "Richard Dawson"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What popular 70's hobby included lingo such as, \"breaker, breaker, one-niner,\" \"what's your handle,\" and \"smokey's at your back door\"?",
+      "answer": "Citizen Band Radio (CB)"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "The first line of what Dire Straits' song begins with \"I want my MTV?\"",
+      "answer": "\"Money for Nothing\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1975, what magnetic tape cassette video format did Sony release?",
+      "answer": "Betamax"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "This TV nerd always was asking the question: \"Did I do that?\"",
+      "answer": "Steve Urkle"
+    }
+  ]
+}

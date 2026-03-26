@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000117_64",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's Mongolia often called to distinguish it from an autonomous region in China?",
+      "answer": "Outer Mongolia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Whose book club, launched in 1996, virtually guaranteed a best-seller status for its selections?",
+      "answer": "Oprah Winfrey's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. military base was won in the last major battle against Japan?",
+      "answer": "Okinawa"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of animal was selected to test the first electric toothbrush?",
+      "answer": "A dog"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sport does The Cynic's Dictionary define as \"the primary excuse for rioting in nations other than the U.S.\"?",
+      "answer": "Soccer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What nation's candy lovers savor apple-flavored treats called Dew-Dew?",
+      "answer": "Japan's"
+    }
+  ]
+}

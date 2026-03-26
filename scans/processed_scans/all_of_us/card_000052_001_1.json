@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000052_001_1",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This pop star had hits such as \"Whenever, Wherever\" and \"Hips Don't Lie.\"",
+      "answer": "Shakira"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Will Arnett and Aaron Paul lend their voices to what animated comedy with an equine lead?",
+      "answer": "BoJack Horseman"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What sport is Tony Hawk known for?",
+      "answer": "Skateboarding"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This sci-fi comedy sees Robin Williams star as absentminded professor Philip Brainard.",
+      "answer": "Flubber"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "He went from being a rapper to a cultural phenomenon after interrupting Taylor Swift at the VMAs.",
+      "answer": "Kanye West"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000053_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which artist took \"Rolling in the Deep\" to the top of the charts?",
+      "answer": "Adele"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Made famous by \"American Idol\", who now hosts her own television talk show?",
+      "answer": "Kelly Clarkson"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which actress plays Mary Poppins in 2018's \"Mary Poppins Returns\"?",
+      "answer": "Emily Blunt"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This fashion trend promotes basic-looking clothing like T-shirts, sweats, and jeans that \"normal\" people would like.",
+      "answer": "Normcore"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which company released the touchscreen tablet line called Surface?",
+      "answer": "Microsoft"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000094_4",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "The main characters in Disney's Descendants were descendants of whom?",
+      "answer": "The Disney Villains"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What video game series allowed the user to build, explore, and fight as a favorite Disney character?",
+      "answer": "Disney Infinity"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This La La Land song won the Academy Award for Best Original Song in 2017.",
+      "answer": "\"City of Stars\""
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Also known as \"Pharma Bro\", this man was sentenced in 2018 to seven years in federal prison for two counts of security fraud.",
+      "answer": "Martin Shkreli"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What was the term used for describing someone who was hungry and angry?",
+      "answer": "\"Hangry\""
+    }
+  ]
+}

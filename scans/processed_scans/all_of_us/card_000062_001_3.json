@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000062_001_3",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What kind-spirited specter is the subject of a comic, film, and television series?",
+      "answer": "Casper"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Wild drummer Keith Moon was best known for his association with what band?",
+      "answer": "The Who"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This toy answers all your most pressing questions.",
+      "answer": "Magic 8 Ball"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Which author wrote the famous poem \"Howl\"?",
+      "answer": "Allen Ginsberg"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Ending a polarizing chapter in American history, the US withdrew from this conflict in 1973.",
+      "answer": "Vietnam War"
+    }
+  ]
+}

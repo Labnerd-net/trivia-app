@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000115_533",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What sidewalk statuary does Albertville, Alabama make one-half the U.S. supply of?",
+      "answer": "Fire hydrants"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who did Joyce Davenport nickname \"Pizza Man\" on Hill Street Blues?",
+      "answer": "Frank Furillo"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Wall Streeter spiced a 1986 University of California commencement address with: \"Greed is all right, by the way\"?",
+      "answer": "Ivan Boesky"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What modern shape for a highway interchange first emerged in New Jersey, in 1928?",
+      "answer": "The cloverleaf"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What effervescent tablets of the 1960s, after losing their cyclamates, made a comeback in the 1990s?",
+      "answer": "Fizzies"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What irreverent MTV cartoon showcases the exploits of Powdered Toast Man?",
+      "answer": "Ren & Stimpy"
+    }
+  ]
+}

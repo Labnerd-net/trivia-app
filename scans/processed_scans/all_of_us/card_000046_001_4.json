@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000046_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Produced by brothers Joel and Ethan Coen, this film is based on Homer's legendary poem \"The Odyssey\" but is set in rural Mississippi.",
+      "answer": "O Brother, Where Art Thou?"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Discovered on \"Star Search\" in 1984, this television personality hosted her own daytime talk show from 1996 to 2002 and was a notable cohost on \"The View.\"",
+      "answer": "Rosie O'Donnell"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This artist's signature song is built around a sample from \"Under Pressure\" by Queen and David Bowie.",
+      "answer": "Vanilla Ice"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Jamaican sprinter became a sensation after his performance in the 2008 Olympics®.",
+      "answer": "Usain Bolt"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Actress Calista Flockhart won a Golden Globe® for her starring role in this series.",
+      "answer": "Ally McBeal"
+    }
+  ]
+}

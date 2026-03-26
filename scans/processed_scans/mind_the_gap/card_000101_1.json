@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000101_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What TV show had the theme song, 'Thank You For Being a Friend'?",
+      "answer": "The Golden Girls"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Why was Generation X referred to as the Latchkey Generation?",
+      "answer": "First generation both parents were at work when kids got home from school."
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name one of the three members of Run-DMC.",
+      "answer": "Joseph 'Run' Simmons, Darryl 'D.M.C.' McDaniels, and Jason 'Jam Master Jay' Mizell"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the general name for the 1970s substantial petroleum shortages in the US, Canada, Western Europe, and Australia?",
+      "answer": "Energy Crisis"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What was the 80's nickname for Baby Boomers with college educations, expensive tastes, and lucrative jobs to pay for their lifestyle?",
+      "answer": "Yuppie"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000100_06",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Name the three original daughters on the hit show Little House on the Prairie.",
+      "answer": "Mary, Laura, Carrie"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "James Garner and Mariette Hartley starred together in a series of ads, convincing the public they were married. What were they advertising?",
+      "answer": "Polaroid Cameras"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What song by Rob Base and DJ E-Z Rock was a smash hit in 1988?",
+      "answer": "\"It Takes Two\""
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1980, what became the world's first 24-hour news network?",
+      "answer": "CNN"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Where exactly did \"everybody know your name\"?",
+      "answer": "Cheers"
+    }
+  ]
+}

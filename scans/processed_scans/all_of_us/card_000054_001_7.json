@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_7",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In case Netflix, Prime Video, Hulu, and Disney+ weren't enough for you, Apple launched this video-streaming service of its own in 2019.",
+      "answer": "Apple TV+"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This rapper's song \"Timber\" features Kesha.",
+      "answer": "Pitbull"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What online multiplayer game features Bounty Mode and Gem Mode?",
+      "answer": "Brawl Stars"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "\"Joker\" is a 2019 film starring which actor in the lead role?",
+      "answer": "Joaquin Phoenix"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The dancing hot dog meme originated as a specialty lens on what app?",
+      "answer": "Snapchat"
+    }
+  ]
+}

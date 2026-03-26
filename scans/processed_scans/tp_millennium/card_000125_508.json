@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000125_508",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European capital used to be called Lutetia?",
+      "answer": "Paris"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sci-fi TV show inspired sales of 30 million novels, a book series publishing record?",
+      "answer": "Star Trek"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What European nation's royal family celebrated its 700th anniversary in 1997?",
+      "answer": "Monaco's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who sucked applesauce from a tube to become the first American to eat in space?",
+      "answer": "John Glenn"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What socially-minded company started making Newman's Own ice cream in 1998?",
+      "answer": "Ben & Jerry's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What social phenomenon gave rise to the euphemisms \"chemically inconvenienced\" for drunk and \"vertically challenged\" for short?",
+      "answer": "Political correctness"
+    }
+  ]
+}

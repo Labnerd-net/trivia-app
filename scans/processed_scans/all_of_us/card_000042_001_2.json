@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000042_001_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Which group released the 1979 hit 'Heart of Glass'?",
+      "answer": "Blondie"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "The actor Carlos Irwin Estévez is known professionally as whom?",
+      "answer": "Charlie Sheen"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What 2-dimensional table tennis game was one of the earliest arcade video games?",
+      "answer": "Pong"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "What sport did Ronnie Lott play?",
+      "answer": "Football"
+    },
+    {
+      "category": "Gen X",
+      "color": "Red",
+      "question": "Who directed 1979's sci-fi classic 'Alien'?",
+      "answer": "Ridley Scott"
+    }
+  ]
+}

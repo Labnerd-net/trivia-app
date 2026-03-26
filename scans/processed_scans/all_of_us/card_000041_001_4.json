@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000041_001_4",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In her 1985 number 1 single, Whitney Houston asked, \"How will I know if\" what?",
+      "answer": "He really loves me"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What \"Friends\" star could be spotted in earlier episodes of \"Empty Nest\" and \"Who's the Boss?\"",
+      "answer": "Matthew Perry"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This Disney adventure follows a quest to save orphan Penny.",
+      "answer": "The Rescuers"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "He won the NBA finals MVP award his rookie season in 1979.",
+      "answer": "Magic Johnson"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Originally used by dancers to prevent cramps in their ankles, what garment found its way into popular '80s fashion?",
+      "answer": "Leg warmers"
+    }
+  ]
+}

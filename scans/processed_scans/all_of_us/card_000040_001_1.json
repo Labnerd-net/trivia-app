@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000040_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Dan Aykroyd and Eddie Murphy star in this 1983 film about an elaborate bet.",
+      "answer": "Trading Places"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Merchandise for this animated franchise featuring a light and colorful girl was very popular with girls in the '80s.",
+      "answer": "Rainbow Brite"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This sitcom about a teacher features John Travolta.",
+      "answer": "Welcome Back, Kotter"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What Norwegian band is responsible for the hit \"Take on Me\"?",
+      "answer": "A-ha"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What type of vehicle did O. J. Simpson use while being chased by police in 1994?",
+      "answer": "Ford Bronco"
+    }
+  ]
+}

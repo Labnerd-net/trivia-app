@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000120_139",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What do Southerners call ground hominy with the germ removed?",
+      "answer": "Grits"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the only actor among the top ten box-office attractions every year from 1968 through 1986?",
+      "answer": "Clint Eastwood"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What body of water was the Spanish Armada trying to secure when defeated in 1588?",
+      "answer": "The English Channel"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What conservation-minded U.S. president killed 300 animals in Africa from 1909 to 1910?",
+      "answer": "Theodore Roosevelt"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did Ring magazine name best fighter of the last 75 years, in 1997?",
+      "answer": "Sugar Ray Leonard"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What media mogul said of the mass suicide of 39 Heaven's Gate members: 'It's a good way to get rid of a few nuts'?",
+      "answer": "Ted Turner"
+    }
+  ]
+}

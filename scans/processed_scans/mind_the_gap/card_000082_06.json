@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000082_06",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Nickelodeon gave millennials their own awards show. Basically, it was a much less-boring version of the Oscars. What was it called?",
+      "answer": "The Kids' Choice Awards"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This $30 toy became such a craze during Christmas 1996 that some desperate parents paid over $1,000 to get one off eBay.",
+      "answer": "Tickle Me Elmo"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What band, led by Darius Rucker, sang the lyrics \"I'm such a baby yeah, the dolphins make me cry.\"",
+      "answer": "Hootie and the Blowfish"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In 2001, Barry Bonds hit 73 homeruns to break the previous homerun record. Who held it before?",
+      "answer": "Mark McGwire"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "\"Set it and forget it\" were the instructions to operate this infomercial product.",
+      "answer": "RonCo Showtime Rotisserie"
+    }
+  ]
+}

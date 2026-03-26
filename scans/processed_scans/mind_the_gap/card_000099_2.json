@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000099_2",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What TV series from 1978-1982 starred Bill Bixby and Lou Ferrigno as two sides to the same man?",
+      "answer": "The Incredible Hulk"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What dance did Morris the Cat do?",
+      "answer": "Cha-cha-cha"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What group proclaimed \"Everybody Wants to Rule the World\"?",
+      "answer": "Tears for Fears"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1986, which Space Shuttle tragedy occurred?",
+      "answer": "Challenger"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What did Hans and Franz want to do for you?",
+      "answer": "\"Pump you up\""
+    }
+  ]
+}

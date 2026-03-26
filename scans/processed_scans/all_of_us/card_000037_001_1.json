@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Who sang 1989's 'Forever Your Girl'?",
+      "answer": "Paula Abdul"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Her first Hollywood movie was 1995's 'Hackers.'",
+      "answer": "Angelina Jolie"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This 66-episode drama-comedy series stars Bruce Willis and Cybill Shepherd as private detectives.",
+      "answer": "Moonlighting"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "A mass genocide occurred in this country during a 1994 civil war.",
+      "answer": "Rwanda"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This brand of gum comes in a foil pouch.",
+      "answer": "Big League Chew"
+    }
+  ]
+}

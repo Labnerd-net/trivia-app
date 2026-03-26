@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000068_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "On the sitcom \"I Love Lucy,\" Lucy often auditioned using what maiden name?",
+      "answer": "McGillicuddy"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "After gaining popularity in the 1970s, this device allowed users to capture broadcast TV for later viewing.",
+      "answer": "VCR"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Clint Eastwood stars as Inspector Harry Callahan in which 1971 film?",
+      "answer": "Dirty Harry"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This guitarist joined the Rolling Stones in 1969 and played on the classic albums \"Let It Bleed,\" \"Sticky Fingers,\" and \"Exile on Main St.\" before departing in 1974.",
+      "answer": "Mick Taylor"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Gerald Ford became president when this man resigned from office in 1974.",
+      "answer": "Richard Nixon"
+    }
+  ]
+}

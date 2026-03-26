@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000082_08",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This Nebraska native was known as the greatest popular music dancer of all time. In movies he was paired with everyone from Ginger Rogers to Audrey Hepburn.",
+      "answer": "Fred Astaire"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What children's book series followed the lives of four orphaned children who make a home for themselves in an abandoned train car?",
+      "answer": "The Boxcar Children"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Where exactly was Fats Domino going to get his thrill?",
+      "answer": "On Blueberry Hill"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Actress Grace Kelly married Prince Rainier of __________ in 1956.",
+      "answer": "Monaco"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was a \"g-man\"?",
+      "answer": "Government agent, usually FBI investigator"
+    }
+  ]
+}

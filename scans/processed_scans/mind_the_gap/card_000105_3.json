@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000105_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In what 1985 movie did Chevy Chase play an investigative reporter who goes undercover to track the drug trade in his community?",
+      "answer": "Fletch"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "What music countdown show with hosts like Marilyn McCoo and Andy Gibb, featured dancers who wore lycra unitards and slinked through the songs?",
+      "answer": "Solid Gold"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In the Men at Work song \"Down Under,\" a man smiled and gave him what to eat?",
+      "answer": "A vegemite sandwich"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "In 1984, what woman was the first to be listed on a major party ticket for Vice-President?",
+      "answer": "Geraldine Ferraro"
+    },
+    {
+      "category": "Gen X",
+      "color": null,
+      "question": "Finish the 1980's PSA that included eggs and frying pans: \"This is your brain. ___________.\"",
+      "answer": "\"This is your brain on drugs.\""
+    }
+  ]
+}

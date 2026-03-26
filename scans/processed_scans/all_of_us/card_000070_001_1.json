@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_1",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What territory became the 49th US state in 1959?",
+      "answer": "Alaska"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This toy had kids of the '50s and '60s jumping up and down.",
+      "answer": "Pogo stick"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Shotz Beer is a fictional brand that employs which 2 title characters?",
+      "answer": "Laverne & Shirley"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "His first big hit in the US was 'Crocodile Rock.'",
+      "answer": "Elton John"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Set in post-Civil War Texas, this film about a boy and a dog has a bittersweet ending.",
+      "answer": "Old Yeller"
+    }
+  ]
+}

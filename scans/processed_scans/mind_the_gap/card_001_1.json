@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "001_1",
+  "questions": [
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "In the animated version of Aladdin, what did Aladdin steal that prompted the guards to begin chasing him?",
+      "answer": "A loaf of bread"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Just like its name, these vending machines offered movie rentals.",
+      "answer": "Redbox"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "This \"Songbird Supreme\" has a five-octave vocal range and had a string of number one hits for 11 straight years from 1989 to 2000.",
+      "answer": "Mariah Carey"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "Name the two Presidential candidates in the controversial 2000 election.",
+      "answer": "George Bush and Al Gore"
+    },
+    {
+      "category": "Millennial",
+      "color": null,
+      "question": "What snack brand's slogan was \"Once you pop, you can't stop\" referencing the sound their packaging made when opened?",
+      "answer": "Pringles"
+    }
+  ]
+}

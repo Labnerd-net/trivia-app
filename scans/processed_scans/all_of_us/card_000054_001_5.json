@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000054_001_5",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This long-running series on the E! cable network focuses on the personal and professional lives of the Kardashian-Jenner family.",
+      "answer": "Keeping Up with the Kardashians"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "\"All About That Bass\" was a 2014 hit for which singer?",
+      "answer": "Meghan Trainor"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "What country is soccer star Cristiano Ronaldo from?",
+      "answer": "Portugal"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This Pixar-produced computer-animated film features the Parrs, a family of superheroes.",
+      "answer": "The Incredibles"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In this Netflix film, Lana Condor stars as Lara Jean, whose private letters are sent to all of her previous crushes, sending her life into chaos.",
+      "answer": "To All the Boys I've Loved Before"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000058_001_2",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In the term LGBTQ+, what does the T stand for?",
+      "answer": "Transgender"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "This rapper's #1 hits have included 'Rockstar', 'Psycho', and 'Sunflower'.",
+      "answer": "Post Malone"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "In the 'Harry Potter' series, what word is used to describe a person that lacks any magical ability?",
+      "answer": "Muggle"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "If you're not careful, Doritos will leave your fingertips this color.",
+      "answer": "Orange"
+    },
+    {
+      "category": "Gen Z",
+      "color": "yellow",
+      "question": "The Academy Awards recognize people from which industry?",
+      "answer": "Film"
+    }
+  ]
+}

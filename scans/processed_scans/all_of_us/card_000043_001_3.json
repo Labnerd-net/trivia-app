@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "'The Drew Carey Show' is set in what midwestern US city?",
+      "answer": "Cleveland, Ohio"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This group released the song 'I'm Too Sexy.'",
+      "answer": "Right Said Fred"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What foam clog company creates 'breathable work shoes'?",
+      "answer": "Crocs"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Now, remember—this twisted sci-fi-turned-rom-com sees actress Kate Winslet starring opposite Jim Carrey. What is it?",
+      "answer": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This government whistle-blower was a former NSA contractor and is now exiled in Russia.",
+      "answer": "Edward Snowden"
+    }
+  ]
+}

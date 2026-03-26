@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000119_68",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What name comes from the Polynesian Owhyhii, meaning \"place of the gods\"?",
+      "answer": "Hawaii"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What M*A*S*H character did Hawkeye salute for the first time in the show's final episode?",
+      "answer": "Colonel Potter"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who won a record 525 electoral votes in a U.S. presidential election?",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What do you call a weasel whose coat turns white during the winter?",
+      "answer": "An ermine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What wide receiver titled his autobiography Just Give Me the Damn Ball?",
+      "answer": "Keyshawn Johnson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1993 Cy Young winner became the singing, guitar-playing frontman for the band Stick Figure?",
+      "answer": "Jack McDowell"
+    }
+  ]
+}

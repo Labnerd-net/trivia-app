@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000092_8",
+  "questions": [
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What tear-jerker Pixar film gave us a glimpse into the inner workings of our minds and emotions?",
+      "answer": "Inside Out"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "Who was Abby Lee Miller's favorite dancer on Dance Moms?",
+      "answer": "Maddie Ziegler"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This country singer/songwriter first received attention for her covers of popular songs, including Florida Georgia Line's \"H.O.L.Y.\"",
+      "answer": "Tegan Marie"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "This former NBC TODAY show anchor was fired in 2017 due to complaints of \"inappropriate sexual behavior in the workplace.\"",
+      "answer": "Matt Lauer"
+    },
+    {
+      "category": "Gen Z",
+      "color": null,
+      "question": "What did \"SMH\" mean in text messages?",
+      "answer": "Shake my head"
+    }
+  ]
+}

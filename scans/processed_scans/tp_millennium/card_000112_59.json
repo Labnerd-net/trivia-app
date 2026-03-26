@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000112_59",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country is often called 'White Russia'?",
+      "answer": "Belarus"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom received a record 117 Emmy nominations?",
+      "answer": "Cheers"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What town's nuclear power plant spewed 100 million curies of radiation into the atmosphere in 1986?",
+      "answer": "Chernobyl's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who are more likely to get divorced— gynecologists, psychiatrists or urologists?",
+      "answer": "Psychiatrists"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who tested positive for banned decongestants, scuttling Argentina's chances at the 1994 World Cup?",
+      "answer": "Diego Maradona"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What color underwear must prison inmates wear in tough-on-crime Maricopa County, Arizona?",
+      "answer": "Pink"
+    }
+  ]
+}

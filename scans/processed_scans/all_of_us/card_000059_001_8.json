@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000059_001_8",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This popular mobile game has players practicing their swordsmanship to slice up fruit.",
+      "answer": "Fruit Ninja"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This star canceled her 2019 Las Vegas residency after a near-fatal medical emergency.",
+      "answer": "Britney Spears"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This long-running British sci-fi series follows a time-traveling \"doctor\" who works to help people in need and save civilizations.",
+      "answer": "Doctor Who"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The Echo Dot is a smart speaker made by which company?",
+      "answer": "Amazon"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Starring Annie LeBlanc, this web series follows a group of middle school dancers known by their pet name.",
+      "answer": "Chicken Girls"
+    }
+  ]
+}

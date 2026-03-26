@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000035_001_1",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "According to Tommy Tutone, what number should you dial to reach Jenny?",
+      "answer": "867-5309"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Nelson Rockefeller was vice president for which US president?",
+      "answer": "Gerald Ford"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "In his memoir, 'Lucky Man,' what actor wrote about his life with Parkinson's disease?",
+      "answer": "Michael J. Fox"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This fun piece of furniture is filled with little plastic pellets.",
+      "answer": "Beanbag chairs"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This actor is remembered for playing Superman in a string of late-'70s and early-'80s films.",
+      "answer": "Christopher Reeve"
+    }
+  ]
+}

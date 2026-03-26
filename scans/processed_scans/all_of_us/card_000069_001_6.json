@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000069_001_6",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "\"Miracle on 34th Street\" stars what child actress?",
+      "answer": "Natalie Wood"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Released in 1971, this Marvin Gaye song was initially held back from being released because of its political tone.",
+      "answer": "What's Going On"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Throw it right and it'll come back to you. This toy marketed by Wham-O was a real hit in the '50s and '60s.",
+      "answer": "Boomerang"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This Teamsters Union president was reported missing in 1975.",
+      "answer": "Jimmy Hoffa"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What critically acclaimed television drama takes place in a Korean War field hospital?",
+      "answer": "MASH"
+    }
+  ]
+}

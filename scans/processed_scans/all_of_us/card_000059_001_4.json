@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000059_001_4",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "To do this simple dance move, you drop your head into the crook of one arm and raise your other arm.",
+      "answer": "Dab"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This \"Good as Hell\" performer is known for advocating self-love and body positivity.",
+      "answer": "Lizzo"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2016 computer-animated film is based on a \"hair-raising\" doll line and features a soundtrack produced by Justin Timberlake.",
+      "answer": "Trolls"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This South African comedian, writer, and television personality may be best known for hosting \"The Daily Show\" on Comedy Central.",
+      "answer": "Trevor Noah"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This big-box retailer is easily recognizable by its red-and-white bull's-eye logo.",
+      "answer": "Target"
+    }
+  ]
+}

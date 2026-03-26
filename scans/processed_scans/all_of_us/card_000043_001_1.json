@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000043_001_1",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 1988 prehistoric adventure film tells of Littlefoot's struggle against a 'Sharptooth.'",
+      "answer": "The Land before Time"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This fighting game franchise features Cyrax and Sub-Zero.",
+      "answer": "Mortal Kombat"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This cartoon features 4 extreme-sports enthusiasts.",
+      "answer": "Rocket Power"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Quentin Tarantino's 'Kill Bill: Volume 1' features this actress as O-Ren Ishii, the deadly head of the Japanese Yakuza.",
+      "answer": "Lucy Liu"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Along with Alicia Silverstone, this actress and former model notably stars in the 1993 music video for Aerosmith's song 'Crazy.'",
+      "answer": "Liv Tyler"
+    }
+  ]
+}

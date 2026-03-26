@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_6",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the two main couples on the 60's cartoon The Flintstones.",
+      "answer": "Fred and Wilma Flintstone, Barney and Betty Rubble"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the name for the type of telephone where numbers were dialed by spinning a disk on the unit and allowing the disk to recoil?",
+      "answer": "Rotary Phone"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What singer achieved fame with songs such as \"Both Sides Now,\" and \"Send in the Clowns\"?",
+      "answer": "Judy Collins"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "In 1962, what Philadelphia Warrior scored a record 100 points in a single game?",
+      "answer": "Wilt Chamberlain"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "If someone said, \"Don't flip your wig,\" what did they mean?",
+      "answer": "Don't get so excited or mad; stay calm"
+    }
+  ]
+}

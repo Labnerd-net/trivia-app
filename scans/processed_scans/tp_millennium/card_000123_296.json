@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000123_296",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Texas tourist attraction claims to be 'The most famous white house west of D.C.'?",
+      "answer": "Southfork"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What hit single of the seventies did Ally McBeal's dancing baby help resurrect in the nineties?",
+      "answer": "Hooked on a Feeling"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Union military man coined the phrase 'unconditional surrender'?",
+      "answer": "Ulysses S. Grant"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What astronomer said 'billions and billions of stars' for the last time in 1997?",
+      "answer": "Carl Sagan"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was posthumously honored as the most powerful figure in the sports card industry for the year 1996?",
+      "answer": "Mickey Mantle"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What TV talk show host signs off with: 'Take care of yourself—and each other'?",
+      "answer": "Jerry Springer"
+    }
+  ]
+}

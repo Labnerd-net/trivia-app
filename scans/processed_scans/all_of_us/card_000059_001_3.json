@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000059_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "What character does Lisa Kudrow play on \"Friends\"?",
+      "answer": "Phoebe"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Robert Downey Jr. plays this superhero in many Marvel films from the 2010s.",
+      "answer": "Iron Man"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Which rapper performed 2010's \"Love the Way You Lie\" with Rihanna?",
+      "answer": "Eminem"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 2017 animated comedy introduces an infant character that can speak like an adult and calls himself \"the Boss.\"",
+      "answer": "The Boss Baby"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Kenan Thompson is the longest-tenured cast member on this sketch comedy series.",
+      "answer": "Saturday Night Live"
+    }
+  ]
+}

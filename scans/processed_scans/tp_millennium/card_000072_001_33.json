@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000072_001_33",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the highest point in China?",
+      "answer": "Mount Everest"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Barney and Betty Rubble find on their front stoop the morning after they wished upon a star?",
+      "answer": "Bamm-Bamm Rubble"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What type of dancing was banned in the U.S. in 1933?",
+      "answer": "Marathon dancing"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What vice president raised eyebrows by proposing to broadcast a live shot of Earth round the clock?",
+      "answer": "Al Gore"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What became the game industry's first 64-bit console, in 1996?",
+      "answer": "Nintendo 64"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What rock 'n' roll singer is memorialized by an eight-foot bronze statue in Lubbock, Texas?",
+      "answer": "Buddy Holly"
+    }
+  ]
+}

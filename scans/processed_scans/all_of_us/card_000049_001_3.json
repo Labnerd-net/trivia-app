@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000049_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The hip-hop group House of Pain will be remembered for this 1992 hit.",
+      "answer": "Jump Around"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Michael Crichton created what television medical drama series?",
+      "answer": "ER"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Robert Atkins's diet plan restricts the intake of what component of food?",
+      "answer": "Carbohydrates"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "He won a Grammy® for his single \"Let Me Ride.\"",
+      "answer": "Dr. Dre"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This 1993 drama tells the story of an orphan who befriends a captive orca.",
+      "answer": "Free Willy"
+    }
+  ]
+}

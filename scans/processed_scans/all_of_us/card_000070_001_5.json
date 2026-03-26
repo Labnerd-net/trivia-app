@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_5",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "As tastes changed, rock music in the late '60s took an introspective turn and spawned this genre.",
+      "answer": "Psychedelic rock"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This character was known for wearing a leather jacket on 'Happy Days.'",
+      "answer": "The Fonz"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Who was the first person to travel into space?",
+      "answer": "Yuri Gagarin"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This toy soldier was introduced to kids in the early '60s, later spawning a toy franchise.",
+      "answer": "G.I. Joe"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "Ford introduced this 'pony' at the 1964 World's Fair.",
+      "answer": "Mustang"
+    }
+  ]
+}

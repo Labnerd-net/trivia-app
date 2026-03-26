@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000085_4",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Name the ventriloquist and his sidekick who charmed radio, television, and movie audiences for decades.",
+      "answer": "Edgar Bergen and Charlie McCarthy"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "This spiritualistic toy was invented by the son of a medium.",
+      "answer": "The Magic Eight Ball"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "Considered a pioneer in modern jazz and improvisation, this trumpeter, composer, and band leader's albums included Birth of Cool and Kind of Blue.",
+      "answer": "Miles Davis"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What farm labor leader led the 1965 California grape pickers strike, and eventually created the United Farm Workers?",
+      "answer": "Cesar Chavez"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "\"Play it, Sam\" is the actual phrase said in this iconic movie.",
+      "answer": "Casablanca"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000070_001_4",
+  "questions": [
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This popular early-'70s rock band was largely the project of singer and songwriter John Fogerty.",
+      "answer": "Creedence Clearwater Revival"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "What TV mascot was responsible for the tagline 'Give a hoot—don't pollute!'?",
+      "answer": "Woodsy Owl"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "According to its theme song, you'll have a 'yabba-dabba-doo time' watching what TV series?",
+      "answer": "The Flintstones"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "In 1971 laws were passed banning advertising these on TV and radio.",
+      "answer": "Cigarettes"
+    },
+    {
+      "category": "Boomers",
+      "color": "purple",
+      "question": "This actor stars as Moses in 'The Ten Commandments.'",
+      "answer": "Charlton Heston"
+    }
+  ]
+}

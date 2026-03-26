@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000037_001_3",
+  "questions": [
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "Men without Hats is known for what hit single?",
+      "answer": "The Safety Dance"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This actor is best known for portraying Arnold Jackson on 'Diff'rent Strokes.'",
+      "answer": "Gary Coleman"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What child star had roles in 'Gremlins,' 'The Goonies,' and 'Stand by Me'?",
+      "answer": "Corey Feldman"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "What sport is Clyde 'the Glide' Drexler known for?",
+      "answer": "Basketball"
+    },
+    {
+      "category": "Gen X",
+      "color": "red",
+      "question": "This time-saving gadget allows its user to turn off a lamp from the comfort of their bed.",
+      "answer": "The Clapper"
+    }
+  ]
+}

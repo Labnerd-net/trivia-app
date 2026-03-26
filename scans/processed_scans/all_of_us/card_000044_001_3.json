@@ -1,0 +1,36 @@
+{
+  "card_set": "all_of_us",
+  "card_id": "000044_001_3",
+  "questions": [
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The cable series 'American Chopper' chronicles a father-and-son duo who fabricate customized what?",
+      "answer": "Motorcycles"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "In November 2003, the final flight of what supersonic jet took place?",
+      "answer": "Concorde"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "Based on a real saloon, this film from 2000 tells the story of a small-town girl that takes a job at a rowdy New York City bar, where the staff dance on bar tops.",
+      "answer": "Coyote Ugly"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "This Japanese video game company became a household name after launching its first home console in 1985.",
+      "answer": "Nintendo"
+    },
+    {
+      "category": "Millennials",
+      "color": "green",
+      "question": "The 'Thong Song' was a hit single for which cheeky R&B singer?",
+      "answer": "Sisqó"
+    }
+  ]
+}

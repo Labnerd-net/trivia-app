@@ -1,0 +1,36 @@
+{
+  "card_set": "mind_the_gap",
+  "card_id": "000090_1",
+  "questions": [
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "On both radio and TV this man helped the Lone Ranger keep justice in the old West.",
+      "answer": "Tonto"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What famous pianist and showman had his own TV show in the 50s, including violin performances by his brother, George?",
+      "answer": "Liberace"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Gene Autry song became a hit Christmas tune?",
+      "answer": "\"Rudolph the Red-Nosed Reindeer\""
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What Soviet leader died in 1953 and was eventually denounced by subsequent leaders?",
+      "answer": "Joseph Stalin"
+    },
+    {
+      "category": "Boomer",
+      "color": null,
+      "question": "What was the term for a fight between two gangs?",
+      "answer": "\"Rumble\""
+    }
+  ]
+}
