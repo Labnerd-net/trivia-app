@@ -341,5 +341,8 @@ export const providers: Record<string, Provider> = {
 export const providerList = Object.values(providers);
 
 export function getProvider(id: string): Provider {
+  if (!providers[id]) {
+    console.warn(`getProvider: unknown provider id "${id}", falling back to opentdb`);
+  }
   return providers[id] ?? providers.opentdb;
 }

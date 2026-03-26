@@ -45,7 +45,7 @@ export default function Question({ question, number, showCategory }: QuestionPro
         <div className="tq-answers">
           {shuffledAnswers.map((opt, idx) => (
             <div
-              key={opt}
+              key={`${idx}-${opt}`}
               className={`tq-answer ${showAnswers ? (opt === question.correctAnswer ? 'correct' : 'revealed-wrong') : ''}`}
               aria-label={showAnswers && opt === question.correctAnswer ? `Correct: ${decodeHtml(opt)}` : decodeHtml(opt)}
             >
