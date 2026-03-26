@@ -20,10 +20,13 @@ const openTDBProvider = {
 
   async getCategories({ signal } = {}) {
     const response = await axiosInstance.get('https://opentdb.com/api_category.php', { signal });
-    return response.data.trivia_categories.map((cat: { id: number; name: string }) => ({
-      id: cat.id.toString(),
-      name: cat.name
-    }));
+    return [
+      { id: 'all', name: 'Any Category' },
+      ...response.data.trivia_categories.map((cat: { id: number; name: string }) => ({
+        id: cat.id.toString(),
+        name: cat.name
+      })),
+    ];
   },
 
   async getQuestions({ amount = 10, categoryId, difficulty, type, token, signal }: GetQuestionsOptions) {
@@ -87,8 +90,8 @@ const triviaAPIProvider = {
   requiresToken: false,
 
   async getCategories() {
-    // The Trivia API uses predefined categories
     return [
+      { id: 'all', name: 'Any Category' },
       { id: 'arts_and_literature', name: 'Arts & Literature' },
       { id: 'film_and_tv', name: 'Film & TV' },
       { id: 'food_and_drink', name: 'Food & Drink' },
@@ -177,7 +180,7 @@ function makeLocalProvider(
     group,
     requiresToken: false,
 
-    async getCategories() { return categories; },
+    async getCategories() { return [{ id: 'all', name: 'Any Category' }, ...categories]; },
 
     async getQuestions({ amount = 10, categoryId, signal }: GetQuestionsOptions) {
       if (!cache) {

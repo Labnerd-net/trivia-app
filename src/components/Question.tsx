@@ -7,9 +7,10 @@ const LETTERS = ['A', 'B', 'C', 'D'];
 interface QuestionProps {
   question: NormalizedQuestion;
   number?: number;
+  showCategory?: boolean;
 }
 
-export default function Question({ question, number }: QuestionProps) {
+export default function Question({ question, number, showCategory }: QuestionProps) {
   const [showAnswers, setShowAnswers] = useState(false);
   const [shuffledAnswers, setShuffledAnswers] = useState<string[]>([]);
 
@@ -21,9 +22,12 @@ export default function Question({ question, number }: QuestionProps) {
 
   return (
     <div className="tq-question-wrap">
-      {number && (
-        <div className="tq-question-num">Question {number}</div>
-      )}
+      <div className="tq-question-header">
+        {number && (
+          <div className="tq-question-num">Question {number}</div>
+        )}
+        {showCategory && <div className="tq-question-category">{question.category}</div>}
+      </div>
       <div className="tq-question-text">
         {decodeHtml(question.question)}
       </div>

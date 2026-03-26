@@ -115,6 +115,7 @@ export default function Quiz() {
             key={`${page}-${idx}`}
             question={data}
             number={idx + 1}
+            showCategory={categoryID === 'all'}
           />
         ))}
       </div>
