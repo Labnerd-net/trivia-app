@@ -21,15 +21,13 @@ _None identified._
 ## Bugs
 
 ### High
-- **#2 [src/pages/Menu.tsx:28]**: `Category` type is used as a generic argument in `useFetch<Category[]>` but is never imported. `Category` is defined in `src/types/index.ts`. This should fail a clean `tsc` run. **Fix**: Add `import type { Category } from '../types';`.
 - **#3 [src/pages/Quiz.tsx:61–64]**: Pagination errors in `nextQuestions` are silently swallowed. If "Next Questions" fails (network error, API rate limit, OpenTDB response code 1/4/5), `isFetching` resets to `false` and the old questions remain with no user feedback. **Fix**: Add a `paginationError` state and render a dismissible error message.
 
 ### Medium
 _None identified._
 
 ### Low
-- **#4 [src/components/Question.tsx:46]**: Answer options use `key={opt}` (the answer text). If two incorrect answers are identical strings, React will warn about duplicate keys and may misrender. **Fix**: Use `key={`${idx}-${opt}`}` or key by index.
-- **#5 [src/hooks/useTheme.ts:5–11]**: `applyTheme` is never called on initial load — only on toggle. If a user has saved `'light'` theme, React state is set correctly but `data-theme` on `document.documentElement` is not applied until they toggle, potentially causing a flash. **Fix**: Call `applyTheme(getInitialTheme())` at module level in `main.tsx` or inside the state initializer.
+_None identified._
 
 ---
 
@@ -55,8 +53,6 @@ _None identified._
 ### Medium
 - **#11 [src/context/ProviderContext.tsx:80]**: `ProviderProvider` renders a full-page loading/error div that replaces `children`, including `Navbar`. The theme toggle becomes inaccessible during token fetch. **Fix**: Move `ProviderProvider` below `Navbar` in `App.tsx`, or pass loading/error state through context and handle display inside `Menu`.
 - **#12 [src/context/ProviderContext.tsx]**: Token lifecycle is tightly coupled to provider selection. Token refetch triggers even when switching to a provider that doesn't need one. `retryCount` is an ad-hoc retry mechanism. **Fix**: Extract token management to a `useProviderToken(provider)` hook; decouple from provider selection.
-- **#13 [src/hooks/useFetch.ts:49]**: `errorMessage` is in the `useEffect` dependency array but never changes in practice. A caller passing an inline string literal would trigger unnecessary re-fetches on every render. **Fix**: Remove `errorMessage` from the dep array (use `useRef` internally if needed).
-- **#14 [src/api/providers.ts:344]**: `getProvider` silently falls back to `providers.opentdb` for any unrecognized ID. Stale bookmarked URLs or future localStorage preferences would silently load the wrong provider. **Fix**: Return `undefined` and handle at the call site, or at minimum `console.warn` on fallback.
 - **#15 [src/types/index.ts, src/utils/index.ts]**: `shuffleAnswers` treats `'boolean'` and `'open'` as the same branch, returning `['True', 'False']` for open questions. `Question.tsx` guards against rendering this but the call is still made. **Fix**: Add explicit `'open'` early return and consider narrower type guards for question types.
 - **#16 [src/components/Question.tsx]**: Missing accessibility attributes — reveal button lacks `aria-expanded`, answer options lack `role="radio"` or keyboard navigation. **Fix**: Add `aria-expanded={showAnswers}` to the reveal button; add keyboard handlers to answer options.
 
@@ -64,7 +60,6 @@ _None identified._
 - **#17 [src/pages/Menu.tsx, src/pages/Quiz.tsx]**: Provider capability checks (`provider.difficulties.length > 1`, etc.) are duplicated across both files. **Fix**: Extract to a `useProviderCapabilities(provider)` hook.
 - **#18 [src/api/providers.ts:174–175]**: `categoryNameById` and `categoryLabelByValue` maps are built for all local providers but the `dataValue` field only exists in TP Millennium. **Fix**: Move the `dataValue` logic to the TP Millennium provider config only.
 - **#19 [src/utils/index.ts]**: `shuffleAnswers` returns a meaningless `['True', 'False']` array for `'open'` type questions that `Question.tsx` then discards. **Fix**: Return early for `'open'` type.
-- **#20 [src/pages/Menu.tsx:136]**: `style={{ marginTop: '1.5rem' }}` is the only inline style in the codebase; everything else uses `tq-*` classes. **Fix**: Extract to a `tq-*` utility class.
 - **#21 [scripts/download-trivia.mjs:28–34]**: `decodeHtml` is duplicated from `src/utils/index.ts`. Any fix to entity decoding must be manually mirrored to this script. Low priority as it's a build-time script.
 
 ---
@@ -89,8 +84,8 @@ _None identified._
 | Category | High | Medium | Low | Total |
 |----------|------|--------|-----|-------|
 | Security | 0 | 0 | 0 | 0 |
-| Bugs | 2 | 0 | 2 | 4 |
+| Bugs | 1 | 0 | 0 | 1 |
 | Performance | 1 | 1 | 1 | 3 |
-| Improvements & Refactors | 2 | 6 | 5 | 13 |
+| Improvements & Refactors | 2 | 4 | 4 | 10 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **6** | **9** | **10** | **25** |
+| **Total** | **5** | **7** | **7** | **19** |
