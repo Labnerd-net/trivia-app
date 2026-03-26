@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import axios from 'axios';
 
 interface UseFetchResult<T> {
@@ -16,6 +16,8 @@ export function useFetch<T>(
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [retryCount, setRetryCount] = useState(0);
+  const errorMessageRef = useRef(errorMessage);
+  errorMessageRef.current = errorMessage;
 
   const retry = useCallback(() => setRetryCount(c => c + 1), []);
 
@@ -35,7 +37,7 @@ export function useFetch<T>(
       })
       .catch(err => {
         if (!cancelled && !axios.isCancel(err)) {
-          setError(errorMessage);
+          setError(errorMessageRef.current);
         }
       })
       .finally(() => {
@@ -46,7 +48,7 @@ export function useFetch<T>(
       cancelled = true;
       controller.abort();
     };
-  }, [fetchFn, retryCount, errorMessage]);
+  }, [fetchFn, retryCount]);
 
   return { data, loading, error, retry };
 }

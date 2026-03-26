@@ -4,6 +4,7 @@ import { providerList } from '../api/providers';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
 import { ERROR_FETCH_CATEGORIES } from '../constants/errorMessages';
+import type { Category } from '../types';
 
 interface MenuFormData {
   category: string;
@@ -133,7 +134,7 @@ export default function Menu() {
           )}
         </div>
 
-        <div style={{ marginTop: '1.5rem' }}>
+        <div className="tq-form-actions">
           <button type="submit" className="tq-btn tq-btn-primary">
             Start Quiz
           </button>
