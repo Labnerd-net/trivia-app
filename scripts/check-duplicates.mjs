@@ -71,28 +71,6 @@ for (const q of questions) {
 }
 
 // ---------------------------------------------------------------------------
-// Find same-answer groups (different questions, same answer)
-// ---------------------------------------------------------------------------
-
-const answerMap = new Map();
-for (const q of questions) {
-  const key = q.answer.toLowerCase().trim();
-  if (!answerMap.has(key)) answerMap.set(key, []);
-  answerMap.get(key).push(q);
-}
-
-// Exclude entries that are only duplicates of exact pairs (already reported above)
-const exactDuplicateIndices = new Set(exactDuplicates.map(d => d.duplicate.index));
-
-const sameAnswerGroups = [...answerMap.entries()]
-  .filter(([, group]) => {
-    const unique = group.filter(q => !exactDuplicateIndices.has(q.index));
-    return unique.length > 1;
-  })
-  .map(([, group]) => group.filter(q => !exactDuplicateIndices.has(q.index)))
-  .sort((a, b) => a[0].answer.localeCompare(b[0].answer));
-
-// ---------------------------------------------------------------------------
 // Build markdown report
 // ---------------------------------------------------------------------------
 
@@ -102,8 +80,7 @@ lines.push(`# Duplicate Report: ${basename}.json`);
 lines.push('');
 lines.push(`**File:** \`${inputPath}\`  `);
 lines.push(`**Total questions:** ${questions.length}  `);
-lines.push(`**Exact duplicates:** ${exactDuplicates.length}  `);
-lines.push(`**Same-answer groups:** ${sameAnswerGroups.length}`);
+lines.push(`**Exact duplicates:** ${exactDuplicates.length}`);
 lines.push('');
 lines.push('---');
 lines.push('');
@@ -128,28 +105,6 @@ if (exactDuplicates.length === 0) {
   }
 }
 
-lines.push('---');
-lines.push('');
-
-// --- Same-answer groups section ---
-lines.push('## Same-Answer Groups');
-lines.push('');
-lines.push('Different questions that share the same answer. Review each group — most are fine, but some may be redundant.');
-lines.push('');
-
-if (sameAnswerGroups.length === 0) {
-  lines.push('_None found._');
-} else {
-  for (const group of sameAnswerGroups) {
-    lines.push(`### Answer: "${group[0].answer}"`);
-    lines.push('');
-    for (const q of group) {
-      lines.push(`- **[${q.index}]** *(${q.category})* ${q.question}`);
-    }
-    lines.push('');
-  }
-}
-
 // ---------------------------------------------------------------------------
 // Write output
 // ---------------------------------------------------------------------------
@@ -159,5 +114,4 @@ fs.writeFileSync(outputPath, lines.join('\n'));
 
 console.log(`Checked ${questions.length} questions in ${path.basename(inputPath)}`);
 console.log(`  Exact duplicates:    ${exactDuplicates.length}`);
-console.log(`  Same-answer groups:  ${sameAnswerGroups.length}`);
 console.log(`  Report written to:   ${outputPath}`);
