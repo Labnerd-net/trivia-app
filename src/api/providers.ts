@@ -172,6 +172,7 @@ function makeLocalProvider(
 ) {
   let cache: CardQuestion[] | null = null;
   const categoryNameById = Object.fromEntries(categories.map(c => [c.id, c.dataValue ?? c.name]));
+  const categoryLabelByValue = Object.fromEntries(categories.map(c => [c.dataValue ?? c.name, c.name]));
 
   return {
     id,
@@ -194,7 +195,7 @@ function makeLocalProvider(
           question: q.question,
           correctAnswer: q.answer,
           incorrectAnswers: [],
-          category: q.category,
+          category: categoryLabelByValue[q.category] ?? q.category,
           difficulty: 'all',
           type: 'open' as const,
         }))
