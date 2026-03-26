@@ -40,14 +40,13 @@ _None identified._
 - **#7 [src/pages/Menu.tsx:74–80]**: Provider group list is recomputed via `Array.from(new Set(...))` on every render. `providerList` is a module-level constant that never changes. **Fix**: Hoist the group computation to module scope in `providers.ts` or `Menu.tsx` so it runs once at import time.
 
 ### Low
-- **#8 [src/components/Question.tsx, src/utils/index.ts]**: `decodeHtml` is called on every render for question and answer text, running multiple regex passes per string. **Fix**: Memoize with `useMemo` in `Question.tsx`, or pre-decode at the API normalization layer in `providers.ts`.
+_None identified._
 
 ---
 
 ## Improvements & Refactors
 
 ### High
-- **#9 [src/utils/index.ts:6–20]**: `decodeHtml` uses a partial named-entity table and will pass through any entity not in its list (e.g., `&nbsp;`, `&eacute;`, `&ndash;`) as literal HTML in rendered text. **Fix**: Replace with the browser's native textarea trick: `const el = document.createElement('textarea'); el.innerHTML = html; return el.value;` — handles all named entities without any regex.
 - **#10 [src/api/providers.ts]**: Three factory/adapter patterns (`makeLocalProvider`, `makeSnapshotProvider`, plus two hardcoded live provider objects) create similar structures with duplicated logic across ~346 lines. **Fix**: Extract live providers to separate adapter modules (`src/api/adapters/opentdb.ts`, etc.) and unify factory logic to make adding future providers straightforward.
 
 ### Medium
@@ -60,7 +59,6 @@ _None identified._
 - **#17 [src/pages/Menu.tsx, src/pages/Quiz.tsx]**: Provider capability checks (`provider.difficulties.length > 1`, etc.) are duplicated across both files. **Fix**: Extract to a `useProviderCapabilities(provider)` hook.
 - **#18 [src/api/providers.ts:174–175]**: `categoryNameById` and `categoryLabelByValue` maps are built for all local providers but the `dataValue` field only exists in TP Millennium. **Fix**: Move the `dataValue` logic to the TP Millennium provider config only.
 - **#19 [src/utils/index.ts]**: `shuffleAnswers` returns a meaningless `['True', 'False']` array for `'open'` type questions that `Question.tsx` then discards. **Fix**: Return early for `'open'` type.
-- **#21 [scripts/download-trivia.mjs:28–34]**: `decodeHtml` is duplicated from `src/utils/index.ts`. Any fix to entity decoding must be manually mirrored to this script. Low priority as it's a build-time script.
 
 ---
 
@@ -85,7 +83,7 @@ _None identified._
 |----------|------|--------|-----|-------|
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 1 | 0 | 0 | 1 |
-| Performance | 1 | 1 | 1 | 3 |
-| Improvements & Refactors | 2 | 4 | 4 | 10 |
+| Performance | 1 | 1 | 0 | 2 |
+| Improvements & Refactors | 1 | 4 | 3 | 8 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **5** | **7** | **7** | **19** |
+| **Total** | **4** | **7** | **5** | **16** |

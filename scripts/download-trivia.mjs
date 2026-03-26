@@ -14,6 +14,7 @@
 import { writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import he from 'he';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = join(__dirname, '..', 'public', 'data');
@@ -22,15 +23,6 @@ const OUT_DIR = join(__dirname, '..', 'public', 'data');
 
 function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
-}
-
-/** Decode HTML entities the same way src/utils/index.ts does. */
-function decodeHtml(html) {
-  const named = { '&amp;': '&', '&lt;': '<', '&gt;': '>', '&quot;': '"', '&#039;': "'", '&apos;': "'" };
-  return html
-    .replace(/&(?:amp|lt|gt|quot|#039|apos);/g, m => named[m])
-    .replace(/&#(\d+);/g, (_, dec) => String.fromCharCode(Number(dec)))
-    .replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
 }
 
 async function fetchJSON(url, retries = 3) {
@@ -110,9 +102,9 @@ async function downloadOpenTDB() {
         if (data.response_code === 4 || data.response_code === 1) break;
         if (data.response_code === 0 && Array.isArray(data.results) && data.results.length > 0) {
           const mapped = data.results.map(q => ({
-            question: decodeHtml(q.question),
-            correctAnswer: decodeHtml(q.correct_answer),
-            incorrectAnswers: q.incorrect_answers.map(decodeHtml),
+            question: he.decode(q.question),
+            correctAnswer: he.decode(q.correct_answer),
+            incorrectAnswers: q.incorrect_answers.map(a => he.decode(a)),
             category: q.category,
             difficulty: q.difficulty,
             type: q.type,
