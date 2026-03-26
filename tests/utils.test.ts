@@ -34,6 +34,26 @@ describe('decodeHtml', () => {
   it('handles empty string', () => {
     expect(decodeHtml('')).toBe('');
   });
+
+  it('decodes &nbsp; to non-breaking space', () => {
+    expect(decodeHtml('Hello&nbsp;World')).toBe('Hello\u00A0World');
+  });
+
+  it('decodes &eacute; to é', () => {
+    expect(decodeHtml('Caf&eacute;')).toBe('Café');
+  });
+
+  it('decodes &ndash; to –', () => {
+    expect(decodeHtml('2010&ndash;2020')).toBe('2010\u20132020');
+  });
+
+  it('decodes &rsquo; to right single quotation mark', () => {
+    expect(decodeHtml('Don&rsquo;t')).toBe('Don\u2019t');
+  });
+
+  it('decodes &mdash; to —', () => {
+    expect(decodeHtml('yes&mdash;no')).toBe('yes\u2014no');
+  });
 });
 
 describe('shuffleAnswers', () => {
