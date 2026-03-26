@@ -210,7 +210,7 @@ function makeLocalProvider(
 const allOfUsProvider = makeLocalProvider(
   'allofus',
   'All Of Us',
-  'Generational trivia questions from physical card sets (1,540 questions)',
+  'Generational trivia questions from physical card sets (1,535 questions)',
   'Card Games',
   '/data/all_of_us.json',
   [
