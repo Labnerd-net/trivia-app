@@ -66,7 +66,7 @@ OpenTDB returns HTML-encoded strings. `src/utils/index.ts` exports `decodeHtml()
 
 ### Card Scanning Pipeline
 
-Physical cards are processed by `scripts/scanner.py` (reads from `scans/input_scans/`, outputs JSON to `scans/processed_scans/`), then imported into `public/data/` via `scripts/import-cards.js`. See `docs/scanner/CLAUDE.md` for full scanner details.
+Physical cards are processed by `scripts/scanner.py` (reads from `scans/input_scans/`, outputs JSON to `scans/processed_scans/`), then imported into `public/data/` via `scripts/import-cards.js`. See `docs/scanner/ARCHITECTURE.md` for full scanner details.
 
 ## Checking Documentation
 
