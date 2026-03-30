@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000143_396",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the world's second-largest religion?",
+      "answer": "Islam"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV duo did the New York Times sum up as \"the latest link in the Darwinian descent of the American adolescent\"?",
+      "answer": "Beavis and Butt-head"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What woman inspired many men to begin sleeping on their bellies, in 1993?",
+      "answer": "Lorena Bobbitt"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Greek wrote Meteorologica, popularizing that name for the study of weather?",
+      "answer": "Aristotle"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who's won more Ryder Cup matches than any golfer in history, through 1997?",
+      "answer": "Nick Faldo"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What reporter's \"Fu Manchu eyebrows arch and dip like marmosets stretching their backs,\" according to George magazine?",
+      "answer": "Sam Donaldson's"
+    }
+  ]
+}

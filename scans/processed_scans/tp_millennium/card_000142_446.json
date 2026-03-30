@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_446",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Washington state community did Garrison Keillor say was 'a place so nice, they named it twice'?",
+      "answer": "Walla Walla"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1992 Whoopi Goldberg movie was hyped: 'No sex. No booze. No men. No way'?",
+      "answer": "Sister Act"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Scandinavian country held off the Germans for four hours in World War II?",
+      "answer": "Denmark"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the common name for a visibly enlarged thyroid gland?",
+      "answer": "Goiter"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who said, when asked what he'd have done if he lost Super Bowl III: 'I would have had a lot to drink, like I did when we won'?",
+      "answer": "Joe Namath"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was dubbed 'The Nation's Hometown Newspaper' when it was launched in 1982?",
+      "answer": "USA Today"
+    }
+  ]
+}

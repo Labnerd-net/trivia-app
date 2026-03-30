@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000144_537",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country boasted a record 2,300 daily newspapers in 1998?",
+      "answer": "India"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who got bad press in 1950 as an unwed mother while starring in films as a nun and a saint?",
+      "answer": "Ingrid Bergman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. leader did Time magazine ask to resign in its one and only editorial?",
+      "answer": "Richard Nixon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What computer company put Cupertino, California on the map?",
+      "answer": "Apple"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who got to 100 wins faster than any other NFL coach, only to be fired after the 1996 season?",
+      "answer": "George Seifert"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What three-word phrase is obligatory for supermarket baggers?",
+      "answer": "\"Paper or plastic\""
+    }
+  ]
+}

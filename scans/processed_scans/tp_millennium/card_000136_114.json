@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000136_114",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the largest former Soviet republic?",
+      "answer": "Russia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Russian ballet star's fanatical fans were known to bake her toe shoes and eat them?",
+      "answer": "Anna Pavlova's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What female poet delivered a speech at the Million Man March?",
+      "answer": "Maya Angelou"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What modern science got started with the 1543 publication of Andreas Vesalius' On the Structure of the Human Body?",
+      "answer": "Anatomy"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What strikeout artist is nicknamed \"The Big Unit\"?",
+      "answer": "Randy Johnson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What king's silver and gold trumpet was tooted on radio in 1939, 3,297 years after his death?",
+      "answer": "King Tutankhamen's"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_526",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Asian city's nightlife center is called the Wan Chai?",
+      "answer": "Hong Kong's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was told by the cop citing him for public urination: 'You ain't no officer and you ain't no gentleman'?",
+      "answer": "Richard Gere"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What century's early decades were dubbed the 'Age of Reason'?",
+      "answer": "The eighteenth"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What nation is prowled by 60 percent of the world's tigers?",
+      "answer": "India"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What does John Madden advise NFL fans to practice 12 hours a day to prepare for a TV football viewing season?",
+      "answer": "Sitting"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What holiday is known to heavy drinkers as 'amateur night'?",
+      "answer": "New Year's Eve"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_516",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What New Orleans soup has a name derived from the Bantu word for okra?",
+      "answer": "Gumbo"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV miniseries introduced the real-life African-American cowboy, Bose Ikard?",
+      "answer": "Lonesome Dove"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What crooner reportedly invited both Marilyn Monroe and John Kennedy to his Palm Springs home for a weekend in 1962?",
+      "answer": "Bing Crosby"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does 'CPU' mean in computer lingo?",
+      "answer": "Central processing unit"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What animal's droppings did Tommy Lasorda believe to be a sign of good luck, if seen before games?",
+      "answer": "A pigeon's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Professor Brainard dub flying rubber?",
+      "answer": "Flubber"
+    }
+  ]
+}

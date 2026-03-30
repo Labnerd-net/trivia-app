@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000141_443",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the only letter not used to begin the English-language name of a country?",
+      "answer": "X"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What comic strip's name is a combination of a Yale slang term for a likable fool, and its creator's roommate?",
+      "answer": "Doonesbury's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What industry spent a record $40 million to lobby against a U.S. Senate bill, in 1998?",
+      "answer": "The tobacco industry"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did China try to prohibit international development of by outlawing the export of sulfur and saltpeter in 1067?",
+      "answer": "Gunpowder"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What vehicle began providing live TV sports coverage at the 1960 Orange Bowl?",
+      "answer": "The Goodyear Blimp"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What fell out of a high-flying Russian jet and sank a Japanese fishing boat in 1997?",
+      "answer": "A cow"
+    }
+  ]
+}

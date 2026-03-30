@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000136_27",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What unofficial capital of Silicon Valley is also northern California's largest city?",
+      "answer": "San Jose"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV show debuted with host Steve Allen's prediction: \"This program is going to go on forever\"?",
+      "answer": "The Tonight Show"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who paid a prison visit to Mehmet Al Agca, the man who had shot him, in 1983?",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Whose grandson got the first phone call from a commercial cellular system, in 1983?",
+      "answer": "Alexander Graham Bell's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose mug has graced the most Sports Illustrated covers?",
+      "answer": "Michael Jordan's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Mike Myers character became farklempt when Barbra Streisand turned up on Coffee Talk?",
+      "answer": "Linda Richman"
+    }
+  ]
+}

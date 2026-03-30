@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000141_519",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's counterfeit clothes misspell Calvin Klein 'K-A-L-V-I-N C-L-E-I-N'?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1964 rock 'n' roll movie takes place over two days?",
+      "answer": "A Hard Day's Night"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who spent $200 million for a weeklong party to celebrate the 2,500th anniversary of the Persian empire, in 1971?",
+      "answer": "The Shah of Iran"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many of every 1,000 species that have ever lived on Earth are still alive?",
+      "answer": "One"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Kraft product did U.S. housewives find over 1,300 uses for in 1952?",
+      "answer": "Cheez Whiz"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1,170-foot structure in Toronto was stuntman Dar Robinson paid $150,000 to jump off, for a 1979 movie?",
+      "answer": "CN Tower"
+    }
+  ]
+}

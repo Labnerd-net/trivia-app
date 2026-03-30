@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_134",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state has the highest percentage of residents who speak a language other than English at home?",
+      "answer": "New Mexico"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What quiz show bombed in Brazil when inflation kept screwing up the answers?",
+      "answer": "The Price Is Right"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. Navy fashion statement bit the dust in 1998?",
+      "answer": "Bell-bottoms"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does the prescription drug Lipitor effectively lower in humans?",
+      "answer": "Cholesterol"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sports league features teams named Galaxy, Revolution and Mutiny?",
+      "answer": "Major League Soccer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What youth culture magazine prompted the New York Times headline 'Still, No Moss' when it turned 30 in 1997?",
+      "answer": "Rolling Stone"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000140_577",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city once boasted the Alfred P. Murrah Federal Building?",
+      "answer": "Oklahoma City"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What twosome saw their 7-million-selling debut album become the biggest seller ever permanently deleted from a label's catalog?",
+      "answer": "Milli Vanilli"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first person buried in an evening ceremony at Arlington National Cemetery?",
+      "answer": "Robert F. Kennedy"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What European country accounts for most of the 30 percent of the world's prunes not produced in California?",
+      "answer": "France"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What college football team has won the most Cotton Bowls?",
+      "answer": "Texas"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What European make of car boasts a prancing horse emblem on its hood?",
+      "answer": "Ferrari"
+    }
+  ]
+}

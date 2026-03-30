@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000144_542",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the official 'Cultural Capital City of Europe' the year Barcelona hosted the Olympics and Seville the World's Fair?",
+      "answer": "Madrid"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV family raised or lowered their skypad depending on what the weather was doing?",
+      "answer": "The Jetsons"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first First Lady to be honored with a statue in a U.S. national monument?",
+      "answer": "Eleanor Roosevelt"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What disease were angiostatin and endostatin found to treat effectively in mice, by 1998?",
+      "answer": "Cancer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What nation won a record 197 medals at the 1980 Summer Olympics?",
+      "answer": "The Soviet Union"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. Air Force craft has lent its name to a women's hairdo, an alcoholic drink and a rock band?",
+      "answer": "The B-52"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_183",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European nation is the world's last surviving grand duchy?",
+      "answer": "Luxembourg"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What British comedy show had its U.S. debut on a Dallas TV station in 1974?",
+      "answer": "Monty Python's Flying Circus"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What royal couple got the Variety wedding notice: 'Bride is film star; groom non-pro'?",
+      "answer": "Princess Grace and Prince Rainier"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does 'MRI' mean to medical technicians?",
+      "answer": "Magnetic resonance imaging"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What coach's funeral procession was witnessed by 500,000 people from Tuscaloosa to Birmingham?",
+      "answer": "Bear Bryant's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who did Tammy Wynette divorce in 1975, blaming 'my naggin' and his nippin''?",
+      "answer": "George Jones"
+    }
+  ]
+}

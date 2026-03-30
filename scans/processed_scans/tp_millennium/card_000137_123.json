@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_123",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What must you be at the bottom of to experience Israel's lowest point?",
+      "answer": "The Dead Sea"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Jodie Foster movie was based on a Carl Sagan sci-fi novel?",
+      "answer": "Contact"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did one in five Americans polled by Gallup believe was about to begin, on October 23, 1962?",
+      "answer": "World War III"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What were suitcase-sized when Motorola began installing them in cars, in the 1930s?",
+      "answer": "Radios"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What base was Herman Schaefer the first to steal from second?",
+      "answer": "First"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What former singer, producer, restaurateur and mayor said in 1994: 'I can't believe I'm a congressman'?",
+      "answer": "Sonny Bono"
+    }
+  ]
+}

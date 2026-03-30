@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000139_28",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country features a maple leaf on its McDonald's signs?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What literary work gave Geoffrey Chaucer something to do from 1387 to 1400?",
+      "answer": "The Canterbury Tales"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What river were British redcoats coming up if two lanterns were seen burning in the belfry at Christ Church, Boston?",
+      "answer": "The Charles"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What serious underwater ailment was named after a Victorian notion of chic posture?",
+      "answer": "The bends"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two hoopsters were called 'The Mauler' and 'Rodzilla' in a 1998 wrestling match?",
+      "answer": "Karl Malone and Dennis Rodman"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many birthday candles were Michael Jackson and Madonna each obliged to blow out in 1998?",
+      "answer": "Forty"
+    }
+  ]
+}

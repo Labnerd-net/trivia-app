@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000139_203",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. desert resort claims it plays more Sinatra music than anywhere on Earth?",
+      "answer": "Palm Springs"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who starred in movies playing guys named Edward, Ed, Don Juan and Donnie?",
+      "answer": "Johnny Depp"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who returned to Apple as 'interim' chief executive in 1996, 10 years after being forced out as chairman?",
+      "answer": "Steve Jobs"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bone boasts your greater and lesser trochanters?",
+      "answer": "The femur"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What basketball announcer's signature line is: 'Yesss'?",
+      "answer": "Marv Albert's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What writer flooded the paperback bestseller list with installments of his Green Mile serial?",
+      "answer": "Stephen King"
+    }
+  ]
+}

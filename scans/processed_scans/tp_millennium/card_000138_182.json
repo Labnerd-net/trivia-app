@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_182",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What western metropolis is sometimes called 'nineteen suburbs in search of a city'?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What smash sitcom did a German TV station replace with Hogan's Heroes reruns in 1997, because viewers could not 'relate' to it?",
+      "answer": "Seinfeld"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What part of North America made French its official language in 1976?",
+      "answer": "Quebec"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What U.S. preschool program for the underprivileged got its start in 1965?",
+      "answer": "Head Start"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who are the only two major leaguers to have 40 homers and 40 steals in one season, through 1997?",
+      "answer": "Jose Canseco and Barry Bonds"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What repairman has Gordon Jump portrayed in TV commercials in the 1980s and '90s?",
+      "answer": "The Maytag Repairman"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000136_194",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. port is thought to be the source of the fungus that caused Ireland's potato famine?",
+      "answer": "Boston"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What dancer was hailed as the \"eighth wonder of the world,\" after his 1907 debut?",
+      "answer": "Vaslav Nijinsky"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What would a medieval lord turn a squire into, with an \"accolade\"?",
+      "answer": "A knight"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the primary mineral component of both rubies and sapphires?",
+      "answer": "Aluminum"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What designer's claim to fame, according to The View's Meredith Vieira, was his \"big-ass\" pants?",
+      "answer": "Tommy Hilfiger's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What German car did Newsweek dub \"the Yuppie chariot\"?",
+      "answer": "The BMW"
+    }
+  ]
+}

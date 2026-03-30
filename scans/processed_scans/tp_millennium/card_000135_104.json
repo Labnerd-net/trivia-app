@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000135_104",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What international outfit ran an ad with Patrick Stewart advising: \"Keep the light on human rights\"?",
+      "answer": "Amnesty International"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who referred to her on-screen persona, Ripley, as \"Rambolina\"?",
+      "answer": "Sigourney Weaver"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What two nations formally separated in 1993 in what was dubbed the \"Velvet Divorce\"?",
+      "answer": "Czech Republic and Slovakia"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the deepest major root many deciduous trees use to tap into ground moisture?",
+      "answer": "A taproot"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 60-year-old gave up one hit in three innings against the Red Sox in 1965?",
+      "answer": "Satchel Paige"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who always ended her PBS cooking shows with \"Bon appétit\"?",
+      "answer": "Julia Child"
+    }
+  ]
+}

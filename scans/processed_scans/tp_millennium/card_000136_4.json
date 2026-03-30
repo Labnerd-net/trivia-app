@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000136_4",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What energy source provides three-quarters of France's electric power?",
+      "answer": "Nuclear power"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie has Steve Martin noting, \"It's not the size of a nose that matters, it's what's in it\"?",
+      "answer": "Roxanne"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the most popular semi-automatic hand gun of Nazi Germany?",
+      "answer": "The Luger"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Edwin Budding invention began changing the face of English landscapes in the 1820s?",
+      "answer": "The lawn mower"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's a golfer said to have, if he is entitled to tee off first?",
+      "answer": "The honor"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What car model heralded its 1998 return: \"The engine's in the front but its heart's in the same place\"?",
+      "answer": "The Volkswagen Beetle"
+    }
+  ]
+}

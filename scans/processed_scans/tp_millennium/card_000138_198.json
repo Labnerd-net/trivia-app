@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_198",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's defense sector offers tourists rides on obsolete T-84 tanks?",
+      "answer": "Russia's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What gonzo writer opined: 'I hate to advocate drugs, alcohol, violence, or insanity to anyone, but they've always worked for me'?",
+      "answer": "Hunter S. Thompson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What British leader was said to light a cigar upon awakening each morning at 7:15?",
+      "answer": "Winston Churchill"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Where did NASA scientists find rocks they nicknamed 'Yogi' and 'Scooby-Doo'?",
+      "answer": "Mars"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Yankee hurler threw the 15th perfect game in major league history, in 1998?",
+      "answer": "David Wells"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What shrink declined Samuel Goldwyn's 1925 invite to come to Hollywood to write a 'really great' love story?",
+      "answer": "Sigmund Freud"
+    }
+  ]
+}

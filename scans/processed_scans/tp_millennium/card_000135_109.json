@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000135_109",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's cops were the first to subject motorists to Breathalyzer tests?",
+      "answer": "Britain's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What celebrated photographer snapped shots of Yosemite for 67 straight years?",
+      "answer": "Ansel Adams"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was barefoot in a beach trailer wearing a Ban-Lon shirt when told the House was voting articles of impeachment against him?",
+      "answer": "Richard Nixon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What decade saw the production of U.S. radios jump from zero to five million?",
+      "answer": "The 1920s"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What South African has traveled more miles than any athlete in history?",
+      "answer": "Gary Player"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What university's students, streaking to protest Playboy's 1995 \"Girls of the Ivy League\" photo shoot, made it into the layout?",
+      "answer": "Yale's"
+    }
+  ]
+}

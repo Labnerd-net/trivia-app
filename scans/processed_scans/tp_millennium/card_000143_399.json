@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000143_399",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European country's most common last name is Martin?",
+      "answer": "France's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What jazz musician got his nickname by shortening \"Satchel Mouth\"?",
+      "answer": "Louis Armstrong"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was shot only hours after Annie Leibovitz took a nude photo of him for Rolling Stone?",
+      "answer": "John Lennon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What common allergens are the male sex cells of plants?",
+      "answer": "Pollen"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What game is the subject of Japan's sports magazine Waggle?",
+      "answer": "Golf"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What country's soldiers were dubbed \"Les Goddams\" during the Hundred Years War because of their salty language?",
+      "answer": "England's"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_263",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What vegetarian's favorite do the Chinese call 'meat without bones'?",
+      "answer": "Tofu, or bean curd"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 82-year-old electric guitar innovator was still gigging at a New York club in 1998?",
+      "answer": "Les Paul"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What secretary of defense admitted the Vietnam War was a 'mistake' in 1995?",
+      "answer": "Robert McNamara"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Frenchman returned an honorary MD from the University of Bonn, due to strong anti-German sentiments, in 1871?",
+      "answer": "Louis Pasteur"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What aquatic sport does a 'wet bob' pursue during Eton's summer term?",
+      "answer": "Rowing"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What British TV import had a 1998 marketing campaign aimed at the vital '1-to-2-year-old niche'?",
+      "answer": "Teletubbies"
+    }
+  ]
+}

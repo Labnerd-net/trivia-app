@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_184",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Tanzanian volcano has a Swahili name meaning 'mountain of the god of cold'?",
+      "answer": "Kilimanjaro"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Oliver Stone movie played in Hong Kong as The Big Liar?",
+      "answer": "Nixon"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What confederate general's last words were: 'Let us cross the river and rest in the shade'?",
+      "answer": "\"Stonewall\" Jackson's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What beaked reptiles are almost identical to their Triassic ancestors?",
+      "answer": "Turtles"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was 41 when he became the oldest golfer to win two majors in a year, in 1998?",
+      "answer": "Mark O'Meara"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What fellow Highwayman was convalescing from heart surgery when Waylon Jennings had a triple bypass across the hall in 1988?",
+      "answer": "Johnny Cash"
+    }
+  ]
+}

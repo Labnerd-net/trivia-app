@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000140_502",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What American city was the second largest in the British Empire by the late 1750s?",
+      "answer": "Philadelphia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1983 song won Cyndi Lauper \"Woman of the Year\" honors from Ms. magazine?",
+      "answer": "Girls Just Want to Have Fun"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What war in the New World was fought at the same time as the Seven Years' War in Europe?",
+      "answer": "The French and Indian War"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does \"DSS\" mean to couch potatoes?",
+      "answer": "Digital Satellite System"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did many baseball fans suggest be outlawed after Southern Cal won the 1998 NCAA baseball title by a score of 21-14?",
+      "answer": "Aluminum bats"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who inspired a company to sell Fawcett faucets?",
+      "answer": "Farrah Fawcett"
+    }
+  ]
+}

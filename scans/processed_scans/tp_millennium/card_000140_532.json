@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000140_532",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city replaces 253,440 two-by-fours on its boardwalk every decade?",
+      "answer": "Atlantic City"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What became Broadway's longest-running show with its 6,138th performance?",
+      "answer": "Cats"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who wore black silk stockings and a fur-trimmed cloak to her execution on October 15, 1917?",
+      "answer": "Mata Hari"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who ordered Louis Pasteur to investigate diseases of French wine?",
+      "answer": "Napoleon"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What future Massachusetts senator was wooed by the Packers while playing left end for Harvard?",
+      "answer": "Ted Kennedy"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What type of urban art does a \"tagger\" indulge in?",
+      "answer": "Graffiti"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000141_196",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What chicken part is the snack of choice for Chinese moviegoers?",
+      "answer": "Feet"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What circus star lived by the credo: 'The dead are gone, and the show must go on'?",
+      "answer": "Karl Wallenda"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What aircraft carrier, lost at the Battle of Midway, was found in 1998 by Robert Ballard?",
+      "answer": "The Yorktown"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What large fish earned the nickname 'cheetah of the sea' for its speed in the water?",
+      "answer": "The tuna"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What body parts does Brazilian soccer phenom Ronaldo have insured for $26 million?",
+      "answer": "His knees"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What veteran British rock star titled his TV special 'Ognir Rrats,' a rearrangement of the letters in his name?",
+      "answer": "Ringo Starr"
+    }
+  ]
+}

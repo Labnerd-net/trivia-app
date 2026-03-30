@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_514",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What landlocked European nation leads the world in per capita soft-drink consumption?",
+      "answer": "Switzerland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What U.S. artist invented the method of 'action painting' in 1947?",
+      "answer": "Jackson Pollock"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Portuguese explorer was killed by poison arrows during a stop on the island of Cebu in 1521?",
+      "answer": "Ferdinand Magellan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What artificial sweetener is excreted unchanged by the body?",
+      "answer": "Saccharin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Phillies first baseman retired immediately after singling in a 1995 game?",
+      "answer": "John Kruk"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What rapper was killed just after recording a chart-topper with the line, 'You're nobody 'til somebody kills you'?",
+      "answer": "Notorious B.I.G."
+    }
+  ]
+}

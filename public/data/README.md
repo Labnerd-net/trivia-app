@@ -6,4 +6,4 @@
 | `triviaapi_snapshot.json` | The Trivia API (Offline) | 1,482 | Re-run `node scripts/download-trivia.mjs --provider triviaapi` to refresh |
 | `all_of_us.json` | All Of Us | 1,535 | Re-run `node scripts/import-cards.js all_of_us` to refresh |
 | `mind_the_gap.json` | Mind the Gap | 1,600 | Re-run `node scripts/import-cards.js mind_the_gap` to refresh |
-| `tp_millennium.json` | Trivial Pursuit — Millennium | 1,440 | Re-run `node scripts/import-cards.js tp_millennium` to refresh |
+| `tp_millennium.json` | Trivial Pursuit — Millennium | 1,920 | Re-run `node scripts/import-cards.js tp_millennium` to refresh |

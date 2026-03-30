@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000140_579",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What blanketed Tokyo with six inches of ash when it blew its top in 1707?",
+      "answer": "Mount Fuji"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What \"Voice\" was stilled in the wee hours of the evening on May 14, 1998?",
+      "answer": "Frank Sinatra"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did activist Jody Williams call a \"weenie\" for not signing an international treaty against land mines?",
+      "answer": "Bill Clinton"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What elementary particle's antiparticle is the positron?",
+      "answer": "The electron"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who, in 1997, became the first pitcher since 1945 to lead either league in wins, strikeouts and ERA?",
+      "answer": "Roger Clemens"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. cartoonist was famous for intricate multistep solutions to simple problems?",
+      "answer": "Rube Goldberg"
+    }
+  ]
+}

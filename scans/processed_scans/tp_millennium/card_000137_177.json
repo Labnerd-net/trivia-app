@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_177",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What ice cream factory is the number one tourist attraction in Vermont?",
+      "answer": "Ben & Jerry's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What does the TV rating code 'FV' stand for?",
+      "answer": "Fantasy violence"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What character did the National Federation of the Blind ask Disney not to make a movie about, because they found him offensive?",
+      "answer": "Mr. Magoo"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bean provides the colored inks used in most U.S. daily newspapers?",
+      "answer": "The soybean"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What board game did Springfield, Massachusetts select to replace the annual citywide middle school spelling bee?",
+      "answer": "Scrabble"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What device was known to pilots in the Korean War as a 'panic rack'?",
+      "answer": "The ejection seat"
+    }
+  ]
+}

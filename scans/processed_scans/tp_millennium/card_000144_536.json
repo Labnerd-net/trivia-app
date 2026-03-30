@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000144_536",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What California town was named for what 49ers often yelled when they struck gold?",
+      "answer": "Eureka"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV star refused to perform in the early 1970s until being served a morning biscuit?",
+      "answer": "Lassie"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Public Enemy paid a doc to obliterate his fingerprints with acid, only to have them grow back just as they'd been before?",
+      "answer": "John Dillinger"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What program was Bill Gates demonstrating at a 1998 Chicago trade fair, when it crashed on him?",
+      "answer": "Windows 98"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 41-year-old boxer's 1997 comeback was cut short by a series of blows to the head by Hector Camacho?",
+      "answer": "Sugar Ray Leonard's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What lamb dish is favored by members of the all-Bob club, Bobs International?",
+      "answer": "Shish kebab"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000135_101",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state gave the world Louis Armstrong, Fats Domino, Mahalia Jackson and Jelly Roll Morton?",
+      "answer": "Louisiana"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What duo's original hats and sunglasses are on display at New York's Hard Rock Cafe?",
+      "answer": "The Blues Brothers'"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose presidential inauguration featured a performance by Little Richard?",
+      "answer": "Bill Clinton's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What future software mogul rigged a high school scheduling program so he would be one of the few boys in a class of girls?",
+      "answer": "Bill Gates"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sporting event attracts the biggest live audience in the world?",
+      "answer": "The Tour de France"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Aussie was the world's richest model in 1998, according to Business Age magazine?",
+      "answer": "Elle MacPherson"
+    }
+  ]
+}

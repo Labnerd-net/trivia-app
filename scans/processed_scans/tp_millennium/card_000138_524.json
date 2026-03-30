@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_524",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nutty northwestern U.S. state sold over two tons of mountain oysters at the 15th annual Testicle Festival?",
+      "answer": "Montana"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What prisoner-of-war movie featured tunnels named Tom, Dick and Harry?",
+      "answer": "The Great Escape"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What explorer attracted four million people to a 1962 New York City ticker tape parade?",
+      "answer": "John Glenn"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who was amazed to see the moons of Jupiter through a telescope on January 7, 1610?",
+      "answer": "Galileo"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who holds the major league records among shortstops for games played, assists and double plays?",
+      "answer": "Ozzie Smith"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Batman character was Bob Kane inspired to create after seeing a Kool cigarette ad?",
+      "answer": "The Penguin"
+    }
+  ]
+}

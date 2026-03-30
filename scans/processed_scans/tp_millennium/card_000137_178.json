@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_178",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation opened its doors to outsiders in 1950, enabling Edmund Hillary to scale Mount Everest from its more accessible south side?",
+      "answer": "Nepal"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV anchor married a Miss South Dakota?",
+      "answer": "Tom Brokaw"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 19th-century U.S. president had a minister to Russia named Cassius Marcellus Clay?",
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does 'SPF' mean on sunscreen containers?",
+      "answer": "Sun protection factor"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Clippers coach, on the occasion of his record 1,000th loss, quipped: 'On to the next thousand'?",
+      "answer": "Bill Fitch"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who held a saxophone note for a record 46 minutes in 1997?",
+      "answer": "Kenny G"
+    }
+  ]
+}

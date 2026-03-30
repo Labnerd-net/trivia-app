@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000143_393",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What theme park was dubbed by some wags as \"Euro-dismal\"?",
+      "answer": "Disneyland Paris"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What talk show host authored a book with the fitting title, Leading with My Chin?",
+      "answer": "Jay Leno"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What index did Jimmy Carter calculate by adding up the unemployment and inflation rates?",
+      "answer": "The \"misery index\""
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the only insect that produces food humans eat?",
+      "answer": "The honeybee"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What driver is the all-time leader in Formula One race wins?",
+      "answer": "Alain Prost"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What former presidential candidate was Monica Lewinsky's next-door neighbor at the Watergate in 1998?",
+      "answer": "Bob Dole"
+    }
+  ]
+}

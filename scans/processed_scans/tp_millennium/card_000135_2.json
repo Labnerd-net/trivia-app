@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000135_2",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. city boasts the headquarters of the Nation of Islam and Jesse Jackson's Operation PUSH?",
+      "answer": "Chicago"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What British royal helped Kenneth Branagh prepare for his role in Henry V?",
+      "answer": "Prince Charles"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country caught the most flak for making \"weapons of mass destruction\" in the 1990s?",
+      "answer": "Iraq"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What natural note on piano music can also be indicated as B-double flat?",
+      "answer": "A"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NFL owner got in trouble for allegedly handing Louisiana Governor Edwin Edwards a briefcase with $400,000 in cash?",
+      "answer": "Eddie DeBartol"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Southern university has turned out three Miss Americas?",
+      "answer": "The University of Mississippi"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000141_441",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What religion prescribes stoning for adultery, amputation for stealing and beheading for murder?",
+      "answer": "Islam"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom star was described as 'Donna Reed fattened up for veal'?",
+      "answer": "Roseanne"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What former U.S. president monitored elections in Panama, Nicaragua and Haiti?",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What mathematical symbol did math whiz Ferdinand von Lindemann determine to be a transcendental number, in 1882?",
+      "answer": "Pi"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NHL star played for the Kings, Blues and Rangers in 1996?",
+      "answer": "Wayne Gretzky"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What type of cards did Chicago's postal service refuse to deliver 25,000 of in the early 1990s, because they were too risqué?",
+      "answer": "Valentine's Day cards"
+    }
+  ]
+}

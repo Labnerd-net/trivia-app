@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000139_531",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Pacific coast city boasted the first Starbucks?",
+      "answer": "Seattle"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What John Travolta show was banned in Boston when school busing became a controversial issue there?",
+      "answer": "Welcome Back, Kotter"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first U.S. Speaker to be reprimanded by the House for ethics violations?",
+      "answer": "Newt Gingrich"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What river was blocked with 51 million cubic yards of dirt, sand and rocks when Mount St. Helens erupted?",
+      "answer": "The Columbia"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Dodgers manager had one hit in 13 at-bats during his playing career?",
+      "answer": "Tommy Lasorda"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What animals did the British stop executing for witchcraft in 1712?",
+      "answer": "Cats"
+    }
+  ]
+}

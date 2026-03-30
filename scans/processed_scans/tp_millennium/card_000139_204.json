@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000139_204",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the most common surname in the U.S. that begins with the letter 'T'?",
+      "answer": "Taylor"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What future rock star was reportedly the inspiration for Bob Dylan's Forever Young?",
+      "answer": "Jakob Dylan"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What war was rudely interrupted by the bubonic plague?",
+      "answer": "The Hundred Years War"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Connecticut town was the first case of Lyme disease diagnosed in?",
+      "answer": "Lyme"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the National League home run king five times in the 1980s?",
+      "answer": "Mike Schmidt"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Republican presidential hopeful got 60 Dunkin' Donuts per week as part of an endorsement deal?",
+      "answer": "Bob Dole"
+    }
+  ]
+}

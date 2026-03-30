@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_581",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. mountain state would you be in if you were trying to buy a toothbrush in Hygiene?",
+      "answer": "Colorado"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie gave Billy Crystal the chance to say, 'Hi Curly. Kill anyone today'?",
+      "answer": "City Slickers"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. national day of celebration did Sara Josepha Hale convince Abraham Lincoln to declare, in 1864?",
+      "answer": "Thanksgiving"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's placed just after the key signature on sheet music?",
+      "answer": "The time signature"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What general stormed into the boxing ring at the 1928 Olympics to protest the judges' ruling for a South African over an American?",
+      "answer": "Douglas MacArthur"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What language did Billy the Kid utter his last words in?",
+      "answer": "Spanish"
+    }
+  ]
+}

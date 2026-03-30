@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000143_534",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What animal does Kenya's government value at $14,375 per year, in tourist income?",
+      "answer": "The elephant"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What nickname for Jerry Springer's bouncers was inspired by Jerry Lewis' charity work?",
+      "answer": "Jerry's Kids"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What magazine publisher referred to two of his cousins as \"poster boys for bad behavior,\" in 1997?",
+      "answer": "John F. Kennedy Jr."
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 1298 invention revolutionized the making of textiles?",
+      "answer": "The spinning wheel"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What soccer player's goatee did David Letterman hope to shave on national TV?",
+      "answer": "Alexi Lalas'"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many times is the Lutine Bell rung at Lloyd's of London before an announcement of bad news is made?",
+      "answer": "One"
+    }
+  ]
+}

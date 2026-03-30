@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000138_187",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many minutes did the average American need to reach the nearest McDonald's, in 1998?",
+      "answer": "Four"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who were Baby, Ginger, Posh, Scary and Sporty?",
+      "answer": "The Spice Girls"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What battle saw 50,000 men die in three days in 1863?",
+      "answer": "Gettysburg"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What narcotic did New York City surgeons pioneer as a local anesthetic, in 1884?",
+      "answer": "Cocaine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sports announcer began life as Harry Christopher Carabina?",
+      "answer": "Harry Caray"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What hairy cud-chewers served as caddies at the 1996 Vermont Invitational Celebrity Golf Tourney?",
+      "answer": "Llamas"
+    }
+  ]
+}

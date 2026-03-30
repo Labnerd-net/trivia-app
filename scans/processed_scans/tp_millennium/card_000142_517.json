@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_517",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Arab city has a name derived from a word meaning 'sanctuary'?",
+      "answer": "Mecca"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What controversial Fox 'dramedy' did People dub 'a kind of Gen-X Mary Tyler Moore'?",
+      "answer": "Ally McBeal"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 'I-word' did the Nixon White House substitute for 'invasion' after U.S. troops entered Cambodia illegally?",
+      "answer": "Incursion"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many sharks are killed by humans for every person attacked by one?",
+      "answer": "One million"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Duke University hoopster scored a record 407 points in Division 1 tournament play?",
+      "answer": "Christian Laettner"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. group, founded in 1935, knows its 1.8 million members only by their first names?",
+      "answer": "Alcoholics Anonymous"
+    }
+  ]
+}

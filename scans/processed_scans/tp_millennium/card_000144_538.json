@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000144_538",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. ally in the Middle East is the world's biggest arms importer?",
+      "answer": "Saudi Arabia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was picked by the National Association of Theatre Owners as its Star of the Century, in 1994?",
+      "answer": "Harrison Ford"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did 'loose lips' do, according to a popular rhyming World War II slogan?",
+      "answer": "\"Sink ships\""
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What high-tech product did the New York Times dub '$90 Worth of Duct Tape' in 1998?",
+      "answer": "Windows 98"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Which of golf's Grand Slam tournaments was first held in 1860?",
+      "answer": "The British Open"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What pathologist released a CD of original flute music titled A Very Still Life?",
+      "answer": "Dr. Jack Kevorkian"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000143_400",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What west coast city's mayor presided over a marriage ceremony for 165 gay and lesbian couples in 1997?",
+      "answer": "San Francisco's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1996 single became the first international hit for the Spice Girls?",
+      "answer": "Wannabe"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation did 23 African countries sever relations with in 1974?",
+      "answer": "Israel"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who noted, \"Black holes would seem to suggest that God not only plays dice but also throws them where they cannot be seen\"?",
+      "answer": "Stephen Hawking"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Dodger struck out 2,396 batters in 2,324 innings?",
+      "answer": "Sandy Koufax"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What license must Californians acquire before they can legally set up a mousetrap?",
+      "answer": "A hunting license"
+    }
+  ]
+}

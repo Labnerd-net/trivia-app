@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000139_201",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's border would an Azerbaijani reach by hiking due south across the Talish Mountains?",
+      "answer": "Iran's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the name of the team Coach coaches on Coach?",
+      "answer": "The Screaming Eagles"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who led the first band of outlaws to rob a U.S. train, in Adair, Iowa in 1873?",
+      "answer": "Jesse James"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What portable device did James Spengler invent in 1907, using a soap box, pillow case, a fan and tape?",
+      "answer": "The vacuum cleaner"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did Charlie Finley plead with to change his name to True Blue?",
+      "answer": "Vida Blue"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What character was invented to respond to questions from Gold Medal Flour customers?",
+      "answer": "Betty Crocker"
+    }
+  ]
+}

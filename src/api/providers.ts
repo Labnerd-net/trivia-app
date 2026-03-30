@@ -238,7 +238,7 @@ const mindTheGapProvider = makeLocalProvider(
 const tpMillenniumProvider = makeLocalProvider(
   'tpmillennium',
   'Trivial Pursuit — Millennium',
-  'Classic Trivial Pursuit questions from the Millennium Edition (1,440 questions)',
+  'Classic Trivial Pursuit questions from the Millennium Edition (1,920 questions)',
   'Card Games',
   '/data/tp_millennium.json',
   [

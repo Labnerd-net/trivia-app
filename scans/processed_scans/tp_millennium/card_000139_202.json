@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000139_202",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state's citizens anxiously await 'the big one'?",
+      "answer": "California's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Isley Brothers song did a jury decide Michael Bolton's Love Is a Wonderful Thing was remarkably similar to?",
+      "answer": "Love Is a Wonderful Thing"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What library has three buildings named for presidents Adams, Jefferson and Madison?",
+      "answer": "The Library of Congress"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the name of El Niño's lesser known little sister?",
+      "answer": "La Niña"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What team gave free tickets to 3,321 fans who willingly endured a buzz cut like Jay Buhner's?",
+      "answer": "The Seattle Mariners"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose first book, Entertaining, had its 30th printing in 1998?",
+      "answer": "Martha Stewart's"
+    }
+  ]
+}

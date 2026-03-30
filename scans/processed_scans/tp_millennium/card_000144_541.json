@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000144_541",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What qualifies as the westernmost and easternmost U.S. state?",
+      "answer": "Alaska"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Saturday Night Live star described the plots of his movies as 'Fatty falls down'?",
+      "answer": "Chris Farley"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What serial killer claimed the dog of his neighbor Sam Carr told him to kill, in 1976?",
+      "answer": "David Berkowitz, or 'Son of Sam'"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the only domesticated animal in North America in 1475 B.C.?",
+      "answer": "The dog"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who penned the best-seller Training A Tiger?",
+      "answer": "Earl Woods"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who played the U.S. president's chief of staff in the movie In The Line of Fire before becoming a real U.S. senator?",
+      "answer": "Fred Thompson"
+    }
+  ]
+}

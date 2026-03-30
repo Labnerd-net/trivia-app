@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_149",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Nevada locale was stuck with the CB radio term 'Split City'?",
+      "answer": "Reno"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Steppenwolf hit was the first rock song to use the term 'heavy metal'?",
+      "answer": "Born to be Wild"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What spaceman did a 17-member Ohio Congressional delegation ask General Mills to picture on boxes of Wheaties, in 1998?",
+      "answer": "John Glenn"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What cross-dressing reptile has a tongue as long as its body?",
+      "answer": "The chameleon"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What baseball venue's turf caused Dick Allen to warn, 'If cows don't eat it, I ain't playing on it'?",
+      "answer": "The Astrodome's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What classic Bugs Bunny cartoon retold the story of Little Red Riding Hood?",
+      "answer": "Little Red Riding Rabbit"
+    }
+  ]
+}

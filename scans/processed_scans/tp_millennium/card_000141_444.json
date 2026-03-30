@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000141_444",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What western U.S. outfit boasts the world's largest brewery on a single site?",
+      "answer": "Coors"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was the first credit card honored to buy movie tickets, for Around the World in 80 Days?",
+      "answer": "Diners Club"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What underachieving U.S. president has been called 'the Gerald Ford of the 19th century'?",
+      "answer": "Millard Fillmore"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 1997–98 weather phenomenon accounted for record pollen counts in March?",
+      "answer": "El Niño"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What college football team has played in the most Bowl games?",
+      "answer": "Alabama"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How much did Time charge in 1929 for a 'Perpetual Subscription' you could pass on to your heirs forever—$60, $600 or $6,000?",
+      "answer": "$60"
+    }
+  ]
+}

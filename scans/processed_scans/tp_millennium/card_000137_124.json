@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_124",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation is considered part of Scandinavia despite not being located on one of the Scandinavian peninsulas?",
+      "answer": "Finland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What singer's recording, Amor Prohibido, debuted on the charts at number one?",
+      "answer": "Selena's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What toothy presidential candidate was hyped on buttons reading 'The Grin Will Win'?",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did William Stanley invent in 1885 to transfer the current of one circuit to another?",
+      "answer": "The transformer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Giant was the first major leaguer to hit 300 homers and steal 300 bases in a career?",
+      "answer": "Willie Mays"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose incessant heavy panting at the White House rubbed Socks the wrong way?",
+      "answer": "Buddy's"
+    }
+  ]
+}

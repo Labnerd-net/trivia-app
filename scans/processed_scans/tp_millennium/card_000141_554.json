@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000141_554",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What two countries border the highest mountain in the Western Hemisphere?",
+      "answer": "Argentina and Chile"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What ABC talk show host was replaced by Lisa McRee in 1997?",
+      "answer": "Joan Lunden"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What First Lady, when asked if she kept a diary, said: 'Heavens, no! It could get subpoenaed'?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What lifesaving technique did a Cincinnati thoracic surgeon give the world in 1974?",
+      "answer": "The Heimlich Maneuver"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What provided the protein on the 'Rodman Sandwich' a Utah fan ate to win tickets to the 1998 NBA Finals?",
+      "answer": "Live worms"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What media mogul fired his son Teddy by telling him, 'You're toast,' in 1996?",
+      "answer": "Ted Turner"
+    }
+  ]
+}

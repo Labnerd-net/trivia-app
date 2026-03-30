@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000135_126",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Mojave Desert city has a name meaning \"the meadows\" in Spanish?",
+      "answer": "Las Vegas"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What trumpeter led all other jazz musicians in Ed Sullivan Show appearances?",
+      "answer": "Louis Armstrong"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did Stacey Koon, Laurence Powell, Theodore Briseno and Timothy Wind plead not guilty to beating, in 1991?",
+      "answer": "Rodney King"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the only bird that can fly upside down?",
+      "answer": "The hummingbird"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many continents must a sport be played on before the IOC will consider making it an Olympic event for men?",
+      "answer": "Four"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What religion's calendar pegs the 1900s as the fourteenth century?",
+      "answer": "Islam's"
+    }
+  ]
+}

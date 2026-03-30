@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000136_24",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent has the fewest flowering plants?",
+      "answer": "Antarctica"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1975 blockbuster sees Roy Scheider utter: \"We need a bigger boat\"?",
+      "answer": "Jaws"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 1938 agreement made Winston Churchill sigh: \"We have sustained a defeat without a war\"?",
+      "answer": "The Munich Pact"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of auto introduced the modern cup holder to U.S. cars in 1983?",
+      "answer": "The minivan"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the first Cincinnati Reds star to have his uniform number officially retired?",
+      "answer": "Johnny Bench"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. vice president did pitcher Dave LaPoint greet with: \"I really like your beer\"?",
+      "answer": "George Bush"
+    }
+  ]
+}

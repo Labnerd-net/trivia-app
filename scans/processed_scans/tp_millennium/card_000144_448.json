@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000144_448",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What 100-mile project gave 1.5 million excavators something to do from 1859 to 1869?",
+      "answer": "The Suez Canal"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Newsweek dub 'TV's weekly conspiracy-geek Bible'?",
+      "answer": "The X-Files"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was 'Lenin's left leg' during the early stages of Russia's Marxist movement?",
+      "answer": "Josef Stalin"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What company controlled two-thirds of the world's commercial aircraft-making industry by 1997?",
+      "answer": "Boeing"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who held the major league baseball record of seven substance abuse suspensions by 1995?",
+      "answer": "Steve Howe"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What jazz bebop great's death prompted the Manhattan graffiti 'Bird Lives' in 1955?",
+      "answer": "Charlie Parker's"
+    }
+  ]
+}

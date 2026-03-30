@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000135_488",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country burns Uncle Sam in effigy on Death to America Day each November?",
+      "answer": "Iran"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who took time out from his film career to record the hit rap album Big Willie Style in 1998?",
+      "answer": "Will Smith"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who never paid her $100 fine for casting a vote in 1872?",
+      "answer": "Susan B. Anthony"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What virus can be detected in the FDA-approved do-it-yourself Home Access kit?",
+      "answer": "HIV"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NHL team hoisted 24 Stanley Cup flags before its first game in Molson Centre?",
+      "answer": "The Montreal Canadiens"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What consumer products are hyped by the Japanese magazine Whizzman?",
+      "answer": "Automobiles"
+    }
+  ]
+}

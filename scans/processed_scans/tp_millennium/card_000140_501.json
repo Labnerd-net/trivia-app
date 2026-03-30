@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000140_501",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What word for the New World was first used in the book Cosmographiae Introductio in 1507?",
+      "answer": "America"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1973 movie sparked an increased interest in satanism?",
+      "answer": "The Exorcist"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What city was blasted by 23 Tomahawk cruise missiles in July, 1993?",
+      "answer": "Baghdad"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What company invented the microprocessor in 1971?",
+      "answer": "Intel"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What major league baseball team became the last to integrate when it signed Pumpsie Green in 1959?",
+      "answer": "The Boston Red Sox"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What brand of jeans has a neon-yellow horse's head stitched across the derriere?",
+      "answer": "Jordache"
+    }
+  ]
+}

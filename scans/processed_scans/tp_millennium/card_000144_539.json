@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000144_539",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state was named after chaste Queen Elizabeth I?",
+      "answer": "Virginia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Hong Kong action hero was considered the world's top non-Hollywood star in the 1990s?",
+      "answer": "Jackie Chan"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What's the world's largest railway station?",
+      "answer": "Grand Central Terminal"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What decade-beginning year saw the last hand-cranked party-line telephone system in the U.S. replaced by new technology?",
+      "answer": "1990"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What leather-conditioning oil comes from the feet and shinbones of cattle?",
+      "answer": "Neatsfoot oil"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What term has gradually replaced 'jungle' because it 'has a nice ring to it,' according to William Safire?",
+      "answer": "Rain forest"
+    }
+  ]
+}

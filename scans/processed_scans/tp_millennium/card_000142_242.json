@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_242",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Washington, D.C. Vietnam memorial was dedicated in 1993?",
+      "answer": "The Vietnam Women's Memorial"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What smash sitcom did Lisa Kudrow make her TV debut on, in 1982?",
+      "answer": "Cheers"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What two parties agreed in the Oslo Accords to resolve their differences by May 4, 1999?",
+      "answer": "Israel and the PLO"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the first city to be leveled by a plutonium-based atomic bomb?",
+      "answer": "Nagasaki"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who passed Greg Norman in 1998 to become golf's all-time leader in career winnings?",
+      "answer": "Hale Irwin"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who titled a book on her years with Clint Eastwood, The Good, the Bad & the Very Ugly?",
+      "answer": "Sondra Locke"
+    }
+  ]
+}

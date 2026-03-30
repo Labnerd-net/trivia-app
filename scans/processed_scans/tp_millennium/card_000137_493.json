@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_493",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Which of the Great Lakes does not lap Canadian shores?",
+      "answer": "Lake Michigan"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Walter Lantz create after a bird hammered on the roof of his honeymoon cottage?",
+      "answer": "Woody Woodpecker"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the first word Anne Sullivan taught Helen Keller to understand?",
+      "answer": "Water"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What tree's bark did the Chinese pound flat to fashion the world's first paper currency—cherry, ginkgo or mulberry?",
+      "answer": "The mulberry tree's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What can French cognac be labeled if it's at least four years old?",
+      "answer": "V.S.O.P."
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What nickname did Idi Amin share with a Tennessee Williams character?",
+      "answer": "\"Big Daddy\""
+    }
+  ]
+}

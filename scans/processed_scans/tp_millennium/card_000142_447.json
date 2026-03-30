@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_447",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European country had a population of 30,281, in 1994?",
+      "answer": "Liechtenstein"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What singer scored a Top 40 hit every year from 1970 to 1998?",
+      "answer": "Elton John"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who claimed he learned of a government conspiracy to kill blacks while visiting a spaceship-like giant 'wheel'?",
+      "answer": "Louis Farrakhan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who averaged one patent for every three weeks of his life?",
+      "answer": "Thomas Edison"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who became the second NFL back-to-back MVP winner, in 1996?",
+      "answer": "Brett Favre"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did a California prison offer Thomas Thompson in the days leading up to his scheduled execution, after nixing his cigarette request?",
+      "answer": "Nicotine patches"
+    }
+  ]
+}

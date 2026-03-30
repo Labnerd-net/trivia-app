@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000142_197",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Where did the city leaders of Manhattan, Kansas sagely ban the use of indoor furniture?",
+      "answer": "Outdoors"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What are Tinky Winky, Dipsy, Laa-Laa and Po collectively called?",
+      "answer": "The Teletubbies"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Native American's real name was Govathlay?",
+      "answer": "Geronimo's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the most common form of cancer in the U.S., with over a million newly diagnosed cases in 1998?",
+      "answer": "Skin cancer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What football team has won the most Rose Bowls?",
+      "answer": "Southern California"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Beat writer started appearing in Nike ads three years before he died, at the age of 83?",
+      "answer": "William Burroughs"
+    }
+  ]
+}

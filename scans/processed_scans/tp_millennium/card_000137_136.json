@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000137_136",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What two fairly important things are not served at Tel Aviv's 'conceptual dining' restaurant, Cafe Ke'ilu?",
+      "answer": "Food and drink"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the psychedelic version of hip-hop music called?",
+      "answer": "Trip-hop"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Sinatra song did Buzz Aldrin play once he landed on the lunar surface?",
+      "answer": "Fly Me to the Moon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What vehicles are thought to have been nicknamed for their designation 'type B, limp'?",
+      "answer": "Blimps"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What baseballer claimed that the only color of sweater he didn't own was 'navy brown'?",
+      "answer": "Yogi Berra"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. product is Elastoplast the British equivalent of?",
+      "answer": "Band-Aid"
+    }
+  ]
+}

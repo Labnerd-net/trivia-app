@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000143_398",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the United Kingdom's largest ethnic minority?",
+      "answer": "The Scots"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who served up The Hollywood Minute on Saturday Night Live?",
+      "answer": "David Spade"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What outfit's 1995 fundraiser letter called Federal agents \"jackbooted government thugs\"?",
+      "answer": "The NRA's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many years long is a quinquennium?",
+      "answer": "Five"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What U.S. tennis star dampens vibrations on his racquets with the rubber bands that secured his mail?",
+      "answer": "Andre Agassi"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Gulf Coast state calls its version of the Abominable Snowman the \"skunk ape\"?",
+      "answer": "Florida"
+    }
+  ]
+}

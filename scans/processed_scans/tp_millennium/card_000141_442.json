@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000141_442",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city in China boasts 820 newspaper sales per 1,000 people?",
+      "answer": "Hong Kong"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What famed five-word line was the title of the first chapter of Marshall McLuhan's Understanding Media?",
+      "answer": "The medium is the message"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What member of the Lewis and Clark expedition gave birth during the journey?",
+      "answer": "Sacajawea"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What do People for the Ethical Treatment of Animals buy all across the U.S. and ship to Maine, to be released in the Atlantic?",
+      "answer": "Lobsters"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who holds the all-time NBA record for games played?",
+      "answer": "Robert Parish"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What term for pirate comes from the French for 'one who hunts wild pork'?",
+      "answer": "Buccaneer"
+    }
+  ]
+}

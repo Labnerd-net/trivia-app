@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000140_576",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What staple crop does half the world's population depend on?",
+      "answer": "Rice"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What group auditioned 400 singers after Peter Gabriel left, finally deciding its drummer was good enough for the job?",
+      "answer": "Genesis"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What pacifist noted: \"An eye for an eye will make the whole world go blind\"?",
+      "answer": "Mohandas Gandhi"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the Canadian Girl Scouts Council issued a permit to kill, due to the massive amount of droppings at Camp Woodhaven?",
+      "answer": "Canada geese"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What British seed merchant had a much-sought-after golf trophy named for him?",
+      "answer": "Samuel Ryder"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was the only thing Elvis Presley loved, according to an employee of 26 years?",
+      "answer": "Eating"
+    }
+  ]
+}

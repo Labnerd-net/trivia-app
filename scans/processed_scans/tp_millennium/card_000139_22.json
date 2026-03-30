@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000139_22",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation calls its parliament the Lok Sabha?",
+      "answer": "India"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What WB hit did People call 'a clever meld of Clueless and The X-Files'?",
+      "answer": "Buffy the Vampire Slayer"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. outfit, after investing 20 years and $20 million, stopped using psychics to gather info, in 1995?",
+      "answer": "The CIA"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What human organ houses your amygdala and thalamus?",
+      "answer": "The brain"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who has the highest regular season winning percentage for NBA coaches with at least 250 wins?",
+      "answer": "Phil Jackson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What singer sold pictures of his baby, Prince, to the National Enquirer?",
+      "answer": "Michael Jackson"
+    }
+  ]
+}

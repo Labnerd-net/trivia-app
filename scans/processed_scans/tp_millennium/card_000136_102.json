@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000136_102",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What populous country boasts a language called Putonghua?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What budding rock star quit the University of Texas after being voted \"Ugliest Man on Campus,\" in 1963?",
+      "answer": "Janis Joplin"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the U.S. minimum wage in January, 1961?",
+      "answer": "One dollar"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the most common term for someone who illegally cracks into a computer system?",
+      "answer": "A hacker"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What uniform number was worn by Roger Maris, Bill Mazeroski and Ted Williams?",
+      "answer": "Nine"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What fowl goes \"Wack Wack\" in Arabic, \"Schnatter-Schnatter\" in German and \"Boo Boo\" in Japanese?",
+      "answer": "A goose"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000143_397",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European city does the M25 motorway encircle?",
+      "answer": "London"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What pop crooner's 1997 foray into heavy metal resulted in the cancellation of his gospel music show?",
+      "answer": "Pat Boone's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation's 90-man army is the world's oldest, dating back to 1506?",
+      "answer": "Vatican City's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What reference book by the Boston Women's Health Book Collective sold over four million copies through 1998?",
+      "answer": "Our Bodies, Ourselves"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What quadrennial event did Ted Turner lose over $100 million on, through 1998?",
+      "answer": "The Goodwill Games"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What company is dubbed \"BUD\" on a stock exchange ticker tape?",
+      "answer": "Anheuser-Busch"
+    }
+  ]
+}
