@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router'
 import { providerList, providerGroups } from '../api/providers';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
+import { useProviderCapabilities } from '../hooks/useProviderCapabilities';
 import { ERROR_FETCH_CATEGORIES } from '../constants/errorMessages';
 import type { Category } from '../types';
 
@@ -15,6 +16,7 @@ interface MenuFormData {
 export default function Menu() {
   const navigate = useNavigate();
   const { provider, setSelectedProvider, setCategory } = useProvider();
+  const { hasMultipleDifficulties, hasMultipleTypes } = useProviderCapabilities(provider);
   const [formData, setFormData] = useState<MenuFormData>({
     category: 'all',
     difficulty: 'all',
@@ -100,7 +102,7 @@ export default function Menu() {
               )}
             </select>
           </div>
-          {provider.difficulties.length > 1 && (
+          {hasMultipleDifficulties && (
             <div>
               <label className="tq-field-label" htmlFor="formDifficulty">Difficulty</label>
               <select
@@ -116,7 +118,7 @@ export default function Menu() {
               </select>
             </div>
           )}
-          {provider.types.length > 1 && (
+          {hasMultipleTypes && (
             <div>
               <label className="tq-field-label" htmlFor="formType">Question Type</label>
               <select

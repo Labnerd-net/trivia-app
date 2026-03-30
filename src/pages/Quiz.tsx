@@ -4,6 +4,7 @@ import axios from 'axios';
 import Question from '../components/Question';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
+import { useProviderCapabilities } from '../hooks/useProviderCapabilities';
 import { ERROR_FETCH_QUESTIONS, ERROR_NEXT_QUESTIONS } from '../constants/errorMessages';
 import type { QuestionsResult } from '../types';
 
@@ -18,6 +19,7 @@ export default function Quiz() {
 
   const { categoryID, difficulty, type } = useParams();
   const { provider, token, category } = useProvider();
+  const { hasMultipleDifficulties } = useProviderCapabilities(provider);
 
   const paramsValid =
     /^[a-z0-9_]*$/i.test(categoryID ?? '') &&
@@ -95,7 +97,7 @@ export default function Quiz() {
           <span className="tq-chip-label">Category</span>
           <span className="tq-chip-value">{category?.name ?? '—'}</span>
         </div>
-        {provider.difficulties.length > 1 && (
+        {hasMultipleDifficulties && (
           <div className="tq-stat-chip">
             <span className="tq-chip-label">Difficulty</span>
             <span className="tq-chip-value">{difficultyLabel}</span>
