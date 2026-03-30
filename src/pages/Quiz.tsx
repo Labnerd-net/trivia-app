@@ -4,7 +4,7 @@ import axios from 'axios';
 import Question from '../components/Question';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
-import { ERROR_FETCH_QUESTIONS } from '../constants/errorMessages';
+import { ERROR_FETCH_QUESTIONS, ERROR_NEXT_QUESTIONS } from '../constants/errorMessages';
 import type { QuestionsResult } from '../types';
 
 const NUMBER_OF_QUESTIONS = 10;
@@ -13,6 +13,7 @@ export default function Quiz() {
   const [questions, setQuestions] = useState<QuestionsResult | null>(null);
   const [page, setPage] = useState(0);
   const [isFetching, setIsFetching] = useState(false);
+  const [paginationError, setPaginationError] = useState<string | null>(null);
   const navigate = useNavigate()
 
   const { categoryID, difficulty, type } = useParams();
@@ -46,6 +47,7 @@ export default function Quiz() {
 
   const nextQuestions = async () => {
     if (!isFetching) {
+      setPaginationError(null);
       try {
         setIsFetching(true);
         const data = await provider.getQuestions({
@@ -60,7 +62,7 @@ export default function Quiz() {
         setPage((prev) => prev + 1);
       } catch (err) {
         if (!axios.isCancel(err)) {
-          // pagination errors are silent — user can click again
+          setPaginationError(ERROR_NEXT_QUESTIONS);
         }
       } finally {
         setIsFetching(false);
@@ -108,6 +110,20 @@ export default function Quiz() {
           <span className="tq-chip-value">{page + 1}</span>
         </div>
       </div>
+
+      {paginationError && (
+        <div className="tq-status error">
+          <div>{paginationError}</div>
+          <div className="tq-form-actions">
+            <button className="tq-btn tq-btn-primary" onClick={() => { setPaginationError(null); nextQuestions(); }}>
+              Retry
+            </button>
+            <button className="tq-btn tq-btn-ghost" onClick={() => setPaginationError(null)}>
+              Dismiss
+            </button>
+          </div>
+        </div>
+      )}
 
       <div>
         {questions?.results.map((data, idx) => (
