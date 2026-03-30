@@ -52,13 +52,11 @@ _None identified._
 ### Medium
 - **#11 [src/context/ProviderContext.tsx:80]**: `ProviderProvider` renders a full-page loading/error div that replaces `children`, including `Navbar`. The theme toggle becomes inaccessible during token fetch. **Fix**: Move `ProviderProvider` below `Navbar` in `App.tsx`, or pass loading/error state through context and handle display inside `Menu`.
 - **#12 [src/context/ProviderContext.tsx]**: Token lifecycle is tightly coupled to provider selection. Token refetch triggers even when switching to a provider that doesn't need one. `retryCount` is an ad-hoc retry mechanism. **Fix**: Extract token management to a `useProviderToken(provider)` hook; decouple from provider selection.
-- **#15 [src/types/index.ts, src/utils/index.ts]**: `shuffleAnswers` treats `'boolean'` and `'open'` as the same branch, returning `['True', 'False']` for open questions. `Question.tsx` guards against rendering this but the call is still made. **Fix**: Add explicit `'open'` early return and consider narrower type guards for question types.
 - **#16 [src/components/Question.tsx]**: Missing accessibility attributes — reveal button lacks `aria-expanded`, answer options lack `role="radio"` or keyboard navigation. **Fix**: Add `aria-expanded={showAnswers}` to the reveal button; add keyboard handlers to answer options.
 
 ### Low
 - **#17 [src/pages/Menu.tsx, src/pages/Quiz.tsx]**: Provider capability checks (`provider.difficulties.length > 1`, etc.) are duplicated across both files. **Fix**: Extract to a `useProviderCapabilities(provider)` hook.
 - **#18 [src/api/providers.ts:174–175]**: `categoryNameById` and `categoryLabelByValue` maps are built for all local providers but the `dataValue` field only exists in TP Millennium. **Fix**: Move the `dataValue` logic to the TP Millennium provider config only.
-- **#19 [src/utils/index.ts]**: `shuffleAnswers` returns a meaningless `['True', 'False']` array for `'open'` type questions that `Question.tsx` then discards. **Fix**: Return early for `'open'` type.
 
 ---
 
@@ -84,6 +82,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 1 | 1 | 0 | 2 |
-| Improvements & Refactors | 1 | 4 | 3 | 8 |
+| Improvements & Refactors | 1 | 4 | 1 | 6 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **3** | **7** | **5** | **15** |
+| **Total** | **3** | **7** | **3** | **13** |

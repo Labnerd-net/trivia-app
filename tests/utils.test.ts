@@ -75,6 +75,18 @@ describe('shuffleAnswers', () => {
     type: 'boolean',
   };
 
+  it('returns [] for open questions', () => {
+    const openQuestion: NormalizedQuestion = {
+      question: 'Q?',
+      correctAnswer: 'Some answer',
+      incorrectAnswers: [],
+      category: 'Test',
+      difficulty: 'easy',
+      type: 'open',
+    };
+    expect(shuffleAnswers(openQuestion)).toEqual([]);
+  });
+
   it('returns ["True", "False"] for boolean questions regardless of correct answer', () => {
     expect(shuffleAnswers(booleanQuestion)).toEqual(['True', 'False']);
     expect(shuffleAnswers({ ...booleanQuestion, correctAnswer: 'False', incorrectAnswers: ['True'] })).toEqual(['True', 'False']);
