@@ -55,8 +55,7 @@ _None identified._
 - **#16 [src/components/Question.tsx]**: Missing accessibility attributes — reveal button lacks `aria-expanded`, answer options lack `role="radio"` or keyboard navigation. **Fix**: Add `aria-expanded={showAnswers}` to the reveal button; add keyboard handlers to answer options.
 
 ### Low
-- **#17 [src/pages/Menu.tsx, src/pages/Quiz.tsx]**: Provider capability checks (`provider.difficulties.length > 1`, etc.) are duplicated across both files. **Fix**: Extract to a `useProviderCapabilities(provider)` hook.
-- **#18 [src/api/providers.ts:174–175]**: `categoryNameById` and `categoryLabelByValue` maps are built for all local providers but the `dataValue` field only exists in TP Millennium. **Fix**: Move the `dataValue` logic to the TP Millennium provider config only.
+_None identified._
 
 ---
 
@@ -82,6 +81,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 1 | 4 | 1 | 6 |
+| Improvements & Refactors | 1 | 4 | 0 | 5 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **2** | **6** | **3** | **11** |
+| **Total** | **2** | **6** | **2** | **10** |
