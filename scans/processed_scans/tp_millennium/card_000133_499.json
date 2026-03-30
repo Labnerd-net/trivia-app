@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000133_499",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What two countries claim two-thirds of the world's 2,000-plus registered saints?",
+      "answer": "Italy and France"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What show had 1 billion viewers in 140 countries glued to the boob tube, by 1998?",
+      "answer": "Baywatch"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose appointment to the U.S. Supreme Court prompted NOW President Patricia Ireland to warn: 'We'll Bork him'?",
+      "answer": "Clarence Thomas'"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the most common limbless vertebrate?",
+      "answer": "A snake"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did Seattle outfielders Jay Buhner, Ken Griffey and Kevin Mitchell all do in the outfield in one 1990s game, to make history?",
+      "answer": "Throw up"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was Pol Pot's last supper?",
+      "answer": "Rice"
+    }
+  ]
+}

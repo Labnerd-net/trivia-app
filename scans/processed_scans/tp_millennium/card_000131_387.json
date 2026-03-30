@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000131_387",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Massachusetts spot is hyped as 'America's Hometown'?",
+      "answer": "Plymouth"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What artist described himself as 'a public entertainer who has understood his time'?",
+      "answer": "Pablo Picasso"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation did the U.S. agree to remove missiles from, to help resolve the Cuban Missile Crisis?",
+      "answer": "Turkey"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does 'Rx' mean to a pharmacist?",
+      "answer": "Prescription"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What company used a Primal Ice Scream Therapist to help dream up its 1991 chocolate chip cookie dough flavor?",
+      "answer": "Ben & Jerry's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What sport did Ellen DeGeneres consider playing professionally?",
+      "answer": "Golf"
+    }
+  ]
+}

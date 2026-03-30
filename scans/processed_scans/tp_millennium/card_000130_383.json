@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000130_383",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European landmark was brought in on time and under budget, in 1889?",
+      "answer": "The Eiffel Tower"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What type of entertainers debuted in European courts in 1202?",
+      "answer": "Court jesters"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What branch of the U.S. government meets in a building inscribed 'Equal Justice under Law'?",
+      "answer": "The Supreme Court"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the surname of the French brothers who started making bicycle tires in 1888?",
+      "answer": "Michelin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who became the first sitting U.S. president to attend an NHL game?",
+      "answer": "Bill Clinton"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What dead toe-tapper was shown dancing with a cordless vacuum cleaner in a 1990s TV ad, through the magic of special effects?",
+      "answer": "Fred Astaire"
+    }
+  ]
+}

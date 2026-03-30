@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000127_474",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What 300-meter-high tower houses the Restaurant Jules Verne?",
+      "answer": "The Eiffel Tower"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What comedian said he wants his tombstone to read: 'Whatever'?",
+      "answer": "Jerry Seinfeld"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Which of Marilyn's husbands was offered clemency if she posed for photos with the House Un-American Activities chairman?",
+      "answer": "Arthur Miller"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What creature has been called 'China's National Treasure'?",
+      "answer": "The giant panda"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Native American was the NFL's first president?",
+      "answer": "Jim Thorpe"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What kind of pills did a 75-year-old bank robber in a motorized wheelchair threaten to blow up a San Diego bank with?",
+      "answer": "Nitroglycerin heart pills"
+    }
+  ]
+}

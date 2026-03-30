@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000128_458",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. city boasts a record-high one car for every two people?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What series signed a pact with NBC for a record $13 million per episode, in 1998?",
+      "answer": "ER"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What pacifist had a name that translated as \"Action-Slave Fascination-Moon Grocer\" but was simply nicknamed \"Bapu\"?",
+      "answer": "Mohandas Gandhi"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What must a meteor do to become a meteorite?",
+      "answer": "Reach the Earth's surface"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What brand doubled the sales of runner-up Alpo to be the top canned dog food, by 1995?",
+      "answer": "Kal Kan Pedigree"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What acoustic-guitar picker turned a homespun cassette into the million-selling LP Armadillo?",
+      "answer": "Leo Kottke"
+    }
+  ]
+}

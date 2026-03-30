@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000129_233",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's holidays include Discovery Day, Natal Day and Fete Nationale?",
+      "answer": "Canada's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What actress said of her Gone With the Wind role, \"It's better to get $7,000 a week for playing a servant than $7 a week being one\"?",
+      "answer": "Hattie McDaniel"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did Amerigo Vespucci realize was a new continent and not part of Asia, in 1502?",
+      "answer": "South America"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the first Caribbean country to put a man in space?",
+      "answer": "Cuba"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did Twins baseballer Randy Bush teach his young son by saying, \"This is the way Kirby Puckett does it\"?",
+      "answer": "Potty training"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What cable TV channel sports the slogan: \"Where the past comes alive\"?",
+      "answer": "The History Channel"
+    }
+  ]
+}

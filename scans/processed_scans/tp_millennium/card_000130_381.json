@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000130_381",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation has the world's largest military fighting force?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What late-night TV show did Entertainment Weekly dub 'McLaughin Group-meets-Match Game'?",
+      "answer": "Politically Incorrect"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did a ship called the Ancon travel through first, on August 15, 1914?",
+      "answer": "The Panama Canal"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What living organism can be 30 times the size of a blue whale?",
+      "answer": "A giant sequoia"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who drew groans in 1997 when he announced he'd seek a fourth term as IOC chief?",
+      "answer": "Juan Antonio Samaranch"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What animal produced the petrified hair ball on display at Waco's Texas Ranger Hall of Fame?",
+      "answer": "A buffalo"
+    }
+  ]
+}

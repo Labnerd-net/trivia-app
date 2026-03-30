@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000130_377",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What high-tech Texas city is linked to Silicon Valley by an airline route dubbed the 'Nerd Bird'?",
+      "answer": "Austin"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What comic strip doc waited 46 years to pop the question to Nurse Gale?",
+      "answer": "Rex Morgan, M.D."
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What beverage were the Sufis in Yemen the first to drink, in the 15th century?",
+      "answer": "Coffee"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the common term for precipitation infused by sulfuric and nitric acids?",
+      "answer": "Acid rain"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Croatian tennis player did announcer John McEnroe dub 'Mr. Mental Midget'?",
+      "answer": "Goran Ivanisevic"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What group's 1997 reunion tour prompted Esquire to beg, 'Please, for the love of God, stop thinking about tomorrow'?",
+      "answer": "Fleetwood Mac's"
+    }
+  ]
+}

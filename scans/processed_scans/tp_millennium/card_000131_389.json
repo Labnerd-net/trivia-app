@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000131_389",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation has its capital in Zagreb?",
+      "answer": "Croatia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What wheelchair-ridden comedian, bald from chemotherapy, had a fan come up to him and say: 'You maniac, what a schtick'?",
+      "answer": "Andy Kaufman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. leader mistakenly predicted: 'Old Ho can't turn me down'?",
+      "answer": "Lyndon B. Johnson"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was mechanic Ernest Holmes the first to make, by bolting a tripod onto his 1913 Cadillac?",
+      "answer": "A tow truck, or wrecker"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was the winningest NCAA Division 1 basketball team in the 1980s?",
+      "answer": "North Carolina"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What billionaire, after trying all 31 Baskin Robbins flavors, decided he wanted two scoops of 'banana nut' with every meal?",
+      "answer": "Howard Hughes"
+    }
+  ]
+}

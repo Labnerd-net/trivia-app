@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000130_382",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the first country in the world to introduce an income tax, in 1789?",
+      "answer": "Britain"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What animated character is also known as 'Acceleratii Incredibus,' 'Burn-em Upus Asphaltus' and 'Speedipus Rex'?",
+      "answer": "The Road Runner"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who received 1.5 percent of the vote in the 1996 Russian presidential election?",
+      "answer": "Mikhail Gorbachev"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the feline delight nepeta cataria better known as?",
+      "answer": "Catnip"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Horse of the Year for 1995 and 1996 turned out to be a dud as a stud?",
+      "answer": "Cigar"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What country's strapped health care system raised $540,000 in 1997 by auctioning off premium cigars?",
+      "answer": "Cuba's"
+    }
+  ]
+}

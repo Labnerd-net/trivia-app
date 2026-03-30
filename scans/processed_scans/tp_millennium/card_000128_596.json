@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000128_596",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What countries are the top two international destinations for U.S. travelers?",
+      "answer": "Mexico and Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What talk show host issued a statement saying she was not gay, after appearing on the coming out episode of Ellen?",
+      "answer": "Oprah Winfrey"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What new title did the Archbishop of Kraków get after a promotion in 1978?",
+      "answer": "Pope John Paul II"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many of every ten coffee beans in USDA-approved coffee can be moldy, insect-infested or insect-damaged?",
+      "answer": "One"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did members of the Canadian swim team swear to give up during the 1996 Olympics?",
+      "answer": "Sex"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What subject do some college kids call \"Monkeys to Junkies\"?",
+      "answer": "Anthropology"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000126_480",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country repealed a law that required an \"orderly, proper line\" at bus stops, in 1995?",
+      "answer": "England"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who once observed, \"This is America. You can't make a horse testify against himself\"?",
+      "answer": "Mr. Ed"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the first nation to picture Albert Einstein on banknotes?",
+      "answer": "Israel"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 500-acre Disney World attraction features The Tree of Life, Conservation Station and Countdown to Extinction?",
+      "answer": "Animal Kingdom"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's the most popular flavor of Baskin-Robbins ice cream?",
+      "answer": "Vanilla"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What famous residence were Barbra Streisand and James Brolin denied an overnight stay in, because they weren't married?",
+      "answer": "The White House"
+    }
+  ]
+}

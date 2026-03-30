@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000131_384",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city's exterminators sold the most Rat Guards for toilet pipes in 1998?",
+      "answer": "New York City's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Christopher Wallace wisely choose as his nom-de-rap on his multi-platinum CDs?",
+      "answer": "Notorious B.I.G."
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What current branch of the U.S. military was a corps of only 50 soldiers when World War I broke out?",
+      "answer": "The U.S. Air Force"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What can mutagens cause?",
+      "answer": "Mutations"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What golfer hit Ben Crenshaw in the head with his putter in 1986, forcing Crenshaw to head for the hospital?",
+      "answer": "Ben Crenshaw"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What lawyer wears a trademark fringed buckskin coat and black turtleneck sweater?",
+      "answer": "Gerry Spence"
+    }
+  ]
+}

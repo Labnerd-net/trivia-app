@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000127_416",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country had 100 foreign-owned companies in 1979 but 280,000 in 1998?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who's responsible for the LPs Shamrocks and Champagne, Bubbles in the Wine and Pick-a-Polka!?",
+      "answer": "Lawrence Welk"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was hailed as the 'saint of the gutters'?",
+      "answer": "Mother Teresa"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What invention for keeping cold air out of buildings in winter was patented by Theophilus Van Kannel in 1888?",
+      "answer": "The revolving door"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many times did Babe Ruth win baseball's triple crown?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1998 event did an Israeli doctor blame for a 40 percent drop in demand for Viagra?",
+      "answer": "The World Cup of soccer"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000132_351",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country generates the most hydroelectric power?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What classic sitcom's 'Rerun Watcher's Club' has 20,000 members, with chapters as far away as Saudi Arabia?",
+      "answer": "The Andy Griffith Show's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Texan saw his piano career go into orbit six months after the launch of Sputnik?",
+      "answer": "Van Cliburn"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What pricey type of beef is produced from black Wagyu bulls?",
+      "answer": "Kobe beef"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Brigham Young quarterback hurled passes for 15,031 yards from 1988 to 1991, an all-time NCAA Division 1-A record?",
+      "answer": "Ty Detmer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What animal supplies what's called 'fragrant meat' in Chinese eateries?",
+      "answer": "The dog"
+    }
+  ]
+}

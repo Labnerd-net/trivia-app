@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000133_157",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What decade-beginning year gave Moscow residents the chance to munch Big Macs?",
+      "answer": "1990"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Georgia-born screen siren once threw her modeling portfolio off the Brooklyn Bridge?",
+      "answer": "Kim Basinger"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Nancy Sinatra song did the FBI play at high volume in an effort to flush David Koresh out of his Waco compound?",
+      "answer": "These Boots Are Made for Walkin'"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What five-foot-tall birds are the tallest in North America?",
+      "answer": "Whooping cranes"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What got Andrew Golata disqualified in two straight fights with Riddick Bowe?",
+      "answer": "Low blows"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many years did Priscilla say she lived with Elvis before their relationship was consummated?",
+      "answer": "Four"
+    }
+  ]
+}

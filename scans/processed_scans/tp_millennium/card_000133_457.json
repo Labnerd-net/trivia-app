@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000133_457",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What two African rivers did Henry Stanley prove were not connected?",
+      "answer": "The Congo and the Nile"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was the first Western since 1931's Cimarron to win a Best Picture Oscar?",
+      "answer": "Dances with Wolves"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who turned a U.S. presidential debate in his favor by judicious use of the phrase: 'There you go again...'?",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What two Steves designed their first personal computer in a garage in 1976?",
+      "answer": "Steve Jobs and Steve Wozniak"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sports figure, when asked if he'd seen Dr. Zhivago, allegedly said: 'No, I feel fine'?",
+      "answer": "Yogi Berra"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What male shock-rocker made Mr. Blackwell's Worst Dressed Women list in 1997?",
+      "answer": "Marilyn Manson"
+    }
+  ]
+}

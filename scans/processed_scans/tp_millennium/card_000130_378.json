@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000130_378",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Asian city boasts the 9,000-room Imperial Palace, the world's largest?",
+      "answer": "Beijing"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What question ends the Ira Gershwin lines: 'I got rhythm / I got music / I got my man...'?",
+      "answer": "'Who could ask for anything more?'"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who inspired Vanity Fair to ask: 'Is this the face that launched a thousand subpoenas'?",
+      "answer": "Monica Lewinsky"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What spectacular use for glass did Roger Bacon first propose in his Opus majus?",
+      "answer": "Eyeglasses"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the only pitcher to lead the National League in strikeouts three times during the 1980s?",
+      "answer": "Steve Carlton"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What company offered the first layaway plan for its $125 sewing machines, in 1856?",
+      "answer": "Singer"
+    }
+  ]
+}

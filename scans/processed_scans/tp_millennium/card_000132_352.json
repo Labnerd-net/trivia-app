@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000132_352",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What name, describing an ideally perfect place, actually means 'no place' in Greek?",
+      "answer": "Utopia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What director's epic box-office bomb caused him to be dubbed 'the man who killed the western'?",
+      "answer": "Michael Cimino's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What South African's real first name of Rolihlahla is translated as 'troublemaker'?",
+      "answer": "Nelson Mandela's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What word describes any grass that has seeds used for human or animal consumption?",
+      "answer": "Grain"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What dreaded golf shot occurs when the ball is hit with the hosel of the club?",
+      "answer": "A shank"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What White House worker did Dick Morris refer to as 'Stumpy,' according to Sherry Rowlands?",
+      "answer": "George Stephanopoulos"
+    }
+  ]
+}

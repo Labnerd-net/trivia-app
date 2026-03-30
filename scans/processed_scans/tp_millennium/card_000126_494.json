@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000126_494",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many of every 10 U.S. men under the age of 50 are the proud owners of a pair of Dockers Khakis?",
+      "answer": "Seven"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What late-night hit has Bill Maher say: \"It's all been satirized for your protection\"?",
+      "answer": "Politically Incorrect"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who managed to print 200 Bibles in 1455 before going bankrupt?",
+      "answer": "Johann Gutenberg"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What fat substitute got FDA approval for use in snack foods, despite reports of diarrhea and cramps?",
+      "answer": "Olestra"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who scored a record ten hat tricks in one NHL season?",
+      "answer": "Wayne Gretzky"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What magazine has been called \"a monthly version of Sex and the Single Girl\"?",
+      "answer": "Cosmopolitan"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000127_594",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state is the seventh largest economic power in the world?",
+      "answer": "California"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie offers the line: 'I was a better man with you, as a woman, than I was with a woman as a man'?",
+      "answer": "Tootsie"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What outfit did Charles Lindbergh donate the Spirit of St. Louis to?",
+      "answer": "The Smithsonian Institution"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What surgeon got the idea to use carbolic acid as a disinfectant when he learned of its success as a deodorant of raw sewage?",
+      "answer": "Joseph Lister"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA expansion team lost an NBA record 23 straight games in 1996?",
+      "answer": "The Vancouver Grizzlies"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What name did a semipro football team in Springfield, Missouri drop, after gripes from mental-health workers in 1998?",
+      "answer": "The Psychos"
+    }
+  ]
+}

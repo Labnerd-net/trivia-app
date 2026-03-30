@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000126_482",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What were Inuit called prior to the 1970s?",
+      "answer": "Eskimos"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "How many hubcaps does Steve McQueen's car lose in the famed chase scene from Bullitt?",
+      "answer": "Six"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What California city did the last Pony Express ride end in?",
+      "answer": "Sacramento"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What governor suggested that California launch its own space satellite?",
+      "answer": "Jerry Brown"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What now-common Caesar salad ingredient was not favored by its creator, Caesar Cardini?",
+      "answer": "Anchovies"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who vowed revenge on France after his terrier \"Fuchs!\" was stolen in 1917 by a railway worker in Alsace?",
+      "answer": "Adolf Hitler"
+    }
+  ]
+}

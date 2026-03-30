@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000126_403",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Scandinavian country last fought in a war in 1814?",
+      "answer": "Sweden"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Mrs. Doubtfire win its sole Oscar nomination for?",
+      "answer": "Makeup"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Filipino's claims of heroism in World War II were proven to be a total fabrication?",
+      "answer": "Ferdinand Marcos"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What innovation was New York's Chemical Bank the first to offer customers, in 1969?",
+      "answer": "The automatic teller"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What ballpark boasted a record 16 restrooms when it opened in 1923 with a pregame John Philip Sousa concert?",
+      "answer": "Yankee Stadium"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What trippy 1960s icon did Winona Ryder deliver a eulogy for in 1997?",
+      "answer": "Timothy Leary"
+    }
+  ]
+}

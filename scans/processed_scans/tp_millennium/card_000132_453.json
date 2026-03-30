@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000132_453",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Siberian lake contains 20 percent of the world's unfrozen fresh water?",
+      "answer": "Lake Baikal"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom siren of the nineties founded a gourmet crouton business in the eighties?",
+      "answer": "Fran Drescher"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What former U.S. secretary of state noted: 'The illegal we do immediately. The unconstitutional takes longer'?",
+      "answer": "Henry Kissinger"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What part of a piano is made from the pricey wood of Mpingo trees?",
+      "answer": "The black keys"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What canned goods brand was named after its three founders–Boyd, Art and Dennis?",
+      "answer": "Chef Boyardee"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What VH-1 host claims life's essentials are 'flawless, fierce attitude, disposable razors and shaving gel'?",
+      "answer": "RuPaul"
+    }
+  ]
+}

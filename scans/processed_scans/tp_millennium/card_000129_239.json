@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000129_239",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent is home to one-third of the world's languages?",
+      "answer": "Africa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Beatles single lasted longest on the charts, at 19 weeks?",
+      "answer": "Hey Jude"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What tragedy occurred two years to the day after the federal raid on the Branch Davidian complex in Waco?",
+      "answer": "The Oklahoma City bombing"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What ill-fated auto bit the dust in 1959 after losses of $250 million?",
+      "answer": "The Edsel"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who came within 54 home runs of Babe Ruth's career record despite missing two seasons while serving in the military?",
+      "answer": "Willie Mays"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What momentary British monarch was dubbed \"little man\" by ex-girlfriends?",
+      "answer": "King Edward VIII"
+    }
+  ]
+}

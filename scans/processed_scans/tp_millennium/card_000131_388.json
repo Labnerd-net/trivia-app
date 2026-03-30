@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000131_388",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Which is further from the equator—Tasmania, Tanzania or Transylvania?",
+      "answer": "Transylvania"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What aging comedian ended his 61-year relationship with NBC in 1996?",
+      "answer": "Bob Hope"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What horse-loving future president cheated on an eye exam to join the cavalry reserves in the 1930s?",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What organ will most often suffer permanent damage if you have amoebic dysentery?",
+      "answer": "The liver"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What nickname does PGA Tour caddy Mike Cowan answer to?",
+      "answer": "\"Fluff\""
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What cable TV channel wasted 64 minutes on a National Press Club discussion of Bob Dole by Siskel and Ebert?",
+      "answer": "C-SPAN"
+    }
+  ]
+}

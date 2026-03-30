@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000133_574",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What South Atlantic group of islands boasts 338 sheep per human?",
+      "answer": "The Falkland Islands"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What former actor made a bundle selling nude photos of Bo Derek?",
+      "answer": "John Derek"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Clinton cabinet member was portrayed in the Arab press as 'a frustrated old maid' who 'hates Arabs' and 'does the Macarena'?",
+      "answer": "Madeleine Albright"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What insect depends the most upon sight, rather than sound, to locate mates?",
+      "answer": "The firefly"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was able to set NFL rushing records because of his 'big butt,' according to Chicago Bears trainer Frank Caito?",
+      "answer": "Walter Payton"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What rocker's death inspired posters reading 'Hello, Goodbye'?",
+      "answer": "John Lennon's"
+    }
+  ]
+}

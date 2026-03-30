@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000127_593",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Arkansas town was named in honor of a place central to an Al Capp comic strip?",
+      "answer": "Dogpatch"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What rock group favored by Beavis and Butt-head was named after a 1932 Bela Lugosi horror flick?",
+      "answer": "White Zombie"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What religious movement began with Martin Luther's attack on the sale of indulgences?",
+      "answer": "The Reformation"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did geneticists get when they crossbred buffalo and cattle?",
+      "answer": "Beefalo"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What French tennis stadium is named for an aviator killed days before the end of World War I?",
+      "answer": "Roland Garros"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What ABC series was the top-rated show for girls from 2 to 17, in 1998?",
+      "answer": "Sabrina, the Teenage Witch"
+    }
+  ]
+}

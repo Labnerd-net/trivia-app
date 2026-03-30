@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000126_404",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What southeast Asian nation boasts the square-mile Angkor Wat, the world's largest religious monument?",
+      "answer": "Cambodia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Botticelli painting do some wags call \"Venus on the Half Shell\"?",
+      "answer": "The Birth of Venus"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the only one of the first five U.S. presidents not born in Virginia?",
+      "answer": "John Adams"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What fashion maven's home was wiped out by Hurricane Gloria in 1986, after Pat Robertson prayed that it change course to avoid his?",
+      "answer": "Calvin Klein's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Which of golf's Grand Slam tournaments debuted in 1916?",
+      "answer": "The PGA Championship"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What divine diva once worked as a \"chief chunker\" at a pineapple cannery?",
+      "answer": "Bette Midler"
+    }
+  ]
+}

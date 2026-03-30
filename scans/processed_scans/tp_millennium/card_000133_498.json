@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000133_498",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state boasts the most wetlands, with 170 million acres?",
+      "answer": "Alaska"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What actor uttered 'You dirty yellow-bellied rat,' not 'You dirty rat,' in 1931?",
+      "answer": "James Cagney"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the first nation outside the Eastern bloc to be invaded by Soviet infantry since World War II?",
+      "answer": "Afghanistan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What process involves heating an ore to obtain a metal?",
+      "answer": "Smelting"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the only teenager to play in the 1998 NBA All Star Game?",
+      "answer": "Kobe Bryant"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What future world leader shortened his name to Ben Nitay while a businessman in the U.S.?",
+      "answer": "Benjamin Netanyahu"
+    }
+  ]
+}

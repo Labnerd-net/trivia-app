@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000132_251",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What amusement park welcomed its six-hundred-millionth visitor when Jacqueline D'Ambrosi stepped through its gates, in 1998?",
+      "answer": "Walt Disney World"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What U.S. kids' show invaded China in 1998?",
+      "answer": "Sesame Street"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What type of love note was Charles, Duke of Orleans, the first to send in 1514, while locked in the Tower of London?",
+      "answer": "A valentine"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does a kite-flying linonophobic fear?",
+      "answer": "String"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What spicy chicken appetizer was first served in 1964, at the Anchor Bar in Buffalo, New York?",
+      "answer": "Buffalo wings"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Disney duo is tattooed frolicking along Janet Jackson's bikini line?",
+      "answer": "Mickey and Minnie Mouse"
+    }
+  ]
+}

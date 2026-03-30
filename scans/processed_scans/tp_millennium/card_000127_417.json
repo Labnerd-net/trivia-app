@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000127_417",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What empire spread west to Morocco, north to Hungary and east to Damascus?",
+      "answer": "The Ottoman Empire"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Murphy Brown character was married to Phyllis, and had kids Felicia, Philip, Li'l Phil and Phil?",
+      "answer": "Phil"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first person to force a sitting U.S. president to court?",
+      "answer": "Paula Jones"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What acronyms for 'Weakly Interacting Massive Particles' and 'Massive Compact Halo Objects' do physicists use to explain dark matter?",
+      "answer": "Wimps and Machos"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 74-pound teenager became the youngest U.S. figure skating champ ever?",
+      "answer": "Tara Lipinski"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What computer magnate single-handedly broke David Letterman's 3-week-old Quiz Machine?",
+      "answer": "Bill Gates"
+    }
+  ]
+}

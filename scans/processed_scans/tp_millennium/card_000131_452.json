@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000131_452",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What part of China has only 13 of its original 6,000 monasteries left?",
+      "answer": "Tibet"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was the only thing Billy Bob Thornton ate during a down-on-his-luck period in 1984?",
+      "answer": "Potatoes"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did the first-class U.S. postal rate double to, in 1885?",
+      "answer": "Two cents"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What ancient treatment was endorsed by the National Institutes of Health in 1997?",
+      "answer": "Acupuncture"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What three football teams compete annually for the Commander-in-Chief trophy?",
+      "answer": "Air Force, Army, Navy"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What animals were called 'Hoover hogs' and 'Texas turkeys' by hungry Depression-era Texans?",
+      "answer": "Armadillos"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000128_360",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Hawaiian island was flattened by Hurricane Iniki?",
+      "answer": "Kauai"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Spaniard made the Guinness Book of World Records as the best-selling musical artist in the history of recording?",
+      "answer": "Julio Iglesias"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was closed to traffic after the Six Day War in 1967, and not reopened until 1975?",
+      "answer": "The Suez Canal"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What extinct birds were once so prolific that 18th-century American farmers fed them to pigs?",
+      "answer": "Passenger pigeons"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many playing points grace a backgammon board?",
+      "answer": "Twenty-four"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What religious leader did Apple yank from its \"Think Different\" ad campaign in Hong Kong so as not to offend China, in 1998?",
+      "answer": "The Dalai Lama"
+    }
+  ]
+}

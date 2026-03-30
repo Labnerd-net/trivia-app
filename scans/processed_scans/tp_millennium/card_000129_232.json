@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000129_232",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What dance is most associated with Buenos Aires?",
+      "answer": "The tango"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did Nick Tatopoulos have the task of exterminating, in a 1998 movie?",
+      "answer": "Godzilla"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who offered a $50,000 reward to the first person to fly across North America in 30 days?",
+      "answer": "William Randolph Hearst"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What structure in the back of the brain governs motor control?",
+      "answer": "The cerebellum"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Laker inked a contract for nearly twice the amount Jerry Buss paid for the team in 1979?",
+      "answer": "Shaquille O'Neal"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Taco Bell announce it would rename the Liberty Bell, in April 1, 1996 ads?",
+      "answer": "The Taco Liberty Bell"
+    }
+  ]
+}

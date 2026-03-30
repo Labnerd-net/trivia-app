@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000127_53",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country did Christopher Columbus insist Cuba was a part of?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What countdown deejay intones: 'Keep your feet on the ground and keep reaching for the stars'?",
+      "answer": "Casey Kasem"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 60 Minutes honcho is credited as being TV's first 'ambush' investigative reporter?",
+      "answer": "Mike Wallace"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What two words is the wrinkle-reduction treatment 'Botox' a shortened form of?",
+      "answer": "Botulism toxin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What heavyweights with 99 years between them were scheduled to fight in 1999?",
+      "answer": "George Foreman and Larry Holmes"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What tasty dressing was created in 1755 by the Duke of Richelieu for one of his notorious nude dinner parties?",
+      "answer": "Mayonnaise"
+    }
+  ]
+}

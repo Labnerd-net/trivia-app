@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000130_376",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country is second only to the U.S. in carbon dioxide emissions?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Whose father dies in a brothel, in Mark Twain's original handwritten manuscript?",
+      "answer": "Huckleberry Finn's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What socialist writer's last words were: 'Last words are for fools who haven't said enough'?",
+      "answer": "Karl Marx's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Manhattan natives, numbering seven million, have sex up to 20 times per day?",
+      "answer": "Rats"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What major league baseball team was the first in 86 years to win 60 of its first 80 games?",
+      "answer": "The New York Yankees"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What does a priest distribute with an aspergillum?",
+      "answer": "Holy water"
+    }
+  ]
+}

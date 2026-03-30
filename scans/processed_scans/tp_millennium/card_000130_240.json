@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000130_240",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What two ancient city rivals battled it out to get the 2004 Olympics?",
+      "answer": "Athens and Rome"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What rugged country singer got the Kennedy Center Cultural Achievement Award, in 1996?",
+      "answer": "Johnny Cash"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What color did Japan's royal family start staining their teeth, in a 1233 fashion statement?",
+      "answer": "Black"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What gland is found just below the optic chiasma of your brain?",
+      "answer": "The pituitary gland"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who's the only person to beat Pete Sampras in a singles match on center court at Wimbledon, through 1998?",
+      "answer": "Richard Krajicek"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the most common term of endearment in the U.S.?",
+      "answer": "Honey"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000128_359",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation is the world's largest producer of tobacco?",
+      "answer": "China"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Steven Spielberg sequel had the ominous teaser: \"Something Has Survived\"?",
+      "answer": "Jurassic Park: The Lost World"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Frenchman once approved plans for a stagecoach tunnel to be built between England and the European continent?",
+      "answer": "Napoleon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What P-word is used to describe a group of ostriches?",
+      "answer": "Pride"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who won a record fourth straight Cy Young Award in 1995?",
+      "answer": "Greg Maddux"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What writer's romance novel did a court attendant mistakenly use to swear in a witness during a murder trial in Syracuse?",
+      "answer": "Danielle Steele's"
+    }
+  ]
+}

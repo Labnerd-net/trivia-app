@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000132_252",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city boasts the largest population of Koreans outside Korea?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom features a recurring never-seen character referred to as 'Ugly Naked Guy'?",
+      "answer": "Friends"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who slammed back a vodka tonic to recover from her first meeting with Britain's Prince William?",
+      "answer": "Camilla Parker Bowles"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bird is capable of diving underwater to a depth of 900 feet?",
+      "answer": "The emperor penguin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What one-eyed line judge whistles when serves are out, at the U.S. Open tennis tourney?",
+      "answer": "Cyclops"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What job was a New London, Connecticut man denied because the City Manager felt his 120 IQ was too high?",
+      "answer": "Policeman"
+    }
+  ]
+}

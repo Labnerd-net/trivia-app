@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000131_386",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many in every 50 Americans believed senators had 'very high ethical standards,' in 1998?",
+      "answer": "One"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was asked to audition for Cheers after playing a hairdresser on a Taxi episode?",
+      "answer": "Ted Danson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What F-word did Americans hear for the first time, on July 4, 1777?",
+      "answer": "Fireworks"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What are FAQs to newsgroup or Web site surfers?",
+      "answer": "Frequently asked questions"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What long jumper was a member of the 1980, 1984, 1988, 1992 and 1996 U.S. Olympic teams?",
+      "answer": "Carl Lewis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What sitcom character was diagnosed with breast cancer in 1997?",
+      "answer": "Murphy Brown"
+    }
+  ]
+}

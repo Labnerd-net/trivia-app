@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000126_483",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. national holiday is also known as Decoration Day?",
+      "answer": "Memorial Day"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What early evening TV fixture was born with the unfortunate name Mary Hohanna Harum?",
+      "answer": "Mary Hart"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "How many of John Wilkes Booth's alleged co-conspirators were hanged on July 7, 1865?",
+      "answer": "Four"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What flower was named after the Jesuit missionary George Josef Kamel?",
+      "answer": "The camellia"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What boxing ref ends prefight briefings with: \"Let's get it on\"?",
+      "answer": "Mills Lane"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Alec Baldwin nickname Disney honcho Jeffrey Katzenberg, after dubbing him \"the eighth dwarf\"?",
+      "answer": "Greedy"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000132_454",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country would you be in if you visited the ancient ruins at Machu Picchu?",
+      "answer": "Peru"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV detective, killed off in the 1986–87 season, rose from the dead when the series was renewed for another year?",
+      "answer": "Thomas Magnum"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What church has been the site of all but two English coronations?",
+      "answer": "Westminster Abbey"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Fred Flintstone line did Apollo 7 commander Wally Schirra quote when he saw Earth from space?",
+      "answer": "\"Yabba-dabba-doo!\""
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Dallas quarterback fumbled a record five times in four Super Bowl games?",
+      "answer": "Roger Staubach"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Which is mentioned most often in the Bible—corn, figs or olives?",
+      "answer": "Corn"
+    }
+  ]
+}

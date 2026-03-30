@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000126_484",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What site attracts the most tourists to the Golden Gate National Recreation Area?",
+      "answer": "Alcatraz"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What do C.J.'s initials stand for, on Baywatch?",
+      "answer": "Casey Jean"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What community did New York's state health minister recommend pregnant women leave immediately, on August 2, 1978?",
+      "answer": "Love Canal"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What organs are nestled in the human body with bony sockets called orbits?",
+      "answer": "The eyes"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the last graduate of the Negro Leagues to retire from major league baseball?",
+      "answer": "Hank Aaron"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What beefy German has been called the only world leader who can out-eat Bill Clinton?",
+      "answer": "Helmut Kohl"
+    }
+  ]
+}

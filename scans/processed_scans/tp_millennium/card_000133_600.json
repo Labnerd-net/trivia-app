@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000133_600",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country boasts 40 percent of the world's breweries?",
+      "answer": "Germany"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1990s sitcom replaced one set of in-laws with Carol Burnett and Carroll O'Connor?",
+      "answer": "Mad About You"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What major U.S. city closed its post office at 14th Street and Irving because rodents were eating the mail, in 1998?",
+      "answer": "Washington, D.C."
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What unmanned explorer discovered six new moons when it buzzed by Neptune?",
+      "answer": "Voyager 2"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Canadian figure skater was on a Sports Illustrated cover headlined 'All Shook Up'?",
+      "answer": "Elvis Stojko"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What outfit distributes over 16 million Bibles per year?",
+      "answer": "The Gideons"
+    }
+  ]
+}

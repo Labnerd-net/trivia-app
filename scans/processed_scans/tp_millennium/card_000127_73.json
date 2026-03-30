@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000127_73",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What turnpike was billed as the 'Eighth Wonder of the World' when it opened in 1940?",
+      "answer": "The Pennsylvania Turnpike"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was the first movie to pass $1 billion in worldwide ticket sales?",
+      "answer": "Titanic"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who alerted the FBI that Ted Kaczynski might be the Unabomber?",
+      "answer": "David Kaczynski"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the study of materials at very low temperatures?",
+      "answer": "Cryogenics"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who said he'd love to rejoin the Golden State Warriors if coach P.J. Carlisimo were fired?",
+      "answer": "Latrell Sprewell"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who was the tallest U.S. president short of Abe Lincoln?",
+      "answer": "Lyndon B. Johnson"
+    }
+  ]
+}

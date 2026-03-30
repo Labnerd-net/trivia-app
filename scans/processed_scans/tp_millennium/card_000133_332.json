@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000133_332",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What California city's proletariat beheaded or disabled two-thirds of the town's 3,600 parking meters in 1998?",
+      "answer": "Berkeley's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1972 best-selling book was subtitled A Gourmet Guide to Lovemaking?",
+      "answer": "The Joy of Sex"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who failed to heed the advice of his scouts Mitch Bouyer and Bloody Knife?",
+      "answer": "George Armstrong Custer"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of cancer was tamoxifen the first drug to effectively combat, according to researchers in 1998?",
+      "answer": "Breast cancer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What apparatus do male gymnasts refer to as 'the pig'?",
+      "answer": "The pommel horse"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What outfit once had a Xerox repairman install a movie camera inside a copier at the Soviet Embassy in Washington?",
+      "answer": "The CIA"
+    }
+  ]
+}
