@@ -21,7 +21,7 @@ _None identified._
 ## Bugs
 
 ### High
-- **#3 [src/pages/Quiz.tsx:61–64]**: Pagination errors in `nextQuestions` are silently swallowed. If "Next Questions" fails (network error, API rate limit, OpenTDB response code 1/4/5), `isFetching` resets to `false` and the old questions remain with no user feedback. **Fix**: Add a `paginationError` state and render a dismissible error message.
+_None identified._
 
 ### Medium
 _None identified._
@@ -82,8 +82,8 @@ _None identified._
 | Category | High | Medium | Low | Total |
 |----------|------|--------|-----|-------|
 | Security | 0 | 0 | 0 | 0 |
-| Bugs | 1 | 0 | 0 | 1 |
+| Bugs | 0 | 0 | 0 | 0 |
 | Performance | 1 | 1 | 0 | 2 |
 | Improvements & Refactors | 1 | 4 | 3 | 8 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **4** | **7** | **5** | **16** |
+| **Total** | **3** | **7** | **5** | **15** |
