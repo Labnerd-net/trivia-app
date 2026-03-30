@@ -34,10 +34,10 @@ _None identified._
 ## Performance
 
 ### High
-- **#6 [src/api/providers.ts:173, 265]**: Race condition in `makeLocalProvider` and `makeSnapshotProvider` cache. Both use a simple `if (!cache)` guard — if two calls arrive before the first fetch resolves (e.g., React Strict Mode double-invoke or a mid-flight retry), both enter the branch and fire duplicate requests for multi-MB JSON files. **Fix**: Use an in-flight promise pattern: store the pending promise and `await` it on subsequent calls instead of re-fetching.
+_None identified._
 
 ### Medium
-- **#7 [src/pages/Menu.tsx:74–80]**: Provider group list is recomputed via `Array.from(new Set(...))` on every render. `providerList` is a module-level constant that never changes. **Fix**: Hoist the group computation to module scope in `providers.ts` or `Menu.tsx` so it runs once at import time.
+_None identified._
 
 ### Low
 _None identified._
@@ -81,7 +81,7 @@ _None identified._
 |----------|------|--------|-----|-------|
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
-| Performance | 1 | 1 | 0 | 2 |
+| Performance | 0 | 0 | 0 | 0 |
 | Improvements & Refactors | 1 | 4 | 1 | 6 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **3** | **7** | **3** | **13** |
+| **Total** | **2** | **6** | **3** | **11** |
