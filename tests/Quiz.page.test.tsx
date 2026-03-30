@@ -126,6 +126,67 @@ describe('Quiz page', () => {
     })
   })
 
+  describe('nextQuestions error handling', () => {
+    it('shows error message when next fetch fails', async () => {
+      mockGetQuestions
+        .mockResolvedValueOnce(MOCK_QUESTIONS)
+        .mockRejectedValueOnce(new Error('network error'))
+
+      renderQuiz()
+      await screen.findByText('Test question 1')
+
+      fireEvent.click(screen.getByRole('button', { name: 'Next Questions' }))
+
+      await screen.findByText('Failed to load next questions')
+    })
+
+    it('does not show error when next fetch succeeds', async () => {
+      mockGetQuestions.mockResolvedValue(MOCK_QUESTIONS)
+
+      renderQuiz()
+      await screen.findByText('Test question 1')
+
+      fireEvent.click(screen.getByRole('button', { name: 'Next Questions' }))
+
+      await waitFor(() => {
+        expect(screen.queryByText('Failed to load next questions')).toBeNull()
+      })
+    })
+
+    it('dismiss button clears the error message', async () => {
+      mockGetQuestions
+        .mockResolvedValueOnce(MOCK_QUESTIONS)
+        .mockRejectedValueOnce(new Error('network error'))
+
+      renderQuiz()
+      await screen.findByText('Test question 1')
+
+      fireEvent.click(screen.getByRole('button', { name: 'Next Questions' }))
+      await screen.findByText('Failed to load next questions')
+
+      fireEvent.click(screen.getByRole('button', { name: 'Dismiss' }))
+
+      await waitFor(() => {
+        expect(screen.queryByText('Failed to load next questions')).toBeNull()
+      })
+    })
+
+    it('does not show error when next fetch is cancelled', async () => {
+      mockGetQuestions
+        .mockResolvedValueOnce(MOCK_QUESTIONS)
+        .mockRejectedValueOnce(Object.assign(new Error('cancelled'), { __CANCEL__: true }))
+
+      renderQuiz()
+      await screen.findByText('Test question 1')
+
+      fireEvent.click(screen.getByRole('button', { name: 'Next Questions' }))
+
+      await waitFor(() => {
+        expect(screen.queryByText('Failed to load next questions')).toBeNull()
+      })
+    })
+  })
+
   it('"Next Questions" button is disabled while fetching', async () => {
     let resolveSecond!: (val: typeof MOCK_QUESTIONS) => void
     const secondPromise = new Promise<typeof MOCK_QUESTIONS>(resolve => {
