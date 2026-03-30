@@ -6,6 +6,7 @@ export function decodeHtml(html: string): string {
 }
 
 export function shuffleAnswers(question: NormalizedQuestion): string[] {
+  if (question.type === 'open') return [];
   if (question.type !== 'multiple') {
     return ['True', 'False'];
   }
