@@ -151,7 +151,7 @@ const triviaAPIProvider = {
 // LOCAL CARD PROVIDERS (bundled JSON data)
 // ============================================================================
 type CardQuestion = { category: string; question: string; answer: string };
-type CategoryDef = { id: string; name: string; dataValue?: string };
+type CategoryDef = { id: string; name: string };
 
 function shuffleArray<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -169,10 +169,11 @@ function makeLocalProvider(
   group: string,
   dataFile: string,
   categories: CategoryDef[],
+  getCategoryFilterValue: (c: CategoryDef) => string = (c) => c.name,
 ) {
   let dataPromise: Promise<CardQuestion[]> | null = null;
-  const categoryNameById = Object.fromEntries(categories.map(c => [c.id, c.dataValue ?? c.name]));
-  const categoryLabelByValue = Object.fromEntries(categories.map(c => [c.dataValue ?? c.name, c.name]));
+  const categoryNameById = Object.fromEntries(categories.map(c => [c.id, getCategoryFilterValue(c)]));
+  const categoryLabelByValue = Object.fromEntries(categories.map(c => [getCategoryFilterValue(c), c.name]));
 
   return {
     id,
@@ -245,13 +246,14 @@ const tpMillenniumProvider = makeLocalProvider(
   'Card Games',
   '/data/tp_millennium.json',
   [
-    { id: 'PP', name: 'People & Places', dataValue: 'PP' },
-    { id: 'AE', name: 'Arts & Entertainment', dataValue: 'AE' },
-    { id: 'HIS', name: 'History', dataValue: 'HIS' },
-    { id: 'SN', name: 'Science & Nature', dataValue: 'SN' },
-    { id: 'SL', name: 'Sports & Leisure', dataValue: 'SL' },
-    { id: 'WC', name: 'Wild Card', dataValue: 'WC' },
+    { id: 'PP', name: 'People & Places' },
+    { id: 'AE', name: 'Arts & Entertainment' },
+    { id: 'HIS', name: 'History' },
+    { id: 'SN', name: 'Science & Nature' },
+    { id: 'SL', name: 'Sports & Leisure' },
+    { id: 'WC', name: 'Wild Card' },
   ],
+  (c) => c.id,
 );
 
 // ============================================================================

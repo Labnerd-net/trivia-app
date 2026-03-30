@@ -16,7 +16,8 @@ vi.mock('react-router', async (importOriginal) => {
 
 vi.mock('../src/api/providers', () => ({
   getProvider: vi.fn(),
-  providerList: [{ id: 'opentdb', name: 'Open Trivia Database', icon: '📚' }],
+  providerList: [{ id: 'opentdb', name: 'Open Trivia Database', group: 'Online' }],
+  providerGroups: ['Online'],
 }))
 
 const mockProvider = {
@@ -105,6 +106,9 @@ describe('Menu page', () => {
     mockGetCategories.mockResolvedValue(MOCK_CATEGORIES)
     renderMenu()
     await screen.findByText('General Knowledge')
+    // Wait for the useEffect to set the default category value
+    const categorySelect = screen.getByRole('combobox', { name: 'Category' }) as HTMLSelectElement
+    await waitFor(() => expect(categorySelect.value).toBe('9'))
 
     fireEvent.click(screen.getByRole('button', { name: 'Start Quiz' }))
 
