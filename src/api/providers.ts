@@ -170,7 +170,7 @@ function makeLocalProvider(
   dataFile: string,
   categories: CategoryDef[],
 ) {
-  let cache: CardQuestion[] | null = null;
+  let dataPromise: Promise<CardQuestion[]> | null = null;
   const categoryNameById = Object.fromEntries(categories.map(c => [c.id, c.dataValue ?? c.name]));
   const categoryLabelByValue = Object.fromEntries(categories.map(c => [c.dataValue ?? c.name, c.name]));
 
@@ -184,12 +184,15 @@ function makeLocalProvider(
     async getCategories() { return [{ id: 'all', name: 'Any Category' }, ...categories]; },
 
     async getQuestions({ amount = 10, categoryId, signal }: GetQuestionsOptions) {
-      if (!cache) {
-        const response = await axiosInstance.get<{ questions: CardQuestion[] }>(dataFile, { signal });
-        cache = response.data.questions;
+      if (!dataPromise) {
+        dataPromise = axiosInstance
+          .get<{ questions: CardQuestion[] }>(dataFile, { signal })
+          .then(r => r.data.questions)
+          .catch(err => { dataPromise = null; throw err; });
       }
+      const allQuestions = await dataPromise;
       const categoryName = categoryId ? categoryNameById[categoryId] : null;
-      const pool = categoryName ? cache.filter(q => q.category === categoryName) : cache;
+      const pool = categoryName ? allQuestions.filter(q => q.category === categoryName) : allQuestions;
       return {
         results: shuffleArray(pool).slice(0, amount).map(q => ({
           question: q.question,
@@ -262,13 +265,16 @@ function makeSnapshotProvider(
   description: string,
   dataFile: string,
 ) {
-  let cache: NormalizedQuestion[] | null = null;
+  let dataPromise: Promise<NormalizedQuestion[]> | null = null;
 
-  async function load(signal?: AbortSignal) {
-    if (cache) return cache;
-    const response = await axiosInstance.get<SnapshotFile>(dataFile, { signal });
-    cache = response.data.questions;
-    return cache;
+  function load(signal?: AbortSignal) {
+    if (!dataPromise) {
+      dataPromise = axiosInstance
+        .get<SnapshotFile>(dataFile, { signal })
+        .then(r => r.data.questions)
+        .catch(err => { dataPromise = null; throw err; });
+    }
+    return dataPromise;
   }
 
   return {
@@ -339,6 +345,7 @@ export const providers: Record<string, Provider> = {
 };
 
 export const providerList = Object.values(providers);
+export const providerGroups = [...new Set(providerList.map(p => p.group))];
 
 export function getProvider(id: string): Provider {
   if (!providers[id]) {

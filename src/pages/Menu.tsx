@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from 'react-router'
-import { providerList } from '../api/providers';
+import { providerList, providerGroups } from '../api/providers';
 import { useFetch } from '../hooks/useFetch';
 import { useProvider } from '../context/ProviderContext';
 import { ERROR_FETCH_CATEGORIES } from '../constants/errorMessages';
@@ -72,7 +72,7 @@ export default function Menu() {
             value={provider.id}
             onChange={(e) => setSelectedProvider(e.target.value)}
           >
-            {Array.from(new Set(providerList.map((p) => p.group))).map((group) => (
+            {providerGroups.map((group) => (
               <optgroup key={group} label={group}>
                 {providerList.filter((p) => p.group === group).map((p) => (
                   <option key={p.id} value={p.id}>{p.name}</option>
