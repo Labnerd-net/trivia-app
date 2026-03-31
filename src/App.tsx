@@ -7,16 +7,16 @@ import { ProviderProvider } from './context/ProviderContext';
 
 export default function App() {
   return (
-    <ProviderProvider>
-      <div className="tq-root">
-        <Navbar />
+    <div className="tq-root">
+      <Navbar />
+      <ProviderProvider>
         <ErrorBoundary>
           <Routes>
             <Route path="/" element={<Menu />} />
             <Route path="/quiz/:categoryID/:difficulty/:type/" element={<Quiz />} />
           </Routes>
         </ErrorBoundary>
-      </div>
-    </ProviderProvider>
+      </ProviderProvider>
+    </div>
   )
 }

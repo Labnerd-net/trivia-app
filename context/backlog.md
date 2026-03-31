@@ -50,7 +50,6 @@ _None identified._
 _None identified._
 
 ### Medium
-- **#11 [src/context/ProviderContext.tsx:80]**: `ProviderProvider` renders a full-page loading/error div that replaces `children`, including `Navbar`. The theme toggle becomes inaccessible during token fetch. **Fix**: Move `ProviderProvider` below `Navbar` in `App.tsx`, or pass loading/error state through context and handle display inside `Menu`.
 - **#12 [src/context/ProviderContext.tsx]**: Token lifecycle is tightly coupled to provider selection. Token refetch triggers even when switching to a provider that doesn't need one. `retryCount` is an ad-hoc retry mechanism. **Fix**: Extract token management to a `useProviderToken(provider)` hook; decouple from provider selection.
 - **#16 [src/components/Question.tsx]**: Missing accessibility attributes — reveal button lacks `aria-expanded`, answer options lack `role="radio"` or keyboard navigation. **Fix**: Add `aria-expanded={showAnswers}` to the reveal button; add keyboard handlers to answer options.
 
@@ -81,6 +80,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 0 | 4 | 0 | 4 |
+| Improvements & Refactors | 0 | 3 | 0 | 3 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **1** | **6** | **2** | **9** |
+| **Total** | **1** | **5** | **2** | **8** |
