@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000149_181",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What southern city is famous for its \"Beale Street Blues\"?",
+      "answer": "Memphis"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What horror writer described his body of work as \"the literary equivalent of a Big Mac and fries\"?",
+      "answer": "Stephen King"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was known as \"Mother India\"?",
+      "answer": "Indira Gandhi"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did reporters don to view computer images of Mars at the Jet Propulsion Lab on November 4, 1997?",
+      "answer": "3-D glasses"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many men played on the first basketball teams—5, 7 or 9?",
+      "answer": "Nine"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What decade-beginning year did radio listeners first hear, \"Look! Up in the sky! It's a bird! It's a plane\"?",
+      "answer": "1940"
+    }
+  ]
+}

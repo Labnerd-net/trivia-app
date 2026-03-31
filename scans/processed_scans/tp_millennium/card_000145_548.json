@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_548",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's 1997 $48 billion defense budget lagged far behind the $267 billion of the U.S.?",
+      "answer": "Russia's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What disease caused Mary Ingalls to go blind on Little House on the Prairie?",
+      "answer": "Scarlet fever"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who called his original automobile the quadricycle?",
+      "answer": "Henry Ford"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the better-known name of the new form of Creutzfeldt-Jakob disease that scared the stew out of Europeans in 1996?",
+      "answer": "Mad cow disease"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many out of every six U.S. residents knew the 1998 World Cup involved soccer?",
+      "answer": "Three"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What time are watches usually set at for ads to suggest a happy, upbeat mood?",
+      "answer": "10:10"
+    }
+  ]
+}

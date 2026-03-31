@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_81",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What African country has the highest concentrations of animals and tourists?",
+      "answer": "Kenya"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What polyestered thespian became the first man to have a McCall's cover all to himself, in 1978?",
+      "answer": "John Travolta"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What do an average of 20 people do each year while staring at a Goodyear blimp?",
+      "answer": "Shoot at it"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Where would you feel a slight twinge if an acupuncturist stuck a needle in your antihelix or intertragic notch?",
+      "answer": "The ear"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What country bombed Americans with Absolut vodka?",
+      "answer": "Sweden"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What newspaper, after much debate, ran its first color photo on the front page on October 16, 1997?",
+      "answer": "The New York Times"
+    }
+  ]
+}

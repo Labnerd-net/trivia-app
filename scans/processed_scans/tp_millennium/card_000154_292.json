@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000154_292",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What New Mexico town has a radio station appropriately named KBOM?",
+      "answer": "Los Alamos"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What attorney said Jeremy Irons made a better Claus von Bulow than von Bulow himself?",
+      "answer": "Alan Dershowitz"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Latin leader did U.S. forces loudly serenade with I Fought the Law and Nowhere to Hide to encourage his surrender?",
+      "answer": "Manuel Noriega"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who became the first golfer from Fiji to win a major tournament, in 1998?",
+      "answer": "Vijay Singh"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What basketball team had drubbed the New Jersey Reds 2,495 straight times before losing to them 100-99 in 1971?",
+      "answer": "The Harlem Globetrotters"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Where do 'open-collar workers' work?",
+      "answer": "At home"
+    }
+  ]
+}

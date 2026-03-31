@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_276",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What did Puritans dub 'Rogues Island'?",
+      "answer": "Rhode Island"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did censors recommend Burt Lancaster and Deborah Kerr wear while smooching in the surf in From Here to Eternity?",
+      "answer": "Bathrobes"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What British nanny's 1998 release had Time quip: 'Now she's free to golf with O.J.'?",
+      "answer": "Louise Woodward's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did astronomers identify in 1963 as being 100 times brighter than 100 billion stars?",
+      "answer": "A quasar"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What college football team has won the most Orange Bowls?",
+      "answer": "Oklahoma"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who said he nixed a Beatles reunion because the band was 'not going out as the Threetles'?",
+      "answer": "Ringo Starr"
+    }
+  ]
+}

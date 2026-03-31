@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_588",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What fast food college is found in Braintree, Massachusetts?",
+      "answer": "Dunkin' Donuts University"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom won the most Emmy Awards in the 1970s for Outstanding Comedy Series?",
+      "answer": "All in the Family"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What European country adopted Dieu et mon droit, or \"God and my own right,\" as the motto of its royal arms in 1198?",
+      "answer": "Britain"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the only fish that produces real caviar, according to the FDA?",
+      "answer": "Sturgeon"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What type of score was worth the most points in college football's first scoring system?",
+      "answer": "A field goal"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who did Richard Nixon say he picked to play shortstop on his all-presidents team because \"he was short\"?",
+      "answer": "James Madison"
+    }
+  ]
+}

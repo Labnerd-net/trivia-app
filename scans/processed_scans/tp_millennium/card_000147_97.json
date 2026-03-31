@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_97",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What group did the Census Bureau try to count by sending out 22,000 canvassers between 6 p.m. and 4 a.m. on March 20–21, 1990?",
+      "answer": "The homeless"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What genre of fiction is honored by the Nebula awards?",
+      "answer": "Science fiction"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who advised Bob Woodward to \"follow the money\" trail during the Watergate scandal?",
+      "answer": "Deep Throat"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What book did Christians often place on their foreheads to cure insomnia in medieval times?",
+      "answer": "The Bible"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many Brits won Wimbledon men's singles titles between 1937 and 1998?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Rat Packer noted in 1966: \"I've got Scotch older than Mia Farrow\"?",
+      "answer": "Dean Martin"
+    }
+  ]
+}

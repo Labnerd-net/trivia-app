@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_481",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European city decided new names were in order for Foul Lane, Stinking Lane and Bladder Street?",
+      "answer": "London"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV series popularized the line, \"Damn fine coffee, and hot\"?",
+      "answer": "Twin Peaks"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Filipino thwarted seven right wing coup attempts between 1986 and 1992?",
+      "answer": "Corazon Aquino"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What holistic doc penned the bestselling Spontaneous Healing and 8 Weeks to Optimum Health?",
+      "answer": "Dr. Andrew Weil"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What playing cards comprise a full house dubbed a \"love boat\"?",
+      "answer": "Sixes and nines"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What annual award has been won by the books Reusing Old Graves, The Joy of Chickens and The Theory of Lengthwise Rolling?",
+      "answer": "The Odd Title of the Year Award"
+    }
+  ]
+}

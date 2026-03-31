@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_418",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state gets raked by the most tornadoes annually?",
+      "answer": "Texas"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1990 movie had dialogue subtitled in Sioux?",
+      "answer": "Dances with Wolves"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who backed off a plan to have her hubby's nine-year-old corpse buried at Heroes' Cemetery in Manila, in 1998?",
+      "answer": "Imelda Marcos"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What decade saw the first usage of the term \"artificial intelligence\"?",
+      "answer": "The 1950s"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What abode hosted the launch of the Barbie Loves Elvis edition of the doll, in 1997?",
+      "answer": "Graceland"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did skydiving instructor Ivan McQuire forget during his last jump while videotaping students?",
+      "answer": "His parachute"
+    }
+  ]
+}

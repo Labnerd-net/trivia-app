@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_456",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What North American mountain range is an apt anagram for \"o, man-ski country\"?",
+      "answer": "Rocky Mountains"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What presidential child went to prep school with David Duchovny?",
+      "answer": "John F. Kennedy Jr."
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What two-word term was used to describe the Serbs' massacre of Bosnian Muslims and the expulsion of non-Serbs?",
+      "answer": "Ethnic cleansing"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What arachnid attacks its prey with the stinger at the end of its tail?",
+      "answer": "The scorpion"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What type of racing features a starting gate that moves with the horses?",
+      "answer": "Harness racing"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Canadian has the first notes of Bach's Goldberg Variations on his piano-shaped grave marker?",
+      "answer": "Glenn Gould"
+    }
+  ]
+}

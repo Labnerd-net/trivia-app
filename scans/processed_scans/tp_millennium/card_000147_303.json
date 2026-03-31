@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_303",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What new nickname did Niagara Falls get after Canadian men began crossing the border in droves to have prescriptions filled in 1998?",
+      "answer": "\"Viagra Falls\""
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was Dr. Zhivago's first name?",
+      "answer": "Yuri"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What symbol appeared in green on white flags flown by U.S. relief ships during the Irish potato famine?",
+      "answer": "A shamrock"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What sense did Galileo lose in 1637?",
+      "answer": "Sight"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 1998 World Cup soccer team's players were miffed when high sugar levels forced baked beans off their diet?",
+      "answer": "Britain's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What tiremaker's tireless mascot, Bib, celebrated his 100th anniversary in 1998?",
+      "answer": "Michelin's"
+    }
+  ]
+}

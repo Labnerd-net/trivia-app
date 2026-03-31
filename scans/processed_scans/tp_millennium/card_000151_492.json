@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000151_492",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What D.C. building did George Washington lay the cornerstone for?",
+      "answer": "The U.S. Capitol"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was the only word ever uttered by Darryl and Darryl, when they screamed at their wives on the final Newhart episode?",
+      "answer": "\"Quiet\""
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What brand of pork and beans helped nourish Union forces during the U.S. Civil War?",
+      "answer": "Van Camp's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What new car feature wowed crowds at the 1939 Chicago Automobile Show?",
+      "answer": "Air-conditioning"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who asked that Polo, the journal of the U.S. Polo Association, change its name in 1998?",
+      "answer": "Ralph Lauren"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Betty Friedan book summed up suburbia as \"a bedroom and kitchen sexual ghetto\"?",
+      "answer": "The Feminine Mystique"
+    }
+  ]
+}

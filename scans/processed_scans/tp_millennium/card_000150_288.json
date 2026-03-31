@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_288",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent has the most countries represented in the U.N.?",
+      "answer": "Africa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Patsy Cline song put LeAnn Rimes in the limelight?",
+      "answer": "Blue"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What disease's sufferers were required to carry rattles to warn people of their approach in 15th-century England?",
+      "answer": "Leprosy's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What car model was developed in 1938 by Dr. Ferdinand Porsche?",
+      "answer": "The Volkswagen Beetle"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Olympic city proposed three mascots: a duck-billed platypus, a kookaburra and a spiny echidna?",
+      "answer": "Sydney"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What suede shoes of the 1960s made a comeback among Gen-Xers in the 1990s?",
+      "answer": "Hush Puppies"
+    }
+  ]
+}

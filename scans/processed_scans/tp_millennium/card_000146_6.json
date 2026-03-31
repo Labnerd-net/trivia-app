@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000146_6",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What office complex severely interfered with TV reception in lower Manhattan when it opened in 1970?",
+      "answer": "The World Trade Center"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What PBS quiz show do 8 of 10 teachers believe to be useful in teaching geography?",
+      "answer": "Where in the World is Carmen Sandiego?"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country suffered earthquakes that killed 830,000 in 1556 and 750,000 in 1976?",
+      "answer": "China"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What salt-tolerant trees once grew on 60 percent of the world's tropical coastlines?",
+      "answer": "Mangroves"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose cameo appearance with the AHL's Syracuse Crunch made him the only puckster to skate actively in six decades?",
+      "answer": "Gordie Howe"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What company boasted the motto, 'listened to, but not heard'?",
+      "answer": "Muzak"
+    }
+  ]
+}

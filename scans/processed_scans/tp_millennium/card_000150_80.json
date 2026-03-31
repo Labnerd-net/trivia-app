@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_80",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Renaissance man designed the dome for St. Peter's Basilica in Rome?",
+      "answer": "Michelangelo"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who, according to Carl Perkins, had an advantage because he didn't look 'like Mr. Ed, like a lot of the rest of us'?",
+      "answer": "Elvis Presley"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What company did the Justice Department levy a fine of $1 million per day against, in 1997?",
+      "answer": "Microsoft"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What method of sterilization is used on food for all U.S. space flights?",
+      "answer": "Irradiation"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What country's national soccer squad is most often called 'The World's Team'?",
+      "answer": "Brazil's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Welsh poet's last words were: 'I've had 18 straight whiskeys. I think that's the record'?",
+      "answer": "Dylan Thomas'"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_413",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation was Jerry Seinfeld in when he quipped: 'I love your flag: Britain at night'?",
+      "answer": "Australia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom star was noted for preferring the term 'domestic goddess' to housewife?",
+      "answer": "Roseanne"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who imprisoned Monica Lewinsky's libido, according to William Ginsburg?",
+      "answer": "Kenneth Starr"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did George Washington Carver use as an ingredient for milk, bleach, shaving cream, metal polish and synthetic rubber?",
+      "answer": "Peanuts"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was the fitting name of the only horse to ever defeat Man O' War?",
+      "answer": "Upset"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What insect family's queens do Singaporeans eat alive to cure headaches and muscle pains?",
+      "answer": "Termites"
+    }
+  ]
+}

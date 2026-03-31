@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_394",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What West Coast U.S. state would you be in if you were honeymooning in Humptulips?",
+      "answer": "Washington"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1972 Bertolucci movie pictured on the cover of Time earned the magazine its highest volume of mail?",
+      "answer": "Last Tango in Paris"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What world leader finally stepped down after 32 years in power, in 1998?",
+      "answer": "President Suharto"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What country's breeding lab did 26 African killer queen bees escape from, in 1956?",
+      "answer": "Brazil's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the first NHL goalie to win two straight MVP awards?",
+      "answer": "Dominik Hasek"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What shoe brand were all 39 members of the Heaven's Gate cult wearing when they committed suicide in 1997?",
+      "answer": "Nike"
+    }
+  ]
+}

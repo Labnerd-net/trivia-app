@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_544",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nickname for Tuareg nomads from Mali was inspired by their indigo garments?",
+      "answer": "Blue Men"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What were the Little Rascals called before their comedies aired on television?",
+      "answer": "Our Gang"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 1990s presidential candidate, asked what quality he most wanted voters to know about him, replied: 'Beats me'?",
+      "answer": "Bob Dole"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many grams of precisely-distributed anthrax could kill ten million people?",
+      "answer": "One"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who became the second man after Muhammad Ali to win the world heavyweight title three times, in 1996?",
+      "answer": "Evander Holyfield"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What planet did Jimmy Carter mistake for a UFO?",
+      "answer": "Venus"
+    }
+  ]
+}

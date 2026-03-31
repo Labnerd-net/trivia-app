@@ -9332,6 +9332,2646 @@
     },
     {
       "category": "PP",
+      "question": "What former riverboat pilot and author called the Mississippi 'the crookedest river in the world'?",
+      "answer": "Mark Twain"
+    },
+    {
+      "category": "AE",
+      "question": "What group grabbed three Grammys in 1996, one less than they had during the entire 1960s?",
+      "answer": "The Beatles"
+    },
+    {
+      "category": "HIS",
+      "question": "What future turncoat fought alongside Ethan Allen to help capture Fort Ticonderoga?",
+      "answer": "Benedict Arnold"
+    },
+    {
+      "category": "SN",
+      "question": "What transparent material is produced by heating lime, sand and soda?",
+      "answer": "Glass"
+    },
+    {
+      "category": "SL",
+      "question": "What beverage was first slurped in Jacob's Pharmacy in Atlanta on May 8, 1886?",
+      "answer": "Coca-Cola"
+    },
+    {
+      "category": "WC",
+      "question": "What's known to Pentagon procurement people as a 'portable handheld communications inscriber'?",
+      "answer": "A pen"
+    },
+    {
+      "category": "PP",
+      "question": "What Australian tourist attraction is often called the 'world's largest living creature'?",
+      "answer": "The Great Barrier Reef"
+    },
+    {
+      "category": "AE",
+      "question": "What group has more gold, platinum and multi-platinum albums than any other?",
+      "answer": "The Rolling Stones"
+    },
+    {
+      "category": "HIS",
+      "question": "What crooner produced inauguration balls for John F. Kennedy and Ronald Reagan?",
+      "answer": "Frank Sinatra"
+    },
+    {
+      "category": "SN",
+      "question": "What make of plane was the first to time its machine gun to fire between the blades of its propeller?",
+      "answer": "Fokker"
+    },
+    {
+      "category": "SL",
+      "question": "What socially conscious media mogul helped create World Championship Wrestling?",
+      "answer": "Ted Turner"
+    },
+    {
+      "category": "WC",
+      "question": "What annually updated book has total sales of over 80 million copies, since it first hit the shelves in 1955?",
+      "answer": "The Guinness Book of World Records"
+    },
+    {
+      "category": "PP",
+      "question": "What Southeast Asian nation's 'breakfast of champions' is a bowl of pho soup?",
+      "answer": "Vietnam's"
+    },
+    {
+      "category": "AE",
+      "question": "How many consecutive 'Na's follow each 'I said' in Land of 10,000 Dances?",
+      "answer": "Nineteen"
+    },
+    {
+      "category": "HIS",
+      "question": "What 16th-century religious leader's fans sloganized: 'By grace alone; through faith alone'?",
+      "answer": "Martin Luther's"
+    },
+    {
+      "category": "SN",
+      "question": "What insect does an isopterpophobic homeowner fear?",
+      "answer": "The termite"
+    },
+    {
+      "category": "SL",
+      "question": "Who ended his 12-year career with an NHL-high .823 goals-per-game average?",
+      "answer": "Mario Lemieux"
+    },
+    {
+      "category": "WC",
+      "question": "Who was inspired to do redneck jokes when he saw a Detroit bowling alley that offered valet parking?",
+      "answer": "Jeff Foxworthy"
+    },
+    {
+      "category": "PP",
+      "question": "What country is known as Schweiz in German and Svizerra in Italian?",
+      "answer": "Switzerland"
+    },
+    {
+      "category": "AE",
+      "question": "What song has Roy Orbison asking the musical question: 'Are you walking back to me'?",
+      "answer": "Oh, Pretty Woman"
+    },
+    {
+      "category": "HIS",
+      "question": "What 20th-century decade gave the world aerosol insect sprays, Cheerios and napalm?",
+      "answer": "The 1940s"
+    },
+    {
+      "category": "SN",
+      "question": "What do you call an angle more than 90 degrees and less than 180 degrees?",
+      "answer": "Obtuse"
+    },
+    {
+      "category": "SL",
+      "question": "What cereal box informed Conor Bird that his dad Larry played basketball before he became a coach?",
+      "answer": "Wheaties"
+    },
+    {
+      "category": "WC",
+      "question": "What stewed fruit dish do lunch-counter workers refer to as 'looseners'?",
+      "answer": "Stewed prunes"
+    },
+    {
+      "category": "PP",
+      "question": "What nickname for Tuareg nomads from Mali was inspired by their indigo garments?",
+      "answer": "Blue Men"
+    },
+    {
+      "category": "AE",
+      "question": "What were the Little Rascals called before their comedies aired on television?",
+      "answer": "Our Gang"
+    },
+    {
+      "category": "HIS",
+      "question": "What 1990s presidential candidate, asked what quality he most wanted voters to know about him, replied: 'Beats me'?",
+      "answer": "Bob Dole"
+    },
+    {
+      "category": "SN",
+      "question": "How many grams of precisely-distributed anthrax could kill ten million people?",
+      "answer": "One"
+    },
+    {
+      "category": "SL",
+      "question": "Who became the second man after Muhammad Ali to win the world heavyweight title three times, in 1996?",
+      "answer": "Evander Holyfield"
+    },
+    {
+      "category": "WC",
+      "question": "What planet did Jimmy Carter mistake for a UFO?",
+      "answer": "Venus"
+    },
+    {
+      "category": "PP",
+      "question": "What famous gunslinger robbed his first bank in Telluride?",
+      "answer": "Butch Cassidy"
+    },
+    {
+      "category": "AE",
+      "question": "What are the titles of the three sequels to the movie Alien?",
+      "answer": "Aliens, Alien 3, Alien Resurrection"
+    },
+    {
+      "category": "HIS",
+      "question": "What part of the United Kingdom began suffering from what it called 'the Troubles' in 1969?",
+      "answer": "Northern Ireland"
+    },
+    {
+      "category": "SN",
+      "question": "What 1957 Soviet feat prompted the U.S. to mandate more math and science in schools?",
+      "answer": "The Sputnik launch"
+    },
+    {
+      "category": "SL",
+      "question": "What baseball owner served water and cookies to umpires in the fifth inning of home games?",
+      "answer": "Charlie Finley"
+    },
+    {
+      "category": "WC",
+      "question": "Who was the first U.S. president to take a ride in a car?",
+      "answer": "William McKinley"
+    },
+    {
+      "category": "PP",
+      "question": "What Atlantic Coast state would you be stuck in if you felt depressed in Good Times?",
+      "answer": "South Carolina"
+    },
+    {
+      "category": "AE",
+      "question": "What Gilligan's Island character was originally slated to have the first name Willie?",
+      "answer": "Gilligan"
+    },
+    {
+      "category": "HIS",
+      "question": "How many women were chief executives of Fortune 500 companies, in 1998?",
+      "answer": "Two"
+    },
+    {
+      "category": "SN",
+      "question": "What two astronomical objects pull equally at the Solar and Heliospheric Observatory?",
+      "answer": "Earth and the Sun"
+    },
+    {
+      "category": "SL",
+      "question": "What record-setting quarterback was the NFL's 82nd draft pick in 1979?",
+      "answer": "Joe Montana"
+    },
+    {
+      "category": "WC",
+      "question": "What First Lady conversed with Eleanor Roosevelt during visualization 'exercises,' according to a book called The Choice?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "PP",
+      "question": "What country's 1997 $48 billion defense budget lagged far behind the $267 billion of the U.S.?",
+      "answer": "Russia's"
+    },
+    {
+      "category": "AE",
+      "question": "What disease caused Mary Ingalls to go blind on Little House on the Prairie?",
+      "answer": "Scarlet fever"
+    },
+    {
+      "category": "HIS",
+      "question": "Who called his original automobile the quadricycle?",
+      "answer": "Henry Ford"
+    },
+    {
+      "category": "SN",
+      "question": "What's the better-known name of the new form of Creutzfeldt-Jakob disease that scared the stew out of Europeans in 1996?",
+      "answer": "Mad cow disease"
+    },
+    {
+      "category": "SL",
+      "question": "How many out of every six U.S. residents knew the 1998 World Cup involved soccer?",
+      "answer": "Three"
+    },
+    {
+      "category": "WC",
+      "question": "What time are watches usually set at for ads to suggest a happy, upbeat mood?",
+      "answer": "10:10"
+    },
+    {
+      "category": "PP",
+      "question": "What U.S. state has the longest shoreline?",
+      "answer": "Alaska"
+    },
+    {
+      "category": "AE",
+      "question": "What horror writer changed her name from Howard Allen O'Brien before the first grade?",
+      "answer": "Anne Rice"
+    },
+    {
+      "category": "HIS",
+      "question": "What country put $10 billion in Iraq's war chest to fight Iran, in the 1980s?",
+      "answer": "Kuwait"
+    },
+    {
+      "category": "SN",
+      "question": "What sea creature can have an eye measuring 16 inches across, the largest in the animal kingdom?",
+      "answer": "A squid"
+    },
+    {
+      "category": "SL",
+      "question": "What scam is known to carnival workers as 'mitt camp'?",
+      "answer": "Palm reading"
+    },
+    {
+      "category": "WC",
+      "question": "Who did illustrator James Montgomery Flagg use as a model for Uncle Sam in his 'I Want You' poster?",
+      "answer": "James Montgomery Flagg"
+    },
+    {
+      "category": "PP",
+      "question": "What continent boasts the greatest number of Roman Catholics?",
+      "answer": "South America"
+    },
+    {
+      "category": "AE",
+      "question": "What talk show host labeled defenders of photographer Robert Mapplethorpe the 'arts and croissant crowd'?",
+      "answer": "Rush Limbaugh"
+    },
+    {
+      "category": "HIS",
+      "question": "Who earned a Nobel Prize for peace for his role in resolving the Russo-Japanese War?",
+      "answer": "Theodore Roosevelt"
+    },
+    {
+      "category": "SN",
+      "question": "What did Internet civil libertarians call their $200,000 computer that cracked IBM's DES code?",
+      "answer": "Deep Crack"
+    },
+    {
+      "category": "SL",
+      "question": "What summer classic was originally billed as 'The Lawn Tennis Championships'?",
+      "answer": "Wimbledon"
+    },
+    {
+      "category": "WC",
+      "question": "What aged comedian became the first Honorary Veteran of the U.S. Armed Forces, in 1997?",
+      "answer": "Bob Hope"
+    },
+    {
+      "category": "PP",
+      "question": "What mountain state's ghost town would you be stuck in if you were spending a sleepless night in Wide Awake?",
+      "answer": "Colorado's"
+    },
+    {
+      "category": "AE",
+      "question": "What patient actress shared a pad with Robert Downey Jr. for seven years?",
+      "answer": "Sarah Jessica Parker"
+    },
+    {
+      "category": "HIS",
+      "question": "What 73-year-old actor became head of the National Rifle Association in 1998?",
+      "answer": "Charlton Heston"
+    },
+    {
+      "category": "SN",
+      "question": "What added ingredient keeps confectioners' sugar from clumping?",
+      "answer": "Corn starch"
+    },
+    {
+      "category": "SL",
+      "question": "Which U.S. state has produced the most National Hockey League players?",
+      "answer": "Massachusetts"
+    },
+    {
+      "category": "WC",
+      "question": "How many Knights of the Round Table lived to tell the tales of their search for the Holy Grail?",
+      "answer": "Four"
+    },
+    {
+      "category": "PP",
+      "question": "Which Appalachian state jump-started the International Towing and Recovery Hall of Fame and Museum?",
+      "answer": "Tennessee"
+    },
+    {
+      "category": "AE",
+      "question": "Who was the first female country singer to wax a million-selling album?",
+      "answer": "Tammy Wynette"
+    },
+    {
+      "category": "HIS",
+      "question": "Whose capture along the Mexican border ended the last major Indian war in the U.S.?",
+      "answer": "Geronimo's"
+    },
+    {
+      "category": "SN",
+      "question": "What was first produced in Hamburg in 1203, to deal with a surplus of cheap barley malt?",
+      "answer": "Beer"
+    },
+    {
+      "category": "SL",
+      "question": "What was the first pro sports team to bring a national championship to New Jersey?",
+      "answer": "The New Jersey Devils"
+    },
+    {
+      "category": "WC",
+      "question": "Who admitted that after the fall of the PTL, her puppy Tuppins licked the tears running down her face?",
+      "answer": "Tammy Faye Bakker"
+    },
+    {
+      "category": "PP",
+      "question": "What does 'NIMBY' mean to those opposed to landfills, prisons and incinerators proposed for their neighborhoods?",
+      "answer": "Not in my back yard"
+    },
+    {
+      "category": "AE",
+      "question": "What movie caused Newsweek to note, 'All is forgiven for The Cable Guy'?",
+      "answer": "The Truman Show"
+    },
+    {
+      "category": "HIS",
+      "question": "What year did Christopher Columbus claim Cuba for Spain?",
+      "answer": "1492"
+    },
+    {
+      "category": "SN",
+      "question": "What nuclear power plant's mishap spewed one-millionth the amount of radiation as the Chernobyl disaster?",
+      "answer": "Three Mile Island's"
+    },
+    {
+      "category": "SL",
+      "question": "What part of an eatery do some restaurant owners call 'the cancer ward'?",
+      "answer": "The smoking section"
+    },
+    {
+      "category": "WC",
+      "question": "What slim volume began a record 161-week stint atop the hardcover fiction best-seller list in 1993?",
+      "answer": "The Bridges of Madison County"
+    },
+    {
+      "category": "PP",
+      "question": "What office complex severely interfered with TV reception in lower Manhattan when it opened in 1970?",
+      "answer": "The World Trade Center"
+    },
+    {
+      "category": "AE",
+      "question": "What PBS quiz show do 8 of 10 teachers believe to be useful in teaching geography?",
+      "answer": "Where in the World is Carmen Sandiego?"
+    },
+    {
+      "category": "HIS",
+      "question": "What country suffered earthquakes that killed 830,000 in 1556 and 750,000 in 1976?",
+      "answer": "China"
+    },
+    {
+      "category": "SN",
+      "question": "What salt-tolerant trees once grew on 60 percent of the world's tropical coastlines?",
+      "answer": "Mangroves"
+    },
+    {
+      "category": "SL",
+      "question": "Whose cameo appearance with the AHL's Syracuse Crunch made him the only puckster to skate actively in six decades?",
+      "answer": "Gordie Howe"
+    },
+    {
+      "category": "WC",
+      "question": "What company boasted the motto, 'listened to, but not heard'?",
+      "answer": "Muzak"
+    },
+    {
+      "category": "PP",
+      "question": "What's the world's largest desert, as determined by the least amount of precipitation?",
+      "answer": "The Antarctic"
+    },
+    {
+      "category": "AE",
+      "question": "What Sylvester Stallone movie was hyped: 'His whole life was a million-to-one shot'?",
+      "answer": "Rocky"
+    },
+    {
+      "category": "HIS",
+      "question": "Who did Christina Onassis grudgingly give $25 million to, in 1977?",
+      "answer": "Jacqueline Onassis"
+    },
+    {
+      "category": "SN",
+      "question": "What do itchy people call the 'rhus radicans' they were sorry they came into contact with?",
+      "answer": "Poison ivy"
+    },
+    {
+      "category": "SL",
+      "question": "What golfer throttled a fan for calling him 'Scott Choke' at the 1998 Hartford Open?",
+      "answer": "Scott Hoch"
+    },
+    {
+      "category": "WC",
+      "question": "What nation has 450 middle-aged divorcees who belong to an Old Bags Club?",
+      "answer": "Britain"
+    },
+    {
+      "category": "PP",
+      "question": "What ethnic group was the fastest-growing voting bloc in the U.S. by the end of the 20th century?",
+      "answer": "Hispanics"
+    },
+    {
+      "category": "AE",
+      "question": "What aging blonde titled her workout video It's Simple, Darling?",
+      "answer": "Zsa Zsa Gabor"
+    },
+    {
+      "category": "HIS",
+      "question": "What Clinton advisor coined the 1992 election catch phrase: 'It's the economy, stupid'?",
+      "answer": "James Carville"
+    },
+    {
+      "category": "SN",
+      "question": "How many 1990s cigarettes must you smoke to get the toxic effect of one 1950s cigarette?",
+      "answer": "Three"
+    },
+    {
+      "category": "SL",
+      "question": "What seven-foot-one NBA star of the 1960s was born to parents who stood five-foot-eight?",
+      "answer": "Wilt Chamberlain"
+    },
+    {
+      "category": "WC",
+      "question": "What singer finally gave a beer to the Bud Light 'I love you, man' guy?",
+      "answer": "Barry White"
+    },
+    {
+      "category": "PP",
+      "question": "What Nevada tourist mecca offers Hossburgers at a restaurant called Hop Sing's?",
+      "answer": "The Ponderosa Ranch"
+    },
+    {
+      "category": "AE",
+      "question": "What became the best-selling single of all time in 1997?",
+      "answer": "Candle in the Wind 1997"
+    },
+    {
+      "category": "HIS",
+      "question": "What was the first war the U.S. took part in that was partially financed with lottery dollars?",
+      "answer": "The Revolutionary War"
+    },
+    {
+      "category": "SN",
+      "question": "What marsupial averages 22 hours of sleep per day?",
+      "answer": "The koala bear"
+    },
+    {
+      "category": "SL",
+      "question": "What nation saw its sports channel TSN sloganize: \"Curling rocks\"?",
+      "answer": "Canada"
+    },
+    {
+      "category": "WC",
+      "question": "Who cared for cats named Tommy and Boche while hiding in an attic during World War II?",
+      "answer": "Anne Frank"
+    },
+    {
+      "category": "PP",
+      "question": "What were the first three former Warsaw Pact nations to join NATO?",
+      "answer": "Poland, Hungary, Czech Republic"
+    },
+    {
+      "category": "AE",
+      "question": "What animated heroine gave Popeye the Sailor his first break in show biz?",
+      "answer": "Betty Boop"
+    },
+    {
+      "category": "HIS",
+      "question": "What atomic physicist's lover was revealed in 1998 to have been Soviet spy Margarita Komenkova?",
+      "answer": "Albert Einstein's"
+    },
+    {
+      "category": "SN",
+      "question": "What's cyber-surfer shorthand for \"Yet Another Hierarchical Officious Oracle\"?",
+      "answer": "Yahoo!"
+    },
+    {
+      "category": "SL",
+      "question": "Who did Phil Jackson dub a \"poster child\" for \"attention-deficit disorders\" in 1998?",
+      "answer": "Dennis Rodman"
+    },
+    {
+      "category": "WC",
+      "question": "What nation's military attached dynamite packs to Dobermans before sending them into Palestinian guerrilla hideouts?",
+      "answer": "Israel's"
+    },
+    {
+      "category": "PP",
+      "question": "What are the six official languages of the United Nations?",
+      "answer": "Arabic, Chinese, English, French, Russian, Spanish"
+    },
+    {
+      "category": "AE",
+      "question": "Who flogged his fragrance, Release Me, on the Home Shopping Channel?",
+      "answer": "Engelbert Humperdinck"
+    },
+    {
+      "category": "HIS",
+      "question": "What former Montgomery, Alabama resident once remarked: \"My only concern was to get home after a hard day's work\"?",
+      "answer": "Rosa Parks"
+    },
+    {
+      "category": "SN",
+      "question": "What O-word describes oxygen with molecules that have three atoms instead of two?",
+      "answer": "Ozone"
+    },
+    {
+      "category": "SL",
+      "question": "What day of the year are all racehorses considered to turn one year older?",
+      "answer": "January 1"
+    },
+    {
+      "category": "WC",
+      "question": "What newspaper items did Patrick Oliphant, Herbert L. Block and Jules Feiffer win Pulitzer Prizes for?",
+      "answer": "Editorial cartoons"
+    },
+    {
+      "category": "PP",
+      "question": "What new nickname did Niagara Falls get after Canadian men began crossing the border in droves to have prescriptions filled in 1998?",
+      "answer": "\"Viagra Falls\""
+    },
+    {
+      "category": "AE",
+      "question": "What was Dr. Zhivago's first name?",
+      "answer": "Yuri"
+    },
+    {
+      "category": "HIS",
+      "question": "What symbol appeared in green on white flags flown by U.S. relief ships during the Irish potato famine?",
+      "answer": "A shamrock"
+    },
+    {
+      "category": "SN",
+      "question": "What sense did Galileo lose in 1637?",
+      "answer": "Sight"
+    },
+    {
+      "category": "SL",
+      "question": "What 1998 World Cup soccer team's players were miffed when high sugar levels forced baked beans off their diet?",
+      "answer": "Britain's"
+    },
+    {
+      "category": "WC",
+      "question": "What tiremaker's tireless mascot, Bib, celebrated his 100th anniversary in 1998?",
+      "answer": "Michelin's"
+    },
+    {
+      "category": "PP",
+      "question": "What nation inherited the ashes of author Carlos Castaneda, in 1998?",
+      "answer": "Mexico"
+    },
+    {
+      "category": "AE",
+      "question": "What Baywatch beauty played a regular role on Charles in Charge as a child?",
+      "answer": "Nicole Eggert"
+    },
+    {
+      "category": "HIS",
+      "question": "What was the world's principal Christian city before it fell to the Ottoman Turks in 1453?",
+      "answer": "Constantinople"
+    },
+    {
+      "category": "SN",
+      "question": "What does a chaetophobic barber fear?",
+      "answer": "Hair"
+    },
+    {
+      "category": "SL",
+      "question": "Who was busy bashing wrestler Diamond Dallas Page on the head with a chair while his teammates practiced for the 1998 NBA finals?",
+      "answer": "Dennis Rodman"
+    },
+    {
+      "category": "WC",
+      "question": "What automaker bought Rolls-Royce in 1998?",
+      "answer": "Volkswagen"
+    },
+    {
+      "category": "PP",
+      "question": "What republic would a Finn reach by paddling due south from Helsinki?",
+      "answer": "Estonia"
+    },
+    {
+      "category": "AE",
+      "question": "What sitcom's stars actually guzzled Kingsburg nonalcoholic beer for six seasons?",
+      "answer": "Cheers"
+    },
+    {
+      "category": "HIS",
+      "question": "What 1839 innovation changed the face of mail delivery?",
+      "answer": "The envelope"
+    },
+    {
+      "category": "SN",
+      "question": "What can be determined by the number of rings on the scales of a fish?",
+      "answer": "Its age"
+    },
+    {
+      "category": "SL",
+      "question": "What was first distilled at Montpellier medical school, in 1300 A.D.?",
+      "answer": "Brandy"
+    },
+    {
+      "category": "WC",
+      "question": "What ladies' man did Gloria Steinem share the stage with when they entered the Society of Magazine Editors Hall of Fame in 1998?",
+      "answer": "Hugh Hefner"
+    },
+    {
+      "category": "PP",
+      "question": "What tourist spot is bounded by the Great Hall of the People, the Museum of the Chinese Revolution and Mao's mausoleum?",
+      "answer": "Tiananmen Square"
+    },
+    {
+      "category": "AE",
+      "question": "What did \"Butterfly\" McQueen refuse to eat for a Gone With the Wind scene?",
+      "answer": "Watermelon"
+    },
+    {
+      "category": "HIS",
+      "question": "What city were the Oklahoma City bombing trials held in?",
+      "answer": "Denver"
+    },
+    {
+      "category": "SN",
+      "question": "What site's nuclear reactor and fuel did GPU Inc. unload for a cool $100 million in 1998?",
+      "answer": "Three Mile Island's"
+    },
+    {
+      "category": "SL",
+      "question": "What sport's supreme champion attains the rank of yokozuna?",
+      "answer": "Sumo wrestling's"
+    },
+    {
+      "category": "WC",
+      "question": "What four-cylinder minivan has seven seats so six passengers can help push it up hills, according to Car Talk?",
+      "answer": "The Dodge Caravan"
+    },
+    {
+      "category": "PP",
+      "question": "What group did the Census Bureau try to count by sending out 22,000 canvassers between 6 p.m. and 4 a.m. on March 20–21, 1990?",
+      "answer": "The homeless"
+    },
+    {
+      "category": "AE",
+      "question": "What genre of fiction is honored by the Nebula awards?",
+      "answer": "Science fiction"
+    },
+    {
+      "category": "HIS",
+      "question": "Who advised Bob Woodward to \"follow the money\" trail during the Watergate scandal?",
+      "answer": "Deep Throat"
+    },
+    {
+      "category": "SN",
+      "question": "What book did Christians often place on their foreheads to cure insomnia in medieval times?",
+      "answer": "The Bible"
+    },
+    {
+      "category": "SL",
+      "question": "How many Brits won Wimbledon men's singles titles between 1937 and 1998?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "question": "What Rat Packer noted in 1966: \"I've got Scotch older than Mia Farrow\"?",
+      "answer": "Dean Martin"
+    },
+    {
+      "category": "PP",
+      "question": "What direction would your ship travel in the Panama Canal, going from Atlantic to Pacific—west, southwest or southeast?",
+      "answer": "Southeast"
+    },
+    {
+      "category": "AE",
+      "question": "What letter is used by TV types to denote a performer's 'recognition factor'?",
+      "answer": "Q"
+    },
+    {
+      "category": "HIS",
+      "question": "What's AIM an acronym for, to a Native American?",
+      "answer": "American Indian Movement"
+    },
+    {
+      "category": "SN",
+      "question": "What will the International Maritime Organization stop recognizing for distress calls, starting in 1999?",
+      "answer": "Morse code"
+    },
+    {
+      "category": "SL",
+      "question": "What football team was founded in 1919 by Curly Lambeau?",
+      "answer": "The Green Bay Packers"
+    },
+    {
+      "category": "WC",
+      "question": "What line from a Gary Puckett song was Sam Donaldson heard gleefully singing during the Clinton-Lewinsky scandal?",
+      "answer": "\"Young girl, get outta my life\""
+    },
+    {
+      "category": "PP",
+      "question": "What city dimmed its lights for 10 minutes after Dean Martin died?",
+      "answer": "Las Vegas"
+    },
+    {
+      "category": "AE",
+      "question": "Who was 13 when she became the youngest singer to crack the country Top 50 chart?",
+      "answer": "LeAnn Rimes"
+    },
+    {
+      "category": "HIS",
+      "question": "What did Henry du Pont supply the Union Army with four million pounds of, in the Civil War?",
+      "answer": "Gunpowder"
+    },
+    {
+      "category": "SN",
+      "question": "How many cars were produced per minute in the world, in 1997—10, 100 or 1,000?",
+      "answer": "One hundred"
+    },
+    {
+      "category": "SL",
+      "question": "Which of his body parts does amorous Dennis Rodman call Monique and Judy?",
+      "answer": "His hands"
+    },
+    {
+      "category": "WC",
+      "question": "What company's logo is the world's second-most recognized symbol, after the Christian cross?",
+      "answer": "Coca-Cola's"
+    },
+    {
+      "category": "PP",
+      "question": "What would you be ordering in a restaurant in France if you asked for pommes frites?",
+      "answer": "French fries"
+    },
+    {
+      "category": "AE",
+      "question": "What TV show has bad guys named Professor Monkey-for-a-Head, Evil the Cat from Heck and Bob, the Killer Goldfish?",
+      "answer": "Earthworm Jim"
+    },
+    {
+      "category": "HIS",
+      "question": "Whose 1916 U.S. presidential campaign slogan was: 'He kept us out of war'?",
+      "answer": "Woodrow Wilson's"
+    },
+    {
+      "category": "SN",
+      "question": "What does 'CPR' stand for in medical emergencies?",
+      "answer": "Cardiopulmonary resuscitation"
+    },
+    {
+      "category": "SL",
+      "question": "What boxer made his first title defense in 21 years, in 1995?",
+      "answer": "George Foreman"
+    },
+    {
+      "category": "WC",
+      "question": "What two-word phrase for physical resemblance has more to do with the expression 'spirit and image' than with expectoration?",
+      "answer": "Spittin' image"
+    },
+    {
+      "category": "PP",
+      "question": "What Yukon mining district was the site of the 1890s gold rush?",
+      "answer": "Klondike"
+    },
+    {
+      "category": "AE",
+      "question": "What did a New York Times poll find to be the favorite TV network of 13-to-17-year-olds, in 1998?",
+      "answer": "Fox"
+    },
+    {
+      "category": "HIS",
+      "question": "What popular lighter did Vietcong booby trap and leave in bars for unsuspecting GIs?",
+      "answer": "Zippo"
+    },
+    {
+      "category": "SN",
+      "question": "What type of rays did Paul Villard discover in 1900, to earn a mention in science books?",
+      "answer": "Gamma rays"
+    },
+    {
+      "category": "SL",
+      "question": "What team sport has a major foul called submerging?",
+      "answer": "Water polo"
+    },
+    {
+      "category": "WC",
+      "question": "What sitcom star was made an honorary deputy sheriff in his West Virginia hometown?",
+      "answer": "Don Knotts"
+    },
+    {
+      "category": "PP",
+      "question": "What Milanese opera house has a name that translates to 'The Stairs'?",
+      "answer": "La Scala"
+    },
+    {
+      "category": "AE",
+      "question": "What aging pop icon forgot the lyrics to We Can Work It Out on MTV Unplugged?",
+      "answer": "Paul McCartney"
+    },
+    {
+      "category": "HIS",
+      "question": "What was the collective name for 19 million gallons of herbicides dumped over Vietnam by U.S. troops?",
+      "answer": "Agent Orange"
+    },
+    {
+      "category": "SN",
+      "question": "What software outfit do detractors call 'The Evil Empire'?",
+      "answer": "Microsoft"
+    },
+    {
+      "category": "SL",
+      "question": "How many times has Michael Jordan played a seventh game in the NBA finals, through 1998?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "question": "What New Age performer grossed a staggering $37 million for his first 92 shows in 1998?",
+      "answer": "Yanni"
+    },
+    {
+      "category": "PP",
+      "question": "What city is Mother Teresa buried in?",
+      "answer": "Calcutta"
+    },
+    {
+      "category": "AE",
+      "question": "What former talk show host and best friend advised Earvin Johnson to launch The Magic Hour in 1998?",
+      "answer": "Arsenio Hall"
+    },
+    {
+      "category": "HIS",
+      "question": "What U.S. president inspired the Washington Post to coin the term 'credibility gap'?",
+      "answer": "Lyndon B. Johnson"
+    },
+    {
+      "category": "SN",
+      "question": "What piece of lumber's actual size is one-and-a-half by three-and-a-half inches when 'surfaced'?",
+      "answer": "A two-by-four"
+    },
+    {
+      "category": "SL",
+      "question": "What NBA coach is the all-time leader in playoff wins?",
+      "answer": "Pat Riley"
+    },
+    {
+      "category": "WC",
+      "question": "What 1994 parody magazine of Martha Stewart had a recipe for 'making water from scratch'?",
+      "answer": "Is Martha Stuart Living?"
+    },
+    {
+      "category": "PP",
+      "question": "What river does the Brahmaputra meet to form the world's largest delta?",
+      "answer": "The Ganges River"
+    },
+    {
+      "category": "AE",
+      "question": "What comedian shares her name with a major league baseball player?",
+      "answer": "Brett Butler"
+    },
+    {
+      "category": "HIS",
+      "question": "Who stayed awake crossing the Atlantic by repeating the line: 'There's no alternative but death and failure'?",
+      "answer": "Charles Lindbergh"
+    },
+    {
+      "category": "SN",
+      "question": "What drug, banned in the 1960s, was approved for the treatment of leprosy in 1998?",
+      "answer": "Thalidomide"
+    },
+    {
+      "category": "SL",
+      "question": "Who broke Sachio Kinugasa's world record of 2,215 consecutive games played, in 1996?",
+      "answer": "Cal Ripken Jr."
+    },
+    {
+      "category": "WC",
+      "question": "How much did Claire Beckmann pay at a yard sale for the card table that fetched $490,000 at auction—$2.50, $25 or $250?",
+      "answer": "$25"
+    },
+    {
+      "category": "PP",
+      "question": "What tourist state leads the U.S. in booze consumption per capita?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "question": "What gritty TV cop drama spawned the first 'websodic' on-line internet series produced by a broadcast network?",
+      "answer": "Homicide: Life in the Streets"
+    },
+    {
+      "category": "HIS",
+      "question": "What world leader was installed upon the Lion Throne in 1937, at the tender age of four?",
+      "answer": "The Dalai Lama"
+    },
+    {
+      "category": "SN",
+      "question": "What constant star was the standard for second magnitude brightness until astronomers discovered its brightness varied over time?",
+      "answer": "Polaris"
+    },
+    {
+      "category": "SL",
+      "question": "What NHL franchise is located at 211 Cowboys Parkway?",
+      "answer": "The Dallas Stars"
+    },
+    {
+      "category": "WC",
+      "question": "What topped a 1990s poll for U.S. stamp topics from the 1960s—the twist, the moon landing or the peace sign?",
+      "answer": "The moon landing"
+    },
+    {
+      "category": "PP",
+      "question": "What southern city is famous for its \"Beale Street Blues\"?",
+      "answer": "Memphis"
+    },
+    {
+      "category": "AE",
+      "question": "What horror writer described his body of work as \"the literary equivalent of a Big Mac and fries\"?",
+      "answer": "Stephen King"
+    },
+    {
+      "category": "HIS",
+      "question": "Who was known as \"Mother India\"?",
+      "answer": "Indira Gandhi"
+    },
+    {
+      "category": "SN",
+      "question": "What did reporters don to view computer images of Mars at the Jet Propulsion Lab on November 4, 1997?",
+      "answer": "3-D glasses"
+    },
+    {
+      "category": "SL",
+      "question": "How many men played on the first basketball teams—5, 7 or 9?",
+      "answer": "Nine"
+    },
+    {
+      "category": "WC",
+      "question": "What decade-beginning year did radio listeners first hear, \"Look! Up in the sky! It's a bird! It's a plane\"?",
+      "answer": "1940"
+    },
+    {
+      "category": "PP",
+      "question": "What Atlanta TV center has a gift shop where you can be videotaped reading the news?",
+      "answer": "CNN Center"
+    },
+    {
+      "category": "AE",
+      "question": "What Beverly Hills 90210 vet was a surprise pick to play Margaret Mitchell in a TV movie?",
+      "answer": "Shannen Doherty"
+    },
+    {
+      "category": "HIS",
+      "question": "What's the smallest denomination of coin ever minted in the U.S.?",
+      "answer": "The halfpenny"
+    },
+    {
+      "category": "SN",
+      "question": "What 30-year-old Detroit machinist road-tested his first \"gasoline buggy\" in 1893?",
+      "answer": "Henry Ford"
+    },
+    {
+      "category": "SL",
+      "question": "What uniform number was worn by Larry Bird and Kareem Abdul-Jabbar?",
+      "answer": "Thirty-three"
+    },
+    {
+      "category": "WC",
+      "question": "What's a deadbeat Latin scholar telling his landlord when noting: \"Perscriptio in manibus tabellariorum est\"?",
+      "answer": "The check is in the mail"
+    },
+    {
+      "category": "PP",
+      "question": "What remote region of Russia borders China, Kazakhstan and Mongolia?",
+      "answer": "Siberia"
+    },
+    {
+      "category": "AE",
+      "question": "What Broadway show went through 2,488 pounds of yak hair between 1982 and 1995?",
+      "answer": "Cats"
+    },
+    {
+      "category": "HIS",
+      "question": "What Mississippi city's residents did not celebrate the Fourth of July until 1945, after losing a Civil War battle in 1863?",
+      "answer": "Vicksburg's"
+    },
+    {
+      "category": "SN",
+      "question": "What uncooked meat is a trichina worm most likely to make a home in?",
+      "answer": "Pork"
+    },
+    {
+      "category": "SL",
+      "question": "What tennis champ held the men's number one spot for a record 270 weeks?",
+      "answer": "Ivan Lendl"
+    },
+    {
+      "category": "WC",
+      "question": "What politician's hairstyles have been dubbed \"Young Elvis,\" the \"Porcupine,\" \"We Have Liftoff\" and \"Younger than Dole\"?",
+      "answer": "Bill Clinton's"
+    },
+    {
+      "category": "PP",
+      "question": "What Tennessee town was named after a U.S. aluminum company?",
+      "answer": "Alcoa"
+    },
+    {
+      "category": "AE",
+      "question": "What Saturday Night Live star did Chris Farley say was \"totally my hero\"?",
+      "answer": "John Belushi"
+    },
+    {
+      "category": "HIS",
+      "question": "What scandal did independent prosecutor Lawrence Walsh spend $40 million investigating?",
+      "answer": "The Iran-Contra scandal"
+    },
+    {
+      "category": "SN",
+      "question": "What color does litmus turn when dipped into acid?",
+      "answer": "Pink"
+    },
+    {
+      "category": "SL",
+      "question": "Where are teens with the munchies headed if they go to the \"DQ\"?",
+      "answer": "Dairy Queen"
+    },
+    {
+      "category": "WC",
+      "question": "What gasoline company was embarrassed to learn that its \"No-Nox\" brand name was Japanese for a woman's nether regions?",
+      "answer": "Gulf"
+    },
+    {
+      "category": "PP",
+      "question": "What continent boasted 12 cities with populations of over 10 million, by 1998?",
+      "answer": "Asia"
+    },
+    {
+      "category": "AE",
+      "question": "What song did a Florida radio station play for 24 straight hours to kick off its all-Led Zeppelin format, in 1990?",
+      "answer": "Stairway to Heaven"
+    },
+    {
+      "category": "HIS",
+      "question": "What British royal died in the arms of grandson Kaiser Wilhelm in 1901?",
+      "answer": "Queen Victoria"
+    },
+    {
+      "category": "SN",
+      "question": "What's the tradename for the sucrose polyester often used in low-fat potato chips?",
+      "answer": "Olestra"
+    },
+    {
+      "category": "SL",
+      "question": "What is slurped by more people than any other beverage except water?",
+      "answer": "Tea"
+    },
+    {
+      "category": "WC",
+      "question": "What world leader asked for 20 cassettes of Mork and Mindy episodes to pass the time during his exile in Panama, in 1979?",
+      "answer": "The Shah of Iran"
+    },
+    {
+      "category": "PP",
+      "question": "What storied Sudanese city's name means \"elephant's trunk\"?",
+      "answer": "Khartoum's"
+    },
+    {
+      "category": "AE",
+      "question": "Who starred in six horror flicks based on Edgar Allan Poe works between 1960 and 1964?",
+      "answer": "Vincent Price"
+    },
+    {
+      "category": "HIS",
+      "question": "What did a hacker re-title the CIA's Web site home page, in 1996?",
+      "answer": "\"Welcome to the Central Stupidity Agency\""
+    },
+    {
+      "category": "SN",
+      "question": "What did the ancient Greeks believe to be a cross between a tiger and a horse?",
+      "answer": "A zebra"
+    },
+    {
+      "category": "SL",
+      "question": "What Cy Young Award-winner continued to hurl for a prison team called the Detroit Dennys?",
+      "answer": "Denny McLain"
+    },
+    {
+      "category": "WC",
+      "question": "What U.S. astronaut once bashed balls on the professional tennis circuit?",
+      "answer": "Sally Ride"
+    },
+    {
+      "category": "PP",
+      "question": "What city offered the first pay toilets, in 1865?",
+      "answer": "London"
+    },
+    {
+      "category": "AE",
+      "question": "Who had fat cells from his butt injected around his eyes and forehead before a TV studio audience?",
+      "answer": "Geraldo Rivera"
+    },
+    {
+      "category": "HIS",
+      "question": "What weekly U.S. magazine has seen seven of its journalists killed while covering wars?",
+      "answer": "Time"
+    },
+    {
+      "category": "SN",
+      "question": "What stimulant do 8 out of 10 in the U.S. consume 200 milligrams of every day?",
+      "answer": "Caffeine"
+    },
+    {
+      "category": "SL",
+      "question": "What Gillette product's ads had Scottie Pippen and Emmitt Smith say \"Anything less would be uncivilized\"?",
+      "answer": "Right Guard"
+    },
+    {
+      "category": "WC",
+      "question": "What fad pets of the 1980s were increasingly in the food pots of the 1990s?",
+      "answer": "Vietnamese pot-bellied pigs"
+    },
+    {
+      "category": "PP",
+      "question": "What U.S. state's official fish is the humuhumukunukunuapuaa?",
+      "answer": "Hawaii's"
+    },
+    {
+      "category": "AE",
+      "question": "What two French-titled plays won best musical Tony Awards in the 1980s?",
+      "answer": "La Cage aux Folles and Les Misérables"
+    },
+    {
+      "category": "HIS",
+      "question": "Who did the FBI clear as a suspect in the Centennial Park bombing, after a three-month investigation?",
+      "answer": "Richard Jewell"
+    },
+    {
+      "category": "SN",
+      "question": "How long do taste buds live on the tongue—ten days, ten months or ten years?",
+      "answer": "Ten days"
+    },
+    {
+      "category": "SL",
+      "question": "What baseball announcer said Pope Paul VI's death \"puts a damper on even a Yankees win\"?",
+      "answer": "Phil Rizzuto"
+    },
+    {
+      "category": "WC",
+      "question": "What Elvis ballad did Chinese premier Jiang Zemin serenade Hawaiians with, in 1997?",
+      "answer": "Love Me Tender"
+    },
+    {
+      "category": "PP",
+      "question": "What did Puritans dub 'Rogues Island'?",
+      "answer": "Rhode Island"
+    },
+    {
+      "category": "AE",
+      "question": "What did censors recommend Burt Lancaster and Deborah Kerr wear while smooching in the surf in From Here to Eternity?",
+      "answer": "Bathrobes"
+    },
+    {
+      "category": "HIS",
+      "question": "What British nanny's 1998 release had Time quip: 'Now she's free to golf with O.J.'?",
+      "answer": "Louise Woodward's"
+    },
+    {
+      "category": "SN",
+      "question": "What did astronomers identify in 1963 as being 100 times brighter than 100 billion stars?",
+      "answer": "A quasar"
+    },
+    {
+      "category": "SL",
+      "question": "What college football team has won the most Orange Bowls?",
+      "answer": "Oklahoma"
+    },
+    {
+      "category": "WC",
+      "question": "Who said he nixed a Beatles reunion because the band was 'not going out as the Threetles'?",
+      "answer": "Ringo Starr"
+    },
+    {
+      "category": "PP",
+      "question": "What nation's treasures include the Sistine Chapel?",
+      "answer": "Vatican City's"
+    },
+    {
+      "category": "AE",
+      "question": "Who was the first woman inducted into the Rock and Roll Hall of Fame, in 1987?",
+      "answer": "Aretha Franklin"
+    },
+    {
+      "category": "HIS",
+      "question": "What Canadian province's language cops busted a pet shop for selling a parrot that spoke English, in 1996?",
+      "answer": "Quebec's"
+    },
+    {
+      "category": "SN",
+      "question": "What element was converted to plutonium in the first nuclear reactors?",
+      "answer": "Uranium"
+    },
+    {
+      "category": "SL",
+      "question": "What NBA player championed virginity with the rap video It Ain't Worth It?",
+      "answer": "A.C. Green"
+    },
+    {
+      "category": "WC",
+      "question": "What Tom Cruise movie sparked over 250,000 sales of Ray-Ban Wayfarers in 1983, up from 18,000 two years earlier?",
+      "answer": "Risky Business"
+    },
+    {
+      "category": "PP",
+      "question": "What eastern European country's name is a Slavonic word meaning 'plain dwellers'?",
+      "answer": "Poland's"
+    },
+    {
+      "category": "AE",
+      "question": "What was the only TV show of the 1980s to put its theme song atop Billboard's Hot 100?",
+      "answer": "Miami Vice"
+    },
+    {
+      "category": "HIS",
+      "question": "Who had a pistol in his hip pocket when he addressed the U.N. General Assembly in 1974?",
+      "answer": "Yasir Arafat"
+    },
+    {
+      "category": "SN",
+      "question": "What bone connects your shoulder blade and elbow joint?",
+      "answer": "The humerus"
+    },
+    {
+      "category": "SL",
+      "question": "How old was France's Etienne Bacrat when he became the world's youngest chess grand master?",
+      "answer": "Fourteen"
+    },
+    {
+      "category": "WC",
+      "question": "Who masterminded the 1985 killing of Gambino family boss 'Big Paul' Castellano?",
+      "answer": "John Gotti"
+    },
+    {
+      "category": "PP",
+      "question": "What continent has the most countries represented in the U.N.?",
+      "answer": "Africa"
+    },
+    {
+      "category": "AE",
+      "question": "What Patsy Cline song put LeAnn Rimes in the limelight?",
+      "answer": "Blue"
+    },
+    {
+      "category": "HIS",
+      "question": "What disease's sufferers were required to carry rattles to warn people of their approach in 15th-century England?",
+      "answer": "Leprosy's"
+    },
+    {
+      "category": "SN",
+      "question": "What car model was developed in 1938 by Dr. Ferdinand Porsche?",
+      "answer": "The Volkswagen Beetle"
+    },
+    {
+      "category": "SL",
+      "question": "What Olympic city proposed three mascots: a duck-billed platypus, a kookaburra and a spiny echidna?",
+      "answer": "Sydney"
+    },
+    {
+      "category": "WC",
+      "question": "What suede shoes of the 1960s made a comeback among Gen-Xers in the 1990s?",
+      "answer": "Hush Puppies"
+    },
+    {
+      "category": "PP",
+      "question": "What nation was Jerry Seinfeld in when he quipped: 'I love your flag: Britain at night'?",
+      "answer": "Australia"
+    },
+    {
+      "category": "AE",
+      "question": "What sitcom star was noted for preferring the term 'domestic goddess' to housewife?",
+      "answer": "Roseanne"
+    },
+    {
+      "category": "HIS",
+      "question": "Who imprisoned Monica Lewinsky's libido, according to William Ginsburg?",
+      "answer": "Kenneth Starr"
+    },
+    {
+      "category": "SN",
+      "question": "What did George Washington Carver use as an ingredient for milk, bleach, shaving cream, metal polish and synthetic rubber?",
+      "answer": "Peanuts"
+    },
+    {
+      "category": "SL",
+      "question": "What was the fitting name of the only horse to ever defeat Man O' War?",
+      "answer": "Upset"
+    },
+    {
+      "category": "WC",
+      "question": "What insect family's queens do Singaporeans eat alive to cure headaches and muscle pains?",
+      "answer": "Termites"
+    },
+    {
+      "category": "PP",
+      "question": "What desert covers 130,000 square miles of Turkmenistan?",
+      "answer": "The Kara Kum"
+    },
+    {
+      "category": "AE",
+      "question": "What Fiddler on the Roof song does Seinfeld's George Costanza whistle while posing as a neo-Nazi?",
+      "answer": "If I Were a Rich Man"
+    },
+    {
+      "category": "HIS",
+      "question": "What was the lowest tax rate in U.S. history, in effect from 1913 to 1915?",
+      "answer": "One percent"
+    },
+    {
+      "category": "SN",
+      "question": "What herbal pill's maker was ordered in 1998 to send refunds to 9,000 people who had confused it with a hot new drug?",
+      "answer": "Viagra"
+    },
+    {
+      "category": "SL",
+      "question": "What golfing feat did sportswriter Grantland Rice dub 'the impregnable quadrilateral'?",
+      "answer": "The Grand Slam"
+    },
+    {
+      "category": "WC",
+      "question": "Who claimed he never asked 'Did you ever wonder?' in over 600 pieces on CBS?",
+      "answer": "Andy Rooney"
+    },
+    {
+      "category": "PP",
+      "question": "What Renaissance man designed the dome for St. Peter's Basilica in Rome?",
+      "answer": "Michelangelo"
+    },
+    {
+      "category": "AE",
+      "question": "Who, according to Carl Perkins, had an advantage because he didn't look 'like Mr. Ed, like a lot of the rest of us'?",
+      "answer": "Elvis Presley"
+    },
+    {
+      "category": "HIS",
+      "question": "What company did the Justice Department levy a fine of $1 million per day against, in 1997?",
+      "answer": "Microsoft"
+    },
+    {
+      "category": "SN",
+      "question": "What method of sterilization is used on food for all U.S. space flights?",
+      "answer": "Irradiation"
+    },
+    {
+      "category": "SL",
+      "question": "What country's national soccer squad is most often called 'The World's Team'?",
+      "answer": "Brazil's"
+    },
+    {
+      "category": "WC",
+      "question": "What Welsh poet's last words were: 'I've had 18 straight whiskeys. I think that's the record'?",
+      "answer": "Dylan Thomas'"
+    },
+    {
+      "category": "PP",
+      "question": "What African country has the highest concentrations of animals and tourists?",
+      "answer": "Kenya"
+    },
+    {
+      "category": "AE",
+      "question": "What polyestered thespian became the first man to have a McCall's cover all to himself, in 1978?",
+      "answer": "John Travolta"
+    },
+    {
+      "category": "HIS",
+      "question": "What do an average of 20 people do each year while staring at a Goodyear blimp?",
+      "answer": "Shoot at it"
+    },
+    {
+      "category": "SN",
+      "question": "Where would you feel a slight twinge if an acupuncturist stuck a needle in your antihelix or intertragic notch?",
+      "answer": "The ear"
+    },
+    {
+      "category": "SL",
+      "question": "What country bombed Americans with Absolut vodka?",
+      "answer": "Sweden"
+    },
+    {
+      "category": "WC",
+      "question": "What newspaper, after much debate, ran its first color photo on the front page on October 16, 1997?",
+      "answer": "The New York Times"
+    },
+    {
+      "category": "PP",
+      "question": "What did Portuguese explorers christen O Rio Mar, \"The River Sea,\" in the 16th century?",
+      "answer": "The Amazon River"
+    },
+    {
+      "category": "AE",
+      "question": "What famed film star cruised the U.S. Pacific coast on his converted minesweeper, \"The Wild Goose\"?",
+      "answer": "John Wayne"
+    },
+    {
+      "category": "HIS",
+      "question": "Whose Royal Sceptre is topped by a diamond the size of a hen's egg?",
+      "answer": "Queen Elizabeth II's"
+    },
+    {
+      "category": "SN",
+      "question": "What maternity nurse coined the term \"birth control,\" in 1914?",
+      "answer": "Margaret Sanger"
+    },
+    {
+      "category": "SL",
+      "question": "What Olympic security man was heckled by an Atlanta Braves fan: \"Hey, are you going to blow up the stadium\"?",
+      "answer": "Richard Jewell"
+    },
+    {
+      "category": "WC",
+      "question": "What do astronauts call the KC-135 that NASA uses to simulate weightlessness?",
+      "answer": "The Vomit Comet"
+    },
+    {
+      "category": "PP",
+      "question": "What nation's tourist ad said in 1998: \"We're 50 Today. (But we don't feel a day over 4,000)\"?",
+      "answer": "Israel's"
+    },
+    {
+      "category": "AE",
+      "question": "What Beatles album spent the longest time atop the charts, at 15 weeks?",
+      "answer": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+      "category": "HIS",
+      "question": "What New Yorker inspired the headline \"Teen Fatal Attraction\" in 1992?",
+      "answer": "Amy Fisher"
+    },
+    {
+      "category": "SN",
+      "question": "What color are a zebra's black stripes during the first six months of life?",
+      "answer": "Brown"
+    },
+    {
+      "category": "SL",
+      "question": "Who was the first female to run the 100-meter dash in less than 11 seconds, in 1979?",
+      "answer": "Evelyn Ashford"
+    },
+    {
+      "category": "WC",
+      "question": "What slogan did Adolph S. Ochs give The New York Times after he eliminated its romantic fiction in 1896?",
+      "answer": "\"All the News That's Fit to Print\""
+    },
+    {
+      "category": "PP",
+      "question": "What continent spawned 17 new nations in 1960?",
+      "answer": "Africa"
+    },
+    {
+      "category": "AE",
+      "question": "What M*A*S*H character had hot dogs from Tony Packo's Cafe mailed to him in Korea?",
+      "answer": "Max Klinger"
+    },
+    {
+      "category": "HIS",
+      "question": "What karate-chopping thespian organized security for the Shah of Iran's family when they left Iran?",
+      "answer": "Steven Seagal"
+    },
+    {
+      "category": "SN",
+      "question": "What 1854 invention was credited with making skyscrapers viable?",
+      "answer": "The elevator"
+    },
+    {
+      "category": "SL",
+      "question": "What slugger received 900,000 letters in the first six months of 1974?",
+      "answer": "Hank Aaron"
+    },
+    {
+      "category": "WC",
+      "question": "What movie star adorned a U.S. postage stamp on what would have been her 69th birthday, in 1995?",
+      "answer": "Marilyn Monroe"
+    },
+    {
+      "category": "PP",
+      "question": "What nation's highest point is atop Kanchenjunga mountain?",
+      "answer": "India's"
+    },
+    {
+      "category": "AE",
+      "question": "What movie gave Humphrey Bogart the line: \"I remember every detail. The Germans wore gray. You wore blue\"?",
+      "answer": "Casablanca"
+    },
+    {
+      "category": "HIS",
+      "question": "What UN secretary general got stuck with trying to resolve the Cuban Missile Crisis?",
+      "answer": "U Thant"
+    },
+    {
+      "category": "SN",
+      "question": "What new name did Manchester surgeon James Braid coin for mesmerism, in 1843?",
+      "answer": "Hypnotism"
+    },
+    {
+      "category": "SL",
+      "question": "Who started the Professional Chess Association in 1993, leaving the World Chess Federation title to rival Anatoly Karpov?",
+      "answer": "Gary Kasparov"
+    },
+    {
+      "category": "WC",
+      "question": "What Disneyland peak claimed the park's first fatality, in 1964?",
+      "answer": "The Matterhorn"
+    },
+    {
+      "category": "PP",
+      "question": "What institution can you contact by dialing 1-800-493-ROLL?",
+      "answer": "The Rock and Roll Hall of Fame and Museum"
+    },
+    {
+      "category": "AE",
+      "question": "What author said in 1998: \"I watch lawyers. I watch trials...I get my ideas from CNN and USA Today\"?",
+      "answer": "John Grisham"
+    },
+    {
+      "category": "HIS",
+      "question": "What Republican took exception to being labeled \"the human Edsel\"?",
+      "answer": "Richard Nixon"
+    },
+    {
+      "category": "SN",
+      "question": "What word is typically used to describe a period in Internet addresses?",
+      "answer": "Dot"
+    },
+    {
+      "category": "SL",
+      "question": "What future NBA star was dubbed \"Boy Gorge\" when his weight passed 300 pounds in college?",
+      "answer": "Charles Barkley"
+    },
+    {
+      "category": "WC",
+      "question": "What machine did Timothy Leary call \"the LSD of the 1990s\"?",
+      "answer": "The personal computer"
+    },
+    {
+      "category": "PP",
+      "question": "Which extends further north—Japan, North Korea or Turkey?",
+      "answer": "Japan"
+    },
+    {
+      "category": "AE",
+      "question": "What are the first four words of the Alka-Seltzer jingle written by the father of ER star Julianna Margulies?",
+      "answer": "\"Plop, plop, fizz, fizz\""
+    },
+    {
+      "category": "HIS",
+      "question": "What famous slave was the legal property of a child named Putnam Moore?",
+      "answer": "Nat Turner"
+    },
+    {
+      "category": "SN",
+      "question": "What planet's 17-mile-high Olympus Mons is the largest mountain in the solar system?",
+      "answer": "Mars"
+    },
+    {
+      "category": "SL",
+      "question": "Who won 10 Olympic gold medals and 8 world titles before retiring in 1997?",
+      "answer": "Carl Lewis"
+    },
+    {
+      "category": "WC",
+      "question": "Who claims to be named after Sir Edmund Hillary, despite being born six years before he climbed Mount Everest?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "PP",
+      "question": "What D.C. building did George Washington lay the cornerstone for?",
+      "answer": "The U.S. Capitol"
+    },
+    {
+      "category": "AE",
+      "question": "What was the only word ever uttered by Darryl and Darryl, when they screamed at their wives on the final Newhart episode?",
+      "answer": "\"Quiet\""
+    },
+    {
+      "category": "HIS",
+      "question": "What brand of pork and beans helped nourish Union forces during the U.S. Civil War?",
+      "answer": "Van Camp's"
+    },
+    {
+      "category": "SN",
+      "question": "What new car feature wowed crowds at the 1939 Chicago Automobile Show?",
+      "answer": "Air-conditioning"
+    },
+    {
+      "category": "SL",
+      "question": "Who asked that Polo, the journal of the U.S. Polo Association, change its name in 1998?",
+      "answer": "Ralph Lauren"
+    },
+    {
+      "category": "WC",
+      "question": "What Betty Friedan book summed up suburbia as \"a bedroom and kitchen sexual ghetto\"?",
+      "answer": "The Feminine Mystique"
+    },
+    {
+      "category": "PP",
+      "question": "What three modern countries comprised French Indochina?",
+      "answer": "Cambodia, Laos, Vietnam"
+    },
+    {
+      "category": "AE",
+      "question": "What Designing Women star founded a line of clothing for \"real-sized\" women?",
+      "answer": "Delta Burke"
+    },
+    {
+      "category": "HIS",
+      "question": "What Washington D.C. mayor's comeback did the New York Times describe as \"one of the most remarkable in American history\"?",
+      "answer": "Marion Barry's"
+    },
+    {
+      "category": "SN",
+      "question": "What does \"arthro\" mean in arthroscopic?",
+      "answer": "Joint"
+    },
+    {
+      "category": "SL",
+      "question": "What 75-square-mile island near Venezuela yielded four Baltimore Orioles between 1996 and 1998?",
+      "answer": "Aruba"
+    },
+    {
+      "category": "WC",
+      "question": "What country's authors have won the most Nobel Prizes for Literature?",
+      "answer": "France's"
+    },
+    {
+      "category": "PP",
+      "question": "What island do most of the North Atlantic icebergs come from?",
+      "answer": "Greenland"
+    },
+    {
+      "category": "AE",
+      "question": "What cable network drew twice its usual audience for a show called The Wonderful World of Dung?",
+      "answer": "The Discovery Channel"
+    },
+    {
+      "category": "HIS",
+      "question": "What country lost the Crimean War?",
+      "answer": "Russia"
+    },
+    {
+      "category": "SN",
+      "question": "What toll-free area code prefix went into service after the supply of 800-numbers began to dwindle?",
+      "answer": "888"
+    },
+    {
+      "category": "SL",
+      "question": "What uniform number was worn by Billy Martin, Pee Wee Reese and Ozzie Smith?",
+      "answer": "One"
+    },
+    {
+      "category": "WC",
+      "question": "Who was reinstated into the Soviet writer's union in 1987, a mere 27 years after his death?",
+      "answer": "Boris Pasternak"
+    },
+    {
+      "category": "PP",
+      "question": "What state did Mexico cede to the U.S. nine days after gold was discovered at John Sutter's mill?",
+      "answer": "California"
+    },
+    {
+      "category": "AE",
+      "question": "What band's fans did the Allman Brothers inherit in 1998, according to Gregg Allman?",
+      "answer": "The Grateful Dead's"
+    },
+    {
+      "category": "HIS",
+      "question": "What 300-pound president married the daughter of his onetime law partner?",
+      "answer": "Grover Cleveland"
+    },
+    {
+      "category": "SN",
+      "question": "What anti-rejection drug improved the odds of surviving a heart transplant, in 1981?",
+      "answer": "Cyclosporine"
+    },
+    {
+      "category": "SL",
+      "question": "What southern city had an NFL team with no stadium and a hockey arena with no team, in 1997?",
+      "answer": "Memphis"
+    },
+    {
+      "category": "WC",
+      "question": "What's the term for a bond rated below investment grade?",
+      "answer": "Junk bond"
+    },
+    {
+      "category": "PP",
+      "question": "What West Coast U.S. state would you be in if you were honeymooning in Humptulips?",
+      "answer": "Washington"
+    },
+    {
+      "category": "AE",
+      "question": "What 1972 Bertolucci movie pictured on the cover of Time earned the magazine its highest volume of mail?",
+      "answer": "Last Tango in Paris"
+    },
+    {
+      "category": "HIS",
+      "question": "What world leader finally stepped down after 32 years in power, in 1998?",
+      "answer": "President Suharto"
+    },
+    {
+      "category": "SN",
+      "question": "What country's breeding lab did 26 African killer queen bees escape from, in 1956?",
+      "answer": "Brazil's"
+    },
+    {
+      "category": "SL",
+      "question": "Who was the first NHL goalie to win two straight MVP awards?",
+      "answer": "Dominik Hasek"
+    },
+    {
+      "category": "WC",
+      "question": "What shoe brand were all 39 members of the Heaven's Gate cult wearing when they committed suicide in 1997?",
+      "answer": "Nike"
+    },
+    {
+      "category": "PP",
+      "question": "What U.S. state gets raked by the most tornadoes annually?",
+      "answer": "Texas"
+    },
+    {
+      "category": "AE",
+      "question": "What 1990 movie had dialogue subtitled in Sioux?",
+      "answer": "Dances with Wolves"
+    },
+    {
+      "category": "HIS",
+      "question": "Who backed off a plan to have her hubby's nine-year-old corpse buried at Heroes' Cemetery in Manila, in 1998?",
+      "answer": "Imelda Marcos"
+    },
+    {
+      "category": "SN",
+      "question": "What decade saw the first usage of the term \"artificial intelligence\"?",
+      "answer": "The 1950s"
+    },
+    {
+      "category": "SL",
+      "question": "What abode hosted the launch of the Barbie Loves Elvis edition of the doll, in 1997?",
+      "answer": "Graceland"
+    },
+    {
+      "category": "WC",
+      "question": "What did skydiving instructor Ivan McQuire forget during his last jump while videotaping students?",
+      "answer": "His parachute"
+    },
+    {
+      "category": "PP",
+      "question": "What North American mountain range is an apt anagram for \"o, man-ski country\"?",
+      "answer": "Rocky Mountains"
+    },
+    {
+      "category": "AE",
+      "question": "What presidential child went to prep school with David Duchovny?",
+      "answer": "John F. Kennedy Jr."
+    },
+    {
+      "category": "HIS",
+      "question": "What two-word term was used to describe the Serbs' massacre of Bosnian Muslims and the expulsion of non-Serbs?",
+      "answer": "Ethnic cleansing"
+    },
+    {
+      "category": "SN",
+      "question": "What arachnid attacks its prey with the stinger at the end of its tail?",
+      "answer": "The scorpion"
+    },
+    {
+      "category": "SL",
+      "question": "What type of racing features a starting gate that moves with the horses?",
+      "answer": "Harness racing"
+    },
+    {
+      "category": "WC",
+      "question": "What Canadian has the first notes of Bach's Goldberg Variations on his piano-shaped grave marker?",
+      "answer": "Glenn Gould"
+    },
+    {
+      "category": "PP",
+      "question": "What European city decided new names were in order for Foul Lane, Stinking Lane and Bladder Street?",
+      "answer": "London"
+    },
+    {
+      "category": "AE",
+      "question": "What TV series popularized the line, \"Damn fine coffee, and hot\"?",
+      "answer": "Twin Peaks"
+    },
+    {
+      "category": "HIS",
+      "question": "What Filipino thwarted seven right wing coup attempts between 1986 and 1992?",
+      "answer": "Corazon Aquino"
+    },
+    {
+      "category": "SN",
+      "question": "What holistic doc penned the bestselling Spontaneous Healing and 8 Weeks to Optimum Health?",
+      "answer": "Dr. Andrew Weil"
+    },
+    {
+      "category": "SL",
+      "question": "What playing cards comprise a full house dubbed a \"love boat\"?",
+      "answer": "Sixes and nines"
+    },
+    {
+      "category": "WC",
+      "question": "What annual award has been won by the books Reusing Old Graves, The Joy of Chickens and The Theory of Lengthwise Rolling?",
+      "answer": "The Odd Title of the Year Award"
+    },
+    {
+      "category": "PP",
+      "question": "What Western Hemisphere nation boasted the largest U.N. peacekeeping force, by 1997?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "question": "What does Paula Abdul like to get out of her system before singing a really high note?",
+      "answer": "A belch"
+    },
+    {
+      "category": "HIS",
+      "question": "What U.S. organization first used the phrase \"plausible deniability\" with regard to covert acts?",
+      "answer": "The CIA"
+    },
+    {
+      "category": "SN",
+      "question": "What's does \"LAN\" mean to a techie?",
+      "answer": "Local Area Network"
+    },
+    {
+      "category": "SL",
+      "question": "What coach copped an Esquire Dubious Achievement Award for \"Gun-Toting Cowboy Dumbass of the Year\"?",
+      "answer": "Barry Switzer"
+    },
+    {
+      "category": "WC",
+      "question": "What Persian Gulf War honcho coined the phrase \"bovine scatology\"?",
+      "answer": "Gen. Norman Schwarzkopf"
+    },
+    {
+      "category": "PP",
+      "question": "What potent name did an Italian grocer by Lake Como give to a new soft cheese he began selling in 1998?",
+      "answer": "Viagra"
+    },
+    {
+      "category": "AE",
+      "question": "What do the initials in DreamWorks SKG represent?",
+      "answer": "Spielberg, Katzenberg, Geffen"
+    },
+    {
+      "category": "HIS",
+      "question": "What Clinton aide was dubbed \"the Louisiana loudmouth\" and \"the ragin' Cajun\"?",
+      "answer": "James Carville"
+    },
+    {
+      "category": "SN",
+      "question": "What tough, horny protein coats the outer layer of your epidermis?",
+      "answer": "Keratin"
+    },
+    {
+      "category": "SL",
+      "question": "Who won golf's Grand Slam in 1930 using a putter he'd nicknamed \"Calamity Jane\"?",
+      "answer": "Bobby Jones"
+    },
+    {
+      "category": "WC",
+      "question": "What capitalist pioneer penned An Inquiry into the Nature and Causes of the Wealth of Nations in 1776?",
+      "answer": "Adam Smith"
+    },
+    {
+      "category": "PP",
+      "question": "What city's rectangular layout inspired the redesign of Lisbon after a 1755 earthquake?",
+      "answer": "New York City's"
+    },
+    {
+      "category": "AE",
+      "question": "Who appeared in I Know What You Did Last Summer and Scream 2, when she wasn't slaying vampires?",
+      "answer": "Sarah Michelle Gellar"
+    },
+    {
+      "category": "HIS",
+      "question": "What group's three surviving sisters sent the McCaughey family a note of warning in 1997?",
+      "answer": "The Dionne quintuplets'"
+    },
+    {
+      "category": "SN",
+      "question": "What did Czech astronomers name after NHL star Dominik Hasek?",
+      "answer": "An asteroid"
+    },
+    {
+      "category": "SL",
+      "question": "What tennis star registered a 427-14 won-lost record between 1982 and 1986?",
+      "answer": "Martina Navratilova"
+    },
+    {
+      "category": "WC",
+      "question": "What skinny model prompted \"FEED ME\" graffiti on Calvin Klein ads in New York City in 1995?",
+      "answer": "Kate Moss"
+    },
+    {
+      "category": "PP",
+      "question": "What country's auto identification letters are KWT?",
+      "answer": "Kuwait's"
+    },
+    {
+      "category": "AE",
+      "question": "What learning disability did Theo Huxtable have to deal with?",
+      "answer": "Dyslexia"
+    },
+    {
+      "category": "HIS",
+      "question": "What military leader built wooden tanks to conceal from spy planes the actual number of working ones he had in North Africa?",
+      "answer": "Erwin Rommel"
+    },
+    {
+      "category": "SN",
+      "question": "How many poisonous birds are there in the world—1, 10 or 100?",
+      "answer": "One"
+    },
+    {
+      "category": "SL",
+      "question": "Who summed up a playoff loss to Jack Nicklaus at the 1991 U.S. Senior Open as \"The Bear crushed the Mouse\"?",
+      "answer": "Chi Chi Rodriguez"
+    },
+    {
+      "category": "WC",
+      "question": "What elected U.S. official has the zip code 20501?",
+      "answer": "The vice president"
+    },
+    {
+      "category": "PP",
+      "question": "How many women were there for every 20 men in Colorado, in 1865?",
+      "answer": "One"
+    },
+    {
+      "category": "AE",
+      "question": "What Anthony Hopkins role did People magazine call \"the Norman Bates of the '90s\"?",
+      "answer": "Hannibal Lecter"
+    },
+    {
+      "category": "HIS",
+      "question": "What revolution claimed 17,000 heads?",
+      "answer": "The French Revolution"
+    },
+    {
+      "category": "SN",
+      "question": "What tool does the Department of Defense refer to as a \"manually powered fastener-driving impact device\"?",
+      "answer": "A hammer"
+    },
+    {
+      "category": "SL",
+      "question": "What fraction does a Beanie Baby decrease in value if its \"swing\" tag is missing?",
+      "answer": "One-half"
+    },
+    {
+      "category": "WC",
+      "question": "What couple split up the week People magazine featured them in a 1998 cover story on \"Hollywood's Happy Couples\"?",
+      "answer": "Demi Moore and Bruce Willis"
+    },
+    {
+      "category": "PP",
+      "question": "What U.S. state grew the most in the 1990s, due to its thriving tourist industry?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "question": "What actor got a record 11th Oscar nomination in 1998?",
+      "answer": "Jack Nicholson"
+    },
+    {
+      "category": "HIS",
+      "question": "What sect was once forbidden by the Massachusetts General Court to wear anything adorned with lace?",
+      "answer": "The Puritans"
+    },
+    {
+      "category": "SN",
+      "question": "What human organ does a nephrologist treat?",
+      "answer": "Kidneys"
+    },
+    {
+      "category": "SL",
+      "question": "What left-handed baseball legend's statue in Baltimore mistakenly depicted him with a right-handed fielder's glove?",
+      "answer": "Babe Ruth's"
+    },
+    {
+      "category": "WC",
+      "question": "What day of the week do the most U.S. traffic accidents occur on?",
+      "answer": "Friday"
+    },
+    {
+      "category": "PP",
+      "question": "What Nepalese city's name means \"wooden temples\"?",
+      "answer": "Katmandu's"
+    },
+    {
+      "category": "AE",
+      "question": "What sitcom character accidentally tripped the president during a White House Easter egg hunt?",
+      "answer": "Murphy Brown"
+    },
+    {
+      "category": "HIS",
+      "question": "What animals killed the most workers who worked on building the Trans-Siberian Railway?",
+      "answer": "Tigers"
+    },
+    {
+      "category": "SN",
+      "question": "What's a praying mantis the only insect to have just one of?",
+      "answer": "An ear"
+    },
+    {
+      "category": "SL",
+      "question": "What baseball owner dyed a sheep green-and-gold and put it out to pasture behind the outfield fence in Kansas City?",
+      "answer": "Charlie Finley"
+    },
+    {
+      "category": "WC",
+      "question": "Who gave birth to Stella del Carmen Banderas in 1996?",
+      "answer": "Melanie Griffith"
+    },
+    {
+      "category": "PP",
+      "question": "What fast food college is found in Braintree, Massachusetts?",
+      "answer": "Dunkin' Donuts University"
+    },
+    {
+      "category": "AE",
+      "question": "What sitcom won the most Emmy Awards in the 1970s for Outstanding Comedy Series?",
+      "answer": "All in the Family"
+    },
+    {
+      "category": "HIS",
+      "question": "What European country adopted Dieu et mon droit, or \"God and my own right,\" as the motto of its royal arms in 1198?",
+      "answer": "Britain"
+    },
+    {
+      "category": "SN",
+      "question": "What's the only fish that produces real caviar, according to the FDA?",
+      "answer": "Sturgeon"
+    },
+    {
+      "category": "SL",
+      "question": "What type of score was worth the most points in college football's first scoring system?",
+      "answer": "A field goal"
+    },
+    {
+      "category": "WC",
+      "question": "Who did Richard Nixon say he picked to play shortstop on his all-presidents team because \"he was short\"?",
+      "answer": "James Madison"
+    },
+    {
+      "category": "PP",
+      "question": "How many of every six Canadian adults surveyed in 1998 knew that the Mackenzie was the country's longest river?",
+      "answer": "Two"
+    },
+    {
+      "category": "AE",
+      "question": "What 1996 movie was hyped: \"It Will Blow Audiences Right Out of the Theater\"?",
+      "answer": "Twister"
+    },
+    {
+      "category": "HIS",
+      "question": "What was 7-year-old Jessica Dubroff behind the controls of when she died in 1996?",
+      "answer": "An airplane"
+    },
+    {
+      "category": "SN",
+      "question": "Who invented the mechanism that rotated a revolver's cylinder automatically when the hammer was cocked?",
+      "answer": "Samuel Colt"
+    },
+    {
+      "category": "SL",
+      "question": "What former L.A. Dodgers southpaw autographed yarmulkes that fetched $75 each in 1995?",
+      "answer": "Sandy Koufax"
+    },
+    {
+      "category": "WC",
+      "question": "What beetle was celebrated in a nursery rhyme after farmers noticed its ability to consume crop-destroying insects?",
+      "answer": "The ladybug"
+    },
+    {
+      "category": "PP",
+      "question": "What country boasts the world's oldest active brewery, dating back to 1040 A.D.?",
+      "answer": "Germany"
+    },
+    {
+      "category": "AE",
+      "question": "What country star drew 300,000 fans to a Central Park concert, in 1997?",
+      "answer": "Garth Brooks"
+    },
+    {
+      "category": "HIS",
+      "question": "What three-word phrase for a bombing mission earned the Defense Department a Doublespeak Award in 1991?",
+      "answer": "\"Servicing the target\""
+    },
+    {
+      "category": "SN",
+      "question": "What does \"MIPS\" mean to speed-conscious computer users?",
+      "answer": "Million instructions per second"
+    },
+    {
+      "category": "SL",
+      "question": "What auto pioneer helped Charles Kingsford create and sell the first charcoal briquets?",
+      "answer": "Henry Ford"
+    },
+    {
+      "category": "WC",
+      "question": "What 73-year-old family patriarch died after a 100-foot fall in 1978?",
+      "answer": "Karl Wallenda"
+    },
+    {
+      "category": "PP",
+      "question": "What city did Conde Nast Traveler rate the world's most expensive for business travelers, in 1998?",
+      "answer": "Tokyo"
+    },
+    {
+      "category": "AE",
+      "question": "Who's the only actress to star in three Elvis Presley movies?",
+      "answer": "Shelley Fabares"
+    },
+    {
+      "category": "HIS",
+      "question": "What Old Testament patriarch is mentioned in the Bible a record 1,005 times?",
+      "answer": "David"
+    },
+    {
+      "category": "SN",
+      "question": "What science did Margaret Mead help popularize?",
+      "answer": "Anthropology"
+    },
+    {
+      "category": "SL",
+      "question": "Who was the only driver ever to win the Daytona 500, the Indy 500 and the Formula One world title?",
+      "answer": "Mario Andretti"
+    },
+    {
+      "category": "WC",
+      "question": "Who was the first White House cat since Amy Carter's Misty Malarky Yin Yang?",
+      "answer": "Socks"
+    },
+    {
+      "category": "PP",
+      "question": "What early Western Hemisphere people spoke Nahuatl?",
+      "answer": "The Aztecs"
+    },
+    {
+      "category": "AE",
+      "question": "What Friends star was tagged 'America's First Hairdo' by Rolling Stone?",
+      "answer": "Jennifer Aniston"
+    },
+    {
+      "category": "HIS",
+      "question": "Who described himself as 'the only Negro actor who makes a living' in motion pictures, at a 1962 congressional hearing?",
+      "answer": "Sidney Poitier"
+    },
+    {
+      "category": "SN",
+      "question": "What's the most popular domestic dog that doesn't shed?",
+      "answer": "The poodle"
+    },
+    {
+      "category": "SL",
+      "question": "What's the only Monopoly space a token cannot stay on?",
+      "answer": "\"Go to Jail\""
+    },
+    {
+      "category": "WC",
+      "question": "Who shocked opera buffs by lip-syncing a concert in his hometown of Modena, Italy in 1992?",
+      "answer": "Luciano Pavarotti"
+    },
+    {
+      "category": "PP",
+      "question": "What's the most common profession for female members of computer-dating clubs?",
+      "answer": "Teacher"
+    },
+    {
+      "category": "AE",
+      "question": "Who called a SWAT team to fetch her belongings when she split with Sean Penn?",
+      "answer": "Madonna"
+    },
+    {
+      "category": "HIS",
+      "question": "What First Lady fled the White House with the Declaration of Independence and her pet parrot when the British attacked in 1814?",
+      "answer": "Dolley Madison"
+    },
+    {
+      "category": "SN",
+      "question": "What disease is known as SIDA in French?",
+      "answer": "AIDS"
+    },
+    {
+      "category": "SL",
+      "question": "What record-low golf score have Al Geiberger and Chip Beck posted for 18 holes in PGA Tour events?",
+      "answer": "59"
+    },
+    {
+      "category": "WC",
+      "question": "Whose dietary proclivities were chronicled in The Burger and the King?",
+      "answer": "Elvis Presley's"
+    },
+    {
+      "category": "PP",
+      "question": "What New Mexico town has a radio station appropriately named KBOM?",
+      "answer": "Los Alamos"
+    },
+    {
+      "category": "AE",
+      "question": "What attorney said Jeremy Irons made a better Claus von Bulow than von Bulow himself?",
+      "answer": "Alan Dershowitz"
+    },
+    {
+      "category": "HIS",
+      "question": "What Latin leader did U.S. forces loudly serenade with I Fought the Law and Nowhere to Hide to encourage his surrender?",
+      "answer": "Manuel Noriega"
+    },
+    {
+      "category": "SN",
+      "question": "Who became the first golfer from Fiji to win a major tournament, in 1998?",
+      "answer": "Vijay Singh"
+    },
+    {
+      "category": "SL",
+      "question": "What basketball team had drubbed the New Jersey Reds 2,495 straight times before losing to them 100-99 in 1971?",
+      "answer": "The Harlem Globetrotters"
+    },
+    {
+      "category": "WC",
+      "question": "Where do 'open-collar workers' work?",
+      "answer": "At home"
+    },
+    {
+      "category": "PP",
+      "question": "What high-stakes city has the most unlisted phone numbers per capita in the U.S.?",
+      "answer": "Las Vegas"
+    },
+    {
+      "category": "AE",
+      "question": "What TV lawyer puts pickles on his peanut butter and banana sandwiches?",
+      "answer": "Benjamin Matlock"
+    },
+    {
+      "category": "HIS",
+      "question": "What famed public figures met in June, 1997 and died within a week of each other a few months later?",
+      "answer": "Princess Diana and Mother Teresa"
+    },
+    {
+      "category": "SN",
+      "question": "What does 'DVD' mean to video buffs?",
+      "answer": "Digital video disc"
+    },
+    {
+      "category": "SL",
+      "question": "What sent a titter across the center court crowd before the 1996 Wimbledon men's finals?",
+      "answer": "A streaker"
+    },
+    {
+      "category": "WC",
+      "question": "What sitcom character exhibited superhuman powers when it came to operating a jukebox?",
+      "answer": "Fonzie"
+    },
+    {
+      "category": "PP",
+      "question": "What's the former name of the Sixth Floor Museum in Dallas that attracted 440,000 visitors in 1997?",
+      "answer": "The Texas Book Depository"
+    },
+    {
+      "category": "AE",
+      "question": "What are the two most common unbowed stringed instruments found in a symphony orchestra?",
+      "answer": "The harp and piano"
+    },
+    {
+      "category": "HIS",
+      "question": "What nation's rebels were known as los barbudos, 'the bearded ones'?",
+      "answer": "Cuba's"
+    },
+    {
+      "category": "SN",
+      "question": "What nonwhite body part does a polar bear cover with its paw to escape detection when hunting seals?",
+      "answer": "Its nose"
+    },
+    {
+      "category": "SL",
+      "question": "What Chicago Bulls star honed his basketball skills at Gripe Park in Split, Croatia?",
+      "answer": "Toni Kukoc"
+    },
+    {
+      "category": "WC",
+      "question": "What future U.S. senator once scored 58 points in a Final Four basketball game?",
+      "answer": "Bill Bradley"
+    },
+    {
+      "category": "PP",
+      "question": "What nation yielded a 176-pound gold nugget named 'Welcome Stranger'?",
+      "answer": "Australia"
+    },
+    {
+      "category": "AE",
+      "question": "What San Francisco rock group spawned the phrase, 'What a long strange trip it's been'?",
+      "answer": "The Grateful Dead"
+    },
+    {
+      "category": "HIS",
+      "question": "Who did Alexander Butterfield help set up a voice-activated recording system for?",
+      "answer": "Richard Nixon"
+    },
+    {
+      "category": "SN",
+      "question": "What had sales of 15.5 million and accounted for half the world's auto output in a 19-year span?",
+      "answer": "The Model T Ford"
+    },
+    {
+      "category": "SL",
+      "question": "What artifact, two-and-a-half miles deep, could be toured for $32,500, in 1998?",
+      "answer": "The Titanic"
+    },
+    {
+      "category": "WC",
+      "question": "What F. Scott Fitzgerald novel's autographed first edition did Neiman-Marcus offer for $35,000 in its 1997 Christmas catalog?",
+      "answer": "The Great Gatsby"
+    },
+    {
+      "category": "PP",
+      "question": "What's the easternmost big city in Germany?",
+      "answer": "Berlin"
+    },
+    {
+      "category": "AE",
+      "question": "What animated ten-year-old was one of Time's 100 Artists and Entertainers of the Century?",
+      "answer": "Bart Simpson"
+    },
+    {
+      "category": "HIS",
+      "question": "What seductive World War I spy had a daughter named Banda who was also a spy?",
+      "answer": "Mata Hari"
+    },
+    {
+      "category": "SN",
+      "question": "What dehydrated land animal was clocked slamming back 56 gallons of water in 4.6 minutes?",
+      "answer": "An elephant"
+    },
+    {
+      "category": "SL",
+      "question": "What did the winner of 1984's Ugliest College Man Contest receive $50 worth of?",
+      "answer": "Plastic surgery"
+    },
+    {
+      "category": "WC",
+      "question": "What dancer did Esquire sum up as a 'wet-chested twinkle-toes bent on world domination'?",
+      "answer": "Michael Flatley"
+    },
+    {
+      "category": "PP",
+      "question": "What did 2.4 million visitors flock to see at a Turin cathedral in the spring of 1998?",
+      "answer": "The Shroud of Turin"
+    },
+    {
+      "category": "AE",
+      "question": "What instrumentalist sold a record seven million copies of a Christmas album, by 1997?",
+      "answer": "Kenny G"
+    },
+    {
+      "category": "HIS",
+      "question": "What war between Britain and France lasted 116 years?",
+      "answer": "The Hundred Years War"
+    },
+    {
+      "category": "SN",
+      "question": "What term for a unit of power did James Watt coin to help market his steam engines?",
+      "answer": "Horsepower"
+    },
+    {
+      "category": "SL",
+      "question": "What cigar did Castro stop handing out to visiting dignitaries, once they were made available to the public in 1983?",
+      "answer": "The Cohiba"
+    },
+    {
+      "category": "WC",
+      "question": "What country is the new Volkswagen Beetle produced in?",
+      "answer": "Mexico"
+    },
+    {
+      "category": "PP",
+      "question": "What European city hosted the last and biggest world's fair of the 20th century?",
+      "answer": "Lisbon"
+    },
+    {
+      "category": "AE",
+      "question": "What Cheers character named her twins after Elvis Presley and \"his dead twin brother Jesse\"?",
+      "answer": "Carla"
+    },
+    {
+      "category": "HIS",
+      "question": "What country's civil war was described as a \"rehearsal for World War II\"?",
+      "answer": "Spain's"
+    },
+    {
+      "category": "SN",
+      "question": "What surgical procedure is often performed on males who suffer from phimosis or balanitis?",
+      "answer": "Circumcision"
+    },
+    {
+      "category": "SL",
+      "question": "What two tournaments in golf's original Grand Slam were open to professionals?",
+      "answer": "The British Open and U.S. Open"
+    },
+    {
+      "category": "WC",
+      "question": "Whose hair clippings did a Montana jail barber say she'd use to tie fishing lures called \"Bombers,\" in 1996?",
+      "answer": "Ted Kaczynski's"
+    },
+    {
+      "category": "PP",
+      "question": "What northern U.S. city, halfway between New York and Tokyo, is known as the \"Crossroads of the World\"?",
+      "answer": "Anchorage"
+    },
+    {
+      "category": "AE",
+      "question": "What actress did Bob Newhart wake up in bed with, in the final episode of Newhart?",
+      "answer": "Suzanne Pleshette"
+    },
+    {
+      "category": "HIS",
+      "question": "What U.S. TV network became the first in 28 years to boast a bureau in Cuba, in 1997?",
+      "answer": "CNN"
+    },
+    {
+      "category": "SN",
+      "question": "What month will elapse without a full moon once every 2.5 million years?",
+      "answer": "February"
+    },
+    {
+      "category": "SL",
+      "question": "Who was the oldest active NFL running back in history, through 1997?",
+      "answer": "Marcus Allen"
+    },
+    {
+      "category": "WC",
+      "question": "What actress and former baseball wife had the tattoo \"David\" on her left buttock turned into a flower?",
+      "answer": "Halle Berry"
+    },
+    {
+      "category": "PP",
+      "question": "What theme park is found at Marne-la-Vallee?",
+      "answer": "Disneyland Paris"
+    },
+    {
+      "category": "AE",
+      "question": "What X-Files character's last words to Dana Scully were \"trust no one\"?",
+      "answer": "Deep Throat's"
+    },
+    {
+      "category": "HIS",
+      "question": "What tycoon bought the Desert Inn, in response to complaints that he was a cheap guest?",
+      "answer": "Howard Hughes"
+    },
+    {
+      "category": "SN",
+      "question": "What does a thanatophobic undertaker fear?",
+      "answer": "Death"
+    },
+    {
+      "category": "SL",
+      "question": "What Democrat said of Michael Jordan's 1998 performance: \"I tell you, that Michael Jackson is unbelievable, isn't he\"?",
+      "answer": "Al Gore"
+    },
+    {
+      "category": "WC",
+      "question": "What Diana Ross-Lionel Richie ditty became a wedding favorite?",
+      "answer": "Endless Love"
+    },
+    {
+      "category": "PP",
+      "question": "What African republic's name was inspired by its thriving elephant tusk trade?",
+      "answer": "Ivory Coast's"
+    },
+    {
+      "category": "AE",
+      "question": "What radio talk-show host lost a window dressing job when he staged striptease shows with mannequins?",
+      "answer": "Don Imus"
+    },
+    {
+      "category": "HIS",
+      "question": "What nation saw ten of its soldiers per week commit suicide in 1996?",
+      "answer": "Russia"
+    },
+    {
+      "category": "SN",
+      "question": "What's the name of Microsoft's internet browser?",
+      "answer": "Explorer"
+    },
+    {
+      "category": "SL",
+      "question": "Who was followed into a bathroom by two dozen Japanese reporters at baseball's 1995 All-Star Game?",
+      "answer": "Hideo Nomo"
+    },
+    {
+      "category": "WC",
+      "question": "What nation sells the most weapons worldwide?",
+      "answer": "The U.S."
+    },
+    {
+      "category": "PP",
+      "question": "What Boston green space, founded in 1634, is the oldest park in the U.S.?",
+      "answer": "The Boston Common"
+    },
+    {
+      "category": "AE",
+      "question": "What two Gilligan's Island characters were only mentioned as \"all the rest\" in the first season's theme song?",
+      "answer": "The Professor and Mary Ann"
+    },
+    {
+      "category": "HIS",
+      "question": "What country's ships transported four million African slaves to Brazil?",
+      "answer": "Portugal"
+    },
+    {
+      "category": "SN",
+      "question": "What company saw its Universal Bar Code adopted by grocery outlets in 1973?",
+      "answer": "IBM"
+    },
+    {
+      "category": "SL",
+      "question": "What 20-year-old golfer became South Korea's most famous athlete after she won two Majors in 1998?",
+      "answer": "Se Ri Pak"
+    },
+    {
+      "category": "WC",
+      "question": "What cable channel asked the burning question, \"How do you choose good rhubarb\"?",
+      "answer": "The TV Food Network"
+    },
+    {
+      "category": "PP",
+      "question": "What was the city of Edo renamed in 1869?",
+      "answer": "Tokyo"
+    },
+    {
+      "category": "AE",
+      "question": "What pills did Loretta Lynn say she'd \"have been swallowing like popcorn\" if they'd been around when she was younger?",
+      "answer": "Birth control pills"
+    },
+    {
+      "category": "HIS",
+      "question": "What was renamed Manchukuo after the Japanese invaded it in 1931?",
+      "answer": "Manchuria"
+    },
+    {
+      "category": "SN",
+      "question": "What baking ingredient, sprayed at high pressure, did the U.S. Air Force use to replace its toxic paint stripper?",
+      "answer": "Baking soda"
+    },
+    {
+      "category": "SL",
+      "question": "What Mighty Duck became the first NHL team captain of Japanese descent?",
+      "answer": "Paul Kariya"
+    },
+    {
+      "category": "WC",
+      "question": "What's TV ratings jargon for the percentage of turned-on sets tuned to a specific channel?",
+      "answer": "Share"
+    },
+    {
+      "category": "PP",
+      "question": "What country can an Afghani escape to through the Khyber Pass?",
+      "answer": "Pakistan"
+    },
+    {
+      "category": "AE",
+      "question": "Who once arrived for a New Orleans book-signing in a coffin?",
+      "answer": "Anne Rice"
+    },
+    {
+      "category": "HIS",
+      "question": "What Virginia valley was considered the \"breadbasket\" of the South in the Civil War?",
+      "answer": "Shenandoah"
+    },
+    {
+      "category": "SN",
+      "question": "What bird boasts a name that tells you it's the fastest of them all?",
+      "answer": "The swift"
+    },
+    {
+      "category": "SL",
+      "question": "How many positive scoring areas are there at one end of a shuffleboard court?",
+      "answer": "Five"
+    },
+    {
+      "category": "WC",
+      "question": "What 1965 innovation forced baseball stadium groundskeepers to work overtime cleaning tobacco juice from the playing field?",
+      "answer": "Astroturf"
+    },
+    {
+      "category": "PP",
       "question": "What U.S. state's high altitude nearly doubles the effects of auto emissions?",
       "answer": "Colorado's"
     },

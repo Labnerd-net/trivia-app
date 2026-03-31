@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_264",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What state did Mexico cede to the U.S. nine days after gold was discovered at John Sutter's mill?",
+      "answer": "California"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What band's fans did the Allman Brothers inherit in 1998, according to Gregg Allman?",
+      "answer": "The Grateful Dead's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 300-pound president married the daughter of his onetime law partner?",
+      "answer": "Grover Cleveland"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What anti-rejection drug improved the odds of surviving a heart transplant, in 1981?",
+      "answer": "Cyclosporine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What southern city had an NFL team with no stadium and a hockey arena with no team, in 1997?",
+      "answer": "Memphis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the term for a bond rated below investment grade?",
+      "answer": "Junk bond"
+    }
+  ]
+}

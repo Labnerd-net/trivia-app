@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_71",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What potent name did an Italian grocer by Lake Como give to a new soft cheese he began selling in 1998?",
+      "answer": "Viagra"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What do the initials in DreamWorks SKG represent?",
+      "answer": "Spielberg, Katzenberg, Geffen"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Clinton aide was dubbed \"the Louisiana loudmouth\" and \"the ragin' Cajun\"?",
+      "answer": "James Carville"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What tough, horny protein coats the outer layer of your epidermis?",
+      "answer": "Keratin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who won golf's Grand Slam in 1930 using a putter he'd nicknamed \"Calamity Jane\"?",
+      "answer": "Bobby Jones"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What capitalist pioneer penned An Inquiry into the Nature and Causes of the Wealth of Nations in 1776?",
+      "answer": "Adam Smith"
+    }
+  ]
+}

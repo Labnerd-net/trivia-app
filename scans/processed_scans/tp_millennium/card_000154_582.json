@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000154_582",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation yielded a 176-pound gold nugget named 'Welcome Stranger'?",
+      "answer": "Australia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What San Francisco rock group spawned the phrase, 'What a long strange trip it's been'?",
+      "answer": "The Grateful Dead"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did Alexander Butterfield help set up a voice-activated recording system for?",
+      "answer": "Richard Nixon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What had sales of 15.5 million and accounted for half the world's auto output in a 19-year span?",
+      "answer": "The Model T Ford"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What artifact, two-and-a-half miles deep, could be toured for $32,500, in 1998?",
+      "answer": "The Titanic"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What F. Scott Fitzgerald novel's autographed first edition did Neiman-Marcus offer for $35,000 in its 1997 Christmas catalog?",
+      "answer": "The Great Gatsby"
+    }
+  ]
+}

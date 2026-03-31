@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_599",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Western Hemisphere nation boasted the largest U.N. peacekeeping force, by 1997?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What does Paula Abdul like to get out of her system before singing a really high note?",
+      "answer": "A belch"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. organization first used the phrase \"plausible deniability\" with regard to covert acts?",
+      "answer": "The CIA"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's does \"LAN\" mean to a techie?",
+      "answer": "Local Area Network"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What coach copped an Esquire Dubious Achievement Award for \"Gun-Toting Cowboy Dumbass of the Year\"?",
+      "answer": "Barry Switzer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Persian Gulf War honcho coined the phrase \"bovine scatology\"?",
+      "answer": "Gen. Norman Schwarzkopf"
+    }
+  ]
+}

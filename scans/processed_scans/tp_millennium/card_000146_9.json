@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000146_9",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What ethnic group was the fastest-growing voting bloc in the U.S. by the end of the 20th century?",
+      "answer": "Hispanics"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What aging blonde titled her workout video It's Simple, Darling?",
+      "answer": "Zsa Zsa Gabor"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Clinton advisor coined the 1992 election catch phrase: 'It's the economy, stupid'?",
+      "answer": "James Carville"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many 1990s cigarettes must you smoke to get the toxic effect of one 1950s cigarette?",
+      "answer": "Three"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What seven-foot-one NBA star of the 1960s was born to parents who stood five-foot-eight?",
+      "answer": "Wilt Chamberlain"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What singer finally gave a beer to the Bud Light 'I love you, man' guy?",
+      "answer": "Barry White"
+    }
+  ]
+}

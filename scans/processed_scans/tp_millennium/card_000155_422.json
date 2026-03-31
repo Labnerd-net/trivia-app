@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000155_422",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What theme park is found at Marne-la-Vallee?",
+      "answer": "Disneyland Paris"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What X-Files character's last words to Dana Scully were \"trust no one\"?",
+      "answer": "Deep Throat's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What tycoon bought the Desert Inn, in response to complaints that he was a cheap guest?",
+      "answer": "Howard Hughes"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does a thanatophobic undertaker fear?",
+      "answer": "Death"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Democrat said of Michael Jordan's 1998 performance: \"I tell you, that Michael Jackson is unbelievable, isn't he\"?",
+      "answer": "Al Gore"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Diana Ross-Lionel Richie ditty became a wedding favorite?",
+      "answer": "Endless Love"
+    }
+  ]
+}

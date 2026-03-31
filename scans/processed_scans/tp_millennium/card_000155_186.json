@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000155_186",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What northern U.S. city, halfway between New York and Tokyo, is known as the \"Crossroads of the World\"?",
+      "answer": "Anchorage"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What actress did Bob Newhart wake up in bed with, in the final episode of Newhart?",
+      "answer": "Suzanne Pleshette"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. TV network became the first in 28 years to boast a bureau in Cuba, in 1997?",
+      "answer": "CNN"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What month will elapse without a full moon once every 2.5 million years?",
+      "answer": "February"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the oldest active NFL running back in history, through 1997?",
+      "answer": "Marcus Allen"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What actress and former baseball wife had the tattoo \"David\" on her left buttock turned into a flower?",
+      "answer": "Halle Berry"
+    }
+  ]
+}

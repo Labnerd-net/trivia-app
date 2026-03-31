@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_434",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What desert covers 130,000 square miles of Turkmenistan?",
+      "answer": "The Kara Kum"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Fiddler on the Roof song does Seinfeld's George Costanza whistle while posing as a neo-Nazi?",
+      "answer": "If I Were a Rich Man"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the lowest tax rate in U.S. history, in effect from 1913 to 1915?",
+      "answer": "One percent"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What herbal pill's maker was ordered in 1998 to send refunds to 9,000 people who had confused it with a hot new drug?",
+      "answer": "Viagra"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What golfing feat did sportswriter Grantland Rice dub 'the impregnable quadrilateral'?",
+      "answer": "The Grand Slam"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who claimed he never asked 'Did you ever wonder?' in over 600 pieces on CBS?",
+      "answer": "Andy Rooney"
+    }
+  ]
+}

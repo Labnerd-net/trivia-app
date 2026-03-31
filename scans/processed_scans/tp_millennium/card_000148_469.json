@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000148_469",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What river does the Brahmaputra meet to form the world's largest delta?",
+      "answer": "The Ganges River"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What comedian shares her name with a major league baseball player?",
+      "answer": "Brett Butler"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who stayed awake crossing the Atlantic by repeating the line: 'There's no alternative but death and failure'?",
+      "answer": "Charles Lindbergh"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What drug, banned in the 1960s, was approved for the treatment of leprosy in 1998?",
+      "answer": "Thalidomide"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who broke Sachio Kinugasa's world record of 2,215 consecutive games played, in 1996?",
+      "answer": "Cal Ripken Jr."
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How much did Claire Beckmann pay at a yard sale for the card table that fetched $490,000 at auction—$2.50, $25 or $250?",
+      "answer": "$25"
+    }
+  ]
+}

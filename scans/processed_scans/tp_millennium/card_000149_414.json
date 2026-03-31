@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000149_414",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What storied Sudanese city's name means \"elephant's trunk\"?",
+      "answer": "Khartoum's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who starred in six horror flicks based on Edgar Allan Poe works between 1960 and 1964?",
+      "answer": "Vincent Price"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did a hacker re-title the CIA's Web site home page, in 1996?",
+      "answer": "\"Welcome to the Central Stupidity Agency\""
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did the ancient Greeks believe to be a cross between a tiger and a horse?",
+      "answer": "A zebra"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Cy Young Award-winner continued to hurl for a prison team called the Detroit Dennys?",
+      "answer": "Denny McLain"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. astronaut once bashed balls on the professional tennis circuit?",
+      "answer": "Sally Ride"
+    }
+  ]
+}

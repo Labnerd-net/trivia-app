@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000151_294",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Which extends further north—Japan, North Korea or Turkey?",
+      "answer": "Japan"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What are the first four words of the Alka-Seltzer jingle written by the father of ER star Julianna Margulies?",
+      "answer": "\"Plop, plop, fizz, fizz\""
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What famous slave was the legal property of a child named Putnam Moore?",
+      "answer": "Nat Turner"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What planet's 17-mile-high Olympus Mons is the largest mountain in the solar system?",
+      "answer": "Mars"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who won 10 Olympic gold medals and 8 world titles before retiring in 1997?",
+      "answer": "Carl Lewis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who claims to be named after Sir Edmund Hillary, despite being born six years before he climbed Mount Everest?",
+      "answer": "Hillary Rodham Clinton"
+    }
+  ]
+}

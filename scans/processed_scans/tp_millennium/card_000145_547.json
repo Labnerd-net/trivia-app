@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_547",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Atlantic Coast state would you be stuck in if you felt depressed in Good Times?",
+      "answer": "South Carolina"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Gilligan's Island character was originally slated to have the first name Willie?",
+      "answer": "Gilligan"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "How many women were chief executives of Fortune 500 companies, in 1998?",
+      "answer": "Two"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What two astronomical objects pull equally at the Solar and Heliospheric Observatory?",
+      "answer": "Earth and the Sun"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What record-setting quarterback was the NFL's 82nd draft pick in 1979?",
+      "answer": "Joe Montana"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What First Lady conversed with Eleanor Roosevelt during visualization 'exercises,' according to a book called The Choice?",
+      "answer": "Hillary Rodham Clinton"
+    }
+  ]
+}

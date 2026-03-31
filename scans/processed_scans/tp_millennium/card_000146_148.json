@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000146_148",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What does 'NIMBY' mean to those opposed to landfills, prisons and incinerators proposed for their neighborhoods?",
+      "answer": "Not in my back yard"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie caused Newsweek to note, 'All is forgiven for The Cable Guy'?",
+      "answer": "The Truman Show"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What year did Christopher Columbus claim Cuba for Spain?",
+      "answer": "1492"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What nuclear power plant's mishap spewed one-millionth the amount of radiation as the Chernobyl disaster?",
+      "answer": "Three Mile Island's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What part of an eatery do some restaurant owners call 'the cancer ward'?",
+      "answer": "The smoking section"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What slim volume began a record 161-week stint atop the hardcover fiction best-seller list in 1993?",
+      "answer": "The Bridges of Madison County"
+    }
+  ]
+}

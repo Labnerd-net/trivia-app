@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000149_411",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent boasted 12 cities with populations of over 10 million, by 1998?",
+      "answer": "Asia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What song did a Florida radio station play for 24 straight hours to kick off its all-Led Zeppelin format, in 1990?",
+      "answer": "Stairway to Heaven"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What British royal died in the arms of grandson Kaiser Wilhelm in 1901?",
+      "answer": "Queen Victoria"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the tradename for the sucrose polyester often used in low-fat potato chips?",
+      "answer": "Olestra"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What is slurped by more people than any other beverage except water?",
+      "answer": "Tea"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What world leader asked for 20 cassettes of Mork and Mindy episodes to pass the time during his exile in Panama, in 1979?",
+      "answer": "The Shah of Iran"
+    }
+  ]
+}

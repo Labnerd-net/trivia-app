@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000149_426",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city offered the first pay toilets, in 1865?",
+      "answer": "London"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who had fat cells from his butt injected around his eyes and forehead before a TV studio audience?",
+      "answer": "Geraldo Rivera"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What weekly U.S. magazine has seen seven of its journalists killed while covering wars?",
+      "answer": "Time"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What stimulant do 8 out of 10 in the U.S. consume 200 milligrams of every day?",
+      "answer": "Caffeine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Gillette product's ads had Scottie Pippen and Emmitt Smith say \"Anything less would be uncivilized\"?",
+      "answer": "Right Guard"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What fad pets of the 1980s were increasingly in the food pots of the 1990s?",
+      "answer": "Vietnamese pot-bellied pigs"
+    }
+  ]
+}

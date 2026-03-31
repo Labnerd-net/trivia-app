@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000149_192",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Tennessee town was named after a U.S. aluminum company?",
+      "answer": "Alcoa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Saturday Night Live star did Chris Farley say was \"totally my hero\"?",
+      "answer": "John Belushi"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What scandal did independent prosecutor Lawrence Walsh spend $40 million investigating?",
+      "answer": "The Iran-Contra scandal"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What color does litmus turn when dipped into acid?",
+      "answer": "Pink"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Where are teens with the munchies headed if they go to the \"DQ\"?",
+      "answer": "Dairy Queen"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What gasoline company was embarrassed to learn that its \"No-Nox\" brand name was Japanese for a woman's nether regions?",
+      "answer": "Gulf"
+    }
+  ]
+}

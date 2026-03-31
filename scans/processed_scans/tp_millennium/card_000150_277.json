@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_277",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation's treasures include the Sistine Chapel?",
+      "answer": "Vatican City's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the first woman inducted into the Rock and Roll Hall of Fame, in 1987?",
+      "answer": "Aretha Franklin"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Canadian province's language cops busted a pet shop for selling a parrot that spoke English, in 1996?",
+      "answer": "Quebec's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What element was converted to plutonium in the first nuclear reactors?",
+      "answer": "Uranium"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA player championed virginity with the rap video It Ain't Worth It?",
+      "answer": "A.C. Green"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Tom Cruise movie sparked over 250,000 sales of Ray-Ban Wayfarers in 1983, up from 18,000 two years earlier?",
+      "answer": "Risky Business"
+    }
+  ]
+}

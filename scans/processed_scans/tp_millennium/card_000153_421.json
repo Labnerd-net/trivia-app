@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_421",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many women were there for every 20 men in Colorado, in 1865?",
+      "answer": "One"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Anthony Hopkins role did People magazine call \"the Norman Bates of the '90s\"?",
+      "answer": "Hannibal Lecter"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What revolution claimed 17,000 heads?",
+      "answer": "The French Revolution"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What tool does the Department of Defense refer to as a \"manually powered fastener-driving impact device\"?",
+      "answer": "A hammer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What fraction does a Beanie Baby decrease in value if its \"swing\" tag is missing?",
+      "answer": "One-half"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What couple split up the week People magazine featured them in a 1998 cover story on \"Hollywood's Happy Couples\"?",
+      "answer": "Demi Moore and Bruce Willis"
+    }
+  ]
+}

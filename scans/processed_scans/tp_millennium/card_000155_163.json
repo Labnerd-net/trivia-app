@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000155_163",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European city hosted the last and biggest world's fair of the 20th century?",
+      "answer": "Lisbon"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Cheers character named her twins after Elvis Presley and \"his dead twin brother Jesse\"?",
+      "answer": "Carla"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country's civil war was described as a \"rehearsal for World War II\"?",
+      "answer": "Spain's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What surgical procedure is often performed on males who suffer from phimosis or balanitis?",
+      "answer": "Circumcision"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two tournaments in golf's original Grand Slam were open to professionals?",
+      "answer": "The British Open and U.S. Open"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose hair clippings did a Montana jail barber say she'd use to tie fishing lures called \"Bombers,\" in 1996?",
+      "answer": "Ted Kaczynski's"
+    }
+  ]
+}

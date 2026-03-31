@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000148_427",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Milanese opera house has a name that translates to 'The Stairs'?",
+      "answer": "La Scala"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What aging pop icon forgot the lyrics to We Can Work It Out on MTV Unplugged?",
+      "answer": "Paul McCartney"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the collective name for 19 million gallons of herbicides dumped over Vietnam by U.S. troops?",
+      "answer": "Agent Orange"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What software outfit do detractors call 'The Evil Empire'?",
+      "answer": "Microsoft"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many times has Michael Jordan played a seventh game in the NBA finals, through 1998?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What New Age performer grossed a staggering $37 million for his first 92 shows in 1998?",
+      "answer": "Yanni"
+    }
+  ]
+}

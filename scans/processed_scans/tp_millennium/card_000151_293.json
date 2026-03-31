@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000151_293",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What institution can you contact by dialing 1-800-493-ROLL?",
+      "answer": "The Rock and Roll Hall of Fame and Museum"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What author said in 1998: \"I watch lawyers. I watch trials...I get my ideas from CNN and USA Today\"?",
+      "answer": "John Grisham"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Republican took exception to being labeled \"the human Edsel\"?",
+      "answer": "Richard Nixon"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What word is typically used to describe a period in Internet addresses?",
+      "answer": "Dot"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What future NBA star was dubbed \"Boy Gorge\" when his weight passed 300 pounds in college?",
+      "answer": "Charles Barkley"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What machine did Timothy Leary call \"the LSD of the 1990s\"?",
+      "answer": "The personal computer"
+    }
+  ]
+}

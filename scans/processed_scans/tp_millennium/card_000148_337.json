@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000148_337",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Yukon mining district was the site of the 1890s gold rush?",
+      "answer": "Klondike"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did a New York Times poll find to be the favorite TV network of 13-to-17-year-olds, in 1998?",
+      "answer": "Fox"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What popular lighter did Vietcong booby trap and leave in bars for unsuspecting GIs?",
+      "answer": "Zippo"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of rays did Paul Villard discover in 1900, to earn a mention in science books?",
+      "answer": "Gamma rays"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What team sport has a major foul called submerging?",
+      "answer": "Water polo"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What sitcom star was made an honorary deputy sheriff in his West Virginia hometown?",
+      "answer": "Don Knotts"
+    }
+  ]
+}

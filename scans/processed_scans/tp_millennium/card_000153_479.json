@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_479",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state grew the most in the 1990s, due to its thriving tourist industry?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What actor got a record 11th Oscar nomination in 1998?",
+      "answer": "Jack Nicholson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What sect was once forbidden by the Massachusetts General Court to wear anything adorned with lace?",
+      "answer": "The Puritans"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What human organ does a nephrologist treat?",
+      "answer": "Kidneys"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What left-handed baseball legend's statue in Baltimore mistakenly depicted him with a right-handed fielder's glove?",
+      "answer": "Babe Ruth's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What day of the week do the most U.S. traffic accidents occur on?",
+      "answer": "Friday"
+    }
+  ]
+}

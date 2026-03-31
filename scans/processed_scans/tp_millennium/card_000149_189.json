@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000149_189",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What remote region of Russia borders China, Kazakhstan and Mongolia?",
+      "answer": "Siberia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Broadway show went through 2,488 pounds of yak hair between 1982 and 1995?",
+      "answer": "Cats"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Mississippi city's residents did not celebrate the Fourth of July until 1945, after losing a Civil War battle in 1863?",
+      "answer": "Vicksburg's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What uncooked meat is a trichina worm most likely to make a home in?",
+      "answer": "Pork"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What tennis champ held the men's number one spot for a record 270 weeks?",
+      "answer": "Ivan Lendl"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What politician's hairstyles have been dubbed \"Young Elvis,\" the \"Porcupine,\" \"We Have Liftoff\" and \"Younger than Dole\"?",
+      "answer": "Bill Clinton's"
+    }
+  ]
+}

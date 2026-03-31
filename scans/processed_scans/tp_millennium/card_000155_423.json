@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000155_423",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What African republic's name was inspired by its thriving elephant tusk trade?",
+      "answer": "Ivory Coast's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What radio talk-show host lost a window dressing job when he staged striptease shows with mannequins?",
+      "answer": "Don Imus"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation saw ten of its soldiers per week commit suicide in 1996?",
+      "answer": "Russia"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the name of Microsoft's internet browser?",
+      "answer": "Explorer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was followed into a bathroom by two dozen Japanese reporters at baseball's 1995 All-Star Game?",
+      "answer": "Hideo Nomo"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What nation sells the most weapons worldwide?",
+      "answer": "The U.S."
+    }
+  ]
+}

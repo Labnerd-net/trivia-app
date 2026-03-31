@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_142",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What former riverboat pilot and author called the Mississippi 'the crookedest river in the world'?",
+      "answer": "Mark Twain"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What group grabbed three Grammys in 1996, one less than they had during the entire 1960s?",
+      "answer": "The Beatles"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What future turncoat fought alongside Ethan Allen to help capture Fort Ticonderoga?",
+      "answer": "Benedict Arnold"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What transparent material is produced by heating lime, sand and soda?",
+      "answer": "Glass"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What beverage was first slurped in Jacob's Pharmacy in Atlanta on May 8, 1886?",
+      "answer": "Coca-Cola"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's known to Pentagon procurement people as a 'portable handheld communications inscriber'?",
+      "answer": "A pen"
+    }
+  ]
+}

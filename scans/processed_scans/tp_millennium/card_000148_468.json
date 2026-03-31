@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000148_468",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city is Mother Teresa buried in?",
+      "answer": "Calcutta"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What former talk show host and best friend advised Earvin Johnson to launch The Magic Hour in 1998?",
+      "answer": "Arsenio Hall"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. president inspired the Washington Post to coin the term 'credibility gap'?",
+      "answer": "Lyndon B. Johnson"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What piece of lumber's actual size is one-and-a-half by three-and-a-half inches when 'surfaced'?",
+      "answer": "A two-by-four"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA coach is the all-time leader in playoff wins?",
+      "answer": "Pat Riley"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1994 parody magazine of Martha Stewart had a recipe for 'making water from scratch'?",
+      "answer": "Is Martha Stuart Living?"
+    }
+  ]
+}

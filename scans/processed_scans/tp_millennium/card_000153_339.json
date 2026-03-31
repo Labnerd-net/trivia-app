@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_339",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's auto identification letters are KWT?",
+      "answer": "Kuwait's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What learning disability did Theo Huxtable have to deal with?",
+      "answer": "Dyslexia"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What military leader built wooden tanks to conceal from spy planes the actual number of working ones he had in North Africa?",
+      "answer": "Erwin Rommel"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many poisonous birds are there in the world—1, 10 or 100?",
+      "answer": "One"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who summed up a playoff loss to Jack Nicklaus at the 1991 U.S. Senior Open as \"The Bear crushed the Mouse\"?",
+      "answer": "Chi Chi Rodriguez"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What elected U.S. official has the zip code 20501?",
+      "answer": "The vice president"
+    }
+  ]
+}

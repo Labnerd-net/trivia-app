@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000155_512",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country can an Afghani escape to through the Khyber Pass?",
+      "answer": "Pakistan"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who once arrived for a New Orleans book-signing in a coffin?",
+      "answer": "Anne Rice"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Virginia valley was considered the \"breadbasket\" of the South in the Civil War?",
+      "answer": "Shenandoah"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bird boasts a name that tells you it's the fastest of them all?",
+      "answer": "The swift"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many positive scoring areas are there at one end of a shuffleboard court?",
+      "answer": "Five"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 1965 innovation forced baseball stadium groundskeepers to work overtime cleaning tobacco juice from the playing field?",
+      "answer": "Astroturf"
+    }
+  ]
+}

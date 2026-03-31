@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_353",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What tourist spot is bounded by the Great Hall of the People, the Museum of the Chinese Revolution and Mao's mausoleum?",
+      "answer": "Tiananmen Square"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did \"Butterfly\" McQueen refuse to eat for a Gone With the Wind scene?",
+      "answer": "Watermelon"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What city were the Oklahoma City bombing trials held in?",
+      "answer": "Denver"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What site's nuclear reactor and fuel did GPU Inc. unload for a cool $100 million in 1998?",
+      "answer": "Three Mile Island's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sport's supreme champion attains the rank of yokozuna?",
+      "answer": "Sumo wrestling's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What four-cylinder minivan has seven seats so six passengers can help push it up hills, according to Car Talk?",
+      "answer": "The Dodge Caravan"
+    }
+  ]
+}

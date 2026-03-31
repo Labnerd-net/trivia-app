@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000148_106",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What direction would your ship travel in the Panama Canal, going from Atlantic to Pacific—west, southwest or southeast?",
+      "answer": "Southeast"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What letter is used by TV types to denote a performer's 'recognition factor'?",
+      "answer": "Q"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What's AIM an acronym for, to a Native American?",
+      "answer": "American Indian Movement"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What will the International Maritime Organization stop recognizing for distress calls, starting in 1999?",
+      "answer": "Morse code"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What football team was founded in 1919 by Curly Lambeau?",
+      "answer": "The Green Bay Packers"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What line from a Gary Puckett song was Sam Donaldson heard gleefully singing during the Clinton-Lewinsky scandal?",
+      "answer": "\"Young girl, get outta my life\""
+    }
+  ]
+}

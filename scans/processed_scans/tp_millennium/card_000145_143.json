@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_143",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Australian tourist attraction is often called the 'world's largest living creature'?",
+      "answer": "The Great Barrier Reef"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What group has more gold, platinum and multi-platinum albums than any other?",
+      "answer": "The Rolling Stones"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What crooner produced inauguration balls for John F. Kennedy and Ronald Reagan?",
+      "answer": "Frank Sinatra"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What make of plane was the first to time its machine gun to fire between the blades of its propeller?",
+      "answer": "Fokker"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What socially conscious media mogul helped create World Championship Wrestling?",
+      "answer": "Ted Turner"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What annually updated book has total sales of over 80 million copies, since it first hit the shelves in 1955?",
+      "answer": "The Guinness Book of World Records"
+    }
+  ]
+}

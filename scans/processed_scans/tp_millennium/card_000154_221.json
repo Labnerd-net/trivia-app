@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000154_221",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the most common profession for female members of computer-dating clubs?",
+      "answer": "Teacher"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who called a SWAT team to fetch her belongings when she split with Sean Penn?",
+      "answer": "Madonna"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What First Lady fled the White House with the Declaration of Independence and her pet parrot when the British attacked in 1814?",
+      "answer": "Dolley Madison"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What disease is known as SIDA in French?",
+      "answer": "AIDS"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What record-low golf score have Al Geiberger and Chip Beck posted for 18 holes in PGA Tour events?",
+      "answer": "59"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose dietary proclivities were chronicled in The Burger and the King?",
+      "answer": "Elvis Presley's"
+    }
+  ]
+}

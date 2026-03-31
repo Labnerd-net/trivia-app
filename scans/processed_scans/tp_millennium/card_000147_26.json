@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_26",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What are the six official languages of the United Nations?",
+      "answer": "Arabic, Chinese, English, French, Russian, Spanish"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who flogged his fragrance, Release Me, on the Home Shopping Channel?",
+      "answer": "Engelbert Humperdinck"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What former Montgomery, Alabama resident once remarked: \"My only concern was to get home after a hard day's work\"?",
+      "answer": "Rosa Parks"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What O-word describes oxygen with molecules that have three atoms instead of two?",
+      "answer": "Ozone"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What day of the year are all racehorses considered to turn one year older?",
+      "answer": "January 1"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What newspaper items did Patrick Oliphant, Herbert L. Block and Jules Feiffer win Pulitzer Prizes for?",
+      "answer": "Editorial cartoons"
+    }
+  ]
+}

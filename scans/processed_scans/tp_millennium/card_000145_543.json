@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_543",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country is known as Schweiz in German and Svizerra in Italian?",
+      "answer": "Switzerland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What song has Roy Orbison asking the musical question: 'Are you walking back to me'?",
+      "answer": "Oh, Pretty Woman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 20th-century decade gave the world aerosol insect sprays, Cheerios and napalm?",
+      "answer": "The 1940s"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What do you call an angle more than 90 degrees and less than 180 degrees?",
+      "answer": "Obtuse"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What cereal box informed Conor Bird that his dad Larry played basketball before he became a coach?",
+      "answer": "Wheaties"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What stewed fruit dish do lunch-counter workers refer to as 'looseners'?",
+      "answer": "Stewed prunes"
+    }
+  ]
+}

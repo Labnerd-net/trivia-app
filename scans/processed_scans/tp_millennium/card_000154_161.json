@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000154_161",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city did Conde Nast Traveler rate the world's most expensive for business travelers, in 1998?",
+      "answer": "Tokyo"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who's the only actress to star in three Elvis Presley movies?",
+      "answer": "Shelley Fabares"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Old Testament patriarch is mentioned in the Bible a record 1,005 times?",
+      "answer": "David"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What science did Margaret Mead help popularize?",
+      "answer": "Anthropology"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the only driver ever to win the Daytona 500, the Indy 500 and the Formula One world title?",
+      "answer": "Mario Andretti"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who was the first White House cat since Amy Carter's Misty Malarky Yin Yang?",
+      "answer": "Socks"
+    }
+  ]
+}

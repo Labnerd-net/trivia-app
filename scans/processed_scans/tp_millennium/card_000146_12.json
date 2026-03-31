@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000146_12",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent boasts the greatest number of Roman Catholics?",
+      "answer": "South America"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What talk show host labeled defenders of photographer Robert Mapplethorpe the 'arts and croissant crowd'?",
+      "answer": "Rush Limbaugh"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who earned a Nobel Prize for peace for his role in resolving the Russo-Japanese War?",
+      "answer": "Theodore Roosevelt"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did Internet civil libertarians call their $200,000 computer that cracked IBM's DES code?",
+      "answer": "Deep Crack"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What summer classic was originally billed as 'The Lawn Tennis Championships'?",
+      "answer": "Wimbledon"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What aged comedian became the first Honorary Veteran of the U.S. Armed Forces, in 1997?",
+      "answer": "Bob Hope"
+    }
+  ]
+}

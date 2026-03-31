@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000154_74",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the easternmost big city in Germany?",
+      "answer": "Berlin"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What animated ten-year-old was one of Time's 100 Artists and Entertainers of the Century?",
+      "answer": "Bart Simpson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What seductive World War I spy had a daughter named Banda who was also a spy?",
+      "answer": "Mata Hari"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What dehydrated land animal was clocked slamming back 56 gallons of water in 4.6 minutes?",
+      "answer": "An elephant"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did the winner of 1984's Ugliest College Man Contest receive $50 worth of?",
+      "answer": "Plastic surgery"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What dancer did Esquire sum up as a 'wet-chested twinkle-toes bent on world domination'?",
+      "answer": "Michael Flatley"
+    }
+  ]
+}

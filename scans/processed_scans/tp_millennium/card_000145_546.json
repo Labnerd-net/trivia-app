@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_546",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What famous gunslinger robbed his first bank in Telluride?",
+      "answer": "Butch Cassidy"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What are the titles of the three sequels to the movie Alien?",
+      "answer": "Aliens, Alien 3, Alien Resurrection"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What part of the United Kingdom began suffering from what it called 'the Troubles' in 1969?",
+      "answer": "Northern Ireland"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 1957 Soviet feat prompted the U.S. to mandate more math and science in schools?",
+      "answer": "The Sputnik launch"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What baseball owner served water and cookies to umpires in the fifth inning of home games?",
+      "answer": "Charlie Finley"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who was the first U.S. president to take a ride in a car?",
+      "answer": "William McKinley"
+    }
+  ]
+}

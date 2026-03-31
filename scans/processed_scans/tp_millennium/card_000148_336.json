@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000148_336",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What would you be ordering in a restaurant in France if you asked for pommes frites?",
+      "answer": "French fries"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV show has bad guys named Professor Monkey-for-a-Head, Evil the Cat from Heck and Bob, the Killer Goldfish?",
+      "answer": "Earthworm Jim"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose 1916 U.S. presidential campaign slogan was: 'He kept us out of war'?",
+      "answer": "Woodrow Wilson's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does 'CPR' stand for in medical emergencies?",
+      "answer": "Cardiopulmonary resuscitation"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What boxer made his first title defense in 21 years, in 1995?",
+      "answer": "George Foreman"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What two-word phrase for physical resemblance has more to do with the expression 'spirit and image' than with expectoration?",
+      "answer": "Spittin' image"
+    }
+  ]
+}

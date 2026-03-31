@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_13",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Nevada tourist mecca offers Hossburgers at a restaurant called Hop Sing's?",
+      "answer": "The Ponderosa Ranch"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What became the best-selling single of all time in 1997?",
+      "answer": "Candle in the Wind 1997"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the first war the U.S. took part in that was partially financed with lottery dollars?",
+      "answer": "The Revolutionary War"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What marsupial averages 22 hours of sleep per day?",
+      "answer": "The koala bear"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What nation saw its sports channel TSN sloganize: \"Curling rocks\"?",
+      "answer": "Canada"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who cared for cats named Tommy and Boche while hiding in an attic during World War II?",
+      "answer": "Anne Frank"
+    }
+  ]
+}

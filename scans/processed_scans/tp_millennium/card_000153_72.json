@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_72",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country boasts the world's oldest active brewery, dating back to 1040 A.D.?",
+      "answer": "Germany"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What country star drew 300,000 fans to a Central Park concert, in 1997?",
+      "answer": "Garth Brooks"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What three-word phrase for a bombing mission earned the Defense Department a Doublespeak Award in 1991?",
+      "answer": "\"Servicing the target\""
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does \"MIPS\" mean to speed-conscious computer users?",
+      "answer": "Million instructions per second"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What auto pioneer helped Charles Kingsford create and sell the first charcoal briquets?",
+      "answer": "Henry Ford"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 73-year-old family patriarch died after a 100-foot fall in 1978?",
+      "answer": "Karl Wallenda"
+    }
+  ]
+}

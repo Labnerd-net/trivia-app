@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_307",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What republic would a Finn reach by paddling due south from Helsinki?",
+      "answer": "Estonia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom's stars actually guzzled Kingsburg nonalcoholic beer for six seasons?",
+      "answer": "Cheers"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 1839 innovation changed the face of mail delivery?",
+      "answer": "The envelope"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What can be determined by the number of rings on the scales of a fish?",
+      "answer": "Its age"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was first distilled at Montpellier medical school, in 1300 A.D.?",
+      "answer": "Brandy"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What ladies' man did Gloria Steinem share the stage with when they entered the Society of Magazine Editors Hall of Fame in 1998?",
+      "answer": "Hugh Hefner"
+    }
+  ]
+}

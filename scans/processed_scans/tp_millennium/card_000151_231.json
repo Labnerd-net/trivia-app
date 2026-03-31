@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000151_231",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation's tourist ad said in 1998: \"We're 50 Today. (But we don't feel a day over 4,000)\"?",
+      "answer": "Israel's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Beatles album spent the longest time atop the charts, at 15 weeks?",
+      "answer": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What New Yorker inspired the headline \"Teen Fatal Attraction\" in 1992?",
+      "answer": "Amy Fisher"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What color are a zebra's black stripes during the first six months of life?",
+      "answer": "Brown"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the first female to run the 100-meter dash in less than 11 seconds, in 1979?",
+      "answer": "Evelyn Ashford"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What slogan did Adolph S. Ochs give The New York Times after he eliminated its romantic fiction in 1896?",
+      "answer": "\"All the News That's Fit to Print\""
+    }
+  ]
+}

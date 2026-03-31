@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_14",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What were the first three former Warsaw Pact nations to join NATO?",
+      "answer": "Poland, Hungary, Czech Republic"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What animated heroine gave Popeye the Sailor his first break in show biz?",
+      "answer": "Betty Boop"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What atomic physicist's lover was revealed in 1998 to have been Soviet spy Margarita Komenkova?",
+      "answer": "Albert Einstein's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's cyber-surfer shorthand for \"Yet Another Hierarchical Officious Oracle\"?",
+      "answer": "Yahoo!"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did Phil Jackson dub a \"poster child\" for \"attention-deficit disorders\" in 1998?",
+      "answer": "Dennis Rodman"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What nation's military attached dynamite packs to Dobermans before sending them into Palestinian guerrilla hideouts?",
+      "answer": "Israel's"
+    }
+  ]
+}

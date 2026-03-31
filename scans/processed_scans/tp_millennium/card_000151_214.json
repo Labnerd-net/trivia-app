@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000151_214",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What did Portuguese explorers christen O Rio Mar, \"The River Sea,\" in the 16th century?",
+      "answer": "The Amazon River"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What famed film star cruised the U.S. Pacific coast on his converted minesweeper, \"The Wild Goose\"?",
+      "answer": "John Wayne"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose Royal Sceptre is topped by a diamond the size of a hen's egg?",
+      "answer": "Queen Elizabeth II's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What maternity nurse coined the term \"birth control,\" in 1914?",
+      "answer": "Margaret Sanger"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Olympic security man was heckled by an Atlanta Braves fan: \"Hey, are you going to blow up the stadium\"?",
+      "answer": "Richard Jewell"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What do astronauts call the KC-135 that NASA uses to simulate weightlessness?",
+      "answer": "The Vomit Comet"
+    }
+  ]
+}

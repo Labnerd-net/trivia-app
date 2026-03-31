@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000146_147",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Which Appalachian state jump-started the International Towing and Recovery Hall of Fame and Museum?",
+      "answer": "Tennessee"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the first female country singer to wax a million-selling album?",
+      "answer": "Tammy Wynette"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose capture along the Mexican border ended the last major Indian war in the U.S.?",
+      "answer": "Geronimo's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was first produced in Hamburg in 1203, to deal with a surplus of cheap barley malt?",
+      "answer": "Beer"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was the first pro sports team to bring a national championship to New Jersey?",
+      "answer": "The New Jersey Devils"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who admitted that after the fall of the PTL, her puppy Tuppins licked the tears running down her face?",
+      "answer": "Tammy Faye Bakker"
+    }
+  ]
+}

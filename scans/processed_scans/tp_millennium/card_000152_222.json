@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000152_222",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What island do most of the North Atlantic icebergs come from?",
+      "answer": "Greenland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What cable network drew twice its usual audience for a show called The Wonderful World of Dung?",
+      "answer": "The Discovery Channel"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country lost the Crimean War?",
+      "answer": "Russia"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What toll-free area code prefix went into service after the supply of 800-numbers began to dwindle?",
+      "answer": "888"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What uniform number was worn by Billy Martin, Pee Wee Reese and Ozzie Smith?",
+      "answer": "One"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who was reinstated into the Soviet writer's union in 1987, a mere 27 years after his death?",
+      "answer": "Boris Pasternak"
+    }
+  ]
+}

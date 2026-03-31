@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_589",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many of every six Canadian adults surveyed in 1998 knew that the Mackenzie was the country's longest river?",
+      "answer": "Two"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1996 movie was hyped: \"It Will Blow Audiences Right Out of the Theater\"?",
+      "answer": "Twister"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was 7-year-old Jessica Dubroff behind the controls of when she died in 1996?",
+      "answer": "An airplane"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who invented the mechanism that rotated a revolver's cylinder automatically when the hammer was cocked?",
+      "answer": "Samuel Colt"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What former L.A. Dodgers southpaw autographed yarmulkes that fetched $75 each in 1995?",
+      "answer": "Sandy Koufax"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What beetle was celebrated in a nursery rhyme after farmers noticed its ability to consume crop-destroying insects?",
+      "answer": "The ladybug"
+    }
+  ]
+}

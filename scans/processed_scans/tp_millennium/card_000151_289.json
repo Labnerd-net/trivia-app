@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000151_289",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent spawned 17 new nations in 1960?",
+      "answer": "Africa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What M*A*S*H character had hot dogs from Tony Packo's Cafe mailed to him in Korea?",
+      "answer": "Max Klinger"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What karate-chopping thespian organized security for the Shah of Iran's family when they left Iran?",
+      "answer": "Steven Seagal"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 1854 invention was credited with making skyscrapers viable?",
+      "answer": "The elevator"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What slugger received 900,000 letters in the first six months of 1974?",
+      "answer": "Hank Aaron"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What movie star adorned a U.S. postage stamp on what would have been her 69th birthday, in 1995?",
+      "answer": "Marilyn Monroe"
+    }
+  ]
+}

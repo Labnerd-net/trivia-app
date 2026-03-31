@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000154_556",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What high-stakes city has the most unlisted phone numbers per capita in the U.S.?",
+      "answer": "Las Vegas"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV lawyer puts pickles on his peanut butter and banana sandwiches?",
+      "answer": "Benjamin Matlock"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What famed public figures met in June, 1997 and died within a week of each other a few months later?",
+      "answer": "Princess Diana and Mother Teresa"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does 'DVD' mean to video buffs?",
+      "answer": "Digital video disc"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sent a titter across the center court crowd before the 1996 Wimbledon men's finals?",
+      "answer": "A streaker"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What sitcom character exhibited superhuman powers when it came to operating a jukebox?",
+      "answer": "Fonzie"
+    }
+  ]
+}

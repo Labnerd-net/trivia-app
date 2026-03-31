@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_127",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city's rectangular layout inspired the redesign of Lisbon after a 1755 earthquake?",
+      "answer": "New York City's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who appeared in I Know What You Did Last Summer and Scream 2, when she wasn't slaying vampires?",
+      "answer": "Sarah Michelle Gellar"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What group's three surviving sisters sent the McCaughey family a note of warning in 1997?",
+      "answer": "The Dionne quintuplets'"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did Czech astronomers name after NHL star Dominik Hasek?",
+      "answer": "An asteroid"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What tennis star registered a 427-14 won-lost record between 1982 and 1986?",
+      "answer": "Martina Navratilova"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What skinny model prompted \"FEED ME\" graffiti on Calvin Klein ads in New York City in 1995?",
+      "answer": "Kate Moss"
+    }
+  ]
+}

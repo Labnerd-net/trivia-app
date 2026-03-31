@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000145_144",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Southeast Asian nation's 'breakfast of champions' is a bowl of pho soup?",
+      "answer": "Vietnam's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "How many consecutive 'Na's follow each 'I said' in Land of 10,000 Dances?",
+      "answer": "Nineteen"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 16th-century religious leader's fans sloganized: 'By grace alone; through faith alone'?",
+      "answer": "Martin Luther's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What insect does an isopterpophobic homeowner fear?",
+      "answer": "The termite"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who ended his 12-year career with an NHL-high .823 goals-per-game average?",
+      "answer": "Mario Lemieux"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who was inspired to do redneck jokes when he saw a Detroit bowling alley that offered valet parking?",
+      "answer": "Jeff Foxworthy"
+    }
+  ]
+}

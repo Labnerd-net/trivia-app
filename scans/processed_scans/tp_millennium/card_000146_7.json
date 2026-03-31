@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000146_7",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the world's largest desert, as determined by the least amount of precipitation?",
+      "answer": "The Antarctic"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Sylvester Stallone movie was hyped: 'His whole life was a million-to-one shot'?",
+      "answer": "Rocky"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did Christina Onassis grudgingly give $25 million to, in 1977?",
+      "answer": "Jacqueline Onassis"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What do itchy people call the 'rhus radicans' they were sorry they came into contact with?",
+      "answer": "Poison ivy"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What golfer throttled a fan for calling him 'Scott Choke' at the 1998 Hartford Open?",
+      "answer": "Scott Hoch"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What nation has 450 middle-aged divorcees who belong to an Old Bags Club?",
+      "answer": "Britain"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000150_287",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What eastern European country's name is a Slavonic word meaning 'plain dwellers'?",
+      "answer": "Poland's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What was the only TV show of the 1980s to put its theme song atop Billboard's Hot 100?",
+      "answer": "Miami Vice"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who had a pistol in his hip pocket when he addressed the U.N. General Assembly in 1974?",
+      "answer": "Yasir Arafat"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bone connects your shoulder blade and elbow joint?",
+      "answer": "The humerus"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How old was France's Etienne Bacrat when he became the world's youngest chess grand master?",
+      "answer": "Fourteen"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who masterminded the 1985 killing of Gambino family boss 'Big Paul' Castellano?",
+      "answer": "John Gotti"
+    }
+  ]
+}

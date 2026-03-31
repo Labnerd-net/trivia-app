@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000148_583",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What tourist state leads the U.S. in booze consumption per capita?",
+      "answer": "Nevada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What gritty TV cop drama spawned the first 'websodic' on-line internet series produced by a broadcast network?",
+      "answer": "Homicide: Life in the Streets"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What world leader was installed upon the Lion Throne in 1937, at the tender age of four?",
+      "answer": "The Dalai Lama"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What constant star was the standard for second magnitude brightness until astronomers discovered its brightness varied over time?",
+      "answer": "Polaris"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NHL franchise is located at 211 Cowboys Parkway?",
+      "answer": "The Dallas Stars"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What topped a 1990s poll for U.S. stamp topics from the 1960s—the twist, the moon landing or the peace sign?",
+      "answer": "The moon landing"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000153_52",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Nepalese city's name means \"wooden temples\"?",
+      "answer": "Katmandu's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom character accidentally tripped the president during a White House Easter egg hunt?",
+      "answer": "Murphy Brown"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What animals killed the most workers who worked on building the Trans-Siberian Railway?",
+      "answer": "Tigers"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's a praying mantis the only insect to have just one of?",
+      "answer": "An ear"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What baseball owner dyed a sheep green-and-gold and put it out to pasture behind the outfield fence in Kansas City?",
+      "answer": "Charlie Finley"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who gave birth to Stella del Carmen Banderas in 1996?",
+      "answer": "Melanie Griffith"
+    }
+  ]
+}

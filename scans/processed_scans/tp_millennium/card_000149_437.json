@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000149_437",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state's official fish is the humuhumukunukunuapuaa?",
+      "answer": "Hawaii's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What two French-titled plays won best musical Tony Awards in the 1980s?",
+      "answer": "La Cage aux Folles and Les Misérables"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did the FBI clear as a suspect in the Centennial Park bombing, after a three-month investigation?",
+      "answer": "Richard Jewell"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How long do taste buds live on the tongue—ten days, ten months or ten years?",
+      "answer": "Ten days"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What baseball announcer said Pope Paul VI's death \"puts a damper on even a Yankees win\"?",
+      "answer": "Phil Rizzuto"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Elvis ballad did Chinese premier Jiang Zemin serenade Hawaiians with, in 1997?",
+      "answer": "Love Me Tender"
+    }
+  ]
+}

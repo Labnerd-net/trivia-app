@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000147_306",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation inherited the ashes of author Carlos Castaneda, in 1998?",
+      "answer": "Mexico"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Baywatch beauty played a regular role on Charles in Charge as a child?",
+      "answer": "Nicole Eggert"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the world's principal Christian city before it fell to the Ottoman Turks in 1453?",
+      "answer": "Constantinople"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does a chaetophobic barber fear?",
+      "answer": "Hair"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was busy bashing wrestler Diamond Dallas Page on the head with a chair while his teammates practiced for the 1998 NBA finals?",
+      "answer": "Dennis Rodman"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What automaker bought Rolls-Royce in 1998?",
+      "answer": "Volkswagen"
+    }
+  ]
+}

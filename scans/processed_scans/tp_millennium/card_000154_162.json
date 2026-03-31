@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000154_162",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What early Western Hemisphere people spoke Nahuatl?",
+      "answer": "The Aztecs"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Friends star was tagged 'America's First Hairdo' by Rolling Stone?",
+      "answer": "Jennifer Aniston"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who described himself as 'the only Negro actor who makes a living' in motion pictures, at a 1962 congressional hearing?",
+      "answer": "Sidney Poitier"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the most popular domestic dog that doesn't shed?",
+      "answer": "The poodle"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's the only Monopoly space a token cannot stay on?",
+      "answer": "\"Go to Jail\""
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who shocked opera buffs by lip-syncing a concert in his hometown of Modena, Italy in 1992?",
+      "answer": "Luciano Pavarotti"
+    }
+  ]
+}
