@@ -47,7 +47,7 @@ _None identified._
 ## Improvements & Refactors
 
 ### High
-- **#10 [src/api/providers.ts]**: Three factory/adapter patterns (`makeLocalProvider`, `makeSnapshotProvider`, plus two hardcoded live provider objects) create similar structures with duplicated logic across ~346 lines. **Fix**: Extract live providers to separate adapter modules (`src/api/adapters/opentdb.ts`, etc.) and unify factory logic to make adding future providers straightforward.
+_None identified._
 
 ### Medium
 - **#11 [src/context/ProviderContext.tsx:80]**: `ProviderProvider` renders a full-page loading/error div that replaces `children`, including `Navbar`. The theme toggle becomes inaccessible during token fetch. **Fix**: Move `ProviderProvider` below `Navbar` in `App.tsx`, or pass loading/error state through context and handle display inside `Menu`.
@@ -81,6 +81,6 @@ _None identified._
 | Security | 0 | 0 | 0 | 0 |
 | Bugs | 0 | 0 | 0 | 0 |
 | Performance | 0 | 0 | 0 | 0 |
-| Improvements & Refactors | 1 | 4 | 0 | 5 |
+| Improvements & Refactors | 0 | 4 | 0 | 4 |
 | Feature Ideas | 1 | 2 | 2 | 5 |
-| **Total** | **2** | **6** | **2** | **10** |
+| **Total** | **1** | **6** | **2** | **9** |
