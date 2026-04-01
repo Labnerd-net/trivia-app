@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000161_563",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Florida town is the southern terminus for U.S. Route 1?",
+      "answer": "Key West"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Rolling Stone said in 1997 that he hadn't retired because 'chicks still dig me'?",
+      "answer": "Keith Richards"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What knighted English admiral was dubbed 'The Dragon' by his 16th-century enemies?",
+      "answer": "Sir Francis Drake"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What company introduced icons to computer screens?",
+      "answer": "Apple"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What type of racing features an electronically operated lure?",
+      "answer": "Dog racing"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What state's amusement park delayed opening the thrill ride 'Twister...Ride It Out,' after tornadoes killed 38 in 1998?",
+      "answer": "Florida's"
+    }
+  ]
+}

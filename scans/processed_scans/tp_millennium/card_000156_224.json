@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000156_224",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state boasts the Hopi village of Oraibi, the country's oldest continuously inhabited town?",
+      "answer": "Arizona"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1993 Larry McMurtry novel brought back many of his Lonesome Dove characters?",
+      "answer": "Streets of Laredo"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did a 1907 law require all Fort Dodge, Iowa residents between 25 and 45 to do?",
+      "answer": "Get married"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What animals can croon melodies to Mariah Carey hits, according to Dr. Hector Corona?",
+      "answer": "Dolphins"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did Gary Kasparov surpass in 1989 to become the highest-rated chess player ever?",
+      "answer": "Bobby Fischer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What TV comedian with no ID card was asked to give a Tarzan yell to verify her identity, at Bergdorf Goodman?",
+      "answer": "Carol Burnett"
+    }
+  ]
+}

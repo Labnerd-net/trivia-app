@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000158_273",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European country marks New Year's Day by drinking glogg?",
+      "answer": "Sweden"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who has waxed more gold and platinum albums than any other solo female artist?",
+      "answer": "Barbra Streisand"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 10-year-old began earning his bad reputation by throwing puppies off the Kremlin walls in 1540?",
+      "answer": "Ivan the Terrible"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What part of the human body do computer wags dub \"wetware\"?",
+      "answer": "The brain"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sleeping system caused Yogi Berra to gripe, \"I ain't gonna sleep standing up\"?",
+      "answer": "A Murphy bed"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Mountie was pictured on a lunch box and thermos that fetched $2,200 at a 1992 auction?",
+      "answer": "Dudley Do-Right"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000159_301",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Alpine country leads the world in per capita car thefts?",
+      "answer": "Switzerland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie has Warren Beatty trying to prove that 60-year-old white guys can rap?",
+      "answer": "Bulworth"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What 17th-century English lord protector's severed head was finally buried after 300 years?",
+      "answer": "Oliver Cromwell's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does a sphygmomanometer measure?",
+      "answer": "Blood pressure"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What animal trampled four-time Iditarod dogsled team leader Susan Butcher in 1985, preventing her from finishing?",
+      "answer": "A moose"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose personal plane was equipped with a blue suede bathroom?",
+      "answer": "Elvis Presley's"
+    }
+  ]
+}

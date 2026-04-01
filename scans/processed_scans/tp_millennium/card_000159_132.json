@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000159_132",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What New York City institution changed its name to the International Wildlife Conservation Park?",
+      "answer": "The Bronx Zoo"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie made the word \"babelicious\" famous?",
+      "answer": "Wayne's World"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the first UN secretary general denied a second five-year term in office?",
+      "answer": "Boutros Boutros-Ghali"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many degrees of longitude does an average time zone span?",
+      "answer": "Fifteen"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What puzzle inventor was called the \"first self-made millionaire in a Communist country\"?",
+      "answer": "Erno Rubik"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What appliance maker claimed in ads: \"Our repairmen are the loneliest guys in town\"?",
+      "answer": "Maytag"
+    }
+  ]
+}

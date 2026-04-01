@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000159_38",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state is the final resting place of John F. Kennedy?",
+      "answer": "Virginia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Spanish film director collaborated with Salvador Dalí on Un chien andalou and L'Âge d'or?",
+      "answer": "Luis Buñuel"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the last U.S. president of the 19th century?",
+      "answer": "William McKinley"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 20th-century decade heard the first telephone conversation disrupted by call waiting?",
+      "answer": "The 1970s"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Which of thoroughbred-racing's Triple Crown races is the oldest?",
+      "answer": "The Belmont Stakes"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What does the slang term \"all day and night\" mean to a prison inmate?",
+      "answer": "A life sentence"
+    }
+  ]
+}

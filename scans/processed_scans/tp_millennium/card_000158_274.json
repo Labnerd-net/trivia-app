@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000158_274",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Whose Missouri national monument was the first named after an African-American?",
+      "answer": "George Washington Carver's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who did Fred Flintstone meet while snorkosaurus hunting?",
+      "answer": "Dino the Dinosaur"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What First Lady sighed, \"Don't confuse having a career with having a life. They are not the same\"?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the blood type of 45 percent of U.S. residents?",
+      "answer": "Type O"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NASCAR star won his first Daytona 500 in 1997?",
+      "answer": "Jeff Gordon"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What South African described meeting the Spice Girls as \"one of the greatest moments of my life\"?",
+      "answer": "Nelson Mandela"
+    }
+  ]
+}

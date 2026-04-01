@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000164_313",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What southern city was central to Midnight in the Garden of Good and Evil?",
+      "answer": "Savannah"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What ballet star's greatest leap of 1961 occurred when he jumped over a railing at a French airport and asked for asylum?",
+      "answer": "Rudolf Nureyev's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What tribe of Native Americans were the Boston Tea Party patriots disguised as?",
+      "answer": "Mohawks"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What heavenly body is one astronomical unit away from the sun, on average?",
+      "answer": "Earth"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who missed his first 14 shots in a 1997 NBA playoff game after playing nearly three rounds of golf the day before?",
+      "answer": "Michael Jordan"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "How many of every 10 U.S. men between 25 and 29 live with a parent?",
+      "answer": "Two"
+    }
+  ]
+}

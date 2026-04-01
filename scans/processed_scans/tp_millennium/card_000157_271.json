@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_271",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Asian country's women's magazine Non Non is its best-seller?",
+      "answer": "Japan's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who claimed he only received 25 T-shirts as payment for his role in The Lords of Flatbush?",
+      "answer": "Sylvester Stallone"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was 1944's Servicemen Readjustment Act better known as?",
+      "answer": "The GI Bill"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the only food coloring in the Fleer warehouse the day they mixed up the first batch of Double Bubble?",
+      "answer": "Pink"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Which of golf's Grand Slam tournaments is traditionally played on seaside courses?",
+      "answer": "The British Open"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What garment, made from two small handkerchiefs and ribbon, was patented in 1914 by Mary Phelps Jacob?",
+      "answer": "The brassiere"
+    }
+  ]
+}

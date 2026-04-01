@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000167_373",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Central American country's name translates as \"the Savior\"?",
+      "answer": "El Salvador's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the 28th police character played by actor Dennis Franz?",
+      "answer": "Andy Sipowicz"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What First Lady bought Mary Todd Lincoln's bedroom furniture and converted the Lincoln Study into the Lincoln Bedroom?",
+      "answer": "Bess Truman"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What lives longer—the bedbug, the black widow spider or the housefly?",
+      "answer": "The bedbug"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What city hosted the centenary summer Olympic Games?",
+      "answer": "Atlanta"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What type of cookies did Amy Fisher pretend to sell Mary Jo Buttafuoco before shooting her?",
+      "answer": "Girl Scout cookies"
+    }
+  ]
+}

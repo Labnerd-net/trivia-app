@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000167_88",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Who did Michael Douglas get to plant his footprints next to, at Hollywood's Chinese Theater?",
+      "answer": "Kirk Douglas"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What act had a record 18 chart-topping albums, through 1997?",
+      "answer": "The Beatles"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What First Lady held over 300 press conferences restricted to women?",
+      "answer": "Eleanor Roosevelt"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What New Mexico town hosted 100,000 UFO buffs for the 50th anniversary of an alien spaceship crash?",
+      "answer": "Roswell"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose single-season strikeout record did Nolan Ryan beat by one?",
+      "answer": "Sandy Koufax's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What member of the armed forces was known to U.S. soldiers in Vietnam as a \"sky pilot\"?",
+      "answer": "A chaplain"
+    }
+  ]
+}

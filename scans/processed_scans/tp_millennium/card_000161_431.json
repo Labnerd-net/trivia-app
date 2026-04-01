@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000161_431",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What does 'Smokey' mean in CB radio lingo?",
+      "answer": "Police"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What New Jersey town's Stone Pony club was the site of warm-up shows for Bruce Springsteen's Born in the USA tour?",
+      "answer": "Asbury Park's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What pockmarked Panamanian penned America's Prisoner?",
+      "answer": "Manuel Noriega"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What disease was the major cause of admissions to U.S. nursing homes in the 1990s?",
+      "answer": "Alzheimer's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who chose the fax machine to announce he was quitting as New York Knicks coach?",
+      "answer": "Pat Riley"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What nation's people did Billy Carter call 'the best friends I've ever made in my life'?",
+      "answer": "Libya's"
+    }
+  ]
+}

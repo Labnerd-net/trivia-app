@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000159_37",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What president is on the far right as you gaze at Mount Rushmore?",
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What tone-deaf First Lady scored a Grammy for the spoken-word version of her popular book?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation signed away a fourth of its European land in a 1918 treaty?",
+      "answer": "Russia"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What country gave the world the word \"geyser\" for a hot spring?",
+      "answer": "Iceland"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 27-year-old's single in his first major league game left him 4,255 short of his dad's all-time mark?",
+      "answer": "Pete Rose Jr.'s"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the most frequently-used first name for male movie characters?",
+      "answer": "Jack"
+    }
+  ]
+}

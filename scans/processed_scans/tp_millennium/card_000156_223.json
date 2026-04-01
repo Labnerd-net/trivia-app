@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000156_223",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Which two bodies of water separate Britain from mainland Europe?",
+      "answer": "The English Channel and the North Sea"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What radio Indian promised, \"As long as you live, as long as I live, I will ride with you\"?",
+      "answer": "Tonto"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose 100,000 write-in votes put Nixon in the White House, according to Hubert Humphrey?",
+      "answer": "Pat Paulsen's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's a charged atom with unequal numbers of electrons and protons?",
+      "answer": "An ion"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who won 122 straight 400-meter hurdle races?",
+      "answer": "Edwin Moses"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who, when asked by House Speaker Sam Rayburn to sing The Yellow Rose of Texas, said: \"Take your hand off the suit, creep\"?",
+      "answer": "Frank Sinatra"
+    }
+  ]
+}

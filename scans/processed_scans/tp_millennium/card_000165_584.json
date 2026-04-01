@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000165_584",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What name did the European Union choose for its common currency?",
+      "answer": "The Euro"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Whose newborn son Brandon got $60,000 to play an abandoned baby on Baywatch?",
+      "answer": "Pamela Anderson's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. president quipped: \"It's true hard work never killed anybody, but I figure, why take the chance\"?",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What airborne disease did 12 animal trainers catch from circus elephants in 1998?",
+      "answer": "Tuberculosis"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was a 45-to-1 underdog when he beat Mike Tyson?",
+      "answer": "Buster Douglas"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What actress was a Syrian general so obsessed with that he instructed his Beirut troops never to attack Italian soldiers?",
+      "answer": "Gina Lollobrigida"
+    }
+  ]
+}

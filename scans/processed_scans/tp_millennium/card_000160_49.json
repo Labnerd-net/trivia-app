@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000160_49",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Asian nation's cremation rate is a record 99 percent?",
+      "answer": "Japan's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What tasty substance did performance artist Karen Finley smear her naked body in, costing her an NEA grant?",
+      "answer": "Chocolate"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Russian rag shut down its presses for good in 1996?",
+      "answer": "Pravda"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What drug so impressed financier Alan Greenberg that he gave $1 million in 1998 to disseminate it to the poor?",
+      "answer": "Viagra"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the only NBA player to score 25,000 points in fewer games than Michael Jordan?",
+      "answer": "Wilt Chamberlain"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was the first perfume to boast the name of a fashion designer, in 1923?",
+      "answer": "Chanel No. 5"
+    }
+  ]
+}

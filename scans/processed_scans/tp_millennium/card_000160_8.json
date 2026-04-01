@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000160_8",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What financial milestone did 170 Americans reach by 1998, up from 13 in 1982?",
+      "answer": "Billionaire"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who did Cher spend a week of wedded bliss with, three days after divorcing Sonny?",
+      "answer": "Greg Allman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What communist country's schools and universities were closed from 1966 until 1968?",
+      "answer": "China's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What three fingers are raised to indicate the number 'three' in American sign language?",
+      "answer": "Thumb, index, middle"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Celtics star of the 1980s did the Boston Globe say looked like Herman Munster?",
+      "answer": "Kevin McHale"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What late filmmaker was notorious for timing employees' trips to soft drink machines?",
+      "answer": "Walt Disney"
+    }
+  ]
+}

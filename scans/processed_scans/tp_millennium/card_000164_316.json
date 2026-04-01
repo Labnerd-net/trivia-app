@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000164_316",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the first country to offer certified Kosher glue on stamps?",
+      "answer": "Israel"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What soul daddy did Rolonda Watts let down gently when he proposed on her show, in 1997?",
+      "answer": "James Brown"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What political party did Helen Keller join in 1909?",
+      "answer": "The Socialist Party"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Who called overcrowded, poorly-ventilated hospitals \"gateways to death\"?",
+      "answer": "Florence Nightingale"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many in every five British men said they'd rather watch the World Cup than spend a night with a dream girl, in 1998?",
+      "answer": "Four"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What country did Natalie Portman live in for seven years before moving to the U.S.?",
+      "answer": "Israel"
+    }
+  ]
+}

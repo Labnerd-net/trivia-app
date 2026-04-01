@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000163_323",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many Great Lakes do not border Michigan?",
+      "answer": "One"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What song did Dolly Parton write as a farewell to her mentor, Porter Waggoner?",
+      "answer": "I Will Always Love You"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What lawyer was replaced by two attorneys named Jacob Stein and Plato Cacheris in 1998?",
+      "answer": "William Ginsburg"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What type of device was first marketed under the name Blattnerphone, in 1931?",
+      "answer": "The tape recorder"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two active Bulls made the NBA's 50th Anniversary team?",
+      "answer": "Michael Jordan and Scottie Pippen"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What African-American writer lost the sight in one eye when a brother shot her with a B.B. gun?",
+      "answer": "Alice Walker"
+    }
+  ]
+}

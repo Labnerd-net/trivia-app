@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000160_299",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state has the most active volcanoes?",
+      "answer": "Alaska"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Today show co-host's 1997 departure sparked the show's highest ratings in seven years?",
+      "answer": "Bryant Gumbel's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What European was dubbed 'Prince of Sorrows' in the 1990s?",
+      "answer": "Prince Charles"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What foodstuff is the binding medium in tempera paint?",
+      "answer": "Egg yolk"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How old was Cubs rookie Kerry Wood in 1998, when he struck out a National League record 20?",
+      "answer": "Twenty"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Rodin sculpture was recreated in Spam when Hormel celebrated its 50th birthday?",
+      "answer": "The Thinker"
+    }
+  ]
+}

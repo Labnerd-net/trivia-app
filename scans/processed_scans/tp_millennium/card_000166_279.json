@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000166_279",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What onetime Yugoslav republic is shaped like a boomerang?",
+      "answer": "Croatia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who once boasted in a Times Square billboard: \"#3 in Late Night\"?",
+      "answer": "David Letterman"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What empire's end resulted in the creation of Syria, Lebanon, Iraq, Transjordan and Palestine?",
+      "answer": "The Ottoman Empire"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's a video cameraman doing when he \"juices the brick\"?",
+      "answer": "Recharging the battery"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What signature Vince Lombardi line did John Wayne deliver years earlier in the movie Trouble Along the Way?",
+      "answer": "\"Winning isn't everything, it's the only thing\""
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What magazine gives out \"Heinous Husband\" awards?",
+      "answer": "McCall's"
+    }
+  ]
+}

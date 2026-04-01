@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000164_267",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What natural wonder did the Navajo call \"The House of Stone and Light\"?",
+      "answer": "The Grand Canyon"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the only show to rank in the Nielsen Top 10 for 20 straight years?",
+      "answer": "60 Minutes"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did Sinatra leave after noting: \"The old man goosed me with his trombone for the last time\"?",
+      "answer": "Tommy Dorsey"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many mink pelts are needed to fashion the average fur coat—20, 40 or 60?",
+      "answer": "Sixty"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who finished first, second, third and fourth on umpire Ron Luciano's list of the five most difficult managers he had to deal with?",
+      "answer": "Earl Weaver"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose letter to Dennis Rodman fetched $5,175 at a 1997 auction?",
+      "answer": "Madonna's"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_587",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation has the fewest police officers per capita?",
+      "answer": "Canada"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What pop star choreographed Cuba Gooding's end-zone shuffle in Jerry Maguire?",
+      "answer": "Paula Abdul"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did the CIA spend nearly $100 million trying to oust between 1991 and 1996, according to The Washington Post?",
+      "answer": "Saddam Hussein"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What jungle-dwelling primates are most likely to break bones falling out of trees?",
+      "answer": "Orangutans"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Olympic great got his common first name when a teacher misunderstood his southern pronunciation of the initials \"J.C.\"?",
+      "answer": "Jesse Owens"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What facial adornment featured prominently in milk ads of the 1990's?",
+      "answer": "Where's your mustaches?"
+    }
+  ]
+}

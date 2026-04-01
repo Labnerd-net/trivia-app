@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_466",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What southern U.S. spot is called the \"city that care forgot\"?",
+      "answer": "New Orleans"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What P-word for pesky press people made its debut in Fellini's La Dolce Vita?",
+      "answer": "Paparazzi"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What current U.S. Supreme Court justice bans computers from his chambers and writes his opinions in longhand?",
+      "answer": "David Souter"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many pounds does the average man's brain weigh, at the age of 30?",
+      "answer": "Three"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What were the contrary two-word positions Miller Lite drinkers took in a famous ad campaign?",
+      "answer": "\"Tastes great. Less filling.\""
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What scary series did R.L. Stine write for kids aged 8 to 12?",
+      "answer": "Goosebumps"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000159_408",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Asian city assesses a $10,000 fine for importing a single piece of chewing gum?",
+      "answer": "Singapore"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who is listed as the author in Bartlett's Familiar Quotations for \"It's not that easy bein' green\"?",
+      "answer": "Kermit the Frog"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. conservative correctly predicted in 1992, \"Kinder plus Gentler equals Loser\"?",
+      "answer": "Pat Buchanan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What amphibian did Pliny the Elder suggest be tied to the jaw, to make teeth firmer?",
+      "answer": "A frog"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 1998 sporting event attracted two billion TV viewers, in contrast to Super Bowl XXXII's 800 million?",
+      "answer": "The World Cup of soccer"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What actor has played regular roles in both L.A. Law and NYPD Blue?",
+      "answer": "Jimmy Smits"
+    }
+  ]
+}

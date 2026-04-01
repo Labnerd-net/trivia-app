@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000160_409",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. river got its name from the Spanish word meaning 'reddened' or 'colored'?",
+      "answer": "The Colorado River"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What novelist was the eighth child of Georgia sharecroppers?",
+      "answer": "Alice Walker"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. politician secretly helped Yasir Arafat write his speeches, according to a Douglas Brinkley book?",
+      "answer": "Jimmy Carter"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What name for a natural disaster is Japanese for 'port' and 'wave'?",
+      "answer": "Tsunami"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What country's running men won every Boston Marathon from 1991 through 1998?",
+      "answer": "Kenya's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What item, measuring 42\" tall by 13\" wide by 4\" thick, does the U.S. government provide free to veterans?",
+      "answer": "A headstone"
+    }
+  ]
+}

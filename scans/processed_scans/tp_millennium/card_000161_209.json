@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000161_209",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the first Las Vegas casino-hotel to cost $1 billion to build?",
+      "answer": "The MGM Grand"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who won a 1997 Esquire Dubious Achievement Award as 'overrated pianist of the year'?",
+      "answer": "David Helfgott"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What leader quipped in 1986: 'I did turn 75 today—but remember, that's only 24 Celsius'?",
+      "answer": "Ronald Reagan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What decade had the four warmest years in recorded weather history?",
+      "answer": "The 1990s"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "How many intentional walks did Roger Maris, batting ahead of Mickey Mantle, get in his 61-home run season in 1961?",
+      "answer": "Zero"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who took off his clothes for the September, 1997 issue of his own magazine?",
+      "answer": "John F. Kennedy Jr."
+    }
+  ]
+}

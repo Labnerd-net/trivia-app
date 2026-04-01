@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000166_282",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What new republic's second-largest city is Banja Luka?",
+      "answer": "Bosnia Herzegovina"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What country music star admitted she used to rouge her lips with Mercurochrome?",
+      "answer": "Dolly Parton"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. state was the destination for the Nova Scotians expelled in 1755's Grand Derangement?",
+      "answer": "Louisiana"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many of every five U.S. residents regularly used a cellular phone in 1997?",
+      "answer": "One"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose words of encouragement to Italy's 1938 World Cup soccer team were: \"Win or die\"?",
+      "answer": "Benito Mussolini's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What toothpaste brand has a name combining the Greek word for \"digestion\" and the Latin for \"tooth\"?",
+      "answer": "Pepsodent"
+    }
+  ]
+}

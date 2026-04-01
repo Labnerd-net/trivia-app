@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000165_153",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What continent has only five square miles permanently covered with ice?",
+      "answer": "Africa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What \"shagadelic\" Mike Myers character is the International Man of Mystery?",
+      "answer": "Austin Powers"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation's Taliban militia decreed in 1996 that men wear beards, girls' schools be closed and soccer be banned?",
+      "answer": "Afghanistan's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the first vitamin ever synthesized in a laboratory?",
+      "answer": "Vitamin C"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose ceremonial pitch to open the 1940 baseball season smashed into the camera lens of a Washington Post photographer?",
+      "answer": "Franklin D. Roosevelt's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What song did Murphy Brown attempt to warble with Aretha Franklin on a 1991 episode?",
+      "answer": "Natural Woman"
+    }
+  ]
+}

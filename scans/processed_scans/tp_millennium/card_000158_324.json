@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000158_324",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What do westerners call the Chinese province of Xizang?",
+      "answer": "Tibet"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who titled his 1976 poetry volume The One Who Writes the Words for Elton John?",
+      "answer": "Bernie Taupin"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. vice president was less than thrilled to learn his adversaries called him \"Eggplant\"?",
+      "answer": "Spiro Agnew"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What creature did Sir Edmund Hillary embark on a search for, in 1960?",
+      "answer": "The Abominable Snowman, or yeti"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did Sports Illustrated say \"mistook his opponent for an order of sushi\"?",
+      "answer": "Mike Tyson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What screen star did Paris authorities threaten to jail if she wore men's clothing on the streets, in 1933?",
+      "answer": "Marlene Dietrich"
+    }
+  ]
+}

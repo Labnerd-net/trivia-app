@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000156_322",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What New England state proclaimed \"The Cosmic Muffin\" its official astrologer, in 1993?",
+      "answer": "Massachusetts"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Law & Order detective is the all-time Celebrity Jeopardy! money-winner through 1997, with $34,000?",
+      "answer": "Jerry Orbach"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did De Beers diamonds worth five million pounds go down with in 1912?",
+      "answer": "The Titanic"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What animals, when first brought to America in 1624, were raised mainly for their hides?",
+      "answer": "Cattle"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What former Twins star has the most All-Star Game at-bats without a home run, with 41?",
+      "answer": "Rod Carew"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was thrown onto Barbara Bain's L.A. porch on a Sunday, killing her 14-year-old pet pooch?",
+      "answer": "The Los Angeles Times"
+    }
+  ]
+}

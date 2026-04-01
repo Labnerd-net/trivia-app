@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000166_308",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Asian nation's residents get to warble Jana-Gana-Mana as their national anthem?",
+      "answer": "India's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who were the first characters to deep-fry a rat in TV history?",
+      "answer": "Beavis and Butt-head"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What color breeches did fashion-conscious French soldiers wear to battle at the start of World War I?",
+      "answer": "Scarlet"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What part of the eye may be obscured by cataracts?",
+      "answer": "The lens"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What two NBA greats each won five season MVP awards before Michael Jordan did?",
+      "answer": "Bill Russell and Kareem Abdul-Jabbar"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What man-eating creatures are believed to be the reincarnation of murder victims by some African tribes?",
+      "answer": "Crocodiles"
+    }
+  ]
+}

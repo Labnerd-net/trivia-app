@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000158_528",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What European country claims the harp as its traditional national instrument?",
+      "answer": "Ireland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Brad Pitt movie caught some flak when its real-life-based character admitted being in Hitler's SS?",
+      "answer": "Seven Years in Tibet"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What outfit held its first plenary session at San Francisco's Opera House in 1945?",
+      "answer": "The United Nations"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What future First Lady wrote to NASA at age 14 to ask about entering the space program?",
+      "answer": "Hillary Rodham Clinton"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What U.S. sprinter posed nude for a 1998 Nike ad, holding his hands over his privates?",
+      "answer": "Michael Johnson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Texan said he quit cigars because his time was worth $40,000 an hour and he could not afford to spend it looking for matches?",
+      "answer": "H.L. Hunt"
+    }
+  ]
+}

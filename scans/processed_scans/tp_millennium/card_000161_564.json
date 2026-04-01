@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000161_564",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city boasts Independence National Historic Park, dubbed 'America's most historic square mile'?",
+      "answer": "Philadelphia"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Ivy League guru was once married to Uma Thurman's mom?",
+      "answer": "Timothy Leary"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What civil rights leader always ended his CNN show with 'Keep hope alive'?",
+      "answer": "Jesse Jackson"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What 'black metal' gave blacksmiths their name?",
+      "answer": "Iron"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What city still had not paid its Olympic debt in 1998, 22 years after hosting the event?",
+      "answer": "Montreal"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What four-letter word did Allen Ginsberg use to mean exhausted or poor, and William Burroughs to mean steal or con?",
+      "answer": "Beat"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_229",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What New England state is the fitting site for the town of Teaticket?",
+      "answer": "Massachusetts"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who played a recurring character on MacGyver named Penny Parker before landing a lead in her own series?",
+      "answer": "Teri Hatcher"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country lost 17.2 percent of its population in World War II?",
+      "answer": "Poland"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What do you call a substance containing only one kind of atom?",
+      "answer": "An element"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What footballer, after running 64 yards in the wrong direction, was reoriented by teammate Benny Lom?",
+      "answer": "Roy \"Wrong Way\" Riegels"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What televangelist noted: \"You don't have to be dowdy to be a Christian\"?",
+      "answer": "Tammy Faye Bakker"
+    }
+  ]
+}

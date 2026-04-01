@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000163_212",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was Massachusetts' logical choice for an official state dessert, in 1996?",
+      "answer": "Boston Cream Pie"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What car company sponsored but opted not to run ads during a 195-minute broadcast of Schindler's List?",
+      "answer": "Ford Motor Company"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the most significant battle fought on Belgian soil in 1815?",
+      "answer": "The Battle of Waterloo"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the most frequently ingested mood-altering drug?",
+      "answer": "Caffeine"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What Chicago Bears coach learned you could break your hand by putting a fist through a metal locker?",
+      "answer": "Mike Ditka"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Arab leader unwinds by watching Bugs Bunny, Road Runner and Tom & Jerry cartoons?",
+      "answer": "Yasir Arafat"
+    }
+  ]
+}

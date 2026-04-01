@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000160_266",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What island town was the third-largest city in Massachusetts, during whaling days?",
+      "answer": "Nantucket"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the 'dimension of imagination,' according to the host of a classic TV series?",
+      "answer": "The Twilight Zone"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What trials, beginning in 1945, spawned the phrase, 'I was only following orders'?",
+      "answer": "The Nuremberg war crimes trials"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What were invented in the 13th century to make buttons practical, rather than simply ornamental?",
+      "answer": "Buttonholes"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NHL team did Mark Messier lead to its first Stanley Cup in over half a century?",
+      "answer": "The New York Rangers"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Wild West cowboys often refer to as an 'alfalfa desperado'?",
+      "answer": "A farmer"
+    }
+  ]
+}

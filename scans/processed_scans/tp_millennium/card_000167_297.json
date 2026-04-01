@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000167_297",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country sells the world Guinness beer?",
+      "answer": "Ireland"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV host noted, \"You can call me he, you can can call me she, as long as you call me\"?",
+      "answer": "RuPaul"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who spent an hour and 48 minutes where no man had gone before on April 12, 1961?",
+      "answer": "Yuri Gagarin"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the first car with headlights that automatically dimmed when another car approached?",
+      "answer": "The Tucker"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 1995 World Series teams were both picketed by the American Indian Movement?",
+      "answer": "The Atlanta Braves and Cleveland Indians"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What stock-car-racing movie grossed the most?",
+      "answer": "Days of Thunder"
+    }
+  ]
+}

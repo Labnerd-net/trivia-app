@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000163_433",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What empire accounted for 25 percent of the world's population in 1900?",
+      "answer": "The British Empire"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Florida singer became only the sixth author to top both the best-selling fiction and nonfiction charts?",
+      "answer": "Jimmy Buffett"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who needed 34 months to become the first Englishman to circumnavigate the world?",
+      "answer": "Sir Francis Drake"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What newly-imported substance caused the first major outbreak of tooth decay in Europe, in the 1500s?",
+      "answer": "Sugar"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA team is known in China as \"The Red Oxen\"?",
+      "answer": "The Chicago Bulls"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What luxury feature is a car equipped with if it's had its \"brains blown out\"?",
+      "answer": "A sunroof"
+    }
+  ]
+}

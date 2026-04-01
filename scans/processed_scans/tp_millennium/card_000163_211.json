@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000163_211",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What French town sees nearly 300,000 English-speaking folk every year pose for photos next to the town sign?",
+      "answer": "Condom"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's Ace Ventura's occupation?",
+      "answer": "Pet detective"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose colossal blunders included trying to hide his five o'clock shadow from a TV audience with a product called Lazy-Shave?",
+      "answer": "Richard Nixon's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many karats is pure, unalloyed gold?",
+      "answer": "Twenty-four"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What quarterback spent 46 days in 1996 at the Menninger Clinic to kick an addiction to the painkiller Vicodin?",
+      "answer": "Brett Favre"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What does the Army acronym \"G.I.\" stand for?",
+      "answer": "Government Issue"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000164_269",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation's wilds would you be in if you found yourself face-to-face with a Komodo dragon?",
+      "answer": "Indonesia's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What daytime soap was originally slated to be called \"The Innocent Years\"?",
+      "answer": "The Young and the Restless"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What future entertainer once rode 322 miles for the Pony Express in a single day?",
+      "answer": "Buffalo Bill Cody"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did a 1998 study find that garlic pills had \"zero\" effect on lowering?",
+      "answer": "Cholesterol"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What nation's golfers won the first 16 U.S. Opens?",
+      "answer": "Britain's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What character was missing from a 1787 performance of Hamlet at the Richmond Theatre outside of London?",
+      "answer": "Hamlet"
+    }
+  ]
+}

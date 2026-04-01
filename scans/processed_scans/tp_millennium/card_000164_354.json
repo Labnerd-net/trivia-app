@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000164_354",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What fabled African city lost some of its mystique when Frenchman Rene Caillie returned alive after a trip there in 1827?",
+      "answer": "Timbuktu"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's the first word uttered in Citizen Kane?",
+      "answer": "Rosebud"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What inscription on U.S. coins did Theodore Roosevelt try in vain to have removed?",
+      "answer": "In God We Trust"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What did Sony chairman Akio Morita originally invent for his three children, before offering it to the world in 1979?",
+      "answer": "The Sony Walkman"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What 1997 Indiana race had a NASCAR record purse of $4.97 million?",
+      "answer": "The Brickyard 400"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What type of merchant is traditionally symbolized by three balls?",
+      "answer": "A pawnbroker"
+    }
+  ]
+}

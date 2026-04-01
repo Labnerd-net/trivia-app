@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000161_432",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What holiday has a name that means 'first fruits' in Swahili?",
+      "answer": "Kwanzaa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What enduring TV character finally got his first novel published, in a 1977 episode?",
+      "answer": "John Boy Walton"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What French explorer was murdered by his crew after he spent two years failing to locate the mouth of the Mississippi?",
+      "answer": "Robert La Salle"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What observatory's 200-inch, 14-ton mirror is the world's heaviest piece of glass?",
+      "answer": "Palomar's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What heavyweight was Tony 'Two Ton' Galento referring to when he said in 1939: 'I'll moider de bum'?",
+      "answer": "Joe Louis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What London cabinetmaker opened a factory in 1749 that later became world famous?",
+      "answer": "Thomas Chippendale"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000160_561",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Texas town shares its name with a female character in a 1955 Vladimir Nabokov novel?",
+      "answer": "Lolita"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What mother and child spent years in Nashville shopping demos they'd recorded on a $30 cassette recorder?",
+      "answer": "The Judds"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What explorer was the first to successfully negotiate the Northwest Passage?",
+      "answer": "Roald Amundsen"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What are the two main constituents of bronze?",
+      "answer": "Copper and tin"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who announced he'd played his last match at Wimbledon after a 1997 loss to Pete Sampras?",
+      "answer": "Boris Becker"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who accused Yoko Ono of exploiting the late John Lennon by selling his artwork, in 1998?",
+      "answer": "Julian Lennon"
+    }
+  ]
+}

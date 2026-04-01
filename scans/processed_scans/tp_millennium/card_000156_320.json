@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000156_320",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country's adults guzzle an average of just over one liter of vodka per week?",
+      "answer": "Russia's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What outfit merged with Time Warner in 1996 to form the world's largest entertainment company?",
+      "answer": "Turner Broadcasting Systems"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What October 14, 1066 battle put the capper on the Norman conquest of England?",
+      "answer": "The Battle of Hastings"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What word did Gerhardus Mercator first use to describe a collection of maps, in 1570?",
+      "answer": "Atlas"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What base is a batter awarded if the ball he hits gets stuck in the vines at Wrigley Field?",
+      "answer": "Second"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who lost his \"most eligible bachelor\" status when he married Carolyn Bessette in 1996?",
+      "answer": "John F. Kennedy Jr."
+    }
+  ]
+}

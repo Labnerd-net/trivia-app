@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000167_302",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. city had the world's largest electric train system prior to World War II?",
+      "answer": "Los Angeles"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV family ate the most meals at the French Room of the Adolphus Hotel?",
+      "answer": "The Ewings"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "How many candidates ran against Syria's Hafez al-Assad in a 1991 campaign he spent $80 million on?",
+      "answer": "Zero"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What are dogfish small versions of?",
+      "answer": "Sharks"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What was the first African nation to qualify for soccer's World Cup three straight times?",
+      "answer": "Cameroon"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What was Benedict Arnold's occupation, according to The Universal Almanac?",
+      "answer": "Traitor"
+    }
+  ]
+}

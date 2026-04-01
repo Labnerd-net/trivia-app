@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000166_283",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What major city is close to the middle of the Iberian Peninsula?",
+      "answer": "Madrid"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Spielberg drama was the only 1990s film to make the American Film Institute's list of the top 50 American movies?",
+      "answer": "Schindler's List"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What White House crisis prompted passage of the Ethics in Government Act?",
+      "answer": "Watergate"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What does an ecclesiophobic evangelist fear?",
+      "answer": "Churches"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What TV homemaker got raked over the coals in the unauthorized biography Just Desserts?",
+      "answer": "Martha Stewart"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What budding thespian was the first American to run a successful martial arts academy in Japan?",
+      "answer": "Steven Seagal"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000161_112",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the oldest European alphabet still in use today?",
+      "answer": "Greek"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the only Mouseketeer to remain under contract to Disney when The Mickey Mouse Club was cancelled in 1959?",
+      "answer": "Annette Funicello"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What candy replaced the cigarettes given away at the White House, starting in 1988?",
+      "answer": "M&M's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What dreaded defoliant was named for the colored ring painted around cans it came in?",
+      "answer": "Agent Orange"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What college football powerhouse ended Oklahoma's record 47-game win streak?",
+      "answer": "Notre Dame"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What ABC political host penned the inspirational best-seller We Are Our Mothers' Daughters, in 1998?",
+      "answer": "Cokie Roberts"
+    }
+  ]
+}

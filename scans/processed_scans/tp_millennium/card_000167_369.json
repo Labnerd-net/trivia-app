@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000167_369",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What republic's capital of Yerevan is believed to be where Noah settled after landing the ark?",
+      "answer": "Armenia's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What city's museums boast the bulk of Georgia O'Keeffe's paintings?",
+      "answer": "Santa Fe's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What did Jack McCall fall off, seconds after he shot Wild Bill Hickok?",
+      "answer": "His horse"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bird was officially reduced from \"endangered\" to \"threatened\" status in most U.S. states in 1994?",
+      "answer": "The American bald eagle"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who was the American League base-stealing champ for nine years in the 1980s?",
+      "answer": "Rickey Henderson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose brother claims the \"fat\" photo she showed on infomercials was snapped while she was pregnant?",
+      "answer": "Susan Powter's"
+    }
+  ]
+}

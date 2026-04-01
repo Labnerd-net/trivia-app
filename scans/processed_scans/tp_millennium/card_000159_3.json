@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000159_3",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What body of water is fed from the south by the Wadi Araba and from the north by the river Jordan?",
+      "answer": "The Dead Sea"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1985 chart-topper opined: \"We are the ones/ To make a better world\"?",
+      "answer": "We Are the World"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the longest-serving president in French history?",
+      "answer": "Francois Mitterrand"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What natural disasters are ranked in severity by the Saffir-Simpson scale?",
+      "answer": "Hurricanes"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What form of ID did Blue Jays rookie Marty Janzen, with no passport or driver's license, use to cross the U.S.-Canada border?",
+      "answer": "His baseball card"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's the radical feminist word for \"history\"?",
+      "answer": "Herstory"
+    }
+  ]
+}

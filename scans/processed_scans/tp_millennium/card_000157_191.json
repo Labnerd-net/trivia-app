@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_191",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What utopian community in Florida experienced its first armed robbery in 1998?",
+      "answer": "Celebration"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Fox drama spotlights shenanigans at D&D Advertising, Wilshire Memorial Hospital and Shooter's bar?",
+      "answer": "Melrose Place"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did Richard Nixon call \"the ayatollah of the press corps\"?",
+      "answer": "Sam Donaldson"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What New York City hospital founded the first school for nursing in the U.S., in 1872?",
+      "answer": "Bellevue"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who became the first NFL quarterback to pass for 50,000 career yards, in 1996?",
+      "answer": "Dan Marino"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What presidential hopeful surprised a 1996 Los Angeles crowd by noting, \"The Brooklyn Dodgers had a no-hitter last night\"?",
+      "answer": "Bob Dole"
+    }
+  ]
+}

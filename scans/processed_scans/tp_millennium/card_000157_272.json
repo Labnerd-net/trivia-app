@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_272",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What state is the top U.S. honeymoon spot?",
+      "answer": "Florida"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie lets Jack Nicholson's character describe women as men without \"reason and accountability\"?",
+      "answer": "As Good as it Gets"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What world leader had a strange power over wild animals, according to Marco Polo?",
+      "answer": "Kublai Khan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Democrat pioneered a 1998 \"Electronic Bill of Rights\" to protect personal computer info?",
+      "answer": "Al Gore"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What female golfer had the high school nickname \"Taco\"?",
+      "answer": "Nancy Lopez"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What entertainer ate a dozen honey-glazed donuts on the way to his historic 1970 meeting with Richard Nixon?",
+      "answer": "Elvis Presley"
+    }
+  ]
+}

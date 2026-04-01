@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000167_366",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What's the most common surname in the U.S. that begins with the letter \"D\"?",
+      "answer": "Davis"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What three-word Cookie Monster line made it into Bartlett's Familiar Quotations?",
+      "answer": "\"Me want cookie!\""
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What two nations conducted nuclear tests that brought the Doomsday Clock to nine minutes before midnight in 1998?",
+      "answer": "India and Pakistan"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What novel use for lamb tissue did 18-year-old Julius Schmid pioneer, in 1883?",
+      "answer": "The condom"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What animal rights group demonstrated in support of McDonald's at the New York City launch of the McVeggie \"burger\"?",
+      "answer": "People for Ethical Treatment of Animals (PETA)"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What cartoon has Bugs Bunny belting out operatic numbers from a barber shop?",
+      "answer": "Rabbit of Seville"
+    }
+  ]
+}

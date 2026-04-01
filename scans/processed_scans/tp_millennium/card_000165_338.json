@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000165_338",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state offers tourist info from 1-800-33-GUMBO?",
+      "answer": "Louisiana"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "How many songs from the Beatles' Sgt. Pepper's Lonely Hearts Club Band were released as singles?",
+      "answer": "Zero"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who earned the moniker \"Lady Lindy\"?",
+      "answer": "Amelia Earhart"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What was the largest U.S. city to be hit by 16 earthquakes registering between three and five on the Richter Scale from 1980 to 1995?",
+      "answer": "New York City"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What's an \"SUV\" to off-roaders?",
+      "answer": "Sports utility vehicle"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What 60 Minutes wag said that if Bill Clinton \"put the moves on Kathleen Willey, he showed better taste than he has in the past\"?",
+      "answer": "Andy Rooney"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000165_489",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Who was the first European explorer to bravely set foot in what is now Alabama?",
+      "answer": "Hernando de Soto"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie has Harrison Ford wail: \"Get off my plane\"?",
+      "answer": "Air Force One"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What fitting name did the Ontario government select for the nursery they built for the Dionne quintuplets?",
+      "answer": "Quintland"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "How many forward gears did the the first Model T Fords have?",
+      "answer": "Two"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did Joe Frazier say he wanted \"like a hog wants slop\"?",
+      "answer": "Muhammad Ali"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Supreme Courter claimed that without affirmative action laws \"only God knows\" where he'd be today?",
+      "answer": "Clarence Thomas"
+    }
+  ]
+}

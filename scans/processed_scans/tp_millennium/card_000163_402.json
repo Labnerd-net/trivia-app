@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000163_402",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "Which province performed the worst in a 1998 Canada Day survey on history, politics and geography?",
+      "answer": "Quebec"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the first actress to star opposite Sean Connery in a James Bond flick?",
+      "answer": "Ursula Andress"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Which two founding fathers graced the first two stamps sold in the U.S., in 1847?",
+      "answer": "Benjamin Franklin and George Washington"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What vitamin-deficiency disease did 19th-century scientists find could be avoided by avoiding polished rice?",
+      "answer": "Beriberi"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What former Giants star is the godfather of Barry Bonds?",
+      "answer": "Willie Mays"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What country hosted the first dance marathon, in 1923?",
+      "answer": "Britain"
+    }
+  ]
+}

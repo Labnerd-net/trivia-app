@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000156_321",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What high-tech tag did California's Santa Clara Valley acquire in the 1970s?",
+      "answer": "Silicon Valley"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who, while filming Superman, asked, \"What's my motivation—how do we know that Jor-El doesn't look like a green bagel\"?",
+      "answer": "Marlon Brando"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What U.S. agency was dubbed \"The Brotherhood\"?",
+      "answer": "The CIA"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What were all U.S. auto exhaust systems fitted with, starting in 1975?",
+      "answer": "Catalytic converters"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sport used the term \"home run\" long before baseball?",
+      "answer": "Cricket"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Baywatch babe noted that if David Hasselhoff has real breasts, \"they're probably the only ones on the show\"?",
+      "answer": "Pamela Anderson"
+    }
+  ]
+}

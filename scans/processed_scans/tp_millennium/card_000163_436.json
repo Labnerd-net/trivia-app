@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000163_436",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What state would you be stuck in if you were feeling frostbitten in Coldfoot?",
+      "answer": "Alaska"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What single-name songstress was reared in a log cabin in Homer, Alaska?",
+      "answer": "Jewel"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Persian Gulf nation accepted Idi Amin as an exile after he claimed to be a devout Muslim?",
+      "answer": "Saudi Arabia"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What U.S. spider's poison is 15 times more powerful than rattlesnake venom?",
+      "answer": "The black widow's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who won the most NBA finals MVP awards in the 1980s?",
+      "answer": "Magic Johnson"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who hopes to claim her independence from British royalty with the help of her \"Budgie the Helicopter\" books?",
+      "answer": "Sarah Ferguson"
+    }
+  ]
+}

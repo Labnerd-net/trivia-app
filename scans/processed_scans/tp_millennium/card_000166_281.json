@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000166_281",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city's Dealey Plaza attracts some two million visitors per year?",
+      "answer": "Dallas'"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who was the first children's author to have bestsellers in both fiction and non-fiction?",
+      "answer": "Dr. Seuss"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What labor union was led by cigarmaker Samuel Gompers for 37 years?",
+      "answer": "The American Federation of Labor"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the general term for all chemical substances produced by the endocrine glands?",
+      "answer": "Hormones"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What city's sports team thought it wise to change its name from Bullets to Wizards?",
+      "answer": "Washington, D.C.'s"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What type of physician is known in medical circles as a \"wig picker\"?",
+      "answer": "A psychiatrist"
+    }
+  ]
+}

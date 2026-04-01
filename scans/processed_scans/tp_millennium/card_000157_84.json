@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_84",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What U.S. state has two towns named Evening Shade?",
+      "answer": "Arkansas"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What does Seinfeld's Kramer refer to as \"home base\"?",
+      "answer": "His toilet"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What country dropped Christmas as a public holiday in 1969, so it could harvest more sugar?",
+      "answer": "Cuba"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What disease are bats, skunks and raccoons the most common carriers of in the U.S.?",
+      "answer": "Rabies"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What L.A. Laker explained, \"If you pay 25 grand for a Beemer, you've got to pay 40 for a Benz, bro, and I'm a Benz\"?",
+      "answer": "Shaquille O'Neal"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What NBC public affairs program celebrated its 50th year on TV in 1997?",
+      "answer": "Meet the Press"
+    }
+  ]
+}

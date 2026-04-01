@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000167_342",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Turkish city has spread to both sides of the Bosporus Strait?",
+      "answer": "Istanbul"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Who debuted in a 1943 movie a few months after being abandoned by his owners for chasing motorcycles?",
+      "answer": "Lassie"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What former resistance fighter was Israel's first Likud Party prime minister?",
+      "answer": "Menachem Begin"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What company originated the punch-card warning: \"Do not fold, spindle or mutilate\"?",
+      "answer": "IBM"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NHL team plays home games in an arena nicknamed \"The Igloo\"?",
+      "answer": "The Pittsburgh Penguins"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did thousands ogle for the first time when it served as a pace car for a race in Alabama in 1964?",
+      "answer": "The Mustang"
+    }
+  ]
+}

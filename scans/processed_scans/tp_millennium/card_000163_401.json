@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000163_401",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What body of water did Trans-Siberian railway workers need five years to construct a loop around?",
+      "answer": "Lake Baikal"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What future Oscar-winning actor played Alex Keaton's alcoholic uncle on Family Ties?",
+      "answer": "Tom Hanks"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What former California clergyman claimed to be an incarnation of Jesus and Lenin?",
+      "answer": "Jim Jones"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What chemist concluded in 1864 that micro-organisms existed in French air?",
+      "answer": "Louis Pasteur"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did St. Louis baseballer Joe Medwick describe himself as when he met the Pope?",
+      "answer": "A Cardinal"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did columnist Liz Smith define as \"news running ahead of itself in a red satin dress\"?",
+      "answer": "Gossip"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000166_592",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What British church honored Martin Luther King Jr. with one of ten new statues for 1998?",
+      "answer": "Westminster Abbey"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What supernatural TV show warns: \"The Truth Is Out There\"?",
+      "answer": "The X-Files"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What nation's World War I pilots had a life expectancy of 17.5 flying hours, in 1917?",
+      "answer": "Britain's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What barnyard animal is called a yowie when young?",
+      "answer": "A ewe"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What country was barred from the Winter Olympics in 1920, 1924 and 1948?",
+      "answer": "Germany"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What U.S. president kept the cremated ashes of his pet beagle on top of the refrigerator?",
+      "answer": "Lyndon B. Johnson"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000156_227",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What southeastern state is home for communities called Bug Tussle, Smut Eye and Zip City?",
+      "answer": "Alabama"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What's indicated by the word fine on a piece of sheet music?",
+      "answer": "The end"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who was the only Russian-born prime minister of Israel?",
+      "answer": "Golda Meir"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "Where were the four motors on Ferdinand Porsche's 1897 electric car?",
+      "answer": "In the wheels"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who homered for the Yankees five days before returning a Rams punt for a TD, in 1989?",
+      "answer": "Deion Sanders"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Who said the one word that sums up a vice president's responsibilities is \"to be prepared\"?",
+      "answer": "Dan Quayle"
+    }
+  ]
+}

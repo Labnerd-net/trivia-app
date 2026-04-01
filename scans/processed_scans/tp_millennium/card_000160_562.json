@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000160_562",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What Middle East capital was built over the ruins of the ancient city of Philadelphia?",
+      "answer": "Amman"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What regular on The View did Saturday Night Live lampoon as 'a total idiot'?",
+      "answer": "Debbie Matenopoulos"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who's been called the 'French Stalin' for executing 20,000 during the 'Reign of Terror'?",
+      "answer": "Maximilien Robespierre"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What creature's tongue weighs as much as a full grown elephant?",
+      "answer": "The blue whale's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose number 4 was the first number ever retired in major league baseball, in 1939?",
+      "answer": "Lou Gehrig's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What N-word, used to describe some computer fanatics, was the name of a Dr. Seuss creature in 1950's If I Ran the Zoo?",
+      "answer": "Nerd"
+    }
+  ]
+}

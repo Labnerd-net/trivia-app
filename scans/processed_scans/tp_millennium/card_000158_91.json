@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000158_91",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What city's magazine broke the Iran-Contra scandal, in a 1986 article?",
+      "answer": "Beirut's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What Irishman penned two of the top three books that made the Modern Library's 1998 list of the best 20th-century novels?",
+      "answer": "James Joyce"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What had to have room for two parents and three children, according to Adolf Hitler?",
+      "answer": "The Volkswagen"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What kind of chips provided fuel for the first pioneers to venture west on the treeless prairies?",
+      "answer": "Buffalo chips"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What NBA team plays home games at the Delta Center?",
+      "answer": "The Utah Jazz"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What country has been called \"the motherland of all sweatshops\"?",
+      "answer": "China"
+    }
+  ]
+}

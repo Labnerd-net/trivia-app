@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000164_268",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What ancient site saw pagan worshipers observe summer solstice ceremonies for the first time in a decade, in 1998?",
+      "answer": "Stonehenge"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What movie was hyped with the lines, \"Three beautiful women. One lucky devil\"?",
+      "answer": "The Witches of Eastwick"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What Buddhist discipline did the priest Aeisai learn in China and introduce to Japan, in 1191?",
+      "answer": "Zen Buddhism"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the most abundant species of tiger?",
+      "answer": "The Bengal"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What baseball owner installed a shower in the center field bleachers so White Sox fans could stay cool on hot days?",
+      "answer": "Bill Veeck"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What's a \"bozon\" the quantum unit of, in irreverent computer jargon?",
+      "answer": "Stupidity"
+    }
+  ]
+}

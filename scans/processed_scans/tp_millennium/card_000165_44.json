@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000165_44",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What nation's farmers traditionally decorate cattle with Alpine flowers to celebrate the spring thaw?",
+      "answer": "Switzerland's"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What three instruments figure in a piano trio?",
+      "answer": "Piano, violin, cello"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the first U.S. state to restrict the use of \"Twinkie defenses\"?",
+      "answer": "California"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What surgical procedure prompted a French doctor to quip: \"The machine has two tubes: one is for the fat, one is for the money\"?",
+      "answer": "Liposuction"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What sports trophy had 2,225 names inscribed on it by 1997?",
+      "answer": "The Stanley Cup"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What fibrous food is known in lunch-counter lingo as \"repeaters\"?",
+      "answer": "Beans"
+    }
+  ]
+}

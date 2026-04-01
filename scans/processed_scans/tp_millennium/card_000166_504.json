@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000166_504",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What people of New Zealand employ \"mooning\" as a traditional form of insult?",
+      "answer": "The Maoris"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What playwright died on the same day as Spanish author Miguel de Cervantes, in 1616?",
+      "answer": "William Shakespeare"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What First Lady was often called a \"steel magnolia\"?",
+      "answer": "Rosalynn Carter"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What gastrointestinal killer did Robert Koch isolate the cause of, in 1884?",
+      "answer": "Cholera"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What food was officially launched at the 1904 St. Louis World's Fair, the year French's mustard was first sold?",
+      "answer": "The hot dog"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What James Joyce book had some 9,000 changes made for a \"people's edition\" in 1997?",
+      "answer": "Ulysses"
+    }
+  ]
+}

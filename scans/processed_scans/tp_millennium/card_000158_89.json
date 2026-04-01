@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000158_89",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What New England peninsula did Bartholomew Gosnold mistakenly name a cape in 1602?",
+      "answer": "Cape Cod"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What did King Francis I acquire and hang in the palace bathroom after Leonardo da Vinci died?",
+      "answer": "The Mona Lisa"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was the B-17 long-range bomber nicknamed in World War II?",
+      "answer": "The Flying Fortress"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What month, day and year will the final Christmas of the 20th century fall on?",
+      "answer": "December 25, 2000"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who did not deserve to run a 1996 relay leg because he finished \"butt-naked last\" at the U.S. trials, according to a fellow runner?",
+      "answer": "Carl Lewis"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What did Robert Redford steal and resell for pocket money as a teenager?",
+      "answer": "Hubcaps"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000157_428",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "How many of every five U.S. citizens have ancestors who entered the country through Ellis Island?",
+      "answer": "Two"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What 1994 song was Bruce Springsteen's first Top 10 hit of the 1990s?",
+      "answer": "Streets of Philadelphia"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What was 11th-century Spanish military leader Rodrigo Diaz de Vivar better known as?",
+      "answer": "El Cid"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What's the imaginary line separating regions on a continent where water sheds to different coasts?",
+      "answer": "The continental divide"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What dashing 1939 screen character did the Ken doll come dressed as in 1994?",
+      "answer": "Rhett Butler"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What horse-racing legend was paralyzed in an auto accident just two months after he retired, in 1991?",
+      "answer": "Willie Shoemaker"
+    }
+  ]
+}

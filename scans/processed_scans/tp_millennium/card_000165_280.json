@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000165_280",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What fictional character was inspired by a deranged prince born in Sighisoara, Romania around 1430?",
+      "answer": "Count Dracula"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What completed Henny Youngman's plea: \"Take my wife...\"?",
+      "answer": "Please"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What company bought Chrysler for $40 billion in the biggest merger in history, in 1998?",
+      "answer": "Daimler-Benz"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What insect's larvae did New Hampshire hope to reduce by importing mummichogs, swallows and bats?",
+      "answer": "The mosquito's"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What new sport caught on in California for runners who like the links?",
+      "answer": "Speed golf, or extreme golf"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What Julie Andrews movie was Chairman Mao's widow accused of watching every night in a 1980-81 trial?",
+      "answer": "The Sound of Music"
+    }
+  ]
+}

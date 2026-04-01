@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000158_92",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What country joins Central America to South America?",
+      "answer": "Panama"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What TV character was born in Riverside, Iowa in the year 2228?",
+      "answer": "Captain James Kirk"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Who did Pete Hamill call \"the most investigated American performer since John Wilkes Booth\"?",
+      "answer": "Frank Sinatra"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What seafood appetizer is the most requested food on NASA space flights?",
+      "answer": "Shrimp cocktail"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "What did minor league baseball's Palm Springs Suns invite fans to wear to a July 8, 1996 game, in hopes of boosting attendance?",
+      "answer": "Nothing"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "Whose company owns the New York Post, TV Guide and The Times of London?",
+      "answer": "Rupert Murdoch's"
+    }
+  ]
+}

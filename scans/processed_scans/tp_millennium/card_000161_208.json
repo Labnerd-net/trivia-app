@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000161_208",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What was the first continent to be graced by homo sapiens?",
+      "answer": "Africa"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "What sitcom character was once named Toxic Waste Handler of the Month?",
+      "answer": "Homer Simpson"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "Whose exploration of Africa in the 19th century prompted Queen Victoria to present him with a gold snuff box?",
+      "answer": "Henry Stanley's"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What Chinese food did the Japanese sagely wait 2,000 years before tasting?",
+      "answer": "Tofu, or soybean curd"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Who reigned as heavyweight boxing champ of Uganda from 1951–1960?",
+      "answer": "Idi Amin"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What common street hardware does Connecticut manufacture from the melted-down guns confiscated by police?",
+      "answer": "Manhole covers"
+    }
+  ]
+}

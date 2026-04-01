@@ -1,0 +1,42 @@
+{
+  "card_set": "tp_millennium",
+  "card_id": "000165_459",
+  "questions": [
+    {
+      "category": "PP",
+      "color": "blue",
+      "question": "What four states can you see from the Sears Tower skydeck on a clear day?",
+      "answer": "Illinois, Indiana, Michigan, Wisconsin"
+    },
+    {
+      "category": "AE",
+      "color": "pink",
+      "question": "Whose father penned the controversial book Who Killed Kurt Cobain?",
+      "answer": "Courtney Love's"
+    },
+    {
+      "category": "HIS",
+      "color": "yellow",
+      "question": "What rotund talk show host was hired to hype Florida orange juice, prompting the NAACP to institute a \"Drink Prune Juice\" campaign?",
+      "answer": "Rush Limbaugh"
+    },
+    {
+      "category": "SN",
+      "color": "brown",
+      "question": "What bay do Royal Bengal tigers most often swim in?",
+      "answer": "The Bay of Bengal"
+    },
+    {
+      "category": "SL",
+      "color": "green",
+      "question": "Whose 1998 funeral was highlighted by a plane flying over Chicago with a banner that read, \"Heaventh Inning Stretch\"?",
+      "answer": "Harry Caray's"
+    },
+    {
+      "category": "WC",
+      "color": "orange",
+      "question": "What magazine has the widest circulation in the U.S.?",
+      "answer": "Modern Maturity"
+    }
+  ]
+}
