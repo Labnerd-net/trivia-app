@@ -83,7 +83,7 @@ export const mindTheGapProvider = makeLocalProvider(
 export const tpMillenniumProvider = makeLocalProvider(
   'tpmillennium',
   'Trivial Pursuit — Millennium',
-  'Classic Trivial Pursuit questions from the Millennium Edition (1,920 questions)',
+  'Classic Trivial Pursuit questions from the Millennium Edition (2,970 questions)',
   'Card Games',
   '/data/tp_millennium.json',
   [
