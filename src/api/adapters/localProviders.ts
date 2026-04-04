@@ -15,6 +15,7 @@ function makeLocalProvider(
   let dataPromise: Promise<CardQuestion[]> | null = null;
   const categoryNameById = Object.fromEntries(categories.map(c => [c.id, getCategoryFilterValue(c)]));
   const categoryLabelByValue = Object.fromEntries(categories.map(c => [getCategoryFilterValue(c), c.name]));
+  const seenByCategory = new Map<string, Set<CardQuestion>>();
 
   return {
     id,
@@ -35,8 +36,22 @@ function makeLocalProvider(
       const allQuestions = await dataPromise;
       const categoryName = categoryId ? categoryNameById[categoryId] : null;
       const pool = categoryName ? allQuestions.filter(q => q.category === categoryName) : allQuestions;
+
+      const cacheKey = categoryId ?? 'all';
+      if (!seenByCategory.has(cacheKey)) seenByCategory.set(cacheKey, new Set());
+      const seen = seenByCategory.get(cacheKey)!;
+
+      let source = pool.filter(q => !seen.has(q));
+      if (source.length < amount) {
+        seen.clear();
+        source = pool;
+      }
+
+      const picked = shuffleArray(source).slice(0, amount);
+      picked.forEach(q => seen.add(q));
+
       return {
-        results: shuffleArray(pool).slice(0, amount).map(q => ({
+        results: picked.map(q => ({
           question: q.question,
           correctAnswer: q.answer,
           incorrectAnswers: [],
