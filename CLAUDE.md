@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Trivia quiz application built with React, deployed as a Docker container (nginx) via Dokploy. Supports multiple question providers: two live APIs (OpenTDB, The Trivia API), two offline snapshots of those APIs, and three local card game datasets. No backend — all API calls go directly from the browser.
+Trivia quiz application built with React, deployed as a static site on Cloudflare Workers. Supports multiple question providers: two live APIs (OpenTDB, The Trivia API), two offline snapshots of those APIs, and three local card game datasets. No backend — all API calls go directly from the browser.
 
 ## Development Commands
 
@@ -15,7 +15,7 @@ Trivia quiz application built with React, deployed as a Docker container (nginx)
 
 ## Deployment
 
-Production is containerized. The GitHub Actions workflow (`.github/workflows/docker-publish.yml`) builds and pushes to `ghcr.io` on push to `main`. The Dockerfile does a two-stage build: Node 20 builds the Vite bundle, nginx serves the static `dist/` with SPA routing via `nginx.conf`.
+Production is deployed to Cloudflare Workers as a static site. Cloudflare Workers Builds is connected directly to the GitHub repo and triggers automatically on push to `main` — no GitHub Actions workflow is involved. `wrangler.jsonc` at the project root configures the Worker name and SPA fallback routing (`not_found_handling: single-page-application`).
 
 ## Architecture
 
