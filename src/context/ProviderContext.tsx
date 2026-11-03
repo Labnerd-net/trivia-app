@@ -25,7 +25,7 @@ interface ProviderProviderProps {
 }
 
 export function ProviderProvider({ children }: ProviderProviderProps) {
-  const [selectedProvider, setSelectedProviderState] = useState<string>('opentdb');
+  const [selectedProvider, setSelectedProviderState] = useState<string>('opentdb-offline');
   const [token, setToken] = useState<string | null>(null);
   const [category, setCategory] = useState<Category | null>(null);
   const [loading, setLoading] = useState<boolean>(true);

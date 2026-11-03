@@ -82,6 +82,20 @@ describe('ProviderProvider', () => {
     })
   })
 
+  it('defaults to the offline OpenTDB snapshot so the app loads without a network dependency', async () => {
+    mockGetProvider.mockReturnValue(makeProvider({ id: 'opentdb-offline' }))
+
+    renderHook(() => useProvider(), {
+      wrapper: ({ children }) => (
+        <ProviderProvider>{children}</ProviderProvider>
+      ),
+    })
+
+    await waitFor(() => {
+      expect(mockGetProvider).toHaveBeenCalledWith('opentdb-offline')
+    })
+  })
+
   it('switching provider triggers a new token fetch with the new provider id', async () => {
     mockGetProvider
       .mockReturnValueOnce(makeProvider({ id: 'opentdb' }))

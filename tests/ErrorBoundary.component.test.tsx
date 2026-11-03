@@ -56,7 +56,7 @@ describe('ErrorBoundary', () => {
   });
 
   it('resets error state when "Try again" is clicked', () => {
-    const { rerender } = render(
+    render(
       <ErrorBoundary>
         <Thrower message="Oops" />
       </ErrorBoundary>
