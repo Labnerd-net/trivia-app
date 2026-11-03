@@ -37,3 +37,8 @@ scripts/scanner.env
 !.dev.vars.example
 .env*
 !.env.example
+
+# Local-only card game data (not distributed)
+public/data/all_of_us.json
+public/data/mind_the_gap.json
+public/data/tp_millennium.json

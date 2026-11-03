@@ -7,3 +7,7 @@
 | `all_of_us.json` | All Of Us | 1,535 | Re-run `node scripts/import-cards.js all_of_us` to refresh |
 | `mind_the_gap.json` | Mind the Gap | 1,600 | Re-run `node scripts/import-cards.js mind_the_gap` to refresh |
 | `tp_millennium.json` | Trivial Pursuit — Millennium | 2,970 | Re-run `node scripts/import-cards.js tp_millennium` to refresh |
+
+## Local-only card data
+
+`all_of_us.json`, `mind_the_gap.json`, and `tp_millennium.json` are gitignored and are not deployed, since they derive from commercial card games. To use them locally, generate them with the scanner pipeline (`scripts/scanner.py`, `scripts/import-cards.js`) and set `VITE_LOCAL_CARDS=true` in `.env.local`. Without that flag the Card Games providers are not registered.
