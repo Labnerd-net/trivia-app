@@ -2,7 +2,7 @@
 /* global process */
 /**
  * Merges card JSON files from context/input/<provider>/ into public/data/<provider>.json
- * Also updates question counts in public/data/README.md and src/api/providers.ts.
+ * Also updates question counts in public/data/README.md and src/api/adapters/localProviders.ts.
  *
  * Usage:
  *   node scripts/import-cards.js <provider>
@@ -38,10 +38,18 @@ try {
 }
 
 const questions = [];
+const seen = new Set();
+let skipped = 0;
 
 for (const file of files) {
   const raw = JSON.parse(readFileSync(join(inputDir, file), 'utf8'));
   for (const q of raw.questions ?? []) {
+    const key = JSON.stringify([q.category, q.question, q.answer]);
+    if (seen.has(key)) {
+      skipped++;
+      continue;
+    }
+    seen.add(key);
     questions.push({
       category: q.category,
       question: q.question,
@@ -52,7 +60,7 @@ for (const file of files) {
 
 mkdirSync(outputDir, { recursive: true });
 writeFileSync(outputFile, JSON.stringify({ questions }, null, 2));
-console.log(`Wrote ${questions.length} questions to ${outputFile}`);
+console.log(`Wrote ${questions.length} questions to ${outputFile}` + (skipped ? ` (skipped ${skipped} exact duplicates)` : ''));
 
 const count = questions.length;
 const formatted = count.toLocaleString('en-US');
@@ -75,29 +83,31 @@ try {
   console.warn(`  Warning: could not update README.md`);
 }
 
-// Update providers.ts count
-const providersPath = join(root, 'src', 'api', 'providers.ts');
+// Update localProviders.ts count
+const providersPath = join(root, 'src', 'api', 'adapters', 'localProviders.ts');
 try {
   const src = readFileSync(providersPath, 'utf8');
   const fileRef = `/data/${provider}.json`;
   const idx = src.indexOf(fileRef);
   if (idx === -1) {
-    console.warn(`  Warning: ${fileRef} not found in providers.ts`);
+    console.warn(`  Warning: ${fileRef} not found in localProviders.ts`);
   } else {
     const windowStart = Math.max(0, idx - 400);
     const before = src.slice(windowStart, idx);
-    const countRe = /([\d,]+) questions/;
-    const match = before.match(countRe);
+    // Use the nearest count before the file ref (the window may span the previous provider).
+    const matches = [...before.matchAll(/([\d,]+) questions/g)];
+    const match = matches[matches.length - 1];
     if (!match) {
-      console.warn(`  Warning: count pattern not found near ${fileRef} in providers.ts`);
+      console.warn(`  Warning: count pattern not found near ${fileRef} in localProviders.ts`);
     } else if (match[1] === formatted) {
-      console.log(`  providers.ts already up to date`);
+      console.log(`  localProviders.ts already up to date`);
     } else {
-      const newBefore = before.replace(countRe, `${formatted} questions`);
+      const newBefore =
+        before.slice(0, match.index) + `${formatted} questions` + before.slice(match.index + match[0].length);
       writeFileSync(providersPath, src.slice(0, windowStart) + newBefore + src.slice(idx));
-      console.log(`  Updated providers.ts: ${provider} → ${formatted} questions`);
+      console.log(`  Updated localProviders.ts: ${provider} → ${formatted} questions`);
     }
   }
 } catch {
-  console.warn(`  Warning: could not update providers.ts`);
+  console.warn(`  Warning: could not update localProviders.ts`);
 }

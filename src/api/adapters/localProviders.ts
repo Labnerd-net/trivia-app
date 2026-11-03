@@ -70,7 +70,7 @@ function makeLocalProvider(
 export const allOfUsProvider = makeLocalProvider(
   'allofus',
   'All Of Us',
-  'Generational trivia questions from physical card sets (1,535 questions)',
+  'Generational trivia questions from physical card sets (1,536 questions)',
   'Card Games',
   '/data/all_of_us.json',
   [
