@@ -2,10 +2,12 @@
 
 **Live demo: https://trivia-app.labnerd.net/**
 
-![Quiz setup screen, dark theme](docs/screenshots/menu-dark.png)
-![Quiz setup screen, light theme](docs/screenshots/menu-light.png)
-
 A trivia quiz app built with React and TypeScript, deployed as a static site on Cloudflare Workers. There is no backend: every request goes straight from the browser to the question source.
+
+<p>
+  <img src="docs/screenshots/menu-dark.png" alt="Quiz setup screen, dark theme" width="49%">
+  <img src="docs/screenshots/menu-light.png" alt="Quiz setup screen, light theme" width="49%">
+</p>
 
 ## Features
 
